@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aogonek" format="1">
+  <advance width="1090"/>
+  <unicode hex="0105"/>
+  <outline>
+    <component base="a"/>
+    <component base="ogonek" xOffset="523" yOffset="-22.6333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-442</integer>
+	    <key>width</key>	    <integer>116</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-25</integer>
+	    <key>width</key>	    <integer>144</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>500</integer>
+	    <key>width</key>	    <integer>117</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>976</integer>
+	    <key>width</key>	    <integer>148</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>93</integer>
+	    <key>width</key>
+	    <integer>186</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>569</integer>
+	    <key>width</key>
+	    <integer>138</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>751</integer>
+	    <key>width</key>
+	    <integer>187</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

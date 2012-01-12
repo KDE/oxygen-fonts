@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcommaaccent" format="1">
+  <advance width="795"/>
+  <unicode hex="0163"/>
+  <outline>
+    <component base="cedilla" xOffset="498.5" yOffset="-12.3"/>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-437</integer>
+	    <key>width</key>	    <integer>88</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-344</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-192</integer>
+	    <key>width</key>	    <integer>83</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-192</integer>
+	    <key>width</key>	    <integer>196</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-11</integer>
+	    <key>width</key>	    <integer>144</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>973</integer>
+	    <key>width</key>	    <integer>125</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1442</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>216</integer>
+	    <key>width</key>
+	    <integer>188</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>816</integer>
+	    <key>width</key>
+	    <integer>140</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0205" format="1">
+  <advance width="1135"/>
+  <unicode hex="0205"/>
+  <outline>
+    <component base="e"/>
+    <component base="uni030F" xOffset="-40.5" yOffset="-13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-25</integer>
+	    <key>width</key>	    <integer>148</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>521</integer>
+	    <key>width</key>	    <integer>110</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>976</integer>
+	    <key>width</key>	    <integer>148</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1246</integer>
+	    <key>width</key>	    <integer>335</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>113</integer>
+	    <key>width</key>
+	    <integer>190</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>852</integer>
+	    <key>width</key>
+	    <integer>180</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

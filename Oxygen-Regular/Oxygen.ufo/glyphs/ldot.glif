@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot" format="1">
+  <advance width="1091"/>
+  <unicode hex="0140"/>
+  <outline>
+    <component base="l"/>
+    <component base="middot" xOffset="665"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-11</integer>
+	    <key>width</key>	    <integer>144</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>551</integer>
+	    <key>width</key>	    <integer>227</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1470</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>174</integer>
+	    <key>width</key>
+	    <integer>190</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>739</integer>
+	    <key>width</key>
+	    <integer>214</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

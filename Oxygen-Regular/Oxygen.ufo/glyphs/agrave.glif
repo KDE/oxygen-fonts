@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="agrave" format="1">
+  <advance width="1090"/>
+  <unicode hex="00E0"/>
+  <outline>
+    <component base="a"/>
+    <component base="grave" xOffset="160" yOffset="-21"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-25</integer>
+	    <key>width</key>	    <integer>144</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>500</integer>
+	    <key>width</key>	    <integer>117</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>976</integer>
+	    <key>width</key>	    <integer>148</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1246</integer>
+	    <key>width</key>	    <integer>336</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>93</integer>
+	    <key>width</key>
+	    <integer>186</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>158</integer>
+	    <key>width</key>
+	    <integer>460</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>751</integer>
+	    <key>width</key>
+	    <integer>187</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
