@@ -5,46 +5,17 @@
   <outline>
     <contour>
       <point x="366" y="121" type="line"/>
-      <point x="366" y="1007" type="line"/>
-      <point x="71" y="1007" type="line"/>
-      <point x="71" y="1149" type="line"/>
-      <point x="366" y="1149" type="line"/>
-      <point x="366" y="1561" type="line"/>
-      <point x="496" y="1561" type="line"/>
-      <point x="496" y="1149" type="line"/>
-      <point x="806" y="1149" type="line"/>
-      <point x="806" y="1007" type="line"/>
-      <point x="478" y="1007" type="line"/>
       <point x="478" y="121" type="line"/>
+      <point x="478" y="1007" type="line"/>
+      <point x="806" y="1007" type="line"/>
+      <point x="806" y="1149" type="line"/>
+      <point x="496" y="1149" type="line"/>
+      <point x="496" y="1561" type="line"/>
+      <point x="366" y="1561" type="line"/>
+      <point x="366" y="1149" type="line"/>
+      <point x="71" y="1149" type="line"/>
+      <point x="71" y="1007" type="line"/>
+      <point x="366" y="1007" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>1007</integer>
-	    <key>width</key>	    <integer>142</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>366</integer>
-	    <key>width</key>
-	    <integer>130</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>366</integer>
-	    <key>width</key>
-	    <integer>112</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

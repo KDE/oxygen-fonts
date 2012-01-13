@@ -1,70 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10091" format="1">
-  <advance width="1504"/>
+  <advance width="1516"/>
   <unicode hex="0449"/>
   <outline>
     <contour>
       <point x="320" y="164" type="line"/>
-      <point x="624" y="164" type="line"/>
-      <point x="624" y="1098" type="line"/>
-      <point x="780" y="1098" type="line"/>
-      <point x="780" y="164" type="line"/>
-      <point x="1087" y="164" type="line"/>
-      <point x="1087" y="1098" type="line"/>
-      <point x="1256" y="1098" type="line"/>
-      <point x="1256" y="164" type="line"/>
-      <point x="1357" y="164" type="line"/>
-      <point x="1357" y="-238" type="line"/>
-      <point x="1220" y="-238" type="line"/>
-      <point x="1220" y="0" type="line"/>
-      <point x="152" y="0" type="line"/>
-      <point x="152" y="1098" type="line"/>
       <point x="320" y="1098" type="line"/>
+      <point x="152" y="1098" type="line"/>
+      <point x="152" y="0" type="line"/>
+      <point x="1220" y="0" type="line"/>
+      <point x="1220" y="-238" type="line"/>
+      <point x="1357" y="-238" type="line"/>
+      <point x="1357" y="164" type="line"/>
+      <point x="1256" y="164" type="line"/>
+      <point x="1256" y="1098" type="line"/>
+      <point x="1087" y="1098" type="line"/>
+      <point x="1087" y="164" type="line"/>
+      <point x="780" y="164" type="line"/>
+      <point x="780" y="1098" type="line"/>
+      <point x="624" y="1098" type="line"/>
+      <point x="624" y="164" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>164</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1078</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>152</integer>
-	    <key>width</key>
-	    <integer>168</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>624</integer>
-	    <key>width</key>
-	    <integer>156</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1087</integer>
-	    <key>width</key>
-	    <integer>169</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1220</integer>
-	    <key>width</key>
-	    <integer>137</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

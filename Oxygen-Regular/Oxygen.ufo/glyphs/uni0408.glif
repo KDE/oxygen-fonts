@@ -4,45 +4,18 @@
   <unicode hex="0408"/>
   <outline>
     <contour>
-      <point x="339" y="384" type="curve" smooth="yes"/>
-      <point x="339" y="1462" type="line"/>
-      <point x="518" y="1462" type="line"/>
-      <point x="518" y="433" type="line" smooth="yes"/>
-      <point x="518" y="125"/>
-      <point x="483" y="-26"/>
-      <point x="131" y="-26" type="curve" smooth="yes"/>
-      <point x="102" y="-26" type="line"/>
-      <point x="102" y="131" type="line"/>
-      <point x="149" y="131" type="line"/>
-      <point x="330" y="137"/>
+      <point x="339" y="384" type="line" smooth="yes"/>
       <point x="339" y="236"/>
+      <point x="330" y="137"/>
+      <point x="149" y="131" type="curve"/>
+      <point x="102" y="131" type="line"/>
+      <point x="102" y="-26" type="line"/>
+      <point x="131" y="-26" type="line" smooth="yes"/>
+      <point x="483" y="-26"/>
+      <point x="518" y="125"/>
+      <point x="518" y="433" type="curve" smooth="yes"/>
+      <point x="518" y="1462" type="line"/>
+      <point x="339" y="1462" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-26</integer>
-	    <key>width</key>	    <integer>157</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1442</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>339</integer>
-	    <key>width</key>
-	    <integer>179</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

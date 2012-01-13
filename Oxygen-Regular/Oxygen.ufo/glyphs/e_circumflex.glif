@@ -1,50 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecircumflex" format="1">
-  <advance width="1168"/>
+  <advance width="1198"/>
   <unicode hex="00CA"/>
   <outline>
-    <component base="E" xOffset="-26"/>
-    <component base="circumflex" xOffset="278" yOffset="356"/>
+    <contour>
+      <point x="436" y="1611" type="line"/>
+      <point x="547" y="1611" type="line"/>
+      <point x="708" y="1843" type="line"/>
+      <point x="869" y="1611" type="line"/>
+      <point x="983" y="1611" type="line"/>
+      <point x="776" y="1959" type="line"/>
+      <point x="643" y="1959" type="line"/>
+    </contour>
+    <contour>
+      <point x="979" y="839" type="line"/>
+      <point x="336" y="839" type="line"/>
+      <point x="336" y="1341" type="line"/>
+      <point x="1007" y="1341" type="line"/>
+      <point x="1021" y="1497" type="line"/>
+      <point x="159" y="1497" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="1035" y="0" type="line"/>
+      <point x="1050" y="156" type="line"/>
+      <point x="336" y="156" type="line"/>
+      <point x="336" y="680" type="line"/>
+      <point x="979" y="680" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>156</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>680</integer>
-	    <key>width</key>	    <integer>159</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1341</integer>
-	    <key>width</key>	    <integer>156</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1611</integer>
-	    <key>width</key>	    <integer>348</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>129</integer>
-	    <key>width</key>
-	    <integer>177</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>406</integer>
-	    <key>width</key>
-	    <integer>547</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

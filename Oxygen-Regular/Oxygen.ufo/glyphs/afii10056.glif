@@ -3,50 +3,23 @@
   <advance width="499"/>
   <unicode hex="0407"/>
   <outline>
-    <component base="dieresis" xOffset="-145" yOffset="352"/>
-    <component base="uni0406"/>
+    <contour>
+      <point x="339" y="1462" type="line"/>
+      <point x="160" y="1462" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="339" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="491" y="1611" type="line"/>
+      <point x="491" y="1788" type="line"/>
+      <point x="336" y="1788" type="line"/>
+      <point x="336" y="1611" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="1611" type="line"/>
+      <point x="146" y="1788" type="line"/>
+      <point x="-8" y="1788" type="line"/>
+      <point x="-8" y="1611" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1442</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1611</integer>
-	    <key>width</key>	    <integer>177</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>-8</integer>
-	    <key>width</key>
-	    <integer>154</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>160</integer>
-	    <key>width</key>
-	    <integer>179</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>336</integer>
-	    <key>width</key>
-	    <integer>155</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

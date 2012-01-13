@@ -1,50 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eacute" format="1">
-  <advance width="1167"/>
+  <advance width="1197"/>
   <unicode hex="00C9"/>
   <outline>
-    <component base="E" xOffset="-26"/>
-    <component base="acute" xOffset="380" yOffset="344"/>
+    <contour>
+      <point x="951" y="1947" type="line"/>
+      <point x="740" y="1947" type="line"/>
+      <point x="538" y="1611" type="line"/>
+      <point x="667" y="1611" type="line"/>
+    </contour>
+    <contour>
+      <point x="979" y="839" type="line"/>
+      <point x="336" y="839" type="line"/>
+      <point x="336" y="1341" type="line"/>
+      <point x="1007" y="1341" type="line"/>
+      <point x="1021" y="1497" type="line"/>
+      <point x="159" y="1497" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="1035" y="0" type="line"/>
+      <point x="1050" y="156" type="line"/>
+      <point x="336" y="156" type="line"/>
+      <point x="336" y="680" type="line"/>
+      <point x="979" y="680" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>156</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>680</integer>
-	    <key>width</key>	    <integer>159</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1341</integer>
-	    <key>width</key>	    <integer>156</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1611</integer>
-	    <key>width</key>	    <integer>336</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>129</integer>
-	    <key>width</key>
-	    <integer>177</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>508</integer>
-	    <key>width</key>
-	    <integer>413</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

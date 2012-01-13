@@ -3,33 +3,26 @@
   <advance width="1514"/>
   <unicode hex="0100"/>
   <outline>
-    <component base="A" xOffset="48"/>
-    <component base="uni00AF" xOffset="362" yOffset="125"/>
+    <contour>
+      <point x="1295" y="1750" type="line"/>
+      <point x="495" y="1750" type="line"/>
+      <point x="495" y="1611" type="line"/>
+      <point x="1295" y="1611" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="0" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="508" y="473" type="line"/>
+      <point x="1118" y="473" type="line"/>
+      <point x="1289" y="0" type="line"/>
+      <point x="1471" y="0" type="line"/>
+      <point x="928" y="1497" type="line"/>
+      <point x="716" y="1497" type="line"/>
+    </contour>
+    <contour>
+      <point x="1056" y="631" type="line"/>
+      <point x="566" y="631" type="line"/>
+      <point x="823" y="1294" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>473</integer>
-	    <key>width</key>	    <integer>158</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1477</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1611</integer>
-	    <key>width</key>	    <integer>139</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

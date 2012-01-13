@@ -1,56 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Edieresis" format="1">
-  <advance width="1168"/>
+  <advance width="1198"/>
   <unicode hex="00CB"/>
   <outline>
-    <component base="E" xOffset="-26"/>
-    <component base="dieresis" xOffset="252" yOffset="352"/>
+    <contour>
+      <point x="918" y="1611" type="line"/>
+      <point x="918" y="1788" type="line"/>
+      <point x="763" y="1788" type="line"/>
+      <point x="763" y="1611" type="line"/>
+    </contour>
+    <contour>
+      <point x="573" y="1611" type="line"/>
+      <point x="573" y="1788" type="line"/>
+      <point x="419" y="1788" type="line"/>
+      <point x="419" y="1611" type="line"/>
+    </contour>
+    <contour>
+      <point x="979" y="839" type="line"/>
+      <point x="336" y="839" type="line"/>
+      <point x="336" y="1341" type="line"/>
+      <point x="1007" y="1341" type="line"/>
+      <point x="1021" y="1497" type="line"/>
+      <point x="159" y="1497" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="1035" y="0" type="line"/>
+      <point x="1050" y="156" type="line"/>
+      <point x="336" y="156" type="line"/>
+      <point x="336" y="680" type="line"/>
+      <point x="979" y="680" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>156</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>680</integer>
-	    <key>width</key>	    <integer>159</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1341</integer>
-	    <key>width</key>	    <integer>156</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1611</integer>
-	    <key>width</key>	    <integer>177</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>129</integer>
-	    <key>width</key>
-	    <integer>177</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>389</integer>
-	    <key>width</key>
-	    <integer>154</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>733</integer>
-	    <key>width</key>
-	    <integer>155</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

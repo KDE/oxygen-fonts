@@ -3,50 +3,28 @@
   <advance width="1366"/>
   <unicode hex="0178"/>
   <outline>
-    <component base="Y"/>
-    <component base="dieresis" xOffset="279" yOffset="352"/>
+    <contour>
+      <point x="915" y="1611" type="line"/>
+      <point x="915" y="1788" type="line"/>
+      <point x="760" y="1788" type="line"/>
+      <point x="760" y="1611" type="line"/>
+    </contour>
+    <contour>
+      <point x="570" y="1611" type="line"/>
+      <point x="570" y="1788" type="line"/>
+      <point x="416" y="1788" type="line"/>
+      <point x="416" y="1611" type="line"/>
+    </contour>
+    <contour>
+      <point x="1305" y="1497" type="line"/>
+      <point x="1113" y="1497" type="line"/>
+      <point x="678" y="778" type="line"/>
+      <point x="249" y="1497" type="line"/>
+      <point x="61" y="1497" type="line"/>
+      <point x="572" y="614" type="line"/>
+      <point x="572" y="0" type="line"/>
+      <point x="749" y="0" type="line"/>
+      <point x="749" y="614" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1477</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1611</integer>
-	    <key>width</key>	    <integer>177</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>416</integer>
-	    <key>width</key>
-	    <integer>154</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>572</integer>
-	    <key>width</key>
-	    <integer>177</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>760</integer>
-	    <key>width</key>
-	    <integer>155</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
