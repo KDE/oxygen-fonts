@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ydieresis" format="1">
-  <advance width="1041"/>
+  <advance width="1186"/>
   <unicode hex="00FF"/>
   <outline>
-    <component base="dieresis" xOffset="154" yOffset="-13"/>
-    <component base="y"/>
+    <component base="dieresis" xOffset="142" yOffset="-13"/>
+    <component base="y" xOffset="-35"/>
   </outline>
   <lib>
     <dict>
@@ -13,8 +13,8 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>-415</integer>
-	    <key>width</key>	    <integer>170</integer>
+	    <key>position</key>	    <integer>-510</integer>
+	    <key>width</key>	    <integer>167</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1078</integer>
@@ -29,15 +29,15 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>243</integer>
+	    <integer>279</integer>
 	    <key>width</key>
-	    <integer>171</integer>
+	    <integer>154</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>626</integer>
+	    <integer>623</integer>
 	    <key>width</key>
-	    <integer>172</integer>
+	    <integer>155</integer>
 	  </dict>
 	</array>
       </dict>

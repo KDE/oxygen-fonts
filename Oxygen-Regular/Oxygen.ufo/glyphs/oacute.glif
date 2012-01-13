@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oacute" format="1">
-  <advance width="1281"/>
+  <advance width="1298"/>
   <unicode hex="00F3"/>
   <outline>
-    <component base="acute" xOffset="421.5" yOffset="-21"/>
-    <component base="o"/>
+    <component base="acute" xOffset="431" yOffset="-21"/>
+    <component base="o" xOffset="-2"/>
   </outline>
   <lib>
     <dict>
@@ -14,11 +14,11 @@
 	<array>
 	  <dict>
 	    <key>position</key>	    <integer>-25</integer>
-	    <key>width</key>	    <integer>149</integer>
+	    <key>width</key>	    <integer>143</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>976</integer>
-	    <key>width</key>	    <integer>148</integer>
+	    <key>position</key>	    <integer>982</integer>
+	    <key>width</key>	    <integer>142</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1246</integer>
@@ -29,21 +29,21 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>113</integer>
+	    <integer>110</integer>
 	    <key>width</key>
-	    <integer>193</integer>
+	    <integer>173</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>576</integer>
+	    <integer>559</integer>
 	    <key>width</key>
-	    <integer>459</integer>
+	    <integer>413</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>974</integer>
+	    <integer>993</integer>
 	    <key>width</key>
-	    <integer>194</integer>
+	    <integer>174</integer>
 	  </dict>
 	</array>
       </dict>

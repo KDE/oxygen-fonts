@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Cacute" format="1">
-  <advance width="1338"/>
+  <advance width="1372"/>
   <unicode hex="0106"/>
   <outline>
-    <component base="C"/>
-    <component base="acute" xOffset="598.5" yOffset="344"/>
+    <component base="C" xOffset="19"/>
+    <component base="acute" xOffset="612" yOffset="344"/>
   </outline>
   <lib>
     <dict>
@@ -14,11 +14,11 @@
 	<array>
 	  <dict>
 	    <key>position</key>	    <integer>-23</integer>
-	    <key>width</key>	    <integer>162</integer>
+	    <key>width</key>	    <integer>166</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1327</integer>
-	    <key>width</key>	    <integer>162</integer>
+	    <key>position</key>	    <integer>1359</integer>
+	    <key>width</key>	    <integer>166</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1611</integer>
@@ -29,15 +29,15 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>125</integer>
+	    <integer>140</integer>
 	    <key>width</key>
-	    <integer>210</integer>
+	    <integer>189</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>754</integer>
+	    <integer>740</integer>
 	    <key>width</key>
-	    <integer>459</integer>
+	    <integer>413</integer>
 	  </dict>
 	</array>
       </dict>

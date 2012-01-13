@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10023" format="1">
-  <advance width="1178"/>
+  <advance width="1169"/>
   <unicode hex="0401"/>
   <outline>
-    <contour>
-      <point x="1011" y="844" type="line"/>
-      <point x="1011" y="685" type="line"/>
-      <point x="372" y="685" type="line"/>
-      <point x="372" y="160" type="line"/>
-      <point x="1087" y="160" type="line"/>
-      <point x="1071" y="0" type="line"/>
-      <point x="176" y="0" type="line"/>
-      <point x="176" y="1462" type="line"/>
-      <point x="1054" y="1462" type="line"/>
-      <point x="1040" y="1300" type="line"/>
-      <point x="372" y="1300" type="line"/>
-      <point x="372" y="844" type="line"/>
-    </contour>
-    <contour>
-      <point x="915" y="1563" type="line"/>
-      <point x="744" y="1563" type="line"/>
-      <point x="744" y="1729" type="line"/>
-      <point x="915" y="1729" type="line"/>
-    </contour>
-    <contour>
-      <point x="528" y="1563" type="line"/>
-      <point x="359" y="1563" type="line"/>
-      <point x="359" y="1729" type="line"/>
-      <point x="528" y="1729" type="line"/>
-    </contour>
+    <component base="dieresis" xOffset="147" yOffset="352"/>
+    <component base="uni0415"/>
   </outline>
   <lib>
     <dict>
@@ -38,40 +14,40 @@
 	<array>
 	  <dict>
 	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>160</integer>
+	    <key>width</key>	    <integer>156</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>685</integer>
+	    <key>position</key>	    <integer>680</integer>
 	    <key>width</key>	    <integer>159</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1300</integer>
-	    <key>width</key>	    <integer>162</integer>
+	    <key>position</key>	    <integer>1341</integer>
+	    <key>width</key>	    <integer>156</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1563</integer>
-	    <key>width</key>	    <integer>166</integer>
+	    <key>position</key>	    <integer>1611</integer>
+	    <key>width</key>	    <integer>177</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>176</integer>
+	    <integer>155</integer>
 	    <key>width</key>
-	    <integer>196</integer>
+	    <integer>177</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>359</integer>
+	    <integer>284</integer>
 	    <key>width</key>
-	    <integer>169</integer>
+	    <integer>154</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>744</integer>
+	    <integer>628</integer>
 	    <key>width</key>
-	    <integer>171</integer>
+	    <integer>155</integer>
 	  </dict>
 	</array>
       </dict>

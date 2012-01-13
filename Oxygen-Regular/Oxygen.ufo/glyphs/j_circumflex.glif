@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Jcircumflex" format="1">
-  <advance width="718"/>
+  <advance width="803"/>
   <unicode hex="0134"/>
   <outline>
-    <component base="J"/>
-    <component base="circumflex" xOffset="82" yOffset="356"/>
+    <component base="J" xOffset="38"/>
+    <component base="circumflex" xOffset="112" yOffset="356"/>
   </outline>
   <lib>
     <dict>
@@ -17,7 +17,7 @@
 	    <key>width</key>	    <integer>157</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1442</integer>
+	    <key>position</key>	    <integer>1477</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
@@ -29,15 +29,15 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>116</integer>
+	    <integer>240</integer>
 	    <key>width</key>
-	    <integer>607</integer>
+	    <integer>547</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>320</integer>
+	    <integer>369</integer>
 	    <key>width</key>
-	    <integer>199</integer>
+	    <integer>179</integer>
 	  </dict>
 	</array>
       </dict>

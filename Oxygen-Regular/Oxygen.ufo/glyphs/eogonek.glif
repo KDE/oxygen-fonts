@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eogonek" format="1">
-  <advance width="1135"/>
+  <advance width="1180"/>
   <unicode hex="0119"/>
   <outline>
-    <component base="e"/>
-    <component base="ogonek" xOffset="286" yOffset="-22.6333"/>
+    <component base="e" xOffset="1"/>
+    <component base="ogonek" xOffset="301" yOffset="-23"/>
   </outline>
   <lib>
     <dict>
@@ -18,36 +18,36 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>-25</integer>
-	    <key>width</key>	    <integer>148</integer>
+	    <key>width</key>	    <integer>144</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>521</integer>
-	    <key>width</key>	    <integer>110</integer>
+	    <key>position</key>	    <integer>519</integer>
+	    <key>width</key>	    <integer>116</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>976</integer>
-	    <key>width</key>	    <integer>148</integer>
+	    <key>position</key>	    <integer>984</integer>
+	    <key>width</key>	    <integer>140</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>113</integer>
+	    <integer>115</integer>
 	    <key>width</key>
-	    <integer>190</integer>
+	    <integer>172</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>332</integer>
+	    <integer>419</integer>
 	    <key>width</key>
-	    <integer>138</integer>
+	    <integer>125</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>852</integer>
+	    <integer>878</integer>
 	    <key>width</key>
-	    <integer>180</integer>
+	    <integer>162</integer>
 	  </dict>
 	</array>
       </dict>

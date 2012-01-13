@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j" format="1">
-  <advance width="592"/>
+  <advance width="561"/>
   <unicode hex="006A"/>
   <outline>
     <contour>
-      <point x="435" y="1098" type="line"/>
-      <point x="435" y="180" type="line" smooth="yes"/>
-      <point x="435" y="-148"/>
-      <point x="410" y="-262"/>
-      <point x="58" y="-308" type="curve" smooth="yes"/>
-      <point x="50" y="-310" type="line"/>
-      <point x="50" y="-141" type="line"/>
-      <point x="58" y="-141" type="line" smooth="yes"/>
-      <point x="246" y="-116"/>
-      <point x="248" y="-32"/>
-      <point x="248" y="126" type="curve" smooth="yes"/>
-      <point x="248" y="1098" type="line"/>
+      <point x="402" y="1098" type="line"/>
+      <point x="402" y="180" type="line" smooth="yes"/>
+      <point x="402" y="-148"/>
+      <point x="379" y="-262"/>
+      <point x="62" y="-308" type="curve"/>
+      <point x="55" y="-310" type="line"/>
+      <point x="55" y="-141" type="line"/>
+      <point x="62" y="-141" type="line"/>
+      <point x="231" y="-116"/>
+      <point x="233" y="-32"/>
+      <point x="233" y="126" type="curve" smooth="yes"/>
+      <point x="233" y="1098" type="line"/>
     </contour>
     <contour>
-      <point x="435" y="1490" type="line"/>
-      <point x="435" y="1292" type="line"/>
-      <point x="248" y="1292" type="line"/>
-      <point x="248" y="1490" type="line"/>
+      <point x="402" y="1490" type="line"/>
+      <point x="402" y="1292" type="line"/>
+      <point x="233" y="1292" type="line"/>
+      <point x="233" y="1490" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -47,9 +47,9 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>248</integer>
+	    <integer>233</integer>
 	    <key>width</key>
-	    <integer>187</integer>
+	    <integer>169</integer>
 	  </dict>
 	</array>
       </dict>

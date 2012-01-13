@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ldot" format="1">
-  <advance width="1091"/>
+  <advance width="1049"/>
   <unicode hex="0140"/>
   <outline>
-    <component base="l"/>
-    <component base="middot" xOffset="665"/>
+    <component base="l" xOffset="-5"/>
+    <component base="middot" xOffset="593"/>
   </outline>
   <lib>
     <dict>
@@ -21,7 +21,7 @@
 	    <key>width</key>	    <integer>227</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1470</integer>
+	    <key>position</key>	    <integer>1490</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	</array>
@@ -29,15 +29,15 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>174</integer>
+	    <integer>146</integer>
 	    <key>width</key>
-	    <integer>190</integer>
+	    <integer>171</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>739</integer>
+	    <integer>733</integer>
 	    <key>width</key>
-	    <integer>214</integer>
+	    <integer>192</integer>
 	  </dict>
 	</array>
       </dict>

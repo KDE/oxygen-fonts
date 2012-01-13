@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecircumflex" format="1">
-  <advance width="1135"/>
+  <advance width="1177"/>
   <unicode hex="00EA"/>
   <outline>
-    <component base="circumflex" xOffset="261.5" yOffset="-9"/>
-    <component base="e"/>
+    <component base="circumflex" xOffset="277" yOffset="-9"/>
+    <component base="e" xOffset="-1"/>
   </outline>
   <lib>
     <dict>
@@ -14,15 +14,15 @@
 	<array>
 	  <dict>
 	    <key>position</key>	    <integer>-25</integer>
-	    <key>width</key>	    <integer>148</integer>
+	    <key>width</key>	    <integer>144</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>521</integer>
-	    <key>width</key>	    <integer>110</integer>
+	    <key>position</key>	    <integer>519</integer>
+	    <key>width</key>	    <integer>116</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>976</integer>
-	    <key>width</key>	    <integer>148</integer>
+	    <key>position</key>	    <integer>984</integer>
+	    <key>width</key>	    <integer>140</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1246</integer>
@@ -35,19 +35,19 @@
 	    <key>position</key>
 	    <integer>113</integer>
 	    <key>width</key>
-	    <integer>190</integer>
+	    <integer>172</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>296</integer>
+	    <integer>405</integer>
 	    <key>width</key>
-	    <integer>607</integer>
+	    <integer>547</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>852</integer>
+	    <integer>876</integer>
 	    <key>width</key>
-	    <integer>180</integer>
+	    <integer>162</integer>
 	  </dict>
 	</array>
       </dict>

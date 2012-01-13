@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ograve" format="1">
-  <advance width="1688"/>
+  <advance width="1715"/>
   <unicode hex="00D2"/>
   <outline>
-    <component base="O"/>
-    <component base="grave" xOffset="459" yOffset="344"/>
+    <component base="O" xOffset="19"/>
+    <component base="grave" xOffset="514" yOffset="344"/>
   </outline>
   <lib>
     <dict>
@@ -17,7 +17,7 @@
 	    <key>width</key>	    <integer>162</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1327</integer>
+	    <key>position</key>	    <integer>1363</integer>
 	    <key>width</key>	    <integer>162</integer>
 	  </dict>
 	  <dict>
@@ -29,21 +29,21 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>125</integer>
+	    <integer>140</integer>
 	    <key>width</key>
-	    <integer>210</integer>
+	    <integer>189</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>457</integer>
+	    <integer>618</integer>
 	    <key>width</key>
-	    <integer>460</integer>
+	    <integer>414</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1353</integer>
+	    <integer>1410</integer>
 	    <key>width</key>
-	    <integer>210</integer>
+	    <integer>189</integer>
 	  </dict>
 	</array>
       </dict>

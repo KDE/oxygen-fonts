@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10027" format="1">
-  <advance width="1516"/>
+  <advance width="1515"/>
   <unicode hex="0419"/>
   <outline>
-    <component base="afii10026"/>
-    <component base="breve" yScale="0.939" xOffset="445" yOffset="393"/>
+    <component base="afii10026" xOffset="-31"/>
+    <component base="breve" yScale="0.939" xOffset="435" yOffset="393"/>
   </outline>
   <lib>
     <dict>
@@ -29,27 +29,27 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>176</integer>
-	    <key>width</key>
-	    <integer>181</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>489</integer>
-	    <key>width</key>
 	    <integer>129</integer>
+	    <key>width</key>
+	    <integer>163</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>917</integer>
+	    <integer>563</integer>
 	    <key>width</key>
-	    <integer>130</integer>
+	    <integer>116</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1177</integer>
+	    <integer>948</integer>
 	    <key>width</key>
-	    <integer>179</integer>
+	    <integer>117</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1163</integer>
+	    <key>width</key>
+	    <integer>161</integer>
 	  </dict>
 	</array>
       </dict>

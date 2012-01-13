@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iacute" format="1">
-  <advance width="483"/>
+  <advance width="592"/>
   <unicode hex="00ED"/>
   <outline>
-    <component base="acute" xOffset="16.5" yOffset="-21"/>
-    <component base="dotlessi"/>
+    <component base="acute" xOffset="27" yOffset="-21"/>
+    <component base="dotlessi" xOffset="12"/>
   </outline>
   <lib>
     <dict>
@@ -29,15 +29,15 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>163</integer>
+	    <integer>155</integer>
 	    <key>width</key>
-	    <integer>160</integer>
+	    <integer>413</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>172</integer>
+	    <integer>159</integer>
 	    <key>width</key>
-	    <integer>459</integer>
+	    <integer>144</integer>
 	  </dict>
 	</array>
       </dict>

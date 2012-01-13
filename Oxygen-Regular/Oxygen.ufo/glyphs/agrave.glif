@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="agrave" format="1">
-  <advance width="1090"/>
+  <advance width="1113"/>
   <unicode hex="00E0"/>
   <outline>
-    <component base="a"/>
-    <component base="grave" xOffset="160" yOffset="-21"/>
+    <component base="a" xOffset="-12"/>
+    <component base="grave" xOffset="170" yOffset="-21"/>
   </outline>
   <lib>
     <dict>
@@ -37,21 +37,27 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>93</integer>
+	    <integer>115</integer>
 	    <key>width</key>
-	    <integer>186</integer>
+	    <integer>168</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>158</integer>
+	    <integer>274</integer>
 	    <key>width</key>
-	    <integer>460</integer>
+	    <integer>414</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>751</integer>
+	    <integer>784</integer>
 	    <key>width</key>
-	    <integer>187</integer>
+	    <integer>169</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>829</integer>
+	    <key>width</key>
+	    <integer>124</integer>
 	  </dict>
 	</array>
       </dict>
