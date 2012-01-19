@@ -1,19 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="igrave" format="1">
-  <advance width="589"/>
+  <advance width="445"/>
   <unicode hex="00EC"/>
   <outline>
-    <contour>
-      <point x="336" y="1246" type="line"/>
-      <point x="467" y="1246" type="line"/>
-      <point x="264" y="1582" type="line"/>
-      <point x="53" y="1582" type="line"/>
-    </contour>
-    <contour>
-      <point x="368" y="1098" type="line"/>
-      <point x="224" y="1098" type="line"/>
-      <point x="224" y="0" type="line"/>
-      <point x="368" y="0" type="line"/>
-    </contour>
+    <component base="dotlessi"/>
+    <component base="grave" xOffset="-241" yOffset="-5"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1078</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1246</integer>
+	    <key>width</key>	    <integer>387</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>-224</integer>
+	    <key>width</key>
+	    <integer>503</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>147</integer>
+	    <key>width</key>
+	    <integer>144</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
