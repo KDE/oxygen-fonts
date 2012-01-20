@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccedilla" format="1">
+  <advance width="1118"/>
+  <unicode hex="00E7"/>
+  <outline>
+    <component base="c"/>
+    <component base="cedilla" xOffset="367" yOffset="-42"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-439</integer>
+	    <key>width</key>	    <integer>144</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-240</integer>
+	    <key>width</key>	    <integer>225</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-20</integer>
+	    <key>width</key>	    <integer>198</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>905</integer>
+	    <key>width</key>	    <integer>198</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>78</integer>
+	    <key>width</key>
+	    <integer>291</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>411</integer>
+	    <key>width</key>
+	    <integer>457</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

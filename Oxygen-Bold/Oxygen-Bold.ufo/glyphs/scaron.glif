@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scaron" format="1">
+  <advance width="1066"/>
+  <unicode hex="0161"/>
+  <outline>
+    <component base="caron" xOffset="168" yOffset="61"/>
+    <component base="s"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-20</integer>
+	    <key>width</key>	    <integer>201</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>892</integer>
+	    <key>width</key>	    <integer>211</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1235</integer>
+	    <key>width</key>	    <integer>341</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>124</integer>
+	    <key>width</key>
+	    <integer>253</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>726</integer>
+	    <key>width</key>
+	    <integer>272</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

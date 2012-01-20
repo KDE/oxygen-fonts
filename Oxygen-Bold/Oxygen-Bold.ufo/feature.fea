@@ -1,0 +1,150 @@
+
+# GPOS 
+
+
+lookup kernHorizontalKerninglookup0 {
+  lookupflag 0;
+    @kc0_first_1 = [\c ];
+    @kc0_first_2 = [\r ];
+    @kc0_first_3 = [\f ];
+    @kc0_first_4 = [\l ];
+    @kc0_first_5 = [\K ];
+    @kc0_first_6 = [\L ];
+    @kc0_first_7 = [\P ];
+    @kc0_first_8 = [\R ];
+    @kc0_first_9 = [\T ];
+    @kc0_first_10 = [\O \D \Q ];
+    @kc0_first_11 = [\o ];
+    @kc0_first_12 = [\t ];
+    @kc0_second_1 = [\c \d \e \g \o \q ];
+    @kc0_second_2 = [\O \C \G \Q ];
+    @kc0_second_3 = [\T ];
+    @kc0_second_4 = [\a ];
+    @kc0_second_5 = [\t ];
+    pos @kc0_first_1 @kc0_second_1 -69;
+    pos @kc0_first_1 @kc0_second_3 -439;
+    pos @kc0_first_1 @kc0_second_4 63;
+    pos @kc0_first_1 @kc0_second_5 -31;
+    pos @kc0_first_2 @kc0_second_1 -84;
+    pos @kc0_first_2 @kc0_second_2 42;
+    pos @kc0_first_2 @kc0_second_3 -482;
+    pos @kc0_first_2 @kc0_second_4 -31;
+    pos @kc0_first_2 @kc0_second_5 116;
+    pos @kc0_first_3 @kc0_second_1 -108;
+    pos @kc0_first_3 @kc0_second_3 89;
+    pos @kc0_first_3 @kc0_second_5 -114;
+    pos @kc0_first_4 @kc0_second_1 -96;
+    pos @kc0_first_4 @kc0_second_2 -196;
+    pos @kc0_first_4 @kc0_second_3 -321;
+    pos @kc0_first_4 @kc0_second_4 -60;
+    pos @kc0_first_4 @kc0_second_5 -209;
+    pos @kc0_first_5 @kc0_second_1 -158;
+    pos @kc0_first_5 @kc0_second_2 -150;
+    pos @kc0_first_5 @kc0_second_3 -107;
+    pos @kc0_first_5 @kc0_second_4 -76;
+    pos @kc0_first_5 @kc0_second_5 -281;
+    pos @kc0_first_6 @kc0_second_1 -133;
+    pos @kc0_first_6 @kc0_second_2 -385;
+    pos @kc0_first_6 @kc0_second_3 -601;
+    pos @kc0_first_6 @kc0_second_4 68;
+    pos @kc0_first_6 @kc0_second_5 -354;
+    pos @kc0_first_7 @kc0_second_1 -122;
+    pos @kc0_first_7 @kc0_second_3 -128;
+    pos @kc0_first_7 @kc0_second_4 -35;
+    pos @kc0_first_7 @kc0_second_5 91;
+    pos @kc0_first_8 @kc0_second_1 -89;
+    pos @kc0_first_8 @kc0_second_2 -118;
+    pos @kc0_first_8 @kc0_second_3 -268;
+    pos @kc0_first_8 @kc0_second_4 -54;
+    pos @kc0_first_8 @kc0_second_5 -92;
+    pos @kc0_first_9 @kc0_second_1 -291;
+    pos @kc0_first_9 @kc0_second_2 -200;
+    pos @kc0_first_9 @kc0_second_3 90;
+    pos @kc0_first_9 @kc0_second_4 -386;
+    pos @kc0_first_9 @kc0_second_5 -223;
+    pos @kc0_first_10 @kc0_second_3 -200;
+    pos @kc0_first_11 @kc0_second_2 97;
+    pos @kc0_first_11 @kc0_second_3 -364;
+    pos @kc0_first_11 @kc0_second_4 -32;
+    pos @kc0_first_11 @kc0_second_5 -68;
+    pos @kc0_first_12 @kc0_second_1 -43;
+    pos @kc0_first_12 @kc0_second_2 32;
+    pos @kc0_first_12 @kc0_second_3 -296;
+    pos @kc0_first_12 @kc0_second_4 65;
+    pos @kc0_first_12 @kc0_second_5 114;
+} kernHorizontalKerninglookup0;
+
+feature kern {
+
+  script DFLT;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+
+  script cyrl;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+
+  script grek;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+
+  script latn;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+} kern;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\space \exclam \quotedbl \numbersign \dollar \percent \ampersand 
+	\quoteright \parenleft \parenright \asterisk \plus \comma \hyphen \period \slash 
+	\zero \one \two \three \four \five \six \seven \eight \nine \colon \semicolon \less 
+	\equal \greater \question \at \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W 
+	\X \Y \Z \bracketleft \backslash \bracketright \asciicircum \underscore 
+	\quoteleft \a \b \c \d \e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u \v \w \x \y \z \braceleft 
+	\bar \braceright \asciitilde \exclamdown \cent \sterling \fraction \yen \florin 
+	\section \currency \quotesingle \quotedblleft \guillemotleft \guilsinglleft 
+	\guilsinglright \fi \fl \endash \dagger \daggerdbl \periodcentered \paragraph 
+	\bullet \quotesinglbase \quotedblbase \quotedblright \guillemotright 
+	\ellipsis \perthousand \questiondown \grave \acute \circumflex \tilde \macron 
+	\breve \dotaccent \dieresis \ring \cedilla \hungarumlaut \ogonek \caron \emdash 
+	\AE \ordfeminine \Lslash \Oslash \OE \ordmasculine \ae \dotlessi \lslash \oslash 
+	\oe \germandbls \onesuperior \logicalnot \mu \trademark \Eth \onehalf \plusminus 
+	\Thorn \onequarter \divide \brokenbar \degree \thorn \threequarters 
+	\twosuperior \registered \minus \eth \multiply \threesuperior \copyright 
+	\Aacute \Acircumflex \Adieresis \Agrave \Aring \Atilde \Ccedilla \Eacute 
+	\Ecircumflex \Edieresis \Egrave \Iacute \Icircumflex \Idieresis \Igrave \Ntilde 
+	\Oacute \Ocircumflex \Odieresis \Ograve \Otilde \Scaron \Uacute \Ucircumflex 
+	\Udieresis \Ugrave \Yacute \Ydieresis \Zcaron \aacute \acircumflex \adieresis 
+	\agrave \aring \atilde \ccedilla \eacute \ecircumflex \edieresis \egrave \iacute 
+	\icircumflex \idieresis \igrave \ntilde \oacute \ocircumflex \odieresis \ograve 
+	\otilde \scaron \uacute \ucircumflex \udieresis \ugrave \yacute \ydieresis 
+	\zcaron \foursuperior \uni000D \nonbreakingspace \uni00AF \periodcentered.001 
+	\Amacron \amacron \Abreve \abreve \Aogonek \aogonek \Cacute \cacute \Ccaron 
+	\ccaron \Emacron \emacron \Eogonek \eogonek \Gcedilla \gcedilla \hbar \Itilde 
+	\itilde \Imacron \imacron \Iogonek \iogonek \IJ \ij \Jcircumflex \jcircumflex 
+	\kcommaaccent \kgreenlandic \Ldotaccent \ldot \Nacute \nacute \Racute 
+	\Rcommaaccent \rcommaaccent \Rcaron \rcaron \Sacute \sacute \Tcommaaccent 
+	\tcommaaccent \Zacute \zacute \Zdotaccent \zdotaccent \uni0200 \uni0201 
+	\uni0202 \uni0203 \uni0204 \uni0205 \uni0206 \uni0207 \uni0208 \uni0209 \uni020A 
+	\uni020B \uni020C \uni020D \uni020E \uni020F \uni0210 \uni0211 \uni0212 \uni0213 
+	\uni0214 \uni0215 \uni0216 \uni0217 \uni0218 \uni0219 \uni021A \uni021B 
+	\dotlessj \dotaccentcmb \uni030F \uni0311 \uni0326 \Omega \pi \uni0400 \uni0401 
+	\uni0403 \uni0405 \uni0406 \uni0407 \uni0408 \uni0409 \uni040A \uni0410 \uni0411 
+	\uni0412 \uni0413 \uni0414 \uni0415 \uni041B \uni041C \uni041D \uni041E \uni041F 
+	\uni0420 \uni0421 \uni0422 \uni0424 \uni0425 \uni0428 \uni042A \uni042B \uni042C 
+	\uni042E \uni042F \uni0430 \uni0432 \uni0433 \uni0434 \uni0435 \uni0437 \uni0438 
+	\uni0439 \uni043A \uni043B \uni043C \uni043D \uni043E \uni043F \uni0440 \uni0441 
+	\uni0442 \uni0443 \uni0444 \uni0445 \uni0447 \uni0448 \uni044A \uni044C \uni044E 
+	\uni044F \uni0450 \uni0451 \uni0453 \uni0455 \uni0456 \Euro \partialdiff 
+	\uni2206 \product \summation \radical \infinity \integral \approxequal 
+	\notequal \lessequal \greaterequal \lozenge \commaaccent \scommaaccent 
+	\Scommaaccent \R.alt.001 \u.alt \a.alt \y.alt \R.alt \six.alt \afii10104 
+	\afii10109 \afii10110 \afii10145 \afii10026 \afii10027 \afii10028 \afii10061 
+	\afii10060 \afii10051 \afii10053 \afii10041 \afii10037 \afii10062 \afii10043 
+	\afii10047 \afii10024 \afii10040 \afii10072 \afii10088 \afii10091 \afii10107 
+	\afii10193 \afii10093 \afii10101 \afii10095 \afii10106 \afii10025 \afii10066 ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple,  ,  ,  ;
+
+} GDEF;
+

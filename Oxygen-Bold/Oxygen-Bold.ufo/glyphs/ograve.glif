@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ograve" format="1">
+  <advance width="1190"/>
+  <unicode hex="00F2"/>
+  <outline>
+    <component base="grave" xOffset="212" yOffset="59"/>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-20</integer>
+	    <key>width</key>	    <integer>220</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>883</integer>
+	    <key>width</key>	    <integer>220</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1235</integer>
+	    <key>width</key>	    <integer>340</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>78</integer>
+	    <key>width</key>
+	    <integer>281</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>149</integer>
+	    <key>width</key>
+	    <integer>543</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>831</integer>
+	    <key>width</key>
+	    <integer>281</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

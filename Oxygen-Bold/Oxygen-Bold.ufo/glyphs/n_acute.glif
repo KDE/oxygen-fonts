@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nacute" format="1">
+  <advance width="1454"/>
+  <unicode hex="0143"/>
+  <outline>
+    <component base="N"/>
+    <component base="acute" xOffset="457" yOffset="434"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1425</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1610</integer>
+	    <key>width</key>	    <integer>340</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>124</integer>
+	    <key>width</key>
+	    <integer>273</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>629</integer>
+	    <key>width</key>
+	    <integer>543</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1057</integer>
+	    <key>width</key>
+	    <integer>273</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
