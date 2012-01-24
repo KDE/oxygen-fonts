@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>447</width>
+    <width>703</width>
     <height>514</height>
    </rect>
   </property>
@@ -199,13 +199,111 @@ Tambourine
 Porcupine</string>
     </property>
    </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>460</x>
+      <y>0</y>
+      <width>91</width>
+      <height>450</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>8</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>schaden
+salomon
+macchina
+schein
+sellier
+secondo
+lager
+sommier
+singolo
+legion
+unique
+possibile
+mime
+unanime
+unico
+mohn
+usuel
+legge
+nagel
+abonner
+unione
+puder
+agir
+punizione
+quälen
+aiglon
+dunque
+huldigen
+allégir
+quando
+hamburger</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_6">
+    <property name="geometry">
+     <rect>
+      <x>580</x>
+      <y>-10</y>
+      <width>91</width>
+      <height>480</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>8</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Volkswagen
+Sollingen
+Psychotic
+geduld
+alliance
+ujomini
+lynx
+tuft
+frogs,
+dolphins
+abduct
+by
+proxy
+the
+ever
+awkward
+klutz,
+dud,
+dummkopf,
+jinx
+snubnose
+filmgoer,
+orphan
+sgt.
+renfruw
+grudgek
+reyfus,
+walking
+Accented
+Tambourine
+Porcupine</string>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>447</width>
+     <width>703</width>
      <height>21</height>
     </rect>
    </property>
