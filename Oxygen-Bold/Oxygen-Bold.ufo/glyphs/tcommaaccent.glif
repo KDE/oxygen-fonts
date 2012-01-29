@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcommaaccent" format="1">
-  <advance width="867"/>
+  <advance width="836"/>
   <unicode hex="0163"/>
   <outline>
-    <component base="cedilla" xOffset="504" yOffset="-31"/>
+    <component base="cedilla" xOffset="485" yOffset="-19"/>
     <component base="t"/>
   </outline>
   <lib>
@@ -13,12 +13,8 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>-428</integer>
-	    <key>width</key>	    <integer>144</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>-229</integer>
-	    <key>width</key>	    <integer>225</integer>
+	    <key>position</key>	    <integer>-358</integer>
+	    <key>width</key>	    <integer>366</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>-6</integer>
@@ -37,15 +33,15 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>245</integer>
+	    <integer>211</integer>
 	    <key>width</key>
 	    <integer>285</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>548</integer>
+	    <integer>529</integer>
 	    <key>width</key>
-	    <integer>457</integer>
+	    <integer>290</integer>
 	  </dict>
 	</array>
       </dict>

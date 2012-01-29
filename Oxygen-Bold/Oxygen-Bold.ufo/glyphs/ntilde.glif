@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ntilde" format="1">
-  <advance width="1184"/>
+  <advance width="1232"/>
   <unicode hex="00F1"/>
   <outline>
     <component base="n"/>
-    <component base="tilde" xOffset="184" yOffset="29"/>
+    <component base="tilde" xOffset="255" yOffset="19"/>
   </outline>
   <lib>
     <dict>
@@ -17,33 +17,39 @@
 	    <key>width</key>	    <integer>21</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>885</integer>
-	    <key>width</key>	    <integer>218</integer>
+	    <key>position</key>	    <integer>908</integer>
+	    <key>width</key>	    <integer>195</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1045</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1235</integer>
-	    <key>width</key>	    <integer>191</integer>
+	    <key>position</key>	    <integer>1219</integer>
+	    <key>width</key>	    <integer>185</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1293</integer>
-	    <key>width</key>	    <integer>191</integer>
+	    <key>position</key>	    <integer>1306</integer>
+	    <key>width</key>	    <integer>174</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>91</integer>
+	    <integer>115</integer>
 	    <key>width</key>
 	    <integer>285</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>812</integer>
+	    <integer>240</integer>
+	    <key>width</key>
+	    <integer>176</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>836</integer>
 	    <key>width</key>
 	    <integer>285</integer>
 	  </dict>

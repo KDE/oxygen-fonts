@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Edieresis" format="1">
-  <advance width="1203"/>
+  <advance width="1183"/>
   <unicode hex="00CB"/>
   <outline>
     <component base="E"/>
-    <component base="dieresis" xOffset="221" yOffset="380"/>
+    <component base="dieresis" xOffset="224" yOffset="370"/>
   </outline>
   <lib>
     <dict>
@@ -13,8 +13,8 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>1</integer>
-	    <key>width</key>	    <integer>218</integer>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>219</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>651</integer>
@@ -25,7 +25,7 @@
 	    <key>width</key>	    <integer>218</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1610</integer>
+	    <key>position</key>	    <integer>1600</integer>
 	    <key>width</key>	    <integer>225</integer>
 	  </dict>
 	</array>
@@ -33,19 +33,19 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>124</integer>
+	    <integer>130</integer>
 	    <key>width</key>
 	    <integer>298</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>302</integer>
+	    <integer>305</integer>
 	    <key>width</key>
 	    <integer>226</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>676</integer>
+	    <integer>679</integer>
 	    <key>width</key>
 	    <integer>226</integer>
 	  </dict>

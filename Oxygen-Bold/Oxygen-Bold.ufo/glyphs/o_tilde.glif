@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Otilde" format="1">
-  <advance width="1666"/>
+  <advance width="1686"/>
   <unicode hex="00D5"/>
   <outline>
     <component base="O"/>
-    <component base="tilde" xOffset="470" yOffset="404"/>
+    <component base="tilde" xOffset="480" yOffset="400"/>
   </outline>
   <lib>
     <dict>
@@ -21,25 +21,31 @@
 	    <key>width</key>	    <integer>225</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1610</integer>
-	    <key>width</key>	    <integer>191</integer>
+	    <key>position</key>	    <integer>1600</integer>
+	    <key>width</key>	    <integer>185</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1668</integer>
-	    <key>width</key>	    <integer>191</integer>
+	    <key>position</key>	    <integer>1687</integer>
+	    <key>width</key>	    <integer>174</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>108</integer>
+	    <integer>118</integer>
 	    <key>width</key>
 	    <integer>297</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1262</integer>
+	    <integer>465</integer>
+	    <key>width</key>
+	    <integer>176</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1272</integer>
 	    <key>width</key>
 	    <integer>297</integer>
 	  </dict>

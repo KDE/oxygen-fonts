@@ -1,97 +1,3 @@
-
-# GPOS 
-
-
-lookup kernHorizontalKerninglookup0 {
-  lookupflag 0;
-    @kc0_first_1 = [\c ];
-    @kc0_first_2 = [\r ];
-    @kc0_first_3 = [\f ];
-    @kc0_first_4 = [\l ];
-    @kc0_first_5 = [\K ];
-    @kc0_first_6 = [\L ];
-    @kc0_first_7 = [\P ];
-    @kc0_first_8 = [\R ];
-    @kc0_first_9 = [\T ];
-    @kc0_first_10 = [\O \D \Q ];
-    @kc0_first_11 = [\o ];
-    @kc0_first_12 = [\t ];
-    @kc0_second_1 = [\c \d \e \g \o \q ];
-    @kc0_second_2 = [\O \C \G \Q ];
-    @kc0_second_3 = [\T ];
-    @kc0_second_4 = [\a ];
-    @kc0_second_5 = [\t ];
-    pos @kc0_first_1 @kc0_second_1 -69;
-    pos @kc0_first_1 @kc0_second_3 -439;
-    pos @kc0_first_1 @kc0_second_4 63;
-    pos @kc0_first_1 @kc0_second_5 -31;
-    pos @kc0_first_2 @kc0_second_1 -84;
-    pos @kc0_first_2 @kc0_second_2 42;
-    pos @kc0_first_2 @kc0_second_3 -482;
-    pos @kc0_first_2 @kc0_second_4 -31;
-    pos @kc0_first_2 @kc0_second_5 116;
-    pos @kc0_first_3 @kc0_second_1 -108;
-    pos @kc0_first_3 @kc0_second_3 89;
-    pos @kc0_first_3 @kc0_second_5 -114;
-    pos @kc0_first_4 @kc0_second_1 -96;
-    pos @kc0_first_4 @kc0_second_2 -196;
-    pos @kc0_first_4 @kc0_second_3 -321;
-    pos @kc0_first_4 @kc0_second_4 -60;
-    pos @kc0_first_4 @kc0_second_5 -209;
-    pos @kc0_first_5 @kc0_second_1 -158;
-    pos @kc0_first_5 @kc0_second_2 -150;
-    pos @kc0_first_5 @kc0_second_3 -107;
-    pos @kc0_first_5 @kc0_second_4 -76;
-    pos @kc0_first_5 @kc0_second_5 -281;
-    pos @kc0_first_6 @kc0_second_1 -133;
-    pos @kc0_first_6 @kc0_second_2 -385;
-    pos @kc0_first_6 @kc0_second_3 -601;
-    pos @kc0_first_6 @kc0_second_4 68;
-    pos @kc0_first_6 @kc0_second_5 -354;
-    pos @kc0_first_7 @kc0_second_1 -122;
-    pos @kc0_first_7 @kc0_second_3 -128;
-    pos @kc0_first_7 @kc0_second_4 -35;
-    pos @kc0_first_7 @kc0_second_5 91;
-    pos @kc0_first_8 @kc0_second_1 -89;
-    pos @kc0_first_8 @kc0_second_2 -118;
-    pos @kc0_first_8 @kc0_second_3 -268;
-    pos @kc0_first_8 @kc0_second_4 -54;
-    pos @kc0_first_8 @kc0_second_5 -92;
-    pos @kc0_first_9 @kc0_second_1 -291;
-    pos @kc0_first_9 @kc0_second_2 -200;
-    pos @kc0_first_9 @kc0_second_3 90;
-    pos @kc0_first_9 @kc0_second_4 -386;
-    pos @kc0_first_9 @kc0_second_5 -223;
-    pos @kc0_first_10 @kc0_second_3 -200;
-    pos @kc0_first_11 @kc0_second_2 97;
-    pos @kc0_first_11 @kc0_second_3 -364;
-    pos @kc0_first_11 @kc0_second_4 -32;
-    pos @kc0_first_11 @kc0_second_5 -68;
-    pos @kc0_first_12 @kc0_second_1 -43;
-    pos @kc0_first_12 @kc0_second_2 32;
-    pos @kc0_first_12 @kc0_second_3 -296;
-    pos @kc0_first_12 @kc0_second_4 65;
-    pos @kc0_first_12 @kc0_second_5 114;
-} kernHorizontalKerninglookup0;
-
-feature kern {
-
-  script DFLT;
-     language dflt ;
-      lookup kernHorizontalKerninglookup0;
-
-  script cyrl;
-     language dflt ;
-      lookup kernHorizontalKerninglookup0;
-
-  script grek;
-     language dflt ;
-      lookup kernHorizontalKerninglookup0;
-
-  script latn;
-     language dflt ;
-      lookup kernHorizontalKerninglookup0;
-} kern;
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\space \exclam \quotedbl \numbersign \dollar \percent \ampersand 
@@ -137,11 +43,11 @@ feature kern {
 	\uni044F \uni0450 \uni0451 \uni0453 \uni0455 \uni0456 \Euro \partialdiff 
 	\uni2206 \product \summation \radical \infinity \integral \approxequal 
 	\notequal \lessequal \greaterequal \lozenge \commaaccent \scommaaccent 
-	\Scommaaccent \R.alt.001 \u.alt \a.alt \y.alt \R.alt \six.alt \afii10104 
-	\afii10109 \afii10110 \afii10145 \afii10026 \afii10027 \afii10028 \afii10061 
-	\afii10060 \afii10051 \afii10053 \afii10041 \afii10037 \afii10062 \afii10043 
-	\afii10047 \afii10024 \afii10040 \afii10072 \afii10088 \afii10091 \afii10107 
-	\afii10193 \afii10093 \afii10101 \afii10095 \afii10106 \afii10025 \afii10066 ];
+	\Scommaaccent \R.alt.001 \u.alt \y.alt \R.alt \six.alt \afii10104 \afii10109 
+	\afii10110 \afii10145 \afii10026 \afii10027 \afii10028 \afii10061 \afii10060 
+	\afii10051 \afii10053 \afii10041 \afii10037 \afii10062 \afii10043 \afii10047 
+	\afii10024 \afii10040 \afii10072 \afii10088 \afii10091 \afii10107 \afii10193 
+	\afii10093 \afii10101 \afii10095 \afii10106 \afii10025 \afii10066 \a.alt ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple,  ,  ,  ;

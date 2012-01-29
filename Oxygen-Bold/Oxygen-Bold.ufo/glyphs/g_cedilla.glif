@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcedilla" format="1">
-  <advance width="1464"/>
+  <advance width="1481"/>
   <unicode hex="0122"/>
   <outline>
     <component base="G"/>
-    <component base="uni0326" xOffset="586"/>
+    <component base="uni0326" xOffset="606" yOffset="10"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,7 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>-675</integer>
+	    <key>position</key>	    <integer>-665</integer>
 	    <key>width</key>	    <integer>523</integer>
 	  </dict>
 	  <dict>
@@ -33,19 +33,19 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>108</integer>
+	    <integer>118</integer>
 	    <key>width</key>
 	    <integer>308</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>653</integer>
+	    <integer>673</integer>
 	    <key>width</key>
 	    <integer>359</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1122</integer>
+	    <integer>1132</integer>
 	    <key>width</key>
 	    <integer>235</integer>
 	  </dict>

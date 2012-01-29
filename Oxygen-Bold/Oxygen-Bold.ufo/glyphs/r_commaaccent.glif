@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rcommaaccent" format="1">
-  <advance width="1417"/>
+  <advance width="1377"/>
   <unicode hex="0156"/>
   <outline>
     <component base="R"/>
-    <component base="uni0326" xOffset="932"/>
+    <component base="uni0326" xOffset="480" yOffset="30"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,7 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>-675</integer>
+	    <key>position</key>	    <integer>-645</integer>
 	    <key>width</key>	    <integer>523</integer>
 	  </dict>
 	  <dict>
@@ -33,21 +33,21 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>124</integer>
+	    <integer>130</integer>
 	    <key>width</key>
 	    <integer>299</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>931</integer>
+	    <integer>547</integer>
 	    <key>width</key>
-	    <integer>297</integer>
+	    <integer>359</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>999</integer>
+	    <integer>937</integer>
 	    <key>width</key>
-	    <integer>359</integer>
+	    <integer>297</integer>
 	  </dict>
 	</array>
       </dict>

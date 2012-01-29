@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="n" format="1">
-  <advance width="1184"/>
+  <advance width="1232"/>
   <unicode hex="006E"/>
   <outline>
     <contour>
-      <point x="636" y="885" type="curve" smooth="yes"/>
-      <point x="499" y="885"/>
-      <point x="376" y="770"/>
-      <point x="376" y="628" type="curve" smooth="yes"/>
-      <point x="376" y="0" type="line"/>
-      <point x="91" y="0" type="line"/>
-      <point x="91" y="1065" type="line"/>
-      <point x="360" y="1065" type="line"/>
-      <point x="379" y="923" type="line"/>
-      <point x="468" y="1030"/>
-      <point x="567" y="1103"/>
-      <point x="728" y="1103" type="curve" smooth="yes"/>
-      <point x="992" y="1103"/>
-      <point x="1097" y="909"/>
-      <point x="1097" y="647" type="curve" smooth="yes"/>
-      <point x="1097" y="0" type="line"/>
-      <point x="812" y="0" type="line"/>
-      <point x="812" y="620" type="line" smooth="yes"/>
-      <point x="812" y="758"/>
-      <point x="780" y="885"/>
+      <point x="660" y="908" type="curve" smooth="yes"/>
+      <point x="523" y="908"/>
+      <point x="400" y="773.759"/>
+      <point x="400" y="608" type="curve" smooth="yes"/>
+      <point x="400" y="0" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="115" y="1065" type="line"/>
+      <point x="372" y="1065" type="line"/>
+      <point x="400" y="893" type="line"/>
+      <point x="472.765" y="1036.83"/>
+      <point x="589.616" y="1103"/>
+      <point x="752" y="1103" type="curve" smooth="yes"/>
+      <point x="1016" y="1103"/>
+      <point x="1121" y="909"/>
+      <point x="1121" y="647" type="curve" smooth="yes"/>
+      <point x="1121" y="0" type="line"/>
+      <point x="836" y="0" type="line"/>
+      <point x="836" y="620" type="line" smooth="yes"/>
+      <point x="836" y="769.978"/>
+      <point x="804" y="908"/>
     </contour>
   </outline>
   <lib>
@@ -37,8 +37,8 @@
 	    <key>width</key>	    <integer>21</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>885</integer>
-	    <key>width</key>	    <integer>218</integer>
+	    <key>position</key>	    <integer>908</integer>
+	    <key>width</key>	    <integer>195</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1045</integer>
@@ -49,13 +49,13 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>91</integer>
+	    <integer>115</integer>
 	    <key>width</key>
 	    <integer>285</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>812</integer>
+	    <integer>836</integer>
 	    <key>width</key>
 	    <integer>285</integer>
 	  </dict>
