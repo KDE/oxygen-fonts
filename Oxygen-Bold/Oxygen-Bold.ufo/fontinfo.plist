@@ -1,41 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-	<key>familyName</key>
-	<string>Oxygen</string>
-	<key>styleName</key>
-	<string>Bold</string>
-	<key>copyright</key>
-	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
-	<key>trademark</key>
-	<string>Oxygen Bold is a trademark of vernon adams.</string>
-	<key>unitsPerEm</key>
-	<integer>2048</integer>
-	<key>xHeight</key>
-	<integer>1059</integer>
-	<key>capHeight</key>
-	<integer>1430</integer>
+<dict>
 	<key>ascender</key>
 	<integer>1638</integer>
+	<key>capHeight</key>
+	<integer>1430</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
 	<key>descender</key>
 	<integer>-410</integer>
+	<key>familyName</key>
+	<string>Oxygen</string>
 	<key>italicAngle</key>
 	<real>0</real>
 	<key>note</key>
 	<string></string>
-	<key>openTypeHeadCreated</key>
-	<string>2012/00/05 09:51:00</string>
+	<key>openTypeNameDescription</key>
+	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
 	<key>openTypeNameDesigner</key>
 	<string>vernon adams</string>
 	<key>openTypeNameManufacturer</key>
 	<string>vernon adams</string>
-	<key>openTypeNameVersion</key>
-	<string>Version 1.000</string>
 	<key>openTypeNameUniqueID</key>
 	<string>vernonadams: Oxygen Bold: 2012</string>
-	<key>openTypeNameDescription</key>
-	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 1.000</string>
+	<key>openTypeOS2CodePageRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>2</integer>
+		<integer>29</integer>
+	</array>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
 	<key>openTypeOS2Panose</key>
 	<array>
 		<integer>2</integer>
@@ -49,17 +51,26 @@
 		<integer>0</integer>
 		<integer>4</integer>
 	</array>
-	<key>openTypeOS2WidthClass</key>
-	<integer>5</integer>
-	<key>openTypeOS2WeightClass</key>
-	<integer>700</integer>
-	<key>openTypeOS2VendorID</key>
-	<string>newt</string>
-	<key>openTypeOS2FamilyClass</key>
-	<array>
-		<integer>0</integer>
-		<integer>0</integer>
-	</array>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>498</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>102</integer>
+	<key>openTypeOS2SubscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SubscriptXSize</key>
+	<integer>1434</integer>
+	<key>openTypeOS2SubscriptYOffset</key>
+	<integer>286</integer>
+	<key>openTypeOS2SubscriptYSize</key>
+	<integer>1331</integer>
+	<key>openTypeOS2SuperscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SuperscriptXSize</key>
+	<integer>1434</integer>
+	<key>openTypeOS2SuperscriptYOffset</key>
+	<integer>976</integer>
+	<key>openTypeOS2SuperscriptYSize</key>
+	<integer>1331</integer>
 	<key>openTypeOS2Type</key>
 	<array>
 		<integer>0</integer>
@@ -85,47 +96,20 @@
 	<integer>-492</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>132</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>newt</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>700</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
 	<integer>1901</integer>
 	<key>openTypeOS2WinDescent</key>
 	<integer>483</integer>
-	<key>openTypeOS2SubscriptXSize</key>
-	<integer>1434</integer>
-	<key>openTypeOS2SubscriptYSize</key>
-	<integer>1331</integer>
-	<key>openTypeOS2SubscriptXOffset</key>
-	<integer>0</integer>
-	<key>openTypeOS2SubscriptYOffset</key>
-	<integer>286</integer>
-	<key>openTypeOS2SuperscriptXSize</key>
-	<integer>1434</integer>
-	<key>openTypeOS2SuperscriptYSize</key>
-	<integer>1331</integer>
-	<key>openTypeOS2SuperscriptXOffset</key>
-	<integer>0</integer>
-	<key>openTypeOS2SuperscriptYOffset</key>
-	<integer>976</integer>
-	<key>openTypeOS2StrikeoutSize</key>
-	<integer>102</integer>
-	<key>openTypeOS2StrikeoutPosition</key>
-	<integer>498</integer>
-	<key>openTypeOS2CodePageRanges</key>
-	<array>
-		<integer>0</integer>
-		<integer>1</integer>
-		<integer>2</integer>
-		<integer>29</integer>
-	</array>
-	<key>postscriptFontName</key>
-	<string>Oxygen-Bold</string>
-	<key>postscriptFullName</key>
-	<string>Oxygen Bold</string>
-	<key>postscriptWeightName</key>
-	<string>Bold</string>
-	<key>postscriptUnderlineThickness</key>
-	<integer>119</integer>
-	<key>postscriptUnderlinePosition</key>
-	<integer>-119</integer>
+	<key>postscriptBlueScale</key>
+	<real>0.039625</real>
+	<key>postscriptBlueShift</key>
+	<integer>7</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>-20</integer>
@@ -135,6 +119,10 @@
 		<integer>1430</integer>
 		<integer>1479</integer>
 	</array>
+	<key>postscriptFontName</key>
+	<string>Oxygen-Bold</string>
+	<key>postscriptFullName</key>
+	<string>Oxygen Bold</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-449</integer>
@@ -163,9 +151,19 @@
 		<integer>285</integer>
 		<integer>298</integer>
 	</array>
-	<key>postscriptBlueShift</key>
-	<integer>7</integer>
-	<key>postscriptBlueScale</key>
-	<real>0.039625</real>
-    </dict>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-119</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>119</integer>
+	<key>postscriptWeightName</key>
+	<string>Bold</string>
+	<key>styleName</key>
+	<string>Bold</string>
+	<key>trademark</key>
+	<string>Oxygen Bold is a trademark of vernon adams.</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>xHeight</key>
+	<integer>1059</integer>
+</dict>
 </plist>
