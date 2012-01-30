@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idieresis" format="1">
-  <advance width="518"/>
+  <advance width="578"/>
   <unicode hex="00CF"/>
   <outline>
     <component base="I"/>
-    <component base="dieresis" xOffset="-112" yOffset="370"/>
+    <component base="dieresis" xOffset="-92" yOffset="370"/>
   </outline>
   <lib>
     <dict>
@@ -29,19 +29,19 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>-31</integer>
+	    <integer>-11</integer>
 	    <key>width</key>
 	    <integer>226</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>120</integer>
+	    <integer>140</integer>
 	    <key>width</key>
 	    <integer>298</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>343</integer>
+	    <integer>363</integer>
 	    <key>width</key>
 	    <integer>226</integer>
 	  </dict>
