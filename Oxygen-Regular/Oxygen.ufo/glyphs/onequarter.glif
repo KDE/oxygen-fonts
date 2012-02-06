@@ -44,8 +44,9 @@
     <contour>
       <point x="1066" y="358" type="line"/>
       <point x="1312" y="358" type="line"/>
-      <point x="1312" y="605"/>
-      <point x="1311" y="659"/>
+      <point x="1312" y="608" type="line" smooth="yes"/>
+      <point x="1312" y="660"/>
+      <point x="1312" y="688"/>
       <point x="1313" y="716" type="curve"/>
     </contour>
   </outline>
@@ -75,6 +76,18 @@
 	    <integer>255</integer>
 	    <key>width</key>
 	    <integer>106</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>293</integer>
+	    <key>width</key>
+	    <integer>132</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1212</integer>
+	    <key>width</key>
+	    <integer>143</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>

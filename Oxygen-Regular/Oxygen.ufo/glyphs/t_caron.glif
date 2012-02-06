@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcaron" format="1">
-  <advance width="1167"/>
+  <advance width="1276"/>
   <unicode hex="0164"/>
   <outline>
     <component base="T"/>
-    <component base="caron" xOffset="182" yOffset="396"/>
+    <component base="caron" xOffset="236" yOffset="396"/>
   </outline>
   <lib>
     <dict>
@@ -22,20 +22,20 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1647</integer>
-	    <key>width</key>	    <integer>388</integer>
+	    <key>width</key>	    <integer>116</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>290</integer>
+	    <integer>344</integer>
 	    <key>width</key>
 	    <integer>587</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>495</integer>
+	    <integer>549</integer>
 	    <key>width</key>
 	    <integer>176</integer>
 	  </dict>

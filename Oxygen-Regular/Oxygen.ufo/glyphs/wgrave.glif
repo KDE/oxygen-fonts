@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wgrave" format="1">
-  <advance width="1753"/>
+  <advance width="1636"/>
   <unicode hex="1E81"/>
   <outline>
-    <component base="grave" xOffset="408" yOffset="-5"/>
+    <component base="grave" xOffset="359" yOffset="-5"/>
     <component base="w"/>
   </outline>
   <lib>
@@ -29,9 +29,21 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>425</integer>
+	    <integer>48</integer>
+	    <key>width</key>
+	    <integer>183</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>376</integer>
 	    <key>width</key>
 	    <integer>503</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1408</integer>
+	    <key>width</key>
+	    <integer>181</integer>
 	  </dict>
 	</array>
       </dict>

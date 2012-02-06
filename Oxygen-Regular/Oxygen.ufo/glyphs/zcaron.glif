@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zcaron" format="1">
-  <advance width="956"/>
+  <advance width="906"/>
   <unicode hex="017E"/>
   <outline>
-    <component base="caron" xOffset="82" yOffset="-9"/>
+    <component base="caron" xOffset="57" yOffset="-9"/>
     <component base="z"/>
   </outline>
   <lib>
@@ -22,14 +22,14 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1242</integer>
-	    <key>width</key>	    <integer>388</integer>
+	    <key>width</key>	    <integer>116</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>190</integer>
+	    <integer>165</integer>
 	    <key>width</key>
 	    <integer>587</integer>
 	  </dict>
