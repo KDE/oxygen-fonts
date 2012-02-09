@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketleft" format="1">
-  <advance width="590"/>
+  <advance width="678"/>
   <unicode hex="005B"/>
   <outline>
     <contour>
-      <point x="477" y="-139" type="line"/>
-      <point x="477" y="-261" type="line"/>
-      <point x="158" y="-261" type="line"/>
-      <point x="158" y="1505" type="line"/>
-      <point x="477" y="1505" type="line"/>
-      <point x="477" y="1381" type="line"/>
-      <point x="336" y="1381" type="line"/>
-      <point x="336" y="-139" type="line"/>
+      <point x="570" y="-139" type="line"/>
+      <point x="570" y="-261" type="line"/>
+      <point x="121" y="-261" type="line"/>
+      <point x="121" y="1505" type="line"/>
+      <point x="570" y="1505" type="line"/>
+      <point x="570" y="1381" type="line"/>
+      <point x="299" y="1381" type="line"/>
+      <point x="299" y="-139" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,13 +33,7 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>158</integer>
-	    <key>width</key>
-	    <integer>319</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>158</integer>
+	    <integer>121</integer>
 	    <key>width</key>
 	    <integer>178</integer>
 	  </dict>

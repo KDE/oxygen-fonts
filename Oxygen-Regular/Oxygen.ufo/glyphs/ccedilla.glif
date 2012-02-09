@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccedilla" format="1">
-  <advance width="1082"/>
+  <advance width="1087"/>
   <unicode hex="00E7"/>
   <outline>
     <component base="c"/>
-    <component base="cedilla" xOffset="273" yOffset="-26"/>
+    <component base="cedilla" xOffset="276" yOffset="-26.3"/>
   </outline>
   <lib>
     <dict>
@@ -37,19 +37,19 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>109</integer>
+	    <integer>112</integer>
 	    <key>width</key>
 	    <integer>174</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>499</integer>
+	    <integer>502</integer>
 	    <key>width</key>
 	    <integer>86</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>629</integer>
+	    <integer>632</integer>
 	    <key>width</key>
 	    <integer>126</integer>
 	  </dict>
