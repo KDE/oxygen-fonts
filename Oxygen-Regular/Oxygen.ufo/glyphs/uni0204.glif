@@ -4,47 +4,6 @@
   <unicode hex="0204"/>
   <outline>
     <component base="E"/>
-    <component base="uni030F" xOffset="56.5" yOffset="388"/>
+    <component base="uni030F" xOffset="56" yOffset="388"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>156</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>692</integer>
-	    <key>width</key>	    <integer>153</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1341</integer>
-	    <key>width</key>	    <integer>156</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1647</integer>
-	    <key>width</key>	    <integer>335</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>155</integer>
-	    <key>width</key>
-	    <integer>177</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>166</integer>
-	    <key>width</key>
-	    <integer>620</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

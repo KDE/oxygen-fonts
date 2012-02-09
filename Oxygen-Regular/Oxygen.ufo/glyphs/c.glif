@@ -4,25 +4,31 @@
   <unicode hex="0063"/>
   <outline>
     <contour>
+      <point x="544" y="1098" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="544" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
       <point x="660" y="118" type="curve" smooth="yes"/>
       <point x="768" y="118"/>
-      <point x="861" y="155"/>
+      <point x="860" y="154"/>
       <point x="927" y="197" type="curve"/>
       <point x="978" y="75" type="line"/>
       <point x="900" y="8"/>
       <point x="770" y="-25"/>
       <point x="652" y="-25" type="curve" smooth="yes"/>
-      <point x="286" y="-25"/>
+      <point x="287" y="-25"/>
       <point x="112" y="246"/>
       <point x="112" y="554" type="curve" smooth="yes"/>
       <point x="112" y="850"/>
       <point x="293" y="1124"/>
       <point x="649" y="1124" type="curve" smooth="yes"/>
-      <point x="787" y="1124"/>
-      <point x="910" y="1087"/>
+      <point x="788" y="1124"/>
+      <point x="909" y="1088"/>
       <point x="977" y="1029" type="curve"/>
       <point x="926" y="902" type="line"/>
-      <point x="834" y="957"/>
+      <point x="834" y="958"/>
       <point x="747" y="982"/>
       <point x="659" y="982" type="curve" smooth="yes"/>
       <point x="440" y="982"/>
@@ -32,31 +38,4 @@
       <point x="419" y="118"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-25</integer>
-	    <key>width</key>	    <integer>143</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>982</integer>
-	    <key>width</key>	    <integer>142</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>112</integer>
-	    <key>width</key>
-	    <integer>174</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
