@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesingle" format="1">
-  <advance width="485"/>
+  <advance width="345"/>
   <unicode hex="0027"/>
   <outline>
     <contour>
-      <point x="348" y="937" type="line" smooth="no"/>
-      <point x="168" y="937" type="line" smooth="no"/>
-      <point x="131" y="1453" type="line" smooth="no"/>
-      <point x="348" y="1453" type="line" smooth="no"/>
+      <point x="278" y="937" type="line"/>
+      <point x="98" y="937" type="line"/>
+      <point x="61" y="1453" type="line"/>
+      <point x="278" y="1453" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,13 +25,13 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>131</integer>
+	    <integer>61</integer>
 	    <key>width</key>
 	    <integer>217</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>168</integer>
+	    <integer>98</integer>
 	    <key>width</key>
 	    <integer>180</integer>
 	  </dict>

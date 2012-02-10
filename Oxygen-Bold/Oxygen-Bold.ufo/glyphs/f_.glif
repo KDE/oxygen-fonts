@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="F" format="1">
-  <advance width="1195"/>
+  <advance width="1067"/>
   <unicode hex="0046"/>
   <outline>
     <contour>
-      <point x="1081" y="1445" type="line" smooth="no"/>
-      <point x="1060" y="1227" type="line" smooth="no"/>
-      <point x="437" y="1227" type="line" smooth="no"/>
-      <point x="437" y="853" type="line" smooth="no"/>
-      <point x="1040" y="853" type="line" smooth="no"/>
-      <point x="1040" y="636" type="line" smooth="no"/>
-      <point x="438" y="636" type="line" smooth="no"/>
-      <point x="438" y="1" type="line" smooth="no"/>
-      <point x="140" y="1" type="line" smooth="no"/>
-      <point x="140" y="1445" type="line" smooth="no"/>
+      <point x="1011" y="1445" type="line"/>
+      <point x="990" y="1227" type="line"/>
+      <point x="367" y="1227" type="line"/>
+      <point x="367" y="853" type="line"/>
+      <point x="970" y="853" type="line"/>
+      <point x="970" y="636" type="line"/>
+      <point x="368" y="636" type="line"/>
+      <point x="368" y="1" type="line"/>
+      <point x="70" y="1" type="line"/>
+      <point x="70" y="1445" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>140</integer>
+	    <integer>70</integer>
 	    <key>width</key>
 	    <integer>298</integer>
 	  </dict>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotleft" format="1">
-  <advance width="1154"/>
-  <unicode hex="00ab"/>
+  <advance width="933"/>
+  <unicode hex="00AB"/>
   <outline>
     <contour>
-      <point x="868" y="924" type="line" smooth="no"/>
-      <point x="1092" y="924" type="line" smooth="no"/>
-      <point x="821" y="546" type="line" smooth="no"/>
-      <point x="1084" y="171" type="line" smooth="no"/>
-      <point x="863" y="171" type="line" smooth="no"/>
-      <point x="583" y="546" type="line" smooth="no"/>
+      <point x="675" y="924" type="line"/>
+      <point x="899" y="924" type="line"/>
+      <point x="628" y="546" type="line"/>
+      <point x="891" y="171" type="line"/>
+      <point x="670" y="171" type="line"/>
+      <point x="390" y="546" type="line"/>
     </contour>
     <contour>
-      <point x="510" y="924" type="line" smooth="no"/>
-      <point x="739" y="924" type="line" smooth="no"/>
-      <point x="463" y="546" type="line" smooth="no"/>
-      <point x="730" y="171" type="line" smooth="no"/>
-      <point x="504" y="171" type="line" smooth="no"/>
-      <point x="226" y="546" type="line" smooth="no"/>
+      <point x="317" y="924" type="line"/>
+      <point x="546" y="924" type="line"/>
+      <point x="270" y="546" type="line"/>
+      <point x="537" y="171" type="line"/>
+      <point x="311" y="171" type="line"/>
+      <point x="33" y="546" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,13 +28,13 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>504</integer>
+	    <integer>311</integer>
 	    <key>width</key>
 	    <integer>226</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>863</integer>
+	    <integer>670</integer>
 	    <key>width</key>
 	    <integer>221</integer>
 	  </dict>

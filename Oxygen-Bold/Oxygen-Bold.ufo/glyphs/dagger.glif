@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dagger" format="1">
-  <advance width="1052"/>
+  <advance width="992"/>
   <unicode hex="2020"/>
   <outline>
     <contour>
-      <point x="615" y="113" type="line" smooth="no"/>
-      <point x="408" y="113" type="line" smooth="no"/>
-      <point x="408" y="909" type="line" smooth="no"/>
-      <point x="95" y="909" type="line" smooth="no"/>
-      <point x="95" y="1101" type="line" smooth="no"/>
-      <point x="408" y="1101" type="line" smooth="no"/>
-      <point x="408" y="1461" type="line" smooth="no"/>
-      <point x="628" y="1461" type="line" smooth="no"/>
-      <point x="628" y="1101" type="line" smooth="no"/>
-      <point x="959" y="1101" type="line" smooth="no"/>
-      <point x="959" y="909" type="line" smooth="no"/>
-      <point x="615" y="909" type="line" smooth="no"/>
+      <point x="584" y="113" type="line"/>
+      <point x="377" y="113" type="line"/>
+      <point x="377" y="909" type="line"/>
+      <point x="64" y="909" type="line"/>
+      <point x="64" y="1101" type="line"/>
+      <point x="377" y="1101" type="line"/>
+      <point x="377" y="1461" type="line"/>
+      <point x="597" y="1461" type="line"/>
+      <point x="597" y="1101" type="line"/>
+      <point x="928" y="1101" type="line"/>
+      <point x="928" y="909" type="line"/>
+      <point x="584" y="909" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,7 +37,7 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>408</integer>
+	    <integer>377</integer>
 	    <key>width</key>
 	    <integer>207</integer>
 	  </dict>

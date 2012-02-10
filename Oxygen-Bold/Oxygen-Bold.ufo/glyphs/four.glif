@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="1">
-  <advance width="1410"/>
+  <advance width="1270"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="422" y="557" type="curve" smooth="no"/>
-      <point x="829" y="556" type="line" smooth="no"/>
-      <point x="829" y="1151" type="line" smooth="no"/>
-      <point x="811" y="1124" type="line" smooth="no"/>
-      <point x="681" y="931"/>
-      <point x="549" y="744"/>
+      <point x="352" y="557" type="curve"/>
+      <point x="759" y="556" type="line"/>
+      <point x="759" y="1151" type="line"/>
+      <point x="741" y="1124" type="line"/>
+      <point x="611" y="931"/>
+      <point x="479" y="744"/>
     </contour>
     <contour>
-      <point x="826" y="1477" type="line" smooth="no"/>
-      <point x="1095" y="1477" type="line" smooth="no"/>
-      <point x="1095" y="557" type="line" smooth="no"/>
-      <point x="1279" y="557" type="line" smooth="no"/>
-      <point x="1279" y="341" type="line" smooth="no"/>
-      <point x="1095" y="341" type="line" smooth="no"/>
-      <point x="1095" y="0" type="line" smooth="no"/>
-      <point x="843" y="0" type="line" smooth="no"/>
-      <point x="843" y="341" type="line" smooth="no"/>
-      <point x="133" y="341" type="line" smooth="no"/>
-      <point x="133" y="528" type="line" smooth="no"/>
+      <point x="756" y="1477" type="line"/>
+      <point x="1025" y="1477" type="line"/>
+      <point x="1025" y="557" type="line"/>
+      <point x="1209" y="557" type="line"/>
+      <point x="1209" y="341" type="line"/>
+      <point x="1025" y="341" type="line"/>
+      <point x="1025" y="0" type="line"/>
+      <point x="773" y="0" type="line"/>
+      <point x="773" y="341" type="line"/>
+      <point x="63" y="341" type="line"/>
+      <point x="63" y="528" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -48,7 +48,7 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>829</integer>
+	    <integer>759</integer>
 	    <key>width</key>
 	    <integer>266</integer>
 	  </dict>

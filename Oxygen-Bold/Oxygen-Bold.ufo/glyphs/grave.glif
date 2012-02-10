@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave" format="1">
-  <advance width="612"/>
+  <advance width="471"/>
   <unicode hex="0060"/>
   <outline>
     <contour>
-      <point x="-63" y="1516" type="curve" smooth="no"/>
-      <point x="251" y="1516" type="line" smooth="no"/>
-      <point x="480" y="1176" type="line" smooth="no"/>
-      <point x="271" y="1176" type="line" smooth="no"/>
-      <point x="159" y="1290"/>
-      <point x="49" y="1403"/>
+      <point x="-39" y="1516" type="curve"/>
+      <point x="275" y="1516" type="line"/>
+      <point x="504" y="1176" type="line"/>
+      <point x="295" y="1176" type="line"/>
+      <point x="183" y="1290"/>
+      <point x="73" y="1403"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>-63</integer>
+	    <integer>-39</integer>
 	    <key>width</key>
 	    <integer>543</integer>
 	  </dict>

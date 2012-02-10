@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eacute" format="1">
-  <advance width="1241"/>
-  <unicode hex="00c9"/>
+  <advance width="1104"/>
+  <unicode hex="00C9"/>
   <outline>
-    <component base="acute" xOffset="338.5" yOffset="424"/>
     <component base="E"/>
+    <component base="acute" xOffset="268.5" yOffset="424"/>
   </outline>
   <lib>
     <dict>
@@ -33,13 +33,13 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>140</integer>
+	    <integer>70</integer>
 	    <key>width</key>
 	    <integer>298</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>510</integer>
+	    <integer>440</integer>
 	    <key>width</key>
 	    <integer>543</integer>
 	  </dict>

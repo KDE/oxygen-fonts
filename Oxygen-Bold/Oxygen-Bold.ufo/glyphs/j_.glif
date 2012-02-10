@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J" format="1">
-  <advance width="745"/>
-  <unicode hex="004a"/>
+  <advance width="675"/>
+  <unicode hex="004A"/>
   <outline>
     <contour>
-      <point x="65" y="181" type="line" smooth="no"/>
-      <point x="130" y="181" type="line" smooth="yes"/>
-      <point x="283.559" y="181"/>
-      <point x="310" y="232"/>
-      <point x="310" y="390" type="curve" smooth="yes"/>
-      <point x="310" y="1445" type="line" smooth="no"/>
-      <point x="605" y="1445" type="line" smooth="no"/>
-      <point x="605" y="439" type="line" smooth="yes"/>
-      <point x="605" y="116"/>
-      <point x="498" y="-20"/>
-      <point x="111" y="-20" type="curve" smooth="yes"/>
-      <point x="65" y="-20" type="line" smooth="no"/>
+      <point x="60" y="14" type="line"/>
+      <point x="125" y="14" type="line" smooth="yes"/>
+      <point x="278.559" y="14"/>
+      <point x="305" y="65"/>
+      <point x="305" y="223" type="curve" smooth="yes"/>
+      <point x="305" y="1445" type="line"/>
+      <point x="600" y="1445" type="line"/>
+      <point x="600" y="272" type="line" smooth="yes"/>
+      <point x="600" y="-51"/>
+      <point x="493" y="-187"/>
+      <point x="106" y="-187" type="curve" smooth="yes"/>
+      <point x="60" y="-187" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,7 +25,7 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>-20</integer>
+	    <key>position</key>	    <integer>-187</integer>
 	    <key>width</key>	    <integer>201</integer>
 	  </dict>
 	  <dict>
@@ -37,7 +37,7 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>310</integer>
+	    <integer>305</integer>
 	    <key>width</key>
 	    <integer>295</integer>
 	  </dict>

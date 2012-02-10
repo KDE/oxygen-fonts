@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketright" format="1">
-  <advance width="667"/>
-  <unicode hex="005d"/>
+  <advance width="527"/>
+  <unicode hex="005D"/>
   <outline>
     <contour>
-      <point x="532" y="-259" type="line" smooth="no"/>
-      <point x="126" y="-259" type="line" smooth="no"/>
-      <point x="126" y="-77" type="line" smooth="no"/>
-      <point x="281" y="-77" type="line" smooth="no"/>
-      <point x="281" y="1317" type="line" smooth="no"/>
-      <point x="126" y="1317" type="line" smooth="no"/>
-      <point x="126" y="1499" type="line" smooth="no"/>
-      <point x="532" y="1499" type="line" smooth="no"/>
+      <point x="462" y="-259" type="line"/>
+      <point x="56" y="-259" type="line"/>
+      <point x="56" y="-77" type="line"/>
+      <point x="211" y="-77" type="line"/>
+      <point x="211" y="1317" type="line"/>
+      <point x="56" y="1317" type="line"/>
+      <point x="56" y="1499" type="line"/>
+      <point x="462" y="1499" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,13 +33,13 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>126</integer>
+	    <integer>56</integer>
 	    <key>width</key>
 	    <integer>406</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>281</integer>
+	    <integer>211</integer>
 	    <key>width</key>
 	    <integer>251</integer>
 	  </dict>

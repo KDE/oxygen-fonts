@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedbl" format="1">
-  <advance width="787"/>
+  <advance width="647"/>
   <unicode hex="0022"/>
   <outline>
     <contour>
-      <point x="349" y="937" type="line" smooth="no"/>
-      <point x="169" y="937" type="line" smooth="no"/>
-      <point x="131" y="1453" type="line" smooth="no"/>
-      <point x="349" y="1453" type="line" smooth="no"/>
+      <point x="279" y="937" type="line"/>
+      <point x="99" y="937" type="line"/>
+      <point x="61" y="1453" type="line"/>
+      <point x="279" y="1453" type="line"/>
     </contour>
     <contour>
-      <point x="651" y="937" type="line" smooth="no"/>
-      <point x="472" y="937" type="line" smooth="no"/>
-      <point x="439" y="1453" type="line" smooth="no"/>
-      <point x="651" y="1453" type="line" smooth="no"/>
+      <point x="581" y="937" type="line"/>
+      <point x="402" y="937" type="line"/>
+      <point x="369" y="1453" type="line"/>
+      <point x="581" y="1453" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,25 +31,25 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>131</integer>
+	    <integer>61</integer>
 	    <key>width</key>
 	    <integer>218</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>169</integer>
+	    <integer>99</integer>
 	    <key>width</key>
 	    <integer>180</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>439</integer>
+	    <integer>369</integer>
 	    <key>width</key>
 	    <integer>212</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>472</integer>
+	    <integer>402</integer>
 	    <key>width</key>
 	    <integer>179</integer>
 	  </dict>

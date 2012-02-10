@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aring" format="1">
-  <advance width="1182"/>
-  <unicode hex="00e5"/>
+  <advance width="1053"/>
+  <unicode hex="00E5"/>
   <outline>
-    <component base="ring" xOffset="294" yOffset="76"/>
     <component base="a"/>
+    <component base="ring" xOffset="239" yOffset="76"/>
   </outline>
   <lib>
     <dict>
@@ -41,25 +41,25 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>71</integer>
+	    <integer>16</integer>
 	    <key>width</key>
 	    <integer>262</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>375</integer>
+	    <integer>320</integer>
 	    <key>width</key>
 	    <integer>154</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>679</integer>
+	    <integer>624</integer>
 	    <key>width</key>
 	    <integer>155</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>782</integer>
+	    <integer>727</integer>
 	    <key>width</key>
 	    <integer>285</integer>
 	  </dict>
