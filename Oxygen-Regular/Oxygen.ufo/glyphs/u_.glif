@@ -1,33 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="U" format="1">
-  <advance width="1420"/>
+  <advance width="1412.0"/>
   <unicode hex="0055"/>
   <outline>
     <contour>
-      <point x="710" y="1489" type="move" name="top"/>
+      <point x="706.0" y="-23" type="curve" smooth="yes"/>
+      <point x="271.0" y="-23"/>
+      <point x="145.0" y="209"/>
+      <point x="145.0" y="541" type="curve" smooth="yes"/>
+      <point x="145.0" y="1497" type="line"/>
+      <point x="321.0" y="1497" type="line"/>
+      <point x="321.0" y="547" type="line" smooth="yes"/>
+      <point x="321.0" y="255"/>
+      <point x="436.0" y="143"/>
+      <point x="706.0" y="143" type="curve" smooth="yes"/>
+      <point x="975.0" y="143"/>
+      <point x="1093.0" y="255"/>
+      <point x="1093.0" y="547" type="curve" smooth="yes"/>
+      <point x="1093.0" y="1497" type="line"/>
+      <point x="1268.0" y="1497" type="line"/>
+      <point x="1268.0" y="541" type="line" smooth="yes"/>
+      <point x="1268.0" y="209"/>
+      <point x="1142.0" y="-23"/>
     </contour>
     <contour>
-      <point x="1278" y="10" type="move" name="ogonek"/>
+      <point x="709.0" y="1489" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="707" y="-23" type="curve" smooth="yes"/>
-      <point x="272" y="-23"/>
-      <point x="146" y="209"/>
-      <point x="146" y="541" type="curve" smooth="yes"/>
-      <point x="146" y="1497" type="line"/>
-      <point x="322" y="1497" type="line"/>
-      <point x="322" y="547" type="line" smooth="yes"/>
-      <point x="322" y="255"/>
-      <point x="437" y="143"/>
-      <point x="707" y="143" type="curve" smooth="yes"/>
-      <point x="976" y="143"/>
-      <point x="1094" y="255"/>
-      <point x="1094" y="547" type="curve" smooth="yes"/>
-      <point x="1094" y="1497" type="line"/>
-      <point x="1269" y="1497" type="line"/>
-      <point x="1269" y="541" type="line" smooth="yes"/>
-      <point x="1269" y="209"/>
-      <point x="1143" y="-23"/>
+      <point x="1277.0" y="10" type="move" name="ogonek"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>U</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1412.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

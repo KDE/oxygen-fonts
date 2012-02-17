@@ -1,19 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="1">
-  <advance width="490"/>
+  <advance width="502.0"/>
   <unicode hex="0049"/>
   <outline>
     <contour>
-      <point x="245" y="1489" type="move" name="top"/>
+      <point x="339" y="1497" type="line"/>
+      <point x="339" y="0" type="line"/>
+      <point x="163" y="0" type="line"/>
+      <point x="163" y="1497" type="line"/>
     </contour>
     <contour>
-      <point x="441" y="10" type="move" name="ogonek"/>
+      <point x="253" y="1489" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="331" y="1497" type="line"/>
-      <point x="331" y="0" type="line"/>
-      <point x="155" y="0" type="line"/>
-      <point x="155" y="1497" type="line"/>
+      <point x="449" y="10" type="move" name="ogonek"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>I</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>502.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

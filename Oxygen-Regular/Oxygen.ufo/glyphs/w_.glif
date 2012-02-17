@@ -1,25 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="W" format="1">
-  <advance width="2108"/>
+  <advance width="2096.20641283"/>
   <unicode hex="0057"/>
   <outline>
     <contour>
-      <point x="1054" y="1489" type="move" name="top"/>
+      <point x="1548.60320641" y="195" type="line"/>
+      <point x="1842.60320641" y="1497" type="line"/>
+      <point x="2024.60320641" y="1497" type="line"/>
+      <point x="1652.60320641" y="0" type="line"/>
+      <point x="1442.60320641" y="0" type="line"/>
+      <point x="1047.60320641" y="1248" type="line"/>
+      <point x="651.603206413" y="0" type="line"/>
+      <point x="443.603206413" y="0" type="line"/>
+      <point x="71.6032064128" y="1497" type="line"/>
+      <point x="254.603206413" y="1497" type="line"/>
+      <point x="553.603206413" y="197" type="line"/>
+      <point x="948.603206413" y="1497" type="line"/>
+      <point x="1158.60320641" y="1497" type="line"/>
     </contour>
     <contour>
-      <point x="1553" y="195" type="line"/>
-      <point x="1847" y="1497" type="line"/>
-      <point x="2029" y="1497" type="line"/>
-      <point x="1657" y="0" type="line"/>
-      <point x="1447" y="0" type="line"/>
-      <point x="1052" y="1248" type="line"/>
-      <point x="656" y="0" type="line"/>
-      <point x="448" y="0" type="line"/>
-      <point x="76" y="1497" type="line"/>
-      <point x="259" y="1497" type="line"/>
-      <point x="558" y="197" type="line"/>
-      <point x="953" y="1497" type="line"/>
-      <point x="1163" y="1497" type="line"/>
+      <point x="1049.60320641" y="1489" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>W</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>2096.2064128256516</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

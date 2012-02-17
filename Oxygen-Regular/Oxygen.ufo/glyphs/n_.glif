@@ -1,27 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="N" format="1">
-  <advance width="1508"/>
+  <advance width="1520.0"/>
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="754" y="1489" type="move" name="top"/>
+      <point x="1357.0" y="0" type="line"/>
+      <point x="1160.0" y="0" type="line"/>
+      <point x="416.0" y="1087" type="line"/>
+      <point x="325.0" y="1230" type="line"/>
+      <point x="325.0" y="0" type="line"/>
+      <point x="163.0" y="0" type="line"/>
+      <point x="163.0" y="1497" type="line"/>
+      <point x="357.0" y="1497" type="line"/>
+      <point x="1103.0" y="406" type="line"/>
+      <point x="1196.0" y="261" type="line"/>
+      <point x="1196.0" y="1497" type="line"/>
+      <point x="1357.0" y="1497" type="line"/>
     </contour>
     <contour>
-      <point x="754" y="0" type="move" name="bottom"/>
+      <point x="762.0" y="1489" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="1349" y="0" type="line"/>
-      <point x="1152" y="0" type="line"/>
-      <point x="408" y="1087" type="line"/>
-      <point x="317" y="1230" type="line"/>
-      <point x="317" y="0" type="line"/>
-      <point x="155" y="0" type="line"/>
-      <point x="155" y="1497" type="line"/>
-      <point x="349" y="1497" type="line"/>
-      <point x="1095" y="406" type="line"/>
-      <point x="1188" y="261" type="line"/>
-      <point x="1188" y="1497" type="line"/>
-      <point x="1349" y="1497" type="line"/>
+      <point x="762.0" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>N</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1520.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

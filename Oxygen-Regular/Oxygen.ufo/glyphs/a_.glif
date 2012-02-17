@@ -1,28 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="1">
-  <advance width="1515"/>
+  <advance width="1471"/>
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="758" y="1489" type="move" name="top"/>
+      <point x="71" y="0" type="line"/>
+      <point x="645" y="1497" type="line"/>
+      <point x="857" y="1497" type="line"/>
+      <point x="1400" y="0" type="line"/>
+      <point x="1218" y="0" type="line"/>
+      <point x="1047" y="473" type="line"/>
+      <point x="437" y="473" type="line"/>
+      <point x="253" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1364" y="10" type="move" name="ogonek"/>
+      <point x="985" y="627" type="line"/>
+      <point x="752" y="1294" type="line"/>
+      <point x="495" y="627" type="line"/>
     </contour>
     <contour>
-      <point x="94" y="0" type="line"/>
-      <point x="668" y="1497" type="line"/>
-      <point x="880" y="1497" type="line"/>
-      <point x="1423" y="0" type="line"/>
-      <point x="1241" y="0" type="line"/>
-      <point x="1070" y="473" type="line"/>
-      <point x="460" y="473" type="line"/>
-      <point x="276" y="0" type="line"/>
+      <point x="735" y="1489" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="1008" y="631" type="line"/>
-      <point x="775" y="1294" type="line"/>
-      <point x="518" y="631" type="line"/>
+      <point x="1341" y="10" type="move" name="ogonek"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>A</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1471</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
