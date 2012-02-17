@@ -2,6 +2,21 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>@MMK_L_a</key>
+	<dict>
+		<key>@MMK_R_o_Right</key>
+		<integer>-22</integer>
+	</dict>
+	<key>@MMK_L_c</key>
+	<dict>
+		<key>@MMK_R_a_Right</key>
+		<integer>-52</integer>
+	</dict>
+	<key>@MMK_L_l</key>
+	<dict>
+		<key>@MMK_R_o_Right</key>
+		<integer>-28</integer>
+	</dict>
 	<key>Aacute</key>
 	<dict>
 		<key>Acircumflex</key>
@@ -36,16 +51,6 @@
 		<integer>62</integer>
 		<key>t</key>
 		<integer>-18</integer>
-		<key>v</key>
-		<integer>-37</integer>
-		<key>w</key>
-		<integer>-18</integer>
-		<key>y</key>
-		<integer>-37</integer>
-		<key>yacute</key>
-		<integer>-37</integer>
-		<key>ydieresis</key>
-		<integer>-37</integer>
 	</dict>
 	<key>Acircumflex</key>
 	<dict>
@@ -81,10 +86,6 @@
 		<integer>61</integer>
 		<key>t</key>
 		<integer>-18</integer>
-		<key>v</key>
-		<integer>-37</integer>
-		<key>w</key>
-		<integer>-18</integer>
 	</dict>
 	<key>Adieresis</key>
 	<dict>
@@ -114,8 +115,6 @@
 		<integer>-24</integer>
 		<key>Ugrave</key>
 		<integer>-24</integer>
-		<key>V</key>
-		<integer>-55</integer>
 		<key>Z</key>
 		<integer>54</integer>
 		<key>Zcaron</key>
@@ -138,31 +137,15 @@
 		<integer>61</integer>
 		<key>t</key>
 		<integer>-24</integer>
-		<key>v</key>
-		<integer>-39</integer>
-		<key>w</key>
-		<integer>-24</integer>
-		<key>y</key>
-		<integer>-33</integer>
-		<key>yacute</key>
-		<integer>-33</integer>
-		<key>ydieresis</key>
-		<integer>-33</integer>
 	</dict>
 	<key>Agrave</key>
 	<dict>
 		<key>Agrave</key>
 		<integer>-37</integer>
 		<key>J</key>
-		<integer>86</integer>
+		<integer>54</integer>
 		<key>T</key>
-		<integer>-111</integer>
-		<key>Y</key>
-		<integer>-92</integer>
-		<key>Yacute</key>
-		<integer>-92</integer>
-		<key>Ydieresis</key>
-		<integer>-92</integer>
+		<integer>-180</integer>
 		<key>Z</key>
 		<integer>53</integer>
 		<key>Zcaron</key>
@@ -180,11 +163,7 @@
 		<key>semicolon</key>
 		<integer>61</integer>
 		<key>t</key>
-		<integer>-18</integer>
-		<key>v</key>
-		<integer>-37</integer>
-		<key>w</key>
-		<integer>-18</integer>
+		<integer>-91</integer>
 	</dict>
 	<key>Aring</key>
 	<dict>
@@ -214,8 +193,6 @@
 		<integer>-24</integer>
 		<key>Ugrave</key>
 		<integer>-24</integer>
-		<key>V</key>
-		<integer>-55</integer>
 		<key>Z</key>
 		<integer>54</integer>
 		<key>Zcaron</key>
@@ -242,10 +219,6 @@
 		<integer>-24</integer>
 		<key>trademark</key>
 		<integer>-92</integer>
-		<key>v</key>
-		<integer>-39</integer>
-		<key>w</key>
-		<integer>-24</integer>
 	</dict>
 	<key>Atilde</key>
 	<dict>
@@ -275,26 +248,11 @@
 		<integer>62</integer>
 		<key>t</key>
 		<integer>-18</integer>
-		<key>v</key>
-		<integer>-37</integer>
-		<key>w</key>
-		<integer>-18</integer>
-	</dict>
-	<key>B</key>
-	<dict>
-		<key>V</key>
-		<integer>-18</integer>
-		<key>X</key>
-		<integer>-18</integer>
 	</dict>
 	<key>D</key>
 	<dict>
 		<key>AE</key>
 		<integer>-55</integer>
-		<key>V</key>
-		<integer>-18</integer>
-		<key>W</key>
-		<integer>-18</integer>
 		<key>X</key>
 		<integer>-18</integer>
 		<key>comma</key>
@@ -302,81 +260,12 @@
 		<key>period</key>
 		<integer>-56</integer>
 	</dict>
-	<key>Delta</key>
-	<dict>
-		<key>AE</key>
-		<integer>-111</integer>
-		<key>Ccedilla</key>
-		<integer>-37</integer>
-		<key>OE</key>
-		<integer>-37</integer>
-		<key>Ocircumflex</key>
-		<integer>-37</integer>
-		<key>Ograve</key>
-		<integer>-37</integer>
-		<key>Oslash</key>
-		<integer>-37</integer>
-		<key>Q</key>
-		<integer>-18</integer>
-		<key>V</key>
-		<integer>-55</integer>
-		<key>W</key>
-		<integer>-37</integer>
-		<key>ae</key>
-		<integer>-55</integer>
-		<key>comma</key>
-		<integer>-92</integer>
-		<key>d</key>
-		<integer>-55</integer>
-		<key>m</key>
-		<integer>-37</integer>
-		<key>oe</key>
-		<integer>-55</integer>
-		<key>oslash</key>
-		<integer>-55</integer>
-		<key>p</key>
-		<integer>-37</integer>
-		<key>period</key>
-		<integer>-92</integer>
-		<key>q</key>
-		<integer>-55</integer>
-		<key>question</key>
-		<integer>37</integer>
-		<key>quotedbl</key>
-		<integer>74</integer>
-		<key>quotedblright</key>
-		<integer>74</integer>
-		<key>quoteright</key>
-		<integer>74</integer>
-		<key>quotesingle</key>
-		<integer>74</integer>
-	</dict>
 	<key>Eacute</key>
 	<dict>
-		<key>C</key>
-		<integer>-18</integer>
-		<key>Ccedilla</key>
-		<integer>-18</integer>
 		<key>Eacute</key>
 		<integer>-18</integer>
 		<key>J</key>
 		<integer>55</integer>
-		<key>O</key>
-		<integer>-18</integer>
-		<key>Oacute</key>
-		<integer>-18</integer>
-		<key>Ocircumflex</key>
-		<integer>-18</integer>
-		<key>Odieresis</key>
-		<integer>-18</integer>
-		<key>Ograve</key>
-		<integer>-18</integer>
-		<key>Oslash</key>
-		<integer>-18</integer>
-		<key>Otilde</key>
-		<integer>-18</integer>
-		<key>Q</key>
-		<integer>-18</integer>
 		<key>hyphen</key>
 		<integer>-37</integer>
 		<key>quotedbl</key>
@@ -392,32 +281,12 @@
 	<dict>
 		<key>Acircumflex</key>
 		<integer>-18</integer>
-		<key>C</key>
-		<integer>-18</integer>
-		<key>Ccedilla</key>
-		<integer>-18</integer>
 		<key>Egrave</key>
 		<integer>-18</integer>
 		<key>Iacute</key>
 		<integer>-18</integer>
 		<key>J</key>
 		<integer>55</integer>
-		<key>O</key>
-		<integer>-18</integer>
-		<key>Oacute</key>
-		<integer>-18</integer>
-		<key>Ocircumflex</key>
-		<integer>-18</integer>
-		<key>Odieresis</key>
-		<integer>-18</integer>
-		<key>Ograve</key>
-		<integer>-18</integer>
-		<key>Oslash</key>
-		<integer>-18</integer>
-		<key>Otilde</key>
-		<integer>-18</integer>
-		<key>Q</key>
-		<integer>-18</integer>
 		<key>hyphen</key>
 		<integer>-37</integer>
 		<key>quotedbl</key>
@@ -433,32 +302,12 @@
 	<dict>
 		<key>Acircumflex</key>
 		<integer>-18</integer>
-		<key>C</key>
-		<integer>-18</integer>
-		<key>Ccedilla</key>
-		<integer>-18</integer>
 		<key>Egrave</key>
 		<integer>-18</integer>
 		<key>Iacute</key>
 		<integer>-18</integer>
 		<key>J</key>
 		<integer>55</integer>
-		<key>O</key>
-		<integer>-18</integer>
-		<key>Oacute</key>
-		<integer>-18</integer>
-		<key>Ocircumflex</key>
-		<integer>-18</integer>
-		<key>Odieresis</key>
-		<integer>-18</integer>
-		<key>Ograve</key>
-		<integer>-18</integer>
-		<key>Oslash</key>
-		<integer>-18</integer>
-		<key>Otilde</key>
-		<integer>-18</integer>
-		<key>Q</key>
-		<integer>-18</integer>
 		<key>hyphen</key>
 		<integer>-37</integer>
 		<key>quotedbl</key>
@@ -474,32 +323,12 @@
 	<dict>
 		<key>Acircumflex</key>
 		<integer>-18</integer>
-		<key>C</key>
-		<integer>-18</integer>
-		<key>Ccedilla</key>
-		<integer>-18</integer>
 		<key>Egrave</key>
 		<integer>-18</integer>
 		<key>Iacute</key>
 		<integer>-18</integer>
 		<key>J</key>
 		<integer>56</integer>
-		<key>O</key>
-		<integer>-18</integer>
-		<key>Oacute</key>
-		<integer>-18</integer>
-		<key>Ocircumflex</key>
-		<integer>-18</integer>
-		<key>Odieresis</key>
-		<integer>-18</integer>
-		<key>Ograve</key>
-		<integer>-18</integer>
-		<key>Oslash</key>
-		<integer>-18</integer>
-		<key>Otilde</key>
-		<integer>-18</integer>
-		<key>Q</key>
-		<integer>-18</integer>
 		<key>hyphen</key>
 		<integer>-37</integer>
 		<key>quotedbl</key>
@@ -511,37 +340,6 @@
 		<key>quotesingle</key>
 		<integer>37</integer>
 	</dict>
-	<key>F</key>
-	<dict>
-		<key>AE</key>
-		<integer>-55</integer>
-		<key>V</key>
-		<integer>18</integer>
-		<key>W</key>
-		<integer>18</integer>
-		<key>braceright</key>
-		<integer>37</integer>
-		<key>bracketright</key>
-		<integer>37</integer>
-		<key>comma</key>
-		<integer>-172</integer>
-		<key>parenright</key>
-		<integer>37</integer>
-		<key>period</key>
-		<integer>-163</integer>
-		<key>q</key>
-		<integer>-20</integer>
-		<key>question</key>
-		<integer>37</integer>
-		<key>quotedbl</key>
-		<integer>56</integer>
-		<key>quotedblright</key>
-		<integer>55</integer>
-		<key>quoteright</key>
-		<integer>56</integer>
-		<key>quotesingle</key>
-		<integer>56</integer>
-	</dict>
 	<key>Gamma</key>
 	<dict>
 		<key>OE</key>
@@ -550,10 +348,6 @@
 		<integer>-18</integer>
 		<key>Q</key>
 		<integer>-18</integer>
-		<key>V</key>
-		<integer>-74</integer>
-		<key>W</key>
-		<integer>-55</integer>
 		<key>quotedbl</key>
 		<integer>-92</integer>
 		<key>quotedblright</key>
@@ -562,44 +356,6 @@
 		<integer>-92</integer>
 		<key>quotesingle</key>
 		<integer>-92</integer>
-	</dict>
-	<key>Iotadieresis</key>
-	<dict>
-		<key>OE</key>
-		<integer>-18</integer>
-		<key>Oslash</key>
-		<integer>-18</integer>
-		<key>Q</key>
-		<integer>-18</integer>
-		<key>quotedbl</key>
-		<integer>37</integer>
-		<key>quotedblright</key>
-		<integer>37</integer>
-		<key>quoteright</key>
-		<integer>37</integer>
-		<key>quotesingle</key>
-		<integer>37</integer>
-	</dict>
-	<key>K</key>
-	<dict>
-		<key>OE</key>
-		<integer>-37</integer>
-		<key>Oslash</key>
-		<integer>-37</integer>
-		<key>Q</key>
-		<integer>-37</integer>
-		<key>quotedbl</key>
-		<integer>37</integer>
-		<key>quotedblright</key>
-		<integer>37</integer>
-		<key>quoteright</key>
-		<integer>37</integer>
-		<key>quotesingle</key>
-		<integer>37</integer>
-		<key>v</key>
-		<integer>-100</integer>
-		<key>w</key>
-		<integer>-128</integer>
 	</dict>
 	<key>L</key>
 	<dict>
@@ -609,24 +365,8 @@
 		<integer>-18</integer>
 		<key>Q</key>
 		<integer>-18</integer>
-		<key>V</key>
-		<integer>-145</integer>
-		<key>W</key>
-		<integer>-95</integer>
 		<key>Ydieresis</key>
 		<integer>-93</integer>
-		<key>e</key>
-		<integer>-82</integer>
-		<key>o</key>
-		<integer>-72</integer>
-		<key>quotedbl</key>
-		<integer>-92</integer>
-		<key>quotedblright</key>
-		<integer>-92</integer>
-		<key>quoteright</key>
-		<integer>-93</integer>
-		<key>quotesingle</key>
-		<integer>-92</integer>
 	</dict>
 	<key>Lambda</key>
 	<dict>
@@ -650,8 +390,6 @@
 		<integer>-55</integer>
 		<key>oslash</key>
 		<integer>-55</integer>
-		<key>p</key>
-		<integer>-37</integer>
 		<key>period</key>
 		<integer>-92</integer>
 		<key>q</key>
@@ -675,10 +413,6 @@
 		<integer>-18</integer>
 		<key>Q</key>
 		<integer>-18</integer>
-		<key>V</key>
-		<integer>-75</integer>
-		<key>W</key>
-		<integer>-55</integer>
 		<key>Yacute</key>
 		<integer>-93</integer>
 		<key>quotedbl</key>
@@ -798,10 +532,6 @@
 	<dict>
 		<key>AE</key>
 		<integer>-37</integer>
-		<key>V</key>
-		<integer>-37</integer>
-		<key>W</key>
-		<integer>-18</integer>
 		<key>X</key>
 		<integer>-37</integer>
 		<key>comma</key>
@@ -836,31 +566,10 @@
 		<key>period</key>
 		<integer>-56</integer>
 	</dict>
-	<key>P</key>
-	<dict>
-		<key>AE</key>
-		<integer>-130</integer>
-		<key>Adieresis</key>
-		<integer>-75</integer>
-		<key>Agrave</key>
-		<integer>-75</integer>
-		<key>X</key>
-		<integer>-18</integer>
-		<key>comma</key>
-		<integer>-256</integer>
-		<key>period</key>
-		<integer>-184</integer>
-		<key>q</key>
-		<integer>-69</integer>
-	</dict>
 	<key>Q</key>
 	<dict>
 		<key>AE</key>
 		<integer>-56</integer>
-		<key>V</key>
-		<integer>-37</integer>
-		<key>W</key>
-		<integer>-18</integer>
 		<key>X</key>
 		<integer>-37</integer>
 		<key>comma</key>
@@ -876,19 +585,7 @@
 		<integer>-18</integer>
 		<key>Scaron</key>
 		<integer>-18</integer>
-		<key>T</key>
-		<integer>-37</integer>
-		<key>V</key>
-		<integer>-18</integer>
-		<key>W</key>
-		<integer>-18</integer>
 		<key>X</key>
-		<integer>-37</integer>
-		<key>Y</key>
-		<integer>-37</integer>
-		<key>Yacute</key>
-		<integer>-37</integer>
-		<key>Ydieresis</key>
 		<integer>-37</integer>
 		<key>quotedbl</key>
 		<integer>37</integer>
@@ -899,14 +596,6 @@
 		<key>quotesingle</key>
 		<integer>37</integer>
 		<key>scaron</key>
-		<integer>-18</integer>
-		<key>v</key>
-		<integer>-18</integer>
-		<key>y</key>
-		<integer>-18</integer>
-		<key>yacute</key>
-		<integer>-18</integer>
-		<key>ydieresis</key>
 		<integer>-18</integer>
 	</dict>
 	<key>T</key>
@@ -939,8 +628,6 @@
 		<integer>-56</integer>
 		<key>ydieresis</key>
 		<integer>-56</integer>
-		<key>zcaron</key>
-		<integer>-55</integer>
 	</dict>
 	<key>Uacute</key>
 	<dict>
@@ -1106,8 +793,6 @@
 		<integer>-162</integer>
 		<key>egrave</key>
 		<integer>-162</integer>
-		<key>f</key>
-		<integer>-24</integer>
 		<key>hyphen</key>
 		<integer>-148</integer>
 		<key>m</key>
@@ -1128,8 +813,6 @@
 		<integer>-162</integer>
 		<key>otilde</key>
 		<integer>-162</integer>
-		<key>p</key>
-		<integer>-55</integer>
 		<key>parenright</key>
 		<integer>55</integer>
 		<key>period</key>
@@ -1159,161 +842,14 @@
 		<key>x</key>
 		<integer>-37</integer>
 	</dict>
-	<key>V</key>
-	<dict>
-		<key>AE</key>
-		<integer>-111</integer>
-		<key>Aacute</key>
-		<integer>-55</integer>
-		<key>Aring</key>
-		<integer>-55</integer>
-		<key>OE</key>
-		<integer>-37</integer>
-		<key>Oslash</key>
-		<integer>-37</integer>
-		<key>Q</key>
-		<integer>-37</integer>
-		<key>ae</key>
-		<integer>-56</integer>
-		<key>agrave</key>
-		<integer>-55</integer>
-		<key>ccedilla</key>
-		<integer>-55</integer>
-		<key>comma</key>
-		<integer>-173</integer>
-		<key>d</key>
-		<integer>-56</integer>
-		<key>ecircumflex</key>
-		<integer>-55</integer>
-		<key>edieresis</key>
-		<integer>-55</integer>
-		<key>egrave</key>
-		<integer>-55</integer>
-		<key>m</key>
-		<integer>-37</integer>
-		<key>oacute</key>
-		<integer>-55</integer>
-		<key>ocircumflex</key>
-		<integer>-55</integer>
-		<key>odieresis</key>
-		<integer>-55</integer>
-		<key>oe</key>
-		<integer>-55</integer>
-		<key>ograve</key>
-		<integer>-55</integer>
-		<key>oslash</key>
-		<integer>-55</integer>
-		<key>p</key>
-		<integer>-37</integer>
-		<key>period</key>
-		<integer>-154</integer>
-		<key>q</key>
-		<integer>-73</integer>
-		<key>question</key>
-		<integer>37</integer>
-		<key>quotedbl</key>
-		<integer>74</integer>
-		<key>quotedblright</key>
-		<integer>75</integer>
-		<key>quoteright</key>
-		<integer>75</integer>
-		<key>quotesingle</key>
-		<integer>74</integer>
-	</dict>
-	<key>W</key>
-	<dict>
-		<key>AE</key>
-		<integer>-74</integer>
-		<key>OE</key>
-		<integer>-18</integer>
-		<key>Oslash</key>
-		<integer>-18</integer>
-		<key>Q</key>
-		<integer>-18</integer>
-		<key>ae</key>
-		<integer>-37</integer>
-		<key>comma</key>
-		<integer>-104</integer>
-		<key>d</key>
-		<integer>-37</integer>
-		<key>m</key>
-		<integer>-18</integer>
-		<key>oacute</key>
-		<integer>-37</integer>
-		<key>ocircumflex</key>
-		<integer>-37</integer>
-		<key>odieresis</key>
-		<integer>-37</integer>
-		<key>oe</key>
-		<integer>-37</integer>
-		<key>ograve</key>
-		<integer>-37</integer>
-		<key>oslash</key>
-		<integer>-37</integer>
-		<key>otilde</key>
-		<integer>-37</integer>
-		<key>p</key>
-		<integer>-30</integer>
-		<key>period</key>
-		<integer>-75</integer>
-		<key>q</key>
-		<integer>-37</integer>
-		<key>quotedbl</key>
-		<integer>92</integer>
-		<key>quotedblright</key>
-		<integer>93</integer>
-		<key>quoteright</key>
-		<integer>92</integer>
-		<key>quotesingle</key>
-		<integer>92</integer>
-		<key>x</key>
-		<integer>-53</integer>
-	</dict>
-	<key>X</key>
-	<dict>
-		<key>OE</key>
-		<integer>-37</integer>
-		<key>Oslash</key>
-		<integer>-37</integer>
-		<key>Q</key>
-		<integer>-37</integer>
-		<key>ae</key>
-		<integer>-18</integer>
-		<key>d</key>
-		<integer>-18</integer>
-		<key>oe</key>
-		<integer>-18</integer>
-		<key>oslash</key>
-		<integer>-18</integer>
-		<key>q</key>
-		<integer>-18</integer>
-		<key>quotedbl</key>
-		<integer>37</integer>
-		<key>quotedblright</key>
-		<integer>37</integer>
-		<key>quoteright</key>
-		<integer>37</integer>
-		<key>quotesingle</key>
-		<integer>37</integer>
-	</dict>
 	<key>Y</key>
 	<dict>
-		<key>Acircumflex</key>
-		<integer>-93</integer>
 		<key>aacute</key>
 		<integer>-92</integer>
 		<key>aring</key>
 		<integer>-92</integer>
 		<key>ntilde</key>
 		<integer>-55</integer>
-		<key>oacute</key>
-		<integer>-92</integer>
-		<key>odieresis</key>
-		<integer>-92</integer>
-		<key>ograve</key>
-		<integer>-92</integer>
-		<key>scaron</key>
-		<integer>-75</integer>
 		<key>ugrave</key>
 		<integer>-56</integer>
 	</dict>
@@ -1321,8 +857,6 @@
 	<dict>
 		<key>AE</key>
 		<integer>-130</integer>
-		<key>Acircumflex</key>
-		<integer>-93</integer>
 		<key>Ccedilla</key>
 		<integer>-56</integer>
 		<key>J</key>
@@ -1345,10 +879,6 @@
 		<integer>-121</integer>
 		<key>T</key>
 		<integer>35</integer>
-		<key>V</key>
-		<integer>37</integer>
-		<key>W</key>
-		<integer>18</integer>
 		<key>aacute</key>
 		<integer>-129</integer>
 		<key>acircumflex</key>
@@ -1369,16 +899,10 @@
 		<integer>55</integer>
 		<key>bracketright</key>
 		<integer>56</integer>
-		<key>c</key>
-		<integer>-92</integer>
 		<key>comma</key>
 		<integer>-148</integer>
 		<key>d</key>
 		<integer>-93</integer>
-		<key>e</key>
-		<integer>-92</integer>
-		<key>edieresis</key>
-		<integer>-92</integer>
 		<key>f</key>
 		<integer>-24</integer>
 		<key>hyphen</key>
@@ -1387,14 +911,8 @@
 		<integer>-56</integer>
 		<key>oacute</key>
 		<integer>-93</integer>
-		<key>ocircumflex</key>
-		<integer>-92</integer>
-		<key>odieresis</key>
-		<integer>-92</integer>
 		<key>oe</key>
 		<integer>-93</integer>
-		<key>ograve</key>
-		<integer>-92</integer>
 		<key>oslash</key>
 		<integer>-93</integer>
 		<key>p</key>
@@ -1413,10 +931,6 @@
 		<integer>-75</integer>
 		<key>ugrave</key>
 		<integer>-56</integer>
-		<key>v</key>
-		<integer>-37</integer>
-		<key>w</key>
-		<integer>-18</integer>
 		<key>yacute</key>
 		<integer>-37</integer>
 		<key>ydieresis</key>
@@ -1424,8 +938,6 @@
 	</dict>
 	<key>Ydieresis</key>
 	<dict>
-		<key>Acircumflex</key>
-		<integer>-93</integer>
 		<key>Ccedilla</key>
 		<integer>-40</integer>
 		<key>J</key>
@@ -1474,8 +986,6 @@
 		<integer>56</integer>
 		<key>bullet</key>
 		<integer>-37</integer>
-		<key>c</key>
-		<integer>-92</integer>
 		<key>ccedilla</key>
 		<integer>-164</integer>
 		<key>comma</key>
@@ -1553,70 +1063,16 @@
 		<integer>-37</integer>
 		<key>Scaron</key>
 		<integer>-37</integer>
-		<key>U</key>
-		<integer>-18</integer>
-		<key>Uacute</key>
-		<integer>-18</integer>
-		<key>Ucircumflex</key>
-		<integer>-18</integer>
-		<key>Udieresis</key>
-		<integer>-18</integer>
-		<key>Ugrave</key>
-		<integer>-18</integer>
 		<key>ae</key>
-		<integer>-18</integer>
-		<key>c</key>
-		<integer>-18</integer>
-		<key>ccedilla</key>
-		<integer>-18</integer>
-		<key>d</key>
-		<integer>-18</integer>
-		<key>e</key>
-		<integer>-18</integer>
-		<key>eacute</key>
-		<integer>-18</integer>
-		<key>ecircumflex</key>
-		<integer>-18</integer>
-		<key>edieresis</key>
-		<integer>-18</integer>
-		<key>egrave</key>
 		<integer>-18</integer>
 		<key>hyphen</key>
 		<integer>-56</integer>
-		<key>o</key>
-		<integer>-18</integer>
-		<key>oacute</key>
-		<integer>-18</integer>
-		<key>ocircumflex</key>
-		<integer>-18</integer>
-		<key>odieresis</key>
-		<integer>-18</integer>
-		<key>oe</key>
-		<integer>-18</integer>
-		<key>ograve</key>
-		<integer>-18</integer>
-		<key>oslash</key>
-		<integer>-18</integer>
-		<key>otilde</key>
-		<integer>-18</integer>
-		<key>q</key>
-		<integer>-18</integer>
 		<key>quotedbl</key>
 		<integer>18</integer>
 		<key>quotedblright</key>
 		<integer>18</integer>
 		<key>quotesingle</key>
 		<integer>18</integer>
-		<key>v</key>
-		<integer>-37</integer>
-		<key>w</key>
-		<integer>-37</integer>
-		<key>y</key>
-		<integer>-37</integer>
-		<key>yacute</key>
-		<integer>-37</integer>
-		<key>ydieresis</key>
-		<integer>-37</integer>
 	</dict>
 	<key>ae</key>
 	<dict>
@@ -1627,32 +1083,12 @@
 	<dict>
 		<key>Acircumflex</key>
 		<integer>-18</integer>
-		<key>C</key>
-		<integer>-18</integer>
-		<key>Ccedilla</key>
-		<integer>-18</integer>
 		<key>Egrave</key>
 		<integer>-18</integer>
 		<key>Iacute</key>
 		<integer>-18</integer>
 		<key>J</key>
 		<integer>55</integer>
-		<key>O</key>
-		<integer>-18</integer>
-		<key>Oacute</key>
-		<integer>-18</integer>
-		<key>Ocircumflex</key>
-		<integer>-18</integer>
-		<key>Odieresis</key>
-		<integer>-18</integer>
-		<key>Ograve</key>
-		<integer>-18</integer>
-		<key>Oslash</key>
-		<integer>-18</integer>
-		<key>Otilde</key>
-		<integer>-18</integer>
-		<key>Q</key>
-		<integer>-18</integer>
 		<key>hyphen</key>
 		<integer>-37</integer>
 		<key>quotedbl</key>
@@ -1666,30 +1102,6 @@
 	</dict>
 	<key>afii10056</key>
 	<dict>
-		<key>C</key>
-		<integer>-18</integer>
-		<key>Ccedilla</key>
-		<integer>-18</integer>
-		<key>G</key>
-		<integer>-18</integer>
-		<key>O</key>
-		<integer>-18</integer>
-		<key>OE</key>
-		<integer>-18</integer>
-		<key>Oacute</key>
-		<integer>-18</integer>
-		<key>Ocircumflex</key>
-		<integer>-18</integer>
-		<key>Odieresis</key>
-		<integer>-18</integer>
-		<key>Ograve</key>
-		<integer>-18</integer>
-		<key>Oslash</key>
-		<integer>-18</integer>
-		<key>Otilde</key>
-		<integer>-18</integer>
-		<key>Q</key>
-		<integer>-18</integer>
 		<key>quotedbl</key>
 		<integer>37</integer>
 		<key>quotedblright</key>
@@ -1785,8 +1197,6 @@
 	</dict>
 	<key>b</key>
 	<dict>
-		<key>b</key>
-		<integer>-40</integer>
 		<key>quotesingle</key>
 		<integer>-37</integer>
 	</dict>
@@ -1799,8 +1209,6 @@
 	</dict>
 	<key>chi</key>
 	<dict>
-		<key>f</key>
-		<integer>18</integer>
 		<key>quotedbl</key>
 		<integer>37</integer>
 		<key>quotedblright</key>
@@ -1820,17 +1228,8 @@
 		<integer>-56</integer>
 		<key>Q</key>
 		<integer>-55</integer>
-		<key>V</key>
-		<integer>-92</integer>
-		<key>W</key>
-		<integer>-75</integer>
 		<key>Yacute</key>
 		<integer>-93</integer>
-	</dict>
-	<key>d</key>
-	<dict>
-		<key>d</key>
-		<integer>-29</integer>
 	</dict>
 	<key>eacute</key>
 	<dict>
@@ -1868,27 +1267,8 @@
 		<key>quotesingle</key>
 		<integer>-37</integer>
 	</dict>
-	<key>f</key>
-	<dict>
-		<key>f</key>
-		<integer>-150</integer>
-		<key>quotedbl</key>
-		<integer>92</integer>
-		<key>quotedblright</key>
-		<integer>93</integer>
-		<key>quoteright</key>
-		<integer>93</integer>
-		<key>quotesingle</key>
-		<integer>93</integer>
-		<key>v</key>
-		<integer>18</integer>
-		<key>w</key>
-		<integer>18</integer>
-	</dict>
 	<key>gamma</key>
 	<dict>
-		<key>f</key>
-		<integer>18</integer>
 		<key>quotedbl</key>
 		<integer>37</integer>
 		<key>quotedblright</key>
@@ -1925,15 +1305,8 @@
 		<key>quotesingle</key>
 		<integer>37</integer>
 	</dict>
-	<key>l</key>
-	<dict>
-		<key>w</key>
-		<integer>-10</integer>
-	</dict>
 	<key>lambda</key>
 	<dict>
-		<key>f</key>
-		<integer>18</integer>
 		<key>quotedbl</key>
 		<integer>37</integer>
 		<key>quotedblright</key>
@@ -1957,8 +1330,6 @@
 	</dict>
 	<key>nu</key>
 	<dict>
-		<key>f</key>
-		<integer>18</integer>
 		<key>quotedbl</key>
 		<integer>37</integer>
 		<key>quotedblright</key>
@@ -2033,10 +1404,6 @@
 		<integer>-56</integer>
 		<key>Q</key>
 		<integer>-55</integer>
-		<key>V</key>
-		<integer>-92</integer>
-		<key>W</key>
-		<integer>-75</integer>
 		<key>Yacute</key>
 		<integer>-93</integer>
 	</dict>
@@ -2058,10 +1425,6 @@
 		<integer>-74</integer>
 		<key>Aring</key>
 		<integer>-74</integer>
-		<key>V</key>
-		<integer>75</integer>
-		<key>W</key>
-		<integer>92</integer>
 		<key>X</key>
 		<integer>37</integer>
 		<key>Ydieresis</key>
@@ -2080,10 +1443,6 @@
 		<integer>-56</integer>
 		<key>q</key>
 		<integer>-56</integer>
-		<key>v</key>
-		<integer>37</integer>
-		<key>w</key>
-		<integer>18</integer>
 	</dict>
 	<key>quotedblleft</key>
 	<dict>
@@ -2097,10 +1456,6 @@
 		<integer>-75</integer>
 		<key>Aring</key>
 		<integer>-75</integer>
-		<key>V</key>
-		<integer>74</integer>
-		<key>W</key>
-		<integer>92</integer>
 		<key>X</key>
 		<integer>37</integer>
 		<key>Yacute</key>
@@ -2123,10 +1478,6 @@
 		<integer>-56</integer>
 		<key>q</key>
 		<integer>-56</integer>
-		<key>v</key>
-		<integer>37</integer>
-		<key>w</key>
-		<integer>18</integer>
 	</dict>
 	<key>quoteleft</key>
 	<dict>
@@ -2140,10 +1491,6 @@
 		<integer>-75</integer>
 		<key>Aring</key>
 		<integer>-75</integer>
-		<key>V</key>
-		<integer>75</integer>
-		<key>W</key>
-		<integer>92</integer>
 		<key>X</key>
 		<integer>37</integer>
 		<key>ae</key>
@@ -2166,10 +1513,6 @@
 		<integer>-55</integer>
 		<key>q</key>
 		<integer>-56</integer>
-		<key>v</key>
-		<integer>37</integer>
-		<key>w</key>
-		<integer>18</integer>
 	</dict>
 	<key>quoteright</key>
 	<dict>
@@ -2188,10 +1531,6 @@
 		<integer>-75</integer>
 		<key>Atilde</key>
 		<integer>-75</integer>
-		<key>V</key>
-		<integer>75</integer>
-		<key>W</key>
-		<integer>92</integer>
 		<key>X</key>
 		<integer>37</integer>
 		<key>Ydieresis</key>
@@ -2210,10 +1549,6 @@
 		<integer>-56</integer>
 		<key>q</key>
 		<integer>-56</integer>
-		<key>v</key>
-		<integer>37</integer>
-		<key>w</key>
-		<integer>18</integer>
 	</dict>
 	<key>r</key>
 	<dict>
@@ -2269,38 +1604,10 @@
 		<key>quotesingle</key>
 		<integer>-60</integer>
 	</dict>
-	<key>v</key>
-	<dict>
-		<key>d</key>
-		<integer>-61</integer>
-		<key>f</key>
-		<integer>18</integer>
-		<key>quotedbl</key>
-		<integer>37</integer>
-		<key>quotedblright</key>
-		<integer>75</integer>
-		<key>quoteright</key>
-		<integer>74</integer>
-		<key>quotesingle</key>
-		<integer>37</integer>
-	</dict>
-	<key>w</key>
-	<dict>
-		<key>f</key>
-		<integer>18</integer>
-		<key>quotedbl</key>
-		<integer>74</integer>
-		<key>quotedblright</key>
-		<integer>75</integer>
-		<key>quoteright</key>
-		<integer>75</integer>
-		<key>quotesingle</key>
-		<integer>75</integer>
-	</dict>
 	<key>x</key>
 	<dict>
 		<key>ae</key>
-		<integer>-37</integer>
+		<integer>-49</integer>
 		<key>oe</key>
 		<integer>-37</integer>
 		<key>oslash</key>
