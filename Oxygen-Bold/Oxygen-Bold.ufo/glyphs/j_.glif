@@ -1,47 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J" format="1">
-  <advance width="675"/>
+  <advance width="652"/>
   <unicode hex="004A"/>
   <outline>
     <contour>
-      <point x="60" y="14" type="line"/>
-      <point x="125" y="14" type="line" smooth="yes"/>
-      <point x="278.559" y="14"/>
-      <point x="305" y="65"/>
-      <point x="305" y="223" type="curve" smooth="yes"/>
-      <point x="305" y="1445" type="line"/>
-      <point x="600" y="1445" type="line"/>
-      <point x="600" y="272" type="line" smooth="yes"/>
-      <point x="600" y="-51"/>
-      <point x="493" y="-187"/>
-      <point x="106" y="-187" type="curve" smooth="yes"/>
-      <point x="60" y="-187" type="line"/>
+      <point x="15" y="14" type="line"/>
+      <point x="80" y="14" type="line" smooth="yes"/>
+      <point x="233.559" y="14"/>
+      <point x="260" y="65"/>
+      <point x="260" y="223" type="curve" smooth="yes"/>
+      <point x="260" y="1445" type="line"/>
+      <point x="555" y="1445" type="line"/>
+      <point x="555" y="272" type="line" smooth="yes"/>
+      <point x="555" y="-51"/>
+      <point x="448" y="-187"/>
+      <point x="61" y="-187" type="curve" smooth="yes"/>
+      <point x="15" y="-187" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-187</integer>
-	    <key>width</key>	    <integer>201</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1425</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>305</integer>
-	    <key>width</key>
-	    <integer>295</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-187</integer>
+            <key>width</key>
+            <integer>201</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1425</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>305</integer>
+            <key>width</key>
+            <integer>295</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
       </dict>
     </dict>
   </lib>

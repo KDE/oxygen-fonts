@@ -1,36 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="1">
-  <advance width="989"/>
+  <advance width="973"/>
   <unicode hex="007A"/>
   <outline>
     <contour>
-      <point x="936" y="189" type="line"/>
-      <point x="936" y="0" type="line"/>
-      <point x="51" y="0" type="line"/>
-      <point x="51" y="161" type="line"/>
-      <point x="561" y="885" type="line"/>
-      <point x="77" y="885" type="line"/>
-      <point x="77" y="1065" type="line"/>
-      <point x="920" y="1065" type="line"/>
-      <point x="920" y="919" type="line"/>
-      <point x="413" y="189" type="line"/>
+      <point x="919" y="189" type="line"/>
+      <point x="919" y="0" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="70" y="161" type="line"/>
+      <point x="554" y="885" type="line"/>
+      <point x="96" y="885" type="line"/>
+      <point x="96" y="1065" type="line"/>
+      <point x="903" y="1065" type="line"/>
+      <point x="903" y="919" type="line"/>
+      <point x="420" y="189" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>189</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>885</integer>
-	    <key>width</key>	    <integer>180</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>189</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>885</integer>
+            <key>width</key>
+            <integer>180</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
       </dict>
     </dict>
   </lib>
