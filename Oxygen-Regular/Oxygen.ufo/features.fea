@@ -1,6 +1,14 @@
+feature liga {
+sub f i by fi;
+sub f f by ff;
+sub f l by fl;
+} liga;
+
+
+
+
 # Prefix: Prefix
-languagesystem grek dflt;
-languagesystem cyrl dflt;
+
 languagesystem latn dflt;
 
 
