@@ -46,36 +46,10 @@
       <point x="533" y="-502" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="601" y="1098" type="move" name="top"/>
+      <point x="601" y="1098" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="609" y="1098" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>g</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1218</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

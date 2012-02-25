@@ -19,36 +19,10 @@
       <point x="248" y="1098" type="line"/>
     </contour>
     <contour>
-      <point x="566" y="1098" type="move" name="top"/>
+      <point x="566" y="1098" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="563" y="1098" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>y</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1126</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

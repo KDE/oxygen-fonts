@@ -1,56 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="1">
-  <advance width="1289.12982005"/>
+  <advance width="1289"/>
   <unicode hex="004B"/>
   <outline>
     <contour>
-      <point x="598.0" y="778" type="line"/>
-      <point x="1279.0" y="0" type="line"/>
-      <point x="1056.0" y="0" type="line"/>
-      <point x="456.0" y="682" type="line"/>
-      <point x="339.0" y="581" type="line"/>
-      <point x="339.0" y="0" type="line"/>
-      <point x="163.0" y="0" type="line"/>
-      <point x="163.0" y="1497" type="line"/>
-      <point x="339.0" y="1497" type="line"/>
-      <point x="339.0" y="770" type="line"/>
-      <point x="977.0" y="1497" type="line"/>
-      <point x="1210.0" y="1497" type="line"/>
+      <point x="598" y="778" type="line"/>
+      <point x="1279" y="0" type="line"/>
+      <point x="1056" y="0" type="line"/>
+      <point x="456" y="682" type="line"/>
+      <point x="339" y="581" type="line"/>
+      <point x="339" y="0" type="line"/>
+      <point x="163" y="0" type="line"/>
+      <point x="163" y="1497" type="line"/>
+      <point x="339" y="1497" type="line"/>
+      <point x="339" y="770" type="line"/>
+      <point x="977" y="1497" type="line"/>
+      <point x="1210" y="1497" type="line"/>
     </contour>
     <contour>
-      <point x="678.0" y="1489" type="move" name="top"/>
+      <point x="678" y="1489" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="678.0" y="0" type="move" name="bottom"/>
+      <point x="678" y="0" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="645" y="1489" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="645" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>K</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>1289.12982005</real>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
