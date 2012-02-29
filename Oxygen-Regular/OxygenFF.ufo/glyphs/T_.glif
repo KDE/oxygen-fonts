@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="1">
+  <advance width="1072"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="536" y="1489" type="line"/>
+    </contour>
+    <contour>
+      <point x="536" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="536" y="745" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="1341" type="line"/>
+      <point x="20" y="1497" type="line"/>
+      <point x="1052" y="1497" type="line"/>
+      <point x="1052" y="1341" type="line"/>
+      <point x="623" y="1341" type="line"/>
+      <point x="623" y="0" type="line"/>
+      <point x="447" y="0" type="line"/>
+      <point x="447" y="1341" type="line"/>
+    </contour>
+    <contour>
+      <point x="536" y="1489" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="536" y="0" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="536" y="745" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="536" y="1489" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="536" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="536" y="745" type="move" name="center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
