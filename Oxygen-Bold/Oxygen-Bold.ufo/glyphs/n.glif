@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="n" format="1">
-  <advance width="1202"/>
+  <advance width="1193"/>
   <unicode hex="006E"/>
   <outline>
     <contour>
-      <point x="833" y="620" type="line" smooth="yes"/>
-      <point x="833" y="773.529"/>
-      <point x="798.098" y="908.69"/>
-      <point x="640.146" y="908.69" type="curve" smooth="yes"/>
-      <point x="501.452" y="908.69"/>
-      <point x="397" y="767.366"/>
-      <point x="397" y="608" type="curve" smooth="yes"/>
-      <point x="397" y="0" type="line"/>
-      <point x="112" y="0" type="line"/>
-      <point x="112" y="1065" type="line"/>
-      <point x="369" y="1065" type="line"/>
-      <point x="397" y="893" type="line"/>
-      <point x="469.765" y="1036.83"/>
-      <point x="586.616" y="1103"/>
-      <point x="749" y="1103" type="curve" smooth="yes"/>
-      <point x="1013" y="1103"/>
-      <point x="1118" y="909"/>
-      <point x="1118" y="647" type="curve" smooth="yes"/>
-      <point x="1118" y="0" type="line"/>
-      <point x="833" y="0" type="line"/>
+      <point x="820" y="620" type="line" smooth="yes"/>
+      <point x="820" y="768"/>
+      <point x="811" y="883"/>
+      <point x="644" y="878" type="curve" smooth="yes"/>
+      <point x="539" y="875"/>
+      <point x="430" y="787"/>
+      <point x="384" y="702" type="curve"/>
+      <point x="384" y="0" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="99" y="1065" type="line"/>
+      <point x="337" y="1065" type="line"/>
+      <point x="360" y="942" type="line"/>
+      <point x="444" y="1041"/>
+      <point x="576" y="1106"/>
+      <point x="736" y="1103" type="curve" smooth="yes"/>
+      <point x="994.003096943" y="1098.16244193"/>
+      <point x="1105" y="909"/>
+      <point x="1105" y="647" type="curve" smooth="yes"/>
+      <point x="1105" y="0" type="line"/>
+      <point x="820" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -69,6 +69,28 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>n</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1193</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0214" format="1">
-  <advance width="1412"/>
+  <advance width="1394"/>
   <unicode hex="0214"/>
   <outline>
     <component base="U"/>
-    <component base="uni030F" xOffset="163" yOffset="388"/>
+    <component base="uni030F" xOffset="162.5" yOffset="388"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni0214</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1394</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -54,32 +54,61 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-18</integer>
-	    <key>width</key>	    <integer>229</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1253</integer>
-	    <key>width</key>	    <integer>226</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>149</integer>
-	    <key>width</key>
-	    <integer>250</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>943</integer>
-	    <key>width</key>
-	    <integer>254</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-18</integer>
+            <key>width</key>
+            <integer>229</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1253</integer>
+            <key>width</key>
+            <integer>226</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>149</integer>
+            <key>width</key>
+            <integer>250</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>943</integer>
+            <key>width</key>
+            <integer>254</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni0405</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1292</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

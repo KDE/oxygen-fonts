@@ -1,25 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="W" format="1">
-  <advance width="2096.20641283"/>
+  <advance width="1986"/>
   <unicode hex="0057"/>
   <outline>
     <contour>
-      <point x="1548.60320641" y="195" type="line"/>
-      <point x="1842.60320641" y="1497" type="line"/>
-      <point x="2024.60320641" y="1497" type="line"/>
-      <point x="1652.60320641" y="0" type="line"/>
-      <point x="1442.60320641" y="0" type="line"/>
-      <point x="1047.60320641" y="1248" type="line"/>
-      <point x="651.603206413" y="0" type="line"/>
-      <point x="443.603206413" y="0" type="line"/>
-      <point x="71.6032064128" y="1497" type="line"/>
-      <point x="254.603206413" y="1497" type="line"/>
-      <point x="553.603206413" y="197" type="line"/>
-      <point x="948.603206413" y="1497" type="line"/>
-      <point x="1158.60320641" y="1497" type="line"/>
+      <point x="1494" y="195" type="line"/>
+      <point x="1788" y="1496" type="line"/>
+      <point x="1970" y="1496" type="line"/>
+      <point x="1598" y="0" type="line"/>
+      <point x="1388" y="0" type="line"/>
+      <point x="993" y="1247" type="line"/>
+      <point x="597" y="0" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="17" y="1496" type="line"/>
+      <point x="200" y="1496" type="line"/>
+      <point x="499" y="197" type="line"/>
+      <point x="894" y="1496" type="line"/>
+      <point x="1104" y="1496" type="line"/>
     </contour>
     <contour>
-      <point x="1049.60320641" y="1489" type="move" name="top"/>
+      <point x="995" y="1488" type="line"/>
+    </contour>
+    <contour>
+      <point x="993" y="1488" type="line"/>
+    </contour>
+    <contour>
+      <point x="994" y="1488" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="993" y="1489" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -46,7 +55,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>2096.20641283</real>
+          <integer>1986</integer>
         </dict>
       </dict>
     </dict>

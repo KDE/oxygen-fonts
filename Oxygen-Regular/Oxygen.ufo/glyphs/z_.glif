@@ -1,22 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Z" format="1">
-  <advance width="1268.7423484"/>
+  <advance width="1222"/>
   <unicode hex="005A"/>
   <outline>
     <contour>
-      <point x="1178.43478261" y="1497" type="line"/>
-      <point x="1178.43478261" y="1372" type="line"/>
-      <point x="336.434782609" y="156" type="line"/>
-      <point x="1170.43478261" y="156" type="line"/>
-      <point x="1170.43478261" y="0" type="line"/>
-      <point x="112.434782609" y="0" type="line"/>
-      <point x="112.434782609" y="139" type="line"/>
-      <point x="943.434782609" y="1335" type="line"/>
-      <point x="146.434782609" y="1335" type="line"/>
-      <point x="146.434782609" y="1497" type="line"/>
+      <point x="1178" y="1496" type="line"/>
+      <point x="1178" y="1372" type="line"/>
+      <point x="336.005" y="156" type="line"/>
+      <point x="1170" y="156" type="line"/>
+      <point x="1170" y="0" type="line"/>
+      <point x="112.005" y="0" type="line"/>
+      <point x="112.005" y="139" type="line"/>
+      <point x="943.005" y="1335" type="line"/>
+      <point x="146.005" y="1335" type="line"/>
+      <point x="146" y="1496" type="line"/>
     </contour>
     <contour>
-      <point x="636.434782609" y="1489" type="move" name="top"/>
+      <point x="636" y="1488" type="line"/>
+    </contour>
+    <contour>
+      <point x="634" y="1488" type="line"/>
+    </contour>
+    <contour>
+      <point x="614" y="1488" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="611" y="1489" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -43,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1268.7423484</real>
+          <integer>1222</integer>
         </dict>
       </dict>
     </dict>

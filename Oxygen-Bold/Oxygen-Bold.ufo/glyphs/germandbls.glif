@@ -68,38 +68,67 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-17</integer>
-	    <key>width</key>	    <integer>212</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1274</integer>
-	    <key>width</key>	    <integer>204</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>182</integer>
-	    <key>width</key>
-	    <integer>248</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>845</integer>
-	    <key>width</key>
-	    <integer>271</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1012</integer>
-	    <key>width</key>
-	    <integer>267</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-17</integer>
+            <key>width</key>
+            <integer>212</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1274</integer>
+            <key>width</key>
+            <integer>204</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>182</integer>
+            <key>width</key>
+            <integer>248</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>845</integer>
+            <key>width</key>
+            <integer>271</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1012</integer>
+            <key>width</key>
+            <integer>267</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>germandbls</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1340</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

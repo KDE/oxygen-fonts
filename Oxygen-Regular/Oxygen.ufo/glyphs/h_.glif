@@ -8,20 +8,38 @@
       <point x="339" y="696" type="line"/>
       <point x="339" y="0" type="line"/>
       <point x="163" y="0" type="line"/>
-      <point x="163" y="1497" type="line"/>
-      <point x="339" y="1497" type="line"/>
+      <point x="163" y="1496" type="line"/>
+      <point x="339" y="1496" type="line"/>
       <point x="339" y="848" type="line"/>
       <point x="1156" y="848" type="line"/>
-      <point x="1156" y="1497" type="line"/>
-      <point x="1332" y="1497" type="line"/>
+      <point x="1156" y="1496" type="line"/>
+      <point x="1332" y="1496" type="line"/>
       <point x="1332" y="0" type="line"/>
       <point x="1156" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="750" y="1489" type="move" name="top"/>
+      <point x="750" y="1488" type="line"/>
     </contour>
     <contour>
-      <point x="750" y="745" type="move" name="center"/>
+      <point x="750" y="745" type="line"/>
+    </contour>
+    <contour>
+      <point x="748" y="1488" type="line"/>
+    </contour>
+    <contour>
+      <point x="748" y="745" type="line"/>
+    </contour>
+    <contour>
+      <point x="748" y="1488" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="748" y="745" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="748" y="1489" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="748" y="745" type="move" name="center"/>
     </contour>
   </outline>
   <lib>

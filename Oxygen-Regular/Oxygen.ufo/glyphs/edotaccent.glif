@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="edotaccent" format="1">
-  <advance width="1172"/>
+  <advance width="1112"/>
   <unicode hex="0117"/>
   <outline>
-    <component base="dotaccent" xOffset="406" yOffset="-95"/>
+    <component base="dotaccent" xOffset="371" yOffset="-27"/>
     <component base="e"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>edotaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1112</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

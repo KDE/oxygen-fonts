@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcaron" format="1">
-  <advance width="774"/>
+  <advance width="695"/>
   <unicode hex="0165"/>
   <outline>
-    <component base="comma" xOffset="395" yOffset="1232"/>
     <component base="t"/>
+    <component base="comma" xOffset="343" yOffset="1232"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>774</integer>
+          <integer>695</integer>
         </dict>
       </dict>
     </dict>

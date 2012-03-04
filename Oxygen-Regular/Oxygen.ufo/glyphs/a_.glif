@@ -1,28 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="1">
-  <advance width="1471"/>
+  <advance width="1331"/>
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="71" y="0" type="line"/>
-      <point x="645" y="1497" type="line"/>
-      <point x="857" y="1497" type="line"/>
-      <point x="1400" y="0" type="line"/>
-      <point x="1218" y="0" type="line"/>
-      <point x="1047" y="473" type="line"/>
-      <point x="437" y="473" type="line"/>
-      <point x="253" y="0" type="line"/>
+      <point x="1" y="0" type="line"/>
+      <point x="575" y="1496" type="line"/>
+      <point x="787" y="1496" type="line"/>
+      <point x="1330" y="0" type="line"/>
+      <point x="1148" y="0" type="line"/>
+      <point x="977" y="473" type="line"/>
+      <point x="367" y="473" type="line"/>
+      <point x="183" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="985" y="627" type="line"/>
-      <point x="752" y="1294" type="line"/>
-      <point x="495" y="627" type="line"/>
+      <point x="915" y="627" type="line"/>
+      <point x="682" y="1294" type="line"/>
+      <point x="425" y="627" type="line"/>
     </contour>
     <contour>
-      <point x="735" y="1489" type="move" name="top"/>
+      <point x="665" y="1489" type="line"/>
     </contour>
     <contour>
-      <point x="1341" y="10" type="move" name="ogonek"/>
+      <point x="1271" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="666" y="1489" type="line"/>
+    </contour>
+    <contour>
+      <point x="1254" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="666" y="1489" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1206" y="10" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="666" y="1489" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1198" y="10" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>
@@ -49,7 +67,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1471</integer>
+          <integer>1331</integer>
         </dict>
       </dict>
     </dict>

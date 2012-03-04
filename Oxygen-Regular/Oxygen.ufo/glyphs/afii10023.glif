@@ -3,7 +3,36 @@
   <advance width="1169"/>
   <unicode hex="0401"/>
   <outline>
-    <component base="dieresis" xOffset="147" yOffset="352"/>
     <component base="uni0415"/>
+    <component base="dieresis" xOffset="195.5" yOffset="393"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10023</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1169</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

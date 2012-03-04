@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="y" format="1">
-  <advance width="1109"/>
+  <advance width="1086"/>
   <unicode hex="0079"/>
   <outline>
     <contour>
-      <point x="135" y="-186" type="line" smooth="yes"/>
-      <point x="322" y="-186"/>
-      <point x="413" y="-127"/>
-      <point x="426" y="40" type="curve"/>
-      <point x="2" y="1065" type="line"/>
-      <point x="296" y="1065" type="line"/>
-      <point x="568" y="314" type="line"/>
-      <point x="798" y="1065" type="line"/>
-      <point x="1103" y="1065" type="line"/>
-      <point x="694" y="6" type="line"/>
-      <point x="638" y="-258"/>
-      <point x="464" y="-383"/>
-      <point x="115" y="-383" type="curve" smooth="yes"/>
-      <point x="88" y="-383" type="line"/>
-      <point x="88" y="-186" type="line"/>
+      <point x="124" y="-186" type="line" smooth="yes"/>
+      <point x="311" y="-186"/>
+      <point x="402" y="-127"/>
+      <point x="415" y="40" type="curve"/>
+      <point x="-9" y="1065" type="line"/>
+      <point x="285" y="1065" type="line"/>
+      <point x="557" y="314" type="line"/>
+      <point x="787" y="1065" type="line"/>
+      <point x="1092" y="1065" type="line"/>
+      <point x="683" y="6" type="line"/>
+      <point x="627" y="-258"/>
+      <point x="453" y="-383"/>
+      <point x="104" y="-383" type="curve" smooth="yes"/>
+      <point x="77" y="-383" type="line"/>
+      <point x="77" y="-186" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -43,6 +43,28 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>y</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1086</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

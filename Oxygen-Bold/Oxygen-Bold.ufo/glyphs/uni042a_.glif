@@ -34,36 +34,67 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>15</integer>
-	    <key>width</key>	    <integer>217</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>742</integer>
-	    <key>width</key>	    <integer>218</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1222</integer>
-	    <key>width</key>	    <integer>218</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>364</integer>
-	    <key>width</key>
-	    <integer>259</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1236</integer>
-	    <key>width</key>
-	    <integer>239</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>15</integer>
+            <key>width</key>
+            <integer>217</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>742</integer>
+            <key>width</key>
+            <integer>218</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1222</integer>
+            <key>width</key>
+            <integer>218</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>364</integer>
+            <key>width</key>
+            <integer>259</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1236</integer>
+            <key>width</key>
+            <integer>239</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni042A</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1558</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

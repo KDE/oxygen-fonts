@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcaron" format="1">
-  <advance width="1167"/>
+  <advance width="1072"/>
   <unicode hex="0164"/>
   <outline>
     <component base="T"/>
-    <component base="caron" xOffset="182.500" yOffset="391"/>
+    <component base="caron" xOffset="134.5" yOffset="391"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Tcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1072</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oacute" format="1">
-  <advance width="1283"/>
+  <advance width="1205"/>
   <unicode hex="00F3"/>
   <outline>
-    <component base="acute" xOffset="453" yOffset="-5"/>
     <component base="o"/>
+    <component base="acute" xOffset="356"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>oacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1205</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -50,30 +50,61 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-221</integer>
-	    <key>width</key>	    <integer>186</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>547</integer>
-	    <key>width</key>	    <integer>196</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1325</integer>
-	    <key>width</key>	    <integer>186</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>198</integer>
-	    <key>width</key>
-	    <integer>234</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-221</integer>
+            <key>width</key>
+            <integer>186</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>547</integer>
+            <key>width</key>
+            <integer>196</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1325</integer>
+            <key>width</key>
+            <integer>186</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>198</integer>
+            <key>width</key>
+            <integer>234</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>braceright</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>662</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

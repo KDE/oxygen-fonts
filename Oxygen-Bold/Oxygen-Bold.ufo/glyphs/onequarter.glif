@@ -10,7 +10,7 @@
       <point x="1641" y="1443"/>
       <point x="1640" y="1441"/>
       <point x="1639" y="1439" type="curve" smooth="yes"/>
-      <point x="624" y="-0" type="line"/>
+      <point x="624" y="0" type="line"/>
     </contour>
     <contour>
       <point x="1619" y="200" type="line"/>
@@ -65,46 +65,79 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>200</integer>
-	    <key>width</key>	    <integer>167</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>584</integer>
-	    <key>width</key>	    <integer>207</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1426</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>345</integer>
-	    <key>width</key>
-	    <integer>216</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>404</integer>
-	    <key>width</key>
-	    <integer>220</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1442</integer>
-	    <key>width</key>
-	    <integer>178</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>200</integer>
+            <key>width</key>
+            <integer>167</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>584</integer>
+            <key>width</key>
+            <integer>207</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1426</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>345</integer>
+            <key>width</key>
+            <integer>216</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>404</integer>
+            <key>width</key>
+            <integer>220</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1442</integer>
+            <key>width</key>
+            <integer>178</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>onequarter</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>2016</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

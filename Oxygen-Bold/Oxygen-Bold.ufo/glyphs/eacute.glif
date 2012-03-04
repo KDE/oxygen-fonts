@@ -3,53 +3,86 @@
   <advance width="1117"/>
   <unicode hex="00E9"/>
   <outline>
-    <component base="acute" xOffset="309" yOffset="49"/>
+    <component base="acute" xOffset="249" yOffset="49"/>
     <component base="e"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-20</integer>
-	    <key>width</key>	    <integer>198</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>477</integer>
-	    <key>width</key>	    <integer>154</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>911</integer>
-	    <key>width</key>	    <integer>192</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1225</integer>
-	    <key>width</key>	    <integer>340</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>49</integer>
-	    <key>width</key>
-	    <integer>295</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>481</integer>
-	    <key>width</key>
-	    <integer>543</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>791</integer>
-	    <key>width</key>
-	    <integer>278</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-20</integer>
+            <key>width</key>
+            <integer>198</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>477</integer>
+            <key>width</key>
+            <integer>154</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>911</integer>
+            <key>width</key>
+            <integer>192</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1225</integer>
+            <key>width</key>
+            <integer>340</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>49</integer>
+            <key>width</key>
+            <integer>295</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>481</integer>
+            <key>width</key>
+            <integer>543</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>791</integer>
+            <key>width</key>
+            <integer>278</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>eacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1117</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

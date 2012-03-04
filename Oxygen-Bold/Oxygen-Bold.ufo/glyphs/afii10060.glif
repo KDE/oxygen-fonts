@@ -30,32 +30,61 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>662</integer>
-	    <key>width</key>	    <integer>218</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1222</integer>
-	    <key>width</key>	    <integer>218</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>614</integer>
-	    <key>width</key>
-	    <integer>264</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1365</integer>
-	    <key>width</key>
-	    <integer>241</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>662</integer>
+            <key>width</key>
+            <integer>218</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1222</integer>
+            <key>width</key>
+            <integer>218</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>614</integer>
+            <key>width</key>
+            <integer>264</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1365</integer>
+            <key>width</key>
+            <integer>241</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10060</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1866</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="1">
-  <advance width="1289"/>
+  <advance width="1272"/>
   <unicode hex="004B"/>
   <outline>
     <contour>
@@ -11,23 +11,64 @@
       <point x="339" y="581" type="line"/>
       <point x="339" y="0" type="line"/>
       <point x="163" y="0" type="line"/>
-      <point x="163" y="1497" type="line"/>
-      <point x="339" y="1497" type="line"/>
+      <point x="163" y="1496" type="line"/>
+      <point x="339" y="1496" type="line"/>
       <point x="339" y="770" type="line"/>
-      <point x="977" y="1497" type="line"/>
-      <point x="1210" y="1497" type="line"/>
+      <point x="977" y="1496" type="line"/>
+      <point x="1210" y="1496" type="line"/>
     </contour>
     <contour>
-      <point x="678" y="1489" type="line" smooth="yes"/>
+      <point x="678" y="1488" type="line"/>
     </contour>
     <contour>
-      <point x="678" y="0" type="line" smooth="yes"/>
+      <point x="678" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="645" y="1489" type="move" name="top"/>
+      <point x="645" y="1488" type="line"/>
     </contour>
     <contour>
-      <point x="645" y="0" type="move" name="bottom"/>
+      <point x="645" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="635" y="1488" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="635" y="0" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="636" y="1489" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="636" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>K</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1272</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

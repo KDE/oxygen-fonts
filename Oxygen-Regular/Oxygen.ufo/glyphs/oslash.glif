@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oslash" format="1">
-  <advance width="1282"/>
+  <advance width="1260"/>
   <unicode hex="00F8"/>
   <outline>
     <contour>
-      <point x="641" y="1098" type="line" smooth="yes"/>
+      <point x="641" y="1098" type="line"/>
     </contour>
     <contour>
       <point x="636" y="1132" type="curve" smooth="yes"/>
@@ -57,7 +57,42 @@
       <point x="994" y="322"/>
     </contour>
     <contour>
+      <point x="641" y="1098" type="line"/>
+    </contour>
+    <contour>
+      <point x="641" y="1098" type="line" smooth="yes"/>
+    </contour>
+    <contour>
       <point x="641" y="1098" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>oslash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1260</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

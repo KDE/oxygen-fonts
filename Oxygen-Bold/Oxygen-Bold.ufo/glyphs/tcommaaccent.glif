@@ -10,40 +10,73 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-358</integer>
-	    <key>width</key>	    <integer>366</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>-6</integer>
-	    <key>width</key>	    <integer>198</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>894</integer>
-	    <key>width</key>	    <integer>171</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1431</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>188</integer>
-	    <key>width</key>
-	    <integer>285</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>506</integer>
-	    <key>width</key>
-	    <integer>290</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-358</integer>
+            <key>width</key>
+            <integer>366</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-6</integer>
+            <key>width</key>
+            <integer>198</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>894</integer>
+            <key>width</key>
+            <integer>171</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1431</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>188</integer>
+            <key>width</key>
+            <integer>285</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>506</integer>
+            <key>width</key>
+            <integer>290</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tcommaaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>757</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

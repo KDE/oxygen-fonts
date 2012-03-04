@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="1">
-  <advance width="1564"/>
+  <advance width="1549"/>
   <unicode hex="0044"/>
   <outline>
     <contour>
       <point x="163" y="0" type="line"/>
-      <point x="163" y="1497" type="line"/>
-      <point x="529" y="1497" type="line" smooth="yes"/>
-      <point x="1046" y="1497"/>
+      <point x="163" y="1496" type="line"/>
+      <point x="529" y="1496" type="line" smooth="yes"/>
+      <point x="1046" y="1496"/>
       <point x="1447" y="1325"/>
       <point x="1447" y="748" type="curve" smooth="yes"/>
       <point x="1447" y="250"/>
@@ -26,10 +26,28 @@
       <point x="550" y="1341" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="795" y="1489" type="move" name="top"/>
+      <point x="795" y="1489" type="line"/>
     </contour>
     <contour>
-      <point x="795" y="745" type="move" name="center"/>
+      <point x="795" y="745" type="line"/>
+    </contour>
+    <contour>
+      <point x="782" y="1489" type="line"/>
+    </contour>
+    <contour>
+      <point x="782" y="745" type="line"/>
+    </contour>
+    <contour>
+      <point x="772" y="1489" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="772" y="745" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="775" y="1489" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="775" y="745" type="move" name="center"/>
     </contour>
   </outline>
   <lib>
@@ -56,7 +74,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1564</integer>
+          <integer>1549</integer>
         </dict>
       </dict>
     </dict>

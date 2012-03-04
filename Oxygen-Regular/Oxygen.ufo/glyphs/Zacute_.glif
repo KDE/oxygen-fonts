@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zacute" format="1">
-  <advance width="1268"/>
+  <advance width="1222"/>
   <unicode hex="0179"/>
   <outline>
     <component base="Z"/>
-    <component base="acute" xOffset="254.500" yOffset="391"/>
+    <component base="acute" xOffset="263.5" yOffset="391"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Zacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1222</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

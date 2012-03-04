@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="racute" format="1">
-  <advance width="762"/>
+  <advance width="673"/>
   <unicode hex="0155"/>
   <outline>
-    <component base="acute" xOffset="210" yOffset="-3"/>
+    <component base="acute" xOffset="-42.5"/>
     <component base="r"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>racute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>673</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
