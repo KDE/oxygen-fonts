@@ -4,41 +4,27 @@
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="967" y="845" type="line" smooth="no"/>
-      <point x="967" y="692" type="line" smooth="no"/>
-      <point x="324" y="692" type="line" smooth="no"/>
-      <point x="324" y="156" type="line" smooth="no"/>
-      <point x="1038" y="156" type="line" smooth="no"/>
-      <point x="1023" y="0" type="line" smooth="no"/>
-      <point x="147" y="0" type="line" smooth="no"/>
-      <point x="147" y="1496" type="line" smooth="no"/>
-      <point x="1009" y="1496" type="line" smooth="no"/>
-      <point x="995" y="1341" type="line" smooth="no"/>
-      <point x="324" y="1341" type="line" smooth="no"/>
-      <point x="324" y="845" type="line" smooth="no"/>
+      <point x="967" y="845" type="line"/>
+      <point x="967" y="692" type="line"/>
+      <point x="324" y="692" type="line"/>
+      <point x="324" y="156" type="line"/>
+      <point x="1038" y="156" type="line"/>
+      <point x="1023" y="0" type="line"/>
+      <point x="147" y="0" type="line"/>
+      <point x="147" y="1496" type="line"/>
+      <point x="1009" y="1496" type="line"/>
+      <point x="995" y="1341" type="line"/>
+      <point x="324" y="1341" type="line"/>
+      <point x="324" y="845" type="line"/>
+    </contour>
+    <contour>
+      <point x="548" y="1489" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="548" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="986" y="10" type="move" name="ogonek"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>back</key>
-    <key>name</key>
-      <string>E</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1096</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-    </dict>
-  </lib>
 </glyph>

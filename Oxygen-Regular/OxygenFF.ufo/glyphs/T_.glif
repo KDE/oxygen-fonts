@@ -4,37 +4,23 @@
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="9" y="1341" type="line" smooth="no"/>
-      <point x="9" y="1496" type="line" smooth="no"/>
-      <point x="1041" y="1496" type="line" smooth="no"/>
-      <point x="1041" y="1341" type="line" smooth="no"/>
-      <point x="612" y="1341" type="line" smooth="no"/>
-      <point x="612" y="0" type="line" smooth="no"/>
-      <point x="436" y="0" type="line" smooth="no"/>
-      <point x="436" y="1341" type="line" smooth="no"/>
+      <point x="9" y="1341" type="line"/>
+      <point x="9" y="1496" type="line"/>
+      <point x="1041" y="1496" type="line"/>
+      <point x="1041" y="1341" type="line"/>
+      <point x="612" y="1341" type="line"/>
+      <point x="612" y="0" type="line"/>
+      <point x="436" y="0" type="line"/>
+      <point x="436" y="1341" type="line"/>
+    </contour>
+    <contour>
+      <point x="525" y="1489" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="525" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="525" y="745" type="move" name="center"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>back</key>
-    <key>name</key>
-      <string>T</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1050</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-    </dict>
-  </lib>
 </glyph>

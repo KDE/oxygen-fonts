@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ohungarumlaut" format="1">
-  <advance width="1693"/>
+  <advance width="1661"/>
   <unicode hex="0150"/>
   <outline>
-    <component base="hungarumlaut" xOffset="551.500" yOffset="388"/>
+    <component base="hungarumlaut" xOffset="410" yOffset="368"/>
     <component base="O"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

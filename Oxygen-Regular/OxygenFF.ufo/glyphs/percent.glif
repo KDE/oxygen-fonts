@@ -46,10 +46,10 @@
       <point x="225" y="1489"/>
     </contour>
     <contour>
-      <point x="401" y="-4" type="line" smooth="no"/>
-      <point x="1196" y="1462" type="line" smooth="no"/>
-      <point x="1358" y="1462" type="line" smooth="no"/>
-      <point x="536" y="-4" type="line" smooth="no"/>
+      <point x="401" y="-4" type="line"/>
+      <point x="1196" y="1462" type="line"/>
+      <point x="1358" y="1462" type="line"/>
+      <point x="536" y="-4" type="line"/>
     </contour>
     <contour>
       <point x="420" y="1378" type="curve" smooth="yes"/>
@@ -66,27 +66,4 @@
       <point x="544" y="1378"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>back</key>
-    <key>name</key>
-      <string>percent</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1877</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-    </dict>
-  </lib>
 </glyph>

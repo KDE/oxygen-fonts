@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="o" format="1">
   <advance width="1199"/>
-  <unicode hex="006f"/>
+  <unicode hex="006F"/>
   <outline>
     <contour>
       <point x="1112" y="549" type="curve" smooth="yes"/>
@@ -31,28 +31,8 @@
       <point x="844" y="113"/>
       <point x="938" y="323"/>
     </contour>
+    <contour>
+      <point x="600" y="1098" type="move" name="top"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>back</key>
-    <key>name</key>
-      <string>o</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1199</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-    </dict>
-  </lib>
 </glyph>

@@ -1,48 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macron" format="1">
   <advance width="770"/>
-  <unicode hex="00af"/>
+  <unicode hex="00AF"/>
   <outline>
     <contour>
-      <point x="387" y="1098" type="line" smooth="no"/>
+      <point x="387" y="1098" type="line"/>
     </contour>
     <contour>
-      <point x="637" y="1275" type="line" smooth="no"/>
-      <point x="136" y="1275" type="line" smooth="no"/>
-      <point x="136" y="1418" type="line" smooth="no"/>
-      <point x="637" y="1418" type="line" smooth="no"/>
+      <point x="637" y="1275" type="line"/>
+      <point x="136" y="1275" type="line"/>
+      <point x="136" y="1418" type="line"/>
+      <point x="637" y="1418" type="line"/>
     </contour>
     <contour>
-      <point x="386.5" y="1098" type="line" smooth="no"/>
+      <point x="386.5" y="1098" type="line"/>
     </contour>
     <contour>
-      <point x="386.5" y="1098" type="line" smooth="no"/>
+      <point x="386.5" y="1098" type="line"/>
     </contour>
     <contour>
-      <point x="386.5" y="1098" type="move" smooth="yes"/>
+      <point x="386.5" y="1098" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="386.5" y="1098" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>back</key>
-    <key>name</key>
-      <string>macron</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>770</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-    </dict>
-  </lib>
 </glyph>

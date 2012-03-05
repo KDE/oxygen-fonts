@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10093" format="1">
   <advance width="1322"/>
-  <unicode hex="044b"/>
+  <unicode hex="044B"/>
   <outline>
     <contour>
-      <point x="1207" y="1098" type="line" smooth="no"/>
-      <point x="1207" y="0" type="line" smooth="no"/>
-      <point x="1039" y="0" type="line" smooth="no"/>
-      <point x="1039" y="1098" type="line" smooth="no"/>
+      <point x="1207" y="1098" type="line"/>
+      <point x="1207" y="0" type="line"/>
+      <point x="1039" y="0" type="line"/>
+      <point x="1039" y="1098" type="line"/>
     </contour>
     <contour>
       <point x="532" y="556" type="curve" smooth="yes"/>
-      <point x="283" y="556" type="line" smooth="no"/>
-      <point x="283" y="144" type="line" smooth="no"/>
+      <point x="283" y="556" type="line"/>
+      <point x="283" y="144" type="line"/>
       <point x="539" y="144" type="line" smooth="yes"/>
       <point x="671" y="144"/>
       <point x="725" y="262"/>
@@ -21,8 +21,8 @@
       <point x="664" y="556"/>
     </contour>
     <contour>
-      <point x="283" y="1098" type="line" smooth="no"/>
-      <point x="283" y="700" type="line" smooth="no"/>
+      <point x="283" y="1098" type="line"/>
+      <point x="283" y="700" type="line"/>
       <point x="508" y="700" type="line" smooth="yes"/>
       <point x="776" y="700"/>
       <point x="887" y="538"/>
@@ -30,70 +30,8 @@
       <point x="887" y="178"/>
       <point x="783" y="0"/>
       <point x="515" y="0" type="curve" smooth="yes"/>
-      <point x="115" y="0" type="line" smooth="no"/>
-      <point x="115" y="1098" type="line" smooth="no"/>
+      <point x="115" y="0" type="line"/>
+      <point x="115" y="1098" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>back</key>
-    <key>name</key>
-      <string>afii10093</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1322</integer>
-    <key>contours</key>
-      <array>
-      <key>points</key>
-      <array>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      </array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-    </dict>
-  </lib>
 </glyph>

@@ -1,48 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute" format="1">
   <advance width="639"/>
-  <unicode hex="00b4"/>
+  <unicode hex="00B4"/>
   <outline>
     <contour>
-      <point x="380" y="1097" type="line" smooth="no"/>
+      <point x="380" y="1097" type="line"/>
     </contour>
     <contour>
-      <point x="567" y="1638" type="line" smooth="no"/>
-      <point x="242" y="1250" type="line" smooth="no"/>
-      <point x="128" y="1250" type="line" smooth="no"/>
-      <point x="314" y="1638" type="line" smooth="no"/>
+      <point x="567" y="1638" type="line"/>
+      <point x="242" y="1250" type="line"/>
+      <point x="128" y="1250" type="line"/>
+      <point x="314" y="1638" type="line"/>
     </contour>
     <contour>
-      <point x="380" y="1097" type="line" smooth="no"/>
+      <point x="380" y="1097" type="line"/>
     </contour>
     <contour>
-      <point x="380" y="1097" type="line" smooth="no"/>
+      <point x="380" y="1097" type="line"/>
     </contour>
     <contour>
-      <point x="347.5" y="1098" type="move" smooth="yes"/>
+      <point x="347.5" y="1098" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="347.5" y="1098" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>back</key>
-    <key>name</key>
-      <string>acute</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>639</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-    </dict>
-  </lib>
 </glyph>

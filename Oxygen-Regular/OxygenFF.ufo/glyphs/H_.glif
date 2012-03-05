@@ -4,41 +4,31 @@
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="1140" y="696" type="line" smooth="no"/>
-      <point x="323" y="696" type="line" smooth="no"/>
-      <point x="323" y="0" type="line" smooth="no"/>
-      <point x="147" y="0" type="line" smooth="no"/>
-      <point x="147" y="1496" type="line" smooth="no"/>
-      <point x="323" y="1496" type="line" smooth="no"/>
-      <point x="323" y="848" type="line" smooth="no"/>
-      <point x="1140" y="848" type="line" smooth="no"/>
-      <point x="1140" y="1496" type="line" smooth="no"/>
-      <point x="1316" y="1496" type="line" smooth="no"/>
-      <point x="1316" y="0" type="line" smooth="no"/>
-      <point x="1140" y="0" type="line" smooth="no"/>
+      <point x="1140" y="696" type="line"/>
+      <point x="323" y="696" type="line"/>
+      <point x="323" y="0" type="line"/>
+      <point x="147" y="0" type="line"/>
+      <point x="147" y="1496" type="line"/>
+      <point x="323" y="1496" type="line"/>
+      <point x="323" y="848" type="line"/>
+      <point x="1140" y="848" type="line"/>
+      <point x="1140" y="1496" type="line"/>
+      <point x="1316" y="1496" type="line"/>
+      <point x="1316" y="0" type="line"/>
+      <point x="1140" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="732" y="1489" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="732" y="745" type="move" name="center"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>back</key>
-    <key>name</key>
-      <string>H</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1463</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

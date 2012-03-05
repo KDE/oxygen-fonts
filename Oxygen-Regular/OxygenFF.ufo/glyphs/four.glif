@@ -4,45 +4,29 @@
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="1117" y="371" type="line" smooth="no"/>
-      <point x="946" y="371" type="line" smooth="no"/>
-      <point x="946" y="0" type="line" smooth="no"/>
-      <point x="778" y="0" type="line" smooth="no"/>
-      <point x="778" y="371" type="line" smooth="no"/>
-      <point x="102" y="371" type="line" smooth="no"/>
-      <point x="102" y="524" type="line" smooth="no"/>
-      <point x="759" y="1497" type="line" smooth="no"/>
-      <point x="946" y="1497" type="line" smooth="no"/>
-      <point x="946" y="509" type="line" smooth="no"/>
-      <point x="1117" y="509" type="line" smooth="no"/>
+      <point x="1117" y="371" type="line"/>
+      <point x="946" y="371" type="line"/>
+      <point x="946" y="0" type="line"/>
+      <point x="778" y="0" type="line"/>
+      <point x="778" y="371" type="line"/>
+      <point x="102" y="371" type="line"/>
+      <point x="102" y="524" type="line"/>
+      <point x="759" y="1496" type="line"/>
+      <point x="946" y="1496" type="line"/>
+      <point x="946" y="516" type="line"/>
+      <point x="1117" y="516" type="line"/>
     </contour>
     <contour>
-      <point x="778" y="1232" type="line" smooth="no"/>
-      <point x="278" y="509" type="line" smooth="no"/>
-      <point x="778" y="509" type="line" smooth="no"/>
+      <point x="778" y="1269" type="line"/>
+      <point x="278" y="516" type="line"/>
+      <point x="778" y="516" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>back</key>
-    <key>name</key>
-      <string>four</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1181</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -3,34 +3,19 @@
   <advance width="589"/>
   <unicode hex="0142"/>
   <outline>
-    <component base="l"/>
     <contour>
-      <point x="487" y="985" type="line" smooth="no"/>
-      <point x="487" y="839" type="line" smooth="no"/>
-      <point x="31" y="486" type="line" smooth="no"/>
-      <point x="31" y="631" type="line" smooth="no"/>
+      <point x="487" y="985" type="line"/>
+      <point x="487" y="839" type="line"/>
+      <point x="31" y="486" type="line"/>
+      <point x="31" y="631" type="line"/>
     </contour>
+    <component base="l"/>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>back</key>
-    <key>name</key>
-      <string>lslash</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

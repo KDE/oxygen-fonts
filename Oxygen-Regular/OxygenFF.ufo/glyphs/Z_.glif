@@ -1,41 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Z" format="1">
   <advance width="1200"/>
-  <unicode hex="005a"/>
+  <unicode hex="005A"/>
   <outline>
     <contour>
-      <point x="1156.99" y="1496" type="line" smooth="no"/>
-      <point x="1156.99" y="1372" type="line" smooth="no"/>
-      <point x="315" y="156" type="line" smooth="no"/>
-      <point x="1148.99" y="156" type="line" smooth="no"/>
-      <point x="1148.99" y="0" type="line" smooth="no"/>
-      <point x="91" y="0" type="line" smooth="no"/>
-      <point x="91" y="139" type="line" smooth="no"/>
-      <point x="922" y="1335" type="line" smooth="no"/>
-      <point x="125" y="1335" type="line" smooth="no"/>
-      <point x="124.995" y="1496" type="line" smooth="no"/>
+      <point x="1156.99" y="1496" type="line"/>
+      <point x="1156.99" y="1372" type="line"/>
+      <point x="315" y="156" type="line"/>
+      <point x="1148.99" y="156" type="line"/>
+      <point x="1148.99" y="0" type="line"/>
+      <point x="91" y="0" type="line"/>
+      <point x="91" y="139" type="line"/>
+      <point x="922" y="1335" type="line"/>
+      <point x="125" y="1335" type="line"/>
+      <point x="124.995" y="1496" type="line"/>
+    </contour>
+    <contour>
+      <point x="600" y="1489" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>back</key>
-    <key>name</key>
-      <string>Z</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-    </dict>
-  </lib>
 </glyph>

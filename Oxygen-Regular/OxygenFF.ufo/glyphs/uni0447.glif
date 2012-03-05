@@ -4,170 +4,26 @@
   <unicode hex="0447"/>
   <outline>
     <contour>
-      <point x="759" y="1098" type="line" smooth="no"/>
-      <point x="928" y="1098" type="line" smooth="no"/>
-      <point x="928" y="0" type="line" smooth="no"/>
-      <point x="760" y="0" type="line" smooth="no"/>
-      <point x="760" y="574" type="line" smooth="no"/>
+      <point x="759" y="1098" type="line"/>
+      <point x="928" y="1098" type="line"/>
+      <point x="928" y="0" type="line"/>
+      <point x="760" y="0" type="line"/>
+      <point x="760" y="574" type="line"/>
       <point x="680" y="447"/>
       <point x="579" y="403"/>
       <point x="439" y="403" type="curve" smooth="yes"/>
       <point x="195" y="403"/>
       <point x="87" y="560"/>
       <point x="87" y="840" type="curve" smooth="yes"/>
-      <point x="87" y="1098" type="line" smooth="no"/>
-      <point x="255" y="1098" type="line" smooth="no"/>
+      <point x="87" y="1098" type="line"/>
+      <point x="255" y="1098" type="line"/>
       <point x="255" y="908" type="line" smooth="yes"/>
       <point x="255" y="654"/>
       <point x="308" y="547"/>
       <point x="473" y="547" type="curve" smooth="yes"/>
       <point x="617" y="547"/>
       <point x="738" y="695"/>
-      <point x="759" y="799" type="curve" smooth="no"/>
+      <point x="759" y="799" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>back</key>
-    <key>name</key>
-      <string>uni0447</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1043</integer>
-    <key>contours</key>
-      <array>
-      <key>points</key>
-      <array>
-      <key>segmentType</key>
-      <string>curve</string>
-    <key>x</key>
-    <key>smooth</key>
-      <true/>
-    <key>y</key>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>segmentType</key>
-      <string>curve</string>
-    <key>x</key>
-    <key>smooth</key>
-      <true/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <true/>
-    <key>y</key>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>segmentType</key>
-      <string>curve</string>
-    <key>x</key>
-    <key>smooth</key>
-      <true/>
-    <key>y</key>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>segmentType</key>
-      <string>curve</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      </array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      <key>y</key>
-    <key>x</key>
-    <key>name</key>
-      <string>bottom</string>
-      <key>y</key>
-    <key>x</key>
-    <key>name</key>
-      <string>top</string>
-      </array>
-    </dict>
-  </lib>
 </glyph>

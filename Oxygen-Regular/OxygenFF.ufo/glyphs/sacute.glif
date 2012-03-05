@@ -1,32 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sacute" format="1">
   <advance width="888"/>
-  <unicode hex="015b"/>
+  <unicode hex="015B"/>
   <outline>
-    <component base="acute" xOffset="104.5" yOffset="-24"/>
+    <component base="acute" xOffset="104.500" yOffset="-24"/>
     <component base="s"/>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>back</key>
-    <key>name</key>
-      <string>sacute</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>889</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-    </dict>
-  </lib>
 </glyph>
