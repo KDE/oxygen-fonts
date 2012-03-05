@@ -1,17 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketleft" format="1">
   <advance width="678"/>
-  <unicode hex="005B"/>
+  <unicode hex="005b"/>
   <outline>
     <contour>
-      <point x="570" y="-139" type="line"/>
-      <point x="570" y="-261" type="line"/>
-      <point x="121" y="-261" type="line"/>
-      <point x="121" y="1505" type="line"/>
-      <point x="570" y="1505" type="line"/>
-      <point x="570" y="1381" type="line"/>
-      <point x="299" y="1381" type="line"/>
-      <point x="299" y="-139" type="line"/>
+      <point x="570" y="-139" type="line" smooth="no"/>
+      <point x="570" y="-261" type="line" smooth="no"/>
+      <point x="121" y="-261" type="line" smooth="no"/>
+      <point x="121" y="1505" type="line" smooth="no"/>
+      <point x="570" y="1505" type="line" smooth="no"/>
+      <point x="570" y="1381" type="line" smooth="no"/>
+      <point x="299" y="1381" type="line" smooth="no"/>
+      <point x="299" y="-139" type="line" smooth="no"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>bracketleft</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>678</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -4,18 +4,41 @@
   <unicode hex="0021"/>
   <outline>
     <contour>
-      <point x="331" y="1462" type="line"/>
-      <point x="331" y="1234" type="line"/>
-      <point x="275" y="377" type="line"/>
-      <point x="216" y="377" type="line"/>
-      <point x="154" y="1234" type="line"/>
-      <point x="154" y="1462" type="line"/>
+      <point x="331" y="1462" type="line" smooth="no"/>
+      <point x="331" y="1234" type="line" smooth="no"/>
+      <point x="275" y="377" type="line" smooth="no"/>
+      <point x="216" y="377" type="line" smooth="no"/>
+      <point x="154" y="1234" type="line" smooth="no"/>
+      <point x="154" y="1462" type="line" smooth="no"/>
     </contour>
     <contour>
-      <point x="154" y="-23" type="line"/>
-      <point x="154" y="185" type="line"/>
-      <point x="331" y="185" type="line"/>
-      <point x="331" y="-23" type="line"/>
+      <point x="154" y="-23" type="line" smooth="no"/>
+      <point x="154" y="185" type="line" smooth="no"/>
+      <point x="331" y="185" type="line" smooth="no"/>
+      <point x="331" y="-23" type="line" smooth="no"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>exclam</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>486</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0209" format="1">
-  <advance width="445"/>
+  <advance width="430"/>
   <unicode hex="0209"/>
   <outline>
-    <component base="uni030F" xOffset="-325" yOffset="-13"/>
+    <component base="uni030F" xOffset="-199.5" yOffset="-33"/>
     <component base="dotlessi"/>
   </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>uni0209</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>445</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
 </glyph>

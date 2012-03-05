@@ -1,21 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043D" format="1">
-  <advance width="1194"/>
-  <unicode hex="043D"/>
+  <advance width="1117"/>
+  <unicode hex="043d"/>
   <outline>
     <contour>
-      <point x="152" y="1098" type="line"/>
-      <point x="322" y="1098" type="line"/>
-      <point x="322" y="665" type="line"/>
-      <point x="870" y="665" type="line"/>
-      <point x="870" y="1098" type="line"/>
-      <point x="1039" y="1098" type="line"/>
-      <point x="1039" y="0" type="line"/>
-      <point x="870" y="0" type="line"/>
-      <point x="870" y="504" type="line"/>
-      <point x="322" y="504" type="line"/>
-      <point x="322" y="0" type="line"/>
-      <point x="152" y="0" type="line"/>
+      <point x="115" y="1098" type="line" smooth="no"/>
+      <point x="283" y="1098" type="line" smooth="no"/>
+      <point x="283" y="653" type="line" smooth="no"/>
+      <point x="835" y="653" type="line" smooth="no"/>
+      <point x="835" y="1098" type="line" smooth="no"/>
+      <point x="1002" y="1098" type="line" smooth="no"/>
+      <point x="1002" y="0" type="line" smooth="no"/>
+      <point x="835" y="0" type="line" smooth="no"/>
+      <point x="835" y="518" type="line" smooth="no"/>
+      <point x="283" y="518" type="line" smooth="no"/>
+      <point x="283" y="0" type="line" smooth="no"/>
+      <point x="115" y="0" type="line" smooth="no"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>uni043D</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1117</integer>
+    <key>contours</key>
+      <array>
+      <key>points</key>
+      <array>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      </array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
 </glyph>

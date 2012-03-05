@@ -1,53 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="1066"/>
+  <advance width="1050"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="533" y="1489" type="line"/>
-    </contour>
-    <contour>
-      <point x="533" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="533" y="745" type="line"/>
-    </contour>
-    <contour>
-      <point x="17" y="1341" type="line"/>
-      <point x="17" y="1496" type="line"/>
-      <point x="1049" y="1496" type="line"/>
-      <point x="1049" y="1341" type="line"/>
-      <point x="620" y="1341" type="line"/>
-      <point x="620" y="0" type="line"/>
-      <point x="444" y="0" type="line"/>
-      <point x="444" y="1341" type="line"/>
-    </contour>
-    <contour>
-      <point x="533" y="1489" type="line"/>
-    </contour>
-    <contour>
-      <point x="533" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="533" y="745" type="line"/>
-    </contour>
-    <contour>
-      <point x="533" y="1489" type="line" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="533" y="0" type="line" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="533" y="745" type="line" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="533" y="1489" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="533" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="533" y="745" type="move" name="center"/>
+      <point x="9" y="1341" type="line"/>
+      <point x="9" y="1496" type="line"/>
+      <point x="1041" y="1496" type="line"/>
+      <point x="1041" y="1341" type="line"/>
+      <point x="612" y="1341" type="line"/>
+      <point x="612" y="0" type="line"/>
+      <point x="436" y="0" type="line"/>
+      <point x="436" y="1341" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -74,7 +38,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1066</integer>
+          <integer>1050</integer>
         </dict>
       </dict>
     </dict>

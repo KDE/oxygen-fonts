@@ -1,35 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Z" format="1">
-  <advance width="1222"/>
-  <unicode hex="005A"/>
+  <advance width="1200"/>
+  <unicode hex="005a"/>
   <outline>
     <contour>
-      <point x="1178" y="1497" type="line"/>
-      <point x="1178" y="1372" type="line"/>
-      <point x="336.005" y="156" type="line"/>
-      <point x="1170" y="156" type="line"/>
-      <point x="1170" y="0" type="line"/>
-      <point x="112.005" y="0" type="line"/>
-      <point x="112.005" y="139" type="line"/>
-      <point x="943.005" y="1335" type="line"/>
-      <point x="146.005" y="1335" type="line"/>
-      <point x="146.005" y="1497" type="line"/>
-    </contour>
-    <contour>
-      <point x="636.005" y="1489" type="line"/>
-    </contour>
-    <contour>
-      <point x="633.57" y="1489" type="line" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="614" y="1489" type="move" name="top"/>
+      <point x="1156.99" y="1496" type="line" smooth="no"/>
+      <point x="1156.99" y="1372" type="line" smooth="no"/>
+      <point x="315" y="156" type="line" smooth="no"/>
+      <point x="1148.99" y="156" type="line" smooth="no"/>
+      <point x="1148.99" y="0" type="line" smooth="no"/>
+      <point x="91" y="0" type="line" smooth="no"/>
+      <point x="91" y="139" type="line" smooth="no"/>
+      <point x="922" y="1335" type="line" smooth="no"/>
+      <point x="125" y="1335" type="line" smooth="no"/>
+      <point x="124.995" y="1496" type="line" smooth="no"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>Z</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,46 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="1">
-  <advance width="1331"/>
+  <advance width="1327"/>
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="1" y="0" type="line"/>
-      <point x="575" y="1496" type="line"/>
-      <point x="787" y="1496" type="line"/>
-      <point x="1330" y="0" type="line"/>
-      <point x="1148" y="0" type="line"/>
-      <point x="977" y="473" type="line"/>
-      <point x="367" y="473" type="line"/>
-      <point x="183" y="0" type="line"/>
+      <point x="-1" y="0" type="line"/>
+      <point x="573" y="1496" type="line"/>
+      <point x="785" y="1496" type="line"/>
+      <point x="1328" y="0" type="line"/>
+      <point x="1146" y="0" type="line"/>
+      <point x="975" y="473" type="line"/>
+      <point x="365" y="473" type="line"/>
+      <point x="181" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="915" y="627" type="line"/>
-      <point x="682" y="1294" type="line"/>
-      <point x="425" y="627" type="line"/>
-    </contour>
-    <contour>
-      <point x="665" y="1489" type="line"/>
-    </contour>
-    <contour>
-      <point x="1271" y="10" type="line"/>
-    </contour>
-    <contour>
-      <point x="666" y="1489" type="line"/>
-    </contour>
-    <contour>
-      <point x="1254" y="10" type="line"/>
-    </contour>
-    <contour>
-      <point x="666" y="1489" type="line" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="1206" y="10" type="line" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="666" y="1489" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="1198" y="10" type="move" name="ogonek"/>
+      <point x="913" y="627" type="line"/>
+      <point x="680" y="1294" type="line"/>
+      <point x="423" y="627" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -67,7 +43,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1331</integer>
+          <integer>1327</integer>
         </dict>
       </dict>
     </dict>

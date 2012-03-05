@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcommaaccent" format="1">
-  <advance width="577"/>
-  <unicode hex="013C"/>
+  <advance width="589"/>
+  <unicode hex="013c"/>
   <outline>
-    <component base="uni0326" xOffset="72" yOffset="41"/>
+    <component base="commaaccentcomb" xOffset="97" yOffset="48"/>
     <component base="l"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>lcommaaccent</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>565</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

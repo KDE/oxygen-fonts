@@ -1,16 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="less" format="1">
   <advance width="1179"/>
-  <unicode hex="003C"/>
+  <unicode hex="003c"/>
   <outline>
     <contour>
-      <point x="1061" y="982" type="line"/>
-      <point x="294" y="596" type="line"/>
-      <point x="1057" y="216" type="line"/>
-      <point x="1057" y="50" type="line"/>
-      <point x="103" y="547" type="line"/>
-      <point x="103" y="642" type="line"/>
-      <point x="1061" y="1149" type="line"/>
+      <point x="1061" y="982" type="line" smooth="no"/>
+      <point x="294" y="596" type="line" smooth="no"/>
+      <point x="1057" y="216" type="line" smooth="no"/>
+      <point x="1057" y="50" type="line" smooth="no"/>
+      <point x="103" y="547" type="line" smooth="no"/>
+      <point x="103" y="642" type="line" smooth="no"/>
+      <point x="1061" y="1149" type="line" smooth="no"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>less</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1179</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
 </glyph>

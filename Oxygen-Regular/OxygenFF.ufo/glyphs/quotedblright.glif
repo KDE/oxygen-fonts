@@ -1,19 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblright" format="1">
   <advance width="795"/>
-  <unicode hex="201D"/>
+  <unicode hex="201d"/>
   <outline>
     <contour>
-      <point x="133" y="1102" type="line"/>
-      <point x="226" y="1574" type="line"/>
-      <point x="385" y="1574" type="line"/>
-      <point x="250" y="1102" type="line"/>
+      <point x="133" y="1102" type="line" smooth="no"/>
+      <point x="226" y="1574" type="line" smooth="no"/>
+      <point x="385" y="1574" type="line" smooth="no"/>
+      <point x="250" y="1102" type="line" smooth="no"/>
     </contour>
     <contour>
-      <point x="420" y="1102" type="line"/>
-      <point x="511" y="1574" type="line"/>
-      <point x="674" y="1574" type="line"/>
-      <point x="537" y="1102" type="line"/>
+      <point x="420" y="1102" type="line" smooth="no"/>
+      <point x="511" y="1574" type="line" smooth="no"/>
+      <point x="674" y="1574" type="line" smooth="no"/>
+      <point x="537" y="1102" type="line" smooth="no"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>quotedblright</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>795</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
 </glyph>

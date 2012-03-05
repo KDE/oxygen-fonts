@@ -1,25 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divide" format="1">
   <advance width="1211"/>
-  <unicode hex="00F7"/>
+  <unicode hex="00f7"/>
   <outline>
     <contour>
-      <point x="1098" y="523" type="line"/>
-      <point x="97" y="523" type="line"/>
-      <point x="97" y="672" type="line"/>
-      <point x="1098" y="672" type="line"/>
+      <point x="1098" y="523" type="line" smooth="no"/>
+      <point x="97" y="523" type="line" smooth="no"/>
+      <point x="97" y="672" type="line" smooth="no"/>
+      <point x="1098" y="672" type="line" smooth="no"/>
     </contour>
     <contour>
-      <point x="716" y="1166" type="line"/>
-      <point x="716" y="939" type="line"/>
-      <point x="491" y="939" type="line"/>
-      <point x="491" y="1166" type="line"/>
+      <point x="716" y="1166" type="line" smooth="no"/>
+      <point x="716" y="939" type="line" smooth="no"/>
+      <point x="491" y="939" type="line" smooth="no"/>
+      <point x="491" y="1166" type="line" smooth="no"/>
     </contour>
     <contour>
-      <point x="682" y="249" type="line"/>
-      <point x="682" y="22" type="line"/>
-      <point x="491" y="22" type="line"/>
-      <point x="491" y="249" type="line"/>
+      <point x="682" y="249" type="line" smooth="no"/>
+      <point x="682" y="22" type="line" smooth="no"/>
+      <point x="491" y="22" type="line" smooth="no"/>
+      <point x="491" y="249" type="line" smooth="no"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>divide</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1211</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
 </glyph>

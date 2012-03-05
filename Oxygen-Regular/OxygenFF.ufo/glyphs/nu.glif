@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nu" format="1">
   <advance width="320"/>
-  <unicode hex="03BD"/>
-  <outline>
-  </outline>
+  <unicode hex="03bd"/>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>nu</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>320</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
 </glyph>

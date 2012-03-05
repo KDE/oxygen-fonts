@@ -1,9 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ucircumflex" format="1">
-  <advance width="1101"/>
-  <unicode hex="00FB"/>
+  <advance width="1103"/>
+  <unicode hex="00fb"/>
   <outline>
-    <component base="circumflex" xOffset="149" yOffset="-5"/>
+    <component base="circumflex" xOffset="150" yOffset="-25"/>
     <component base="u"/>
   </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>ucircumflex</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1101</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
 </glyph>

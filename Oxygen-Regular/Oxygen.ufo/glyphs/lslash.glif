@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash" format="1">
-  <advance width="668"/>
+  <advance width="589.0"/>
   <unicode hex="0142"/>
   <outline>
     <contour>
-      <point x="255" y="1608" type="line"/>
-      <point x="397" y="1608" type="line"/>
-      <point x="397" y="997" type="line"/>
-      <point x="551" y="1105" type="line"/>
-      <point x="551" y="959" type="line"/>
-      <point x="397" y="849" type="line"/>
-      <point x="397" y="0" type="line"/>
-      <point x="255" y="0" type="line"/>
-      <point x="255" y="741" type="line"/>
-      <point x="107" y="636" type="line"/>
-      <point x="107" y="781" type="line"/>
-      <point x="255" y="889" type="line"/>
+      <point x="487" y="985" type="line"/>
+      <point x="487" y="839" type="line"/>
+      <point x="31" y="486" type="line"/>
+      <point x="31" y="631" type="line"/>
     </contour>
+    <component base="l"/>
   </outline>
   <lib>
     <dict>
@@ -42,7 +35,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>668</integer>
+          <real>589.0</real>
         </dict>
       </dict>
     </dict>

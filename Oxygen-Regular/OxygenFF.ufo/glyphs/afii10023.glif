@@ -1,9 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10023" format="1">
-  <advance width="1169"/>
+  <advance width="1096"/>
   <unicode hex="0401"/>
   <outline>
-    <component base="dieresis" xOffset="195.500" yOffset="393"/>
+    <component base="dieresis" xOffset="202" yOffset="373"/>
     <component base="uni0415"/>
   </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>afii10023</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1096</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -1,17 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni041F" format="1">
-  <advance width="1489"/>
-  <unicode hex="041F"/>
+  <advance width="1463"/>
+  <unicode hex="041f"/>
   <outline>
     <contour>
-      <point x="1153" y="1343" type="line"/>
-      <point x="336" y="1343" type="line"/>
-      <point x="336" y="0" type="line"/>
-      <point x="160" y="0" type="line"/>
-      <point x="160" y="1497" type="line"/>
-      <point x="1329" y="1497" type="line"/>
-      <point x="1329" y="0" type="line"/>
-      <point x="1153" y="0" type="line"/>
+      <point x="1140" y="1343" type="line" smooth="no"/>
+      <point x="323" y="1343" type="line" smooth="no"/>
+      <point x="323" y="0" type="line" smooth="no"/>
+      <point x="147" y="0" type="line" smooth="no"/>
+      <point x="147" y="1497" type="line" smooth="no"/>
+      <point x="1316" y="1497" type="line" smooth="no"/>
+      <point x="1316" y="0" type="line" smooth="no"/>
+      <point x="1140" y="0" type="line" smooth="no"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>uni041F</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1463</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -88,10 +88,33 @@
       <point x="519" y="1438"/>
     </contour>
     <contour>
-      <point x="395" y="-22" type="line"/>
-      <point x="259" y="-22" type="line"/>
-      <point x="1115" y="1547" type="line"/>
-      <point x="1272" y="1547" type="line"/>
+      <point x="395" y="-22" type="line" smooth="no"/>
+      <point x="259" y="-22" type="line" smooth="no"/>
+      <point x="1115" y="1547" type="line" smooth="no"/>
+      <point x="1272" y="1547" type="line" smooth="no"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>perthousand</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>2303</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iogonek" format="1">
-  <advance width="442"/>
-  <unicode hex="012F"/>
+  <advance width="440"/>
+  <unicode hex="012f"/>
   <outline>
-    <component base="ogonek" xOffset="-145" yOffset="2"/>
+    <component base="ogonek" xOffset="-163" yOffset="2.36667"/>
     <component base="i"/>
   </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>iogonek</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>454</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
 </glyph>
