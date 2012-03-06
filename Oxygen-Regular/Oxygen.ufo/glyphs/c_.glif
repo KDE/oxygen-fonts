@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="C" format="1">
-  <advance width="1285.00011087"/>
+  <advance width="1284"/>
   <unicode hex="0043"/>
   <outline>
     <contour>
@@ -31,6 +31,12 @@
       <point x="1150" y="1473"/>
       <point x="1013" y="1525"/>
     </contour>
+    <contour>
+      <point x="643" y="1489" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="643" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -56,7 +62,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1285.00011087</real>
+          <integer>1284</integer>
         </dict>
       </dict>
     </dict>

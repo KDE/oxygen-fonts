@@ -1,38 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Nacute" format="1">
-  <advance width="1520"/>
+  <advance width="1488"/>
   <unicode hex="0143"/>
   <outline>
+    <component base="acute" xOffset="396.500" yOffset="377"/>
     <component base="N"/>
-    <component base="acute" xOffset="412.5" yOffset="391"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Nacute</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1520</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

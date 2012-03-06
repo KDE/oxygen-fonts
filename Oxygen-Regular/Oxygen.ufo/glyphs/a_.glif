@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="1">
-  <advance width="1327"/>
+  <advance width="1333"/>
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="-1" y="0" type="line"/>
-      <point x="573" y="1496" type="line"/>
-      <point x="785" y="1496" type="line"/>
-      <point x="1328" y="0" type="line"/>
-      <point x="1146" y="0" type="line"/>
-      <point x="975" y="473" type="line"/>
-      <point x="365" y="473" type="line"/>
-      <point x="181" y="0" type="line"/>
+      <point x="2" y="0" type="line"/>
+      <point x="576" y="1496" type="line"/>
+      <point x="788" y="1496" type="line"/>
+      <point x="1331" y="0" type="line"/>
+      <point x="1151" y="0" type="line"/>
+      <point x="980" y="473" type="line"/>
+      <point x="367" y="473" type="line"/>
+      <point x="183" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="913" y="627" type="line"/>
-      <point x="680" y="1294" type="line"/>
-      <point x="423" y="627" type="line"/>
+      <point x="921" y="611" type="line"/>
+      <point x="683" y="1324" type="line"/>
+      <point x="422" y="611" type="line"/>
+    </contour>
+    <contour>
+      <point x="667" y="1489" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1197" y="10" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>
@@ -43,7 +49,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1327</integer>
+          <integer>1333</integer>
         </dict>
       </dict>
     </dict>

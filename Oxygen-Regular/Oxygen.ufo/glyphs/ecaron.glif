@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecaron" format="1">
-  <advance width="1112"/>
+  <advance width="1082"/>
   <unicode hex="011B"/>
   <outline>
-    <component base="caron" xOffset="160.5"/>
+    <component base="caron" xOffset="147" yOffset="-25"/>
     <component base="e"/>
   </outline>
   <lib>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1112</integer>
+          <integer>1082</integer>
         </dict>
       </dict>
     </dict>

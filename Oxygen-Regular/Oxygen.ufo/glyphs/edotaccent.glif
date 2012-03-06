@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="edotaccent" format="1">
-  <advance width="1112"/>
+  <advance width="1082"/>
   <unicode hex="0117"/>
   <outline>
-    <component base="dotaccent" xOffset="371" yOffset="-27"/>
+    <component base="dotaccentcmb" xOffset="340" yOffset="-115"/>
     <component base="e"/>
   </outline>
   <lib>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1112</integer>
+          <integer>1082</integer>
         </dict>
       </dict>
     </dict>

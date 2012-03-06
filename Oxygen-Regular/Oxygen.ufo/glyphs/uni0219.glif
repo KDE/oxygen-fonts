@@ -1,38 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0219" format="1">
-  <advance width="889"/>
+  <advance width="888"/>
   <unicode hex="0219"/>
   <outline>
+    <component base="commaaccentcomb" xOffset="178" yOffset="23"/>
     <component base="s"/>
-    <component base="commaaccentcomb" xOffset="188.956" yOffset="3"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni0219</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>889</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

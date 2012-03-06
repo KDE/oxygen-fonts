@@ -35,39 +35,10 @@
       <point x="588" y="-141" type="line"/>
     </contour>
     <contour>
-      <point x="559.0" y="1098.0" type="move" name="top"/>
+      <point x="559" y="1098" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="559.0" y="0.0" type="move" name="bottom"/>
+      <point x="559" y="0" type="line" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>eng</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1118</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

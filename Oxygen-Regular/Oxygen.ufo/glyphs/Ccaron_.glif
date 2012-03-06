@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccaron" format="1">
-  <advance width="1312"/>
+  <advance width="1285"/>
   <unicode hex="010C"/>
   <outline>
+    <component base="caron" xOffset="365" yOffset="376"/>
     <component base="C"/>
-    <component base="caron" xOffset="254.5" yOffset="391"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1312</integer>
+          <integer>1285</integer>
         </dict>
       </dict>
     </dict>

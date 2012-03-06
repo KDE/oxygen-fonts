@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idotaccent" format="1">
-  <advance width="502"/>
+  <advance width="486"/>
   <unicode hex="0130"/>
   <outline>
+    <component base="dotaccentcmb" xOffset="34.5" yOffset="286"/>
     <component base="I"/>
-    <component base="dotaccent" xOffset="42.5" yOffset="391"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>502</integer>
+          <integer>486</integer>
         </dict>
       </dict>
     </dict>

@@ -38,7 +38,7 @@
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
 	<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
-	<true/>
+	<false/>
 	<key>com.typemytype.robofont.sort</key>
 	<array>
 		<dict>
@@ -383,6 +383,7 @@
 				<string>iota</string>
 				<string>kappa</string>
 				<string>lambda</string>
+				<string>mu</string>
 				<string>nu</string>
 				<string>pi</string>
 				<string>tau</string>
@@ -548,274 +549,11 @@
 				<string>uni00A0</string>
 				<string>uni000D</string>
 				<string>.notdef</string>
-				<string>mu</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
 		</dict>
 	</array>
-	<key>com.typesupply.MetricsMachine4.groupColors</key>
-	<dict>
-		<key>@MMK_L_A_Left</key>
-		<array>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_B_Left</key>
-		<array>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_H_Left</key>
-		<array>
-			<real>1.0</real>
-			<real>0.5</real>
-			<real>0.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_O_Left</key>
-		<array>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_P_Left</key>
-		<array>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.5</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_R_Left</key>
-		<array>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_S_Left</key>
-		<array>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_T_Left</key>
-		<array>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>1.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_U_Left</key>
-		<array>
-			<real>0.0</real>
-			<real>0.5</real>
-			<real>1.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_V_Left</key>
-		<array>
-			<real>0.0</real>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_W_Left</key>
-		<array>
-			<real>0.5</real>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_X_Left</key>
-		<array>
-			<real>1.0</real>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_Y_Left</key>
-		<array>
-			<real>1.0</real>
-			<real>0.5</real>
-			<real>0.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_k_Left</key>
-		<array>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.5</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_n_Left</key>
-		<array>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_o_Left</key>
-		<array>
-			<real>1.0</real>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_r_Left</key>
-		<array>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>1.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_t_Left</key>
-		<array>
-			<real>0.0</real>
-			<real>0.5</real>
-			<real>1.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_v_Left</key>
-		<array>
-			<real>0.0</real>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_w_Left</key>
-		<array>
-			<real>0.5</real>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_y_Left</key>
-		<array>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_A_Right</key>
-		<array>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>1.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_H_Right</key>
-		<array>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_O_Right</key>
-		<array>
-			<real>1.0</real>
-			<real>0.5</real>
-			<real>0.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_S_Right</key>
-		<array>
-			<real>0.0</real>
-			<real>0.5</real>
-			<real>1.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_T_Right</key>
-		<array>
-			<real>0.0</real>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_U_Right</key>
-		<array>
-			<real>0.0</real>
-			<real>0.5</real>
-			<real>1.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_V_Right</key>
-		<array>
-			<real>0.5</real>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_W_Right</key>
-		<array>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_Y_Right</key>
-		<array>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.5</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_a_Right</key>
-		<array>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_n_Right</key>
-		<array>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_o_Right</key>
-		<array>
-			<real>1.0</real>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_u_Left</key>
-		<array>
-			<real>1.0</real>
-			<real>0.5</real>
-			<real>0.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_v_Left</key>
-		<array>
-			<real>1.0</real>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_w_Left</key>
-		<array>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_y_Left</key>
-		<array>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>1.0</real>
-			<real>0.25</real>
-		</array>
-	</dict>
 	<key>org.robofab.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -1664,6 +1402,7 @@
 		<string>iota</string>
 		<string>kappa</string>
 		<string>lambda</string>
+		<string>mu</string>
 		<string>nu</string>
 		<string>pi</string>
 		<string>tau</string>
@@ -1829,7 +1568,7 @@
 		<string>uni00A0</string>
 		<string>uni000D</string>
 		<string>.notdef</string>
-		<string>mu</string>
+		<string>fj</string>
 	</array>
 </dict>
 </plist>

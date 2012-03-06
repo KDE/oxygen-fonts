@@ -4,8 +4,6 @@
   <unicode hex="0417"/>
   <outline>
     <contour>
-      <point x="882" y="543"/>
-      <point x="786" y="677"/>
       <point x="539" y="677" type="curve" smooth="yes"/>
       <point x="421" y="677" type="line"/>
       <point x="421" y="837" type="line"/>
@@ -13,9 +11,7 @@
       <point x="761" y="837"/>
       <point x="848" y="973"/>
       <point x="848" y="1098" type="curve" smooth="yes"/>
-      <point x="848" y="1103"/>
-      <point x="848" y="1108"/>
-      <point x="848" y="1113" type="curve" smooth="yes"/>
+      <point x="848" y="1113" type="line" smooth="yes"/>
       <point x="839" y="1280"/>
       <point x="710" y="1372"/>
       <point x="557" y="1372" type="curve" smooth="yes"/>
@@ -48,35 +44,8 @@
       <point x="719" y="129"/>
       <point x="882" y="208"/>
       <point x="882" y="403" type="curve" smooth="yes"/>
+      <point x="882" y="543"/>
+      <point x="786" y="677"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>afii10025</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1148</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

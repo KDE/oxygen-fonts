@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccedilla" format="1">
-  <advance width="1312"/>
+  <advance width="1285"/>
   <unicode hex="00C7"/>
   <outline>
+    <component base="cedilla" xOffset="555" yOffset="-24"/>
     <component base="C"/>
-    <component base="cedilla" xOffset="550"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1312</integer>
+          <integer>1285</integer>
         </dict>
       </dict>
     </dict>

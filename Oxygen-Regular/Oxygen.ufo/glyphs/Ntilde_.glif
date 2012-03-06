@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ntilde" format="1">
-  <advance width="1520"/>
+  <advance width="1488"/>
   <unicode hex="00D1"/>
   <outline>
+    <component base="tilde" xOffset="298.5" yOffset="348"/>
     <component base="N"/>
-    <component base="tilde" xOffset="314.5" yOffset="391"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1520</integer>
+          <integer>1488</integer>
         </dict>
       </dict>
     </dict>

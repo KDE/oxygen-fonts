@@ -1,38 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ydieresis" format="1">
-  <advance width="1250"/>
+  <advance width="1242"/>
   <unicode hex="0178"/>
   <outline>
+    <component base="dieresis" xOffset="230.500" yOffset="373"/>
     <component base="Y"/>
-    <component base="dieresis" xOffset="234.5" yOffset="391"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Ydieresis</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1250</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
