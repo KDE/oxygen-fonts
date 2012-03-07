@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Z" format="1">
-  <advance width="1229"/>
+  <advance width="1212"/>
   <unicode hex="005A"/>
   <outline>
     <contour>
-      <point x="62" y="173" type="line"/>
-      <point x="816" y="1227" type="line"/>
-      <point x="95" y="1227" type="line"/>
-      <point x="95" y="1445" type="line"/>
-      <point x="1186" y="1445" type="line"/>
-      <point x="1186" y="1287" type="line"/>
-      <point x="428" y="218" type="line"/>
-      <point x="1178" y="218" type="line"/>
-      <point x="1178" y="0" type="line"/>
-      <point x="62" y="0" type="line"/>
+      <point x="57" y="173" type="line"/>
+      <point x="811" y="1227" type="line"/>
+      <point x="90" y="1227" type="line"/>
+      <point x="90" y="1445" type="line"/>
+      <point x="1181" y="1445" type="line"/>
+      <point x="1181" y="1287" type="line"/>
+      <point x="423" y="218" type="line"/>
+      <point x="1173" y="218" type="line"/>
+      <point x="1173" y="0" type="line"/>
+      <point x="57" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -51,6 +51,33 @@
           </array>
           <key>lib</key>
           <dict>
+            <key>com.fontlab.hintData</key>
+            <dict>
+              <key>hhints</key>
+              <array>
+                <dict>
+                  <key>position</key>
+                  <integer>0</integer>
+                  <key>width</key>
+                  <integer>21</integer>
+                </dict>
+                <dict>
+                  <key>position</key>
+                  <integer>1227</integer>
+                  <key>width</key>
+                  <integer>218</integer>
+                </dict>
+              </array>
+              <key>vhints</key>
+              <array>
+                <dict>
+                  <key>position</key>
+                  <integer>488</integer>
+                  <key>width</key>
+                  <integer>298</integer>
+                </dict>
+              </array>
+            </dict>
           </dict>
           <key>name</key>
           <string>Z</string>
@@ -58,7 +85,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1229</integer>
+          <integer>1212</integer>
         </dict>
       </dict>
     </dict>

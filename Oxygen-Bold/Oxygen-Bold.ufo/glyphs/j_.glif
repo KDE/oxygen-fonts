@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J" format="1">
-  <advance width="669"/>
+  <advance width="636"/>
   <unicode hex="004A"/>
   <outline>
     <contour>
-      <point x="-1" y="0" type="line"/>
-      <point x="77" y="0" type="line" smooth="yes"/>
-      <point x="231" y="0"/>
-      <point x="257" y="51"/>
-      <point x="257" y="209" type="curve" smooth="yes"/>
-      <point x="257" y="1445" type="line"/>
-      <point x="552" y="1445" type="line"/>
-      <point x="552" y="258" type="line" smooth="yes"/>
-      <point x="552" y="-65"/>
-      <point x="445" y="-201"/>
-      <point x="58" y="-201" type="curve" smooth="yes"/>
-      <point x="12" y="-201" type="line"/>
+      <point x="-45" y="-89" type="line"/>
+      <point x="37" y="-89" type="line" smooth="yes"/>
+      <point x="191" y="-89"/>
+      <point x="217" y="-28"/>
+      <point x="217" y="130" type="curve" smooth="yes"/>
+      <point x="217" y="1445" type="line"/>
+      <point x="515" y="1445" type="line"/>
+      <point x="515" y="139" type="line" smooth="yes"/>
+      <point x="515" y="-184"/>
+      <point x="405" y="-303"/>
+      <point x="18" y="-303" type="curve" smooth="yes"/>
+      <point x="-28" y="-303" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -59,9 +59,81 @@
           </array>
           <key>contours</key>
           <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>515.0</real>
+                  <key>y</key>
+                  <real>1445.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>515.0</real>
+                  <key>y</key>
+                  <real>0.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>217.0</real>
+                  <key>y</key>
+                  <real>0.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>217.0</real>
+                  <key>y</key>
+                  <real>1445.0</real>
+                </dict>
+              </array>
+            </dict>
           </array>
           <key>lib</key>
           <dict>
+            <key>com.fontlab.hintData</key>
+            <dict>
+              <key>hhints</key>
+              <array>
+                <dict>
+                  <key>position</key>
+                  <integer>0</integer>
+                  <key>width</key>
+                  <integer>21</integer>
+                </dict>
+                <dict>
+                  <key>position</key>
+                  <integer>1425</integer>
+                  <key>width</key>
+                  <integer>20</integer>
+                </dict>
+              </array>
+              <key>vhints</key>
+              <array>
+                <dict>
+                  <key>position</key>
+                  <integer>75</integer>
+                  <key>width</key>
+                  <integer>298</integer>
+                </dict>
+              </array>
+            </dict>
           </dict>
           <key>name</key>
           <string>J</string>
@@ -69,7 +141,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>669</integer>
+          <integer>636</integer>
         </dict>
       </dict>
     </dict>

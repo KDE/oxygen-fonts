@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketright" format="1">
-  <advance width="527"/>
+  <advance width="606"/>
   <unicode hex="005D"/>
   <outline>
     <contour>
-      <point x="462" y="-259" type="line"/>
-      <point x="56" y="-259" type="line"/>
-      <point x="56" y="-77" type="line"/>
-      <point x="211" y="-77" type="line"/>
-      <point x="211" y="1317" type="line"/>
-      <point x="56" y="1317" type="line"/>
-      <point x="56" y="1499" type="line"/>
-      <point x="462" y="1499" type="line"/>
+      <point x="187" y="1387" type="line"/>
+      <point x="33" y="1387" type="line"/>
+      <point x="33" y="1569" type="line"/>
+      <point x="485" y="1569" type="line"/>
+      <point x="485" y="-189" type="line"/>
+      <point x="33" y="-189" type="line"/>
+      <point x="33" y="-7" type="line"/>
+      <point x="187" y="-7" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,13 +37,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>56</integer>
+            <integer>66</integer>
             <key>width</key>
             <integer>406</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>211</integer>
+            <integer>66</integer>
             <key>width</key>
             <integer>251</integer>
           </dict>
@@ -71,7 +71,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>527</integer>
+          <integer>606</integer>
         </dict>
       </dict>
     </dict>
