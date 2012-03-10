@@ -20,6 +20,12 @@
 	<string></string>
 	<key>openTypeHeadCreated</key>
 	<string>2012/02/09 07:52:17</string>
+	<key>openTypeHheaAscender</key>
+	<integer>2519</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-672</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
 	<key>openTypeNameCompatibleFullName</key>
 	<string>Oxygen</string>
 	<key>openTypeNameDescription</key>
@@ -85,7 +91,7 @@
 		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>2039</integer>
+	<integer>2519</integer>
 	<key>openTypeOS2TypoDescender</key>
 	<integer>-672</integer>
 	<key>openTypeOS2TypoLineGap</key>
@@ -103,7 +109,7 @@
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>2039</integer>
+	<integer>2519</integer>
 	<key>openTypeOS2WinDescent</key>
 	<integer>672</integer>
 	<key>postscriptBlueFuzz</key>
@@ -120,6 +126,12 @@
 		<integer>1124</integer>
 		<integer>1489</integer>
 		<integer>1525</integer>
+	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
 	</array>
 	<key>postscriptFontName</key>
 	<string>Oxygen</string>
