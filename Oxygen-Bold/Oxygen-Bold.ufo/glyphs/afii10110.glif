@@ -3,44 +3,11 @@
   <advance width="1133"/>
   <unicode hex="045E"/>
   <outline>
-    <component base="breve" xOffset="236" yOffset="-10"/>
     <component base="uni0443"/>
+    <component base="breve" xOffset="236" yOffset="-10"/>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-380</integer>
-            <key>width</key>
-            <integer>217</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1196</integer>
-            <key>width</key>
-            <integer>168</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>274</integer>
-            <key>width</key>
-            <integer>184</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>690</integer>
-            <key>width</key>
-            <integer>184</integer>
-          </dict>
-        </array>
-      </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>back</key>

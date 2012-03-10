@@ -4,56 +4,25 @@
   <unicode hex="002A"/>
   <outline>
     <contour>
-      <point x="629.0" y="1442.0" type="line"/>
-      <point x="600.0" y="1015.0" type="line"/>
+      <point x="629" y="1442" type="line"/>
+      <point x="600" y="1015" type="line"/>
       <point x="921" y="1206" type="line"/>
-      <point x="921" y="1206"/>
-      <point x="994" y="1046"/>
-      <point x="994" y="1046" type="curve"/>
-      <point x="641.0" y="911.0" type="line"/>
-      <point x="641.0" y="910.0"/>
+      <point x="994" y="1046" type="line"/>
+      <point x="641" y="911" type="line" smooth="yes"/>
+      <point x="641" y="910"/>
       <point x="817" y="683"/>
       <point x="897" y="570" type="curve"/>
       <point x="852" y="535"/>
       <point x="807" y="511"/>
       <point x="762" y="476" type="curve"/>
-      <point x="537.0" y="839.0" type="line"/>
+      <point x="537" y="839" type="line"/>
       <point x="320" y="476" type="line"/>
       <point x="184" y="570" type="line"/>
-      <point x="438.0" y="911.0" type="line"/>
+      <point x="438" y="911" type="line"/>
       <point x="89" y="1046" type="line"/>
       <point x="159" y="1206" type="line"/>
-      <point x="483.0" y="1015.0" type="line"/>
-      <point x="451.0" y="1442.0" type="line"/>
+      <point x="483" y="1015" type="line"/>
+      <point x="451" y="1442" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>asterisk</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1081</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

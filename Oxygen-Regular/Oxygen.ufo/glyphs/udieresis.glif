@@ -1,38 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="udieresis" format="1">
-  <advance width="1103"/>
+  <advance width="1099"/>
   <unicode hex="00FC"/>
   <outline>
-    <component base="dieresis" xOffset="161" yOffset="-28"/>
+    <component base="dieresis" xOffset="159" yOffset="-28"/>
     <component base="u"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>udieresis</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1103</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

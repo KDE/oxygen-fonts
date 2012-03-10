@@ -1,54 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="w" format="1">
-  <advance width="1529"/>
+  <advance width="1599"/>
   <unicode hex="0077"/>
   <outline>
     <contour>
-      <point x="-1" y="1098" type="line"/>
+      <point x="9" y="1098" type="line"/>
       <point x="182" y="1098" type="line"/>
-      <point x="402" y="218" type="line"/>
-      <point x="672" y="1098" type="line"/>
-      <point x="876" y="1098" type="line"/>
-      <point x="1132" y="222" type="line"/>
-      <point x="1349" y="1098" type="line"/>
-      <point x="1530" y="1098" type="line"/>
-      <point x="1208" y="0" type="line"/>
-      <point x="1042" y="0" type="line"/>
-      <point x="770" y="925" type="line"/>
-      <point x="480" y="0" type="line"/>
-      <point x="311" y="0" type="line"/>
+      <point x="423" y="223" type="line"/>
+      <point x="710" y="1098" type="line"/>
+      <point x="914" y="1098" type="line"/>
+      <point x="1189" y="227" type="line"/>
+      <point x="1420" y="1098" type="line"/>
+      <point x="1590" y="1098" type="line"/>
+      <point x="1265" y="0" type="line"/>
+      <point x="1099" y="0" type="line"/>
+      <point x="808" y="925" type="line"/>
+      <point x="501" y="0" type="line"/>
+      <point x="332" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="764" y="1098" type="move" name="top"/>
+      <point x="800" y="1098" type="line"/>
+    </contour>
+    <contour>
+      <point x="800" y="1098" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="800" y="1098" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>w</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1529</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

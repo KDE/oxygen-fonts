@@ -4,8 +4,6 @@
   <unicode hex="02DC"/>
   <outline>
     <contour>
-      <point x="323" y="1455"/>
-      <point x="458" y="1374"/>
       <point x="513" y="1374" type="curve" smooth="yes"/>
       <point x="543" y="1374"/>
       <point x="559" y="1399"/>
@@ -24,62 +22,11 @@
       <point x="22" y="1297"/>
       <point x="22" y="1455"/>
       <point x="190" y="1455" type="curve" smooth="yes"/>
+      <point x="323" y="1455"/>
+      <point x="458" y="1374"/>
+    </contour>
+    <contour>
+      <point x="370" y="1059" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>1200</integer>
-            <key>width</key>
-            <integer>185</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1287</integer>
-            <key>width</key>
-            <integer>174</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-15</integer>
-            <key>width</key>
-            <integer>176</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>tilde</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>741</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

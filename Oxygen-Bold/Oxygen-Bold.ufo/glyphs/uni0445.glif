@@ -1,58 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0445" format="1">
-  <advance width="1150"/>
+  <advance width="1162"/>
   <unicode hex="0445"/>
   <outline>
-    <contour>
-      <point x="1170" y="15" type="line"/>
-      <point x="882" y="15" type="line"/>
-      <point x="618" y="406" type="line"/>
-      <point x="344" y="15" type="line"/>
-      <point x="59" y="15" type="line"/>
-      <point x="460" y="539" type="line"/>
-      <point x="79" y="1061" type="line"/>
-      <point x="367" y="1061" type="line"/>
-      <point x="618" y="677" type="line"/>
-      <point x="884" y="1061" type="line"/>
-      <point x="1157" y="1061" type="line"/>
-      <point x="776" y="543" type="line"/>
-    </contour>
+    <component base="x"/>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>15</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1041</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>59</integer>
-            <key>width</key>
-            <integer>285</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>882</integer>
-            <key>width</key>
-            <integer>288</integer>
-          </dict>
-        </array>
-      </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>back</key>
@@ -75,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1150</integer>
+          <integer>1162</integer>
         </dict>
       </dict>
     </dict>

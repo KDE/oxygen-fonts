@@ -1,38 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ugrave" format="1">
-  <advance width="1103"/>
+  <advance width="1099"/>
   <unicode hex="00F9"/>
   <outline>
-    <component base="grave" xOffset="249" yOffset="-25"/>
+    <component base="grave" xOffset="85.500" yOffset="-25"/>
     <component base="u"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ugrave</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1103</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -6,7 +6,7 @@
     <contour>
       <point x="688" y="-23" type="curve" smooth="yes"/>
       <point x="253" y="-23"/>
-      <point x="127" y="201.596"/>
+      <point x="127" y="202"/>
       <point x="127" y="523" type="curve" smooth="yes"/>
       <point x="127" y="1496" type="line"/>
       <point x="304" y="1496" type="line"/>
@@ -20,8 +20,20 @@
       <point x="1073" y="1496" type="line"/>
       <point x="1250" y="1496" type="line"/>
       <point x="1250" y="523" type="line" smooth="yes"/>
-      <point x="1250" y="201.596"/>
+      <point x="1250" y="202"/>
       <point x="1124" y="-23"/>
+    </contour>
+    <contour>
+      <point x="693" y="1489" type="line"/>
+    </contour>
+    <contour>
+      <point x="1247" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="693" y="1489" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1247" y="10" type="line" smooth="yes"/>
     </contour>
     <contour>
       <point x="693" y="1489" type="move" name="top"/>
@@ -30,94 +42,4 @@
       <point x="1247" y="10" type="move" name="ogonek"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-            <dict>
-              <key>name</key>
-              <string>ogonek</string>
-              <key>x</key>
-              <real>409.0</real>
-              <key>y</key>
-              <real>10.0</real>
-            </dict>
-            <dict>
-              <key>name</key>
-              <string>top</string>
-              <key>x</key>
-              <real>215.0</real>
-              <key>y</key>
-              <real>1489.0</real>
-            </dict>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>1250.0</real>
-                  <key>y</key>
-                  <real>0.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>1073.0</real>
-                  <key>y</key>
-                  <real>0.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>1073.0</real>
-                  <key>y</key>
-                  <real>1496.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>1250.0</real>
-                  <key>y</key>
-                  <real>1496.0</real>
-                </dict>
-              </array>
-            </dict>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>U</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1386</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

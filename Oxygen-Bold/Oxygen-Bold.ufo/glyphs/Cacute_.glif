@@ -1,77 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Cacute" format="1">
-  <advance width="1302"/>
+  <advance width="1277"/>
   <unicode hex="0106"/>
   <outline>
-    <component base="C"/>
     <component base="acute" xOffset="505" yOffset="424"/>
+    <component base="C"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-20</integer>
-            <key>width</key>
-            <integer>225</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1253</integer>
-            <key>width</key>
-            <integer>225</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1600</integer>
-            <key>width</key>
-            <integer>340</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>57</integer>
-            <key>width</key>
-            <integer>297</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>677</integer>
-            <key>width</key>
-            <integer>543</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Cacute</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1302</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

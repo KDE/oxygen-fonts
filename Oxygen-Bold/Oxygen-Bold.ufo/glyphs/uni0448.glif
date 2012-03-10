@@ -1,64 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0448" format="1">
-  <advance width="1617"/>
+  <advance width="1513"/>
   <unicode hex="0448"/>
   <outline>
     <contour>
-      <point x="1476" y="15" type="line"/>
-      <point x="162" y="15" type="line"/>
-      <point x="162" y="1059" type="line"/>
-      <point x="405" y="1059" type="line"/>
-      <point x="405" y="226" type="line"/>
-      <point x="704" y="226" type="line"/>
-      <point x="704" y="1059" type="line"/>
-      <point x="939" y="1059" type="line"/>
-      <point x="939" y="226" type="line"/>
-      <point x="1233" y="226" type="line"/>
-      <point x="1233" y="1059" type="line"/>
-      <point x="1476" y="1059" type="line"/>
+      <point x="1412" y="0" type="line"/>
+      <point x="101" y="0" type="line"/>
+      <point x="101" y="1063" type="line"/>
+      <point x="364" y="1063" type="line"/>
+      <point x="364" y="215" type="line"/>
+      <point x="627" y="215" type="line"/>
+      <point x="627" y="1063" type="line"/>
+      <point x="890" y="1063" type="line"/>
+      <point x="890" y="215" type="line"/>
+      <point x="1154" y="215" type="line"/>
+      <point x="1154" y="1063" type="line"/>
+      <point x="1412" y="1063" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>15</integer>
-            <key>width</key>
-            <integer>211</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1039</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>162</integer>
-            <key>width</key>
-            <integer>243</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>704</integer>
-            <key>width</key>
-            <integer>235</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1233</integer>
-            <key>width</key>
-            <integer>243</integer>
-          </dict>
-        </array>
-      </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>back</key>
@@ -71,6 +32,107 @@
           </array>
           <key>contours</key>
           <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>784.0</real>
+                  <key>y</key>
+                  <real>215.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>784.0</real>
+                  <key>y</key>
+                  <real>1063.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>1067.0</real>
+                  <key>y</key>
+                  <real>1063.0</real>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>1067.0</real>
+                  <key>y</key>
+                  <real>1063.0</real>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>1067.0</real>
+                  <key>y</key>
+                  <real>0.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>1067.0</real>
+                  <key>y</key>
+                  <real>0.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>101.0</real>
+                  <key>y</key>
+                  <real>0.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>101.0</real>
+                  <key>y</key>
+                  <real>1063.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>384.0</real>
+                  <key>y</key>
+                  <real>1063.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>384.0</real>
+                  <key>y</key>
+                  <real>215.0</real>
+                </dict>
+              </array>
+            </dict>
           </array>
           <key>lib</key>
           <dict>
@@ -81,7 +143,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1617</integer>
+          <integer>1513</integer>
         </dict>
       </dict>
     </dict>

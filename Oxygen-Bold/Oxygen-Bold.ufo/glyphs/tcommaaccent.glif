@@ -1,58 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcommaaccent" format="1">
-  <advance width="757"/>
-  <unicode hex="0163"/>
+  <advance width="773"/>
+  <unicode hex="021B"/>
   <outline>
-    <component base="cedilla" xOffset="462" yOffset="-19"/>
     <component base="t"/>
+    <component base="cedilla" xOffset="198"/>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-358</integer>
-            <key>width</key>
-            <integer>366</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>-6</integer>
-            <key>width</key>
-            <integer>198</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>894</integer>
-            <key>width</key>
-            <integer>171</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1431</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>188</integer>
-            <key>width</key>
-            <integer>285</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>506</integer>
-            <key>width</key>
-            <integer>290</integer>
-          </dict>
-        </array>
-      </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>back</key>
@@ -75,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>757</integer>
+          <integer>773</integer>
         </dict>
       </dict>
     </dict>

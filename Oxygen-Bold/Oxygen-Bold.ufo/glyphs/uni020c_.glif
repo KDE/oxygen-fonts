@@ -1,77 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni020C" format="1">
-  <advance width="1567"/>
+  <advance width="1595"/>
   <unicode hex="020C"/>
   <outline>
-    <component base="O"/>
     <component base="uni030F" xOffset="195" yOffset="424"/>
+    <component base="O"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-20</integer>
-            <key>width</key>
-            <integer>225</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1253</integer>
-            <key>width</key>
-            <integer>225</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1600</integer>
-            <key>width</key>
-            <integer>340</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>58</integer>
-            <key>width</key>
-            <integer>297</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1212</integer>
-            <key>width</key>
-            <integer>297</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni020C</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1567</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

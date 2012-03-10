@@ -4,75 +4,14 @@
   <unicode hex="00F8"/>
   <outline>
     <contour>
-      <point x="305" y="-188" type="curve"/>
+      <point x="305" y="-188" type="line"/>
       <point x="246" y="-156" type="line"/>
       <point x="875" y="1278" type="line"/>
       <point x="942" y="1244" type="line"/>
-      <point x="941.0" y="1242.0"/>
-      <point x="305" y="-188"/>
     </contour>
     <component base="o"/>
+    <contour>
+      <point x="592" y="1059" type="move" name="top"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-20</integer>
-            <key>width</key>
-            <integer>220</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>883</integer>
-            <key>width</key>
-            <integer>220</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>48</integer>
-            <key>width</key>
-            <integer>281</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>801</integer>
-            <key>width</key>
-            <integer>281</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>oslash</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1184</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

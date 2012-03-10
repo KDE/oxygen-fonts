@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaaccent" format="1">
   <advance width="657"/>
-  <unicode hex="F6C3"/>
+  <unicode hex="0326"/>
   <outline>
     <contour>
       <point x="282" y="-653" type="line"/>
@@ -9,55 +9,8 @@
       <point x="213" y="-130" type="line"/>
       <point x="457" y="-130" type="line"/>
     </contour>
+    <contour>
+      <point x="277" y="0" type="move" name="_bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-653</integer>
-            <key>width</key>
-            <integer>523</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>97</integer>
-            <key>width</key>
-            <integer>360</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>commaaccent</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>657</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

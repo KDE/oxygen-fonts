@@ -1,38 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Emacron" format="1">
-  <advance width="1096"/>
+  <advance width="1140"/>
   <unicode hex="0112"/>
   <outline>
-    <component base="macron" xOffset="206" yOffset="352"/>
+    <component base="macron" xOffset="216" yOffset="352"/>
     <component base="E"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Emacron</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1096</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -8,58 +8,11 @@
       <point x="275" y="1516" type="line"/>
       <point x="504" y="1176" type="line"/>
       <point x="295" y="1176" type="line"/>
-      <point x="183" y="1290"/>
-      <point x="73" y="1403"/>
+      <point x="183.667" y="1289.67"/>
+      <point x="72.3333" y="1403"/>
+    </contour>
+    <contour>
+      <point x="232.5" y="1059" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>1176</integer>
-            <key>width</key>
-            <integer>340</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-39</integer>
-            <key>width</key>
-            <integer>543</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>grave</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>471</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

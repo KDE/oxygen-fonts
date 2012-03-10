@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scommaaccent" format="1">
   <advance width="1173"/>
+  <unicode hex="0218"/>
   <outline>
     <contour>
       <point x="600" y="-674" type="line"/>
@@ -55,66 +56,4 @@
       <point x="1017" y="1155" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-23</integer>
-            <key>width</key>
-            <integer>229</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1258</integer>
-            <key>width</key>
-            <integer>226</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>130</integer>
-            <key>width</key>
-            <integer>249</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>897</integer>
-            <key>width</key>
-            <integer>253</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Scommaaccent</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1173</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

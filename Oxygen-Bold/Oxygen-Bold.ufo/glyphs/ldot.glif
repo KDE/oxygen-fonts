@@ -1,52 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ldot" format="1">
-  <advance width="1202"/>
+  <advance width="656"/>
   <unicode hex="0140"/>
   <outline>
-    <component base="l"/>
     <component base="periodcentered.001" xOffset="731"/>
+    <component base="l"/>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-6</integer>
-            <key>width</key>
-            <integer>198</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>463</integer>
-            <key>width</key>
-            <integer>270</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1458</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>60</integer>
-            <key>width</key>
-            <integer>285</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>798</integer>
-            <key>width</key>
-            <integer>266</integer>
-          </dict>
-        </array>
-      </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>back</key>
@@ -69,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1202</integer>
+          <integer>656</integer>
         </dict>
       </dict>
     </dict>

@@ -4,9 +4,18 @@
   <unicode hex="0434"/>
   <outline>
     <contour>
+      <point x="294" y="134" type="curve"/>
+      <point x="781" y="134" type="line"/>
+      <point x="781" y="956" type="line"/>
+      <point x="409" y="956" type="line"/>
+      <point x="397" y="634" type="line"/>
+      <point x="375.333" y="456"/>
+      <point x="341" y="289.333"/>
+    </contour>
+    <contour>
       <point x="168" y="0" type="line"/>
-      <point x="168" y="-197" type="line"/>
-      <point x="10" y="-197" type="line"/>
+      <point x="168" y="-268" type="line"/>
+      <point x="10" y="-268" type="line"/>
       <point x="10" y="136" type="line"/>
       <point x="106" y="136" type="line"/>
       <point x="189" y="236"/>
@@ -16,46 +25,15 @@
       <point x="949" y="1098" type="line"/>
       <point x="949" y="134" type="line"/>
       <point x="1036" y="134" type="line"/>
-      <point x="1036" y="-197" type="line"/>
-      <point x="873" y="-197" type="line"/>
+      <point x="1036" y="-268" type="line"/>
+      <point x="873" y="-268" type="line"/>
       <point x="873" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="294" y="134" type="curve"/>
-      <point x="781" y="134" type="line"/>
-      <point x="781" y="956" type="line"/>
-      <point x="409" y="956" type="line"/>
-      <point x="397" y="634" type="line" smooth="yes"/>
-      <point x="392" y="503"/>
-      <point x="356" y="214"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni0434</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1104</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

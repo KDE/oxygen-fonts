@@ -1,38 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Jcircumflex" format="1">
-  <advance width="647"/>
+  <advance width="550"/>
   <unicode hex="0134"/>
   <outline>
-    <component base="circumflex" xOffset="-123" yOffset="376"/>
     <component base="J"/>
+    <component base="circumflex" xOffset="-126.500" yOffset="391"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Jcircumflex</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>647</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

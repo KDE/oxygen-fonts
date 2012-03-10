@@ -1,89 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="odieresis" format="1">
-  <advance width="1184"/>
+  <advance width="1176"/>
   <unicode hex="00F6"/>
   <outline>
-    <component base="dieresis" xOffset="184" yOffset="-5"/>
     <component base="o"/>
+    <component base="dieresis" xOffset="208.500"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-20</integer>
-            <key>width</key>
-            <integer>220</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>883</integer>
-            <key>width</key>
-            <integer>220</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1225</integer>
-            <key>width</key>
-            <integer>225</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>48</integer>
-            <key>width</key>
-            <integer>281</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>265</integer>
-            <key>width</key>
-            <integer>226</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>639</integer>
-            <key>width</key>
-            <integer>226</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>801</integer>
-            <key>width</key>
-            <integer>281</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>odieresis</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1184</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,70 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ntilde" format="1">
-  <advance width="1122"/>
+  <advance width="1197"/>
   <unicode hex="00F1"/>
   <outline>
-    <component base="n"/>
     <component base="tilde" xOffset="200" yOffset="19"/>
+    <component base="n"/>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>908</integer>
-            <key>width</key>
-            <integer>195</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1045</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1219</integer>
-            <key>width</key>
-            <integer>185</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1306</integer>
-            <key>width</key>
-            <integer>174</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>60</integer>
-            <key>width</key>
-            <integer>285</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>185</integer>
-            <key>width</key>
-            <integer>176</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>781</integer>
-            <key>width</key>
-            <integer>285</integer>
-          </dict>
-        </array>
-      </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>back</key>
@@ -87,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1122</integer>
+          <integer>1197</integer>
         </dict>
       </dict>
     </dict>

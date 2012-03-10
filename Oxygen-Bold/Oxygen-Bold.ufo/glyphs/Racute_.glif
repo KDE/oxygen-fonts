@@ -1,89 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Racute" format="1">
-  <advance width="1295"/>
+  <advance width="1303"/>
   <unicode hex="0154"/>
   <outline>
-    <component base="R"/>
     <component base="acute" xOffset="28" yOffset="424"/>
+    <component base="R"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>615</integer>
-            <key>width</key>
-            <integer>215</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1228</integer>
-            <key>width</key>
-            <integer>217</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1600</integer>
-            <key>width</key>
-            <integer>340</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>70</integer>
-            <key>width</key>
-            <integer>299</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>200</integer>
-            <key>width</key>
-            <integer>543</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>877</integer>
-            <key>width</key>
-            <integer>297</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Racute</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1295</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

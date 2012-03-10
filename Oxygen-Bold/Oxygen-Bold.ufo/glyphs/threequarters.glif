@@ -4,7 +4,7 @@
   <unicode hex="00BE"/>
   <outline>
     <contour>
-      <point x="1620" y="1426" type="move" smooth="yes"/>
+      <point x="1620" y="1426" type="line" smooth="yes"/>
       <point x="1628" y="1438"/>
       <point x="1637" y="1451"/>
       <point x="1645" y="1464" type="curve"/>
@@ -84,84 +84,4 @@
       <point x="1390" y="369" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>202</integer>
-            <key>width</key>
-            <integer>167</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>585</integer>
-            <key>width</key>
-            <integer>175</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>945</integer>
-            <key>width</key>
-            <integer>179</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1272</integer>
-            <key>width</key>
-            <integer>179</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>544</integer>
-            <key>width</key>
-            <integer>186</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>567</integer>
-            <key>width</key>
-            <integer>181</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1390</integer>
-            <key>width</key>
-            <integer>178</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>threequarters</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1933</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
