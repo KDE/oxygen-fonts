@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="g" format="1">
-  <advance width="1165"/>
+  <advance width="1167"/>
   <unicode hex="0067"/>
   <outline>
     <contour>
@@ -49,10 +49,13 @@
       <point x="583" y="1098" type="line"/>
     </contour>
     <contour>
+      <point x="583" y="1098" type="line"/>
+    </contour>
+    <contour>
       <point x="583" y="1098" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="583" y="1098" type="move" name="top"/>
+      <point x="584" y="1098" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

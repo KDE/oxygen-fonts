@@ -1,40 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="1">
-  <advance width="1333"/>
+  <advance width="1301"/>
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="921" y="611" type="line"/>
-      <point x="683" y="1324" type="line"/>
-      <point x="422" y="611" type="line"/>
+      <point x="895" y="611" type="line"/>
+      <point x="667" y="1324" type="line"/>
+      <point x="416" y="611" type="line"/>
     </contour>
     <contour>
       <point x="2" y="0" type="line"/>
-      <point x="576" y="1496" type="line"/>
-      <point x="788" y="1496" type="line"/>
-      <point x="1331" y="0" type="line"/>
-      <point x="1151" y="0" type="line"/>
-      <point x="980" y="473" type="line"/>
-      <point x="367" y="473" type="line"/>
+      <point x="560" y="1496" type="line"/>
+      <point x="772" y="1496" type="line"/>
+      <point x="1299" y="0" type="line"/>
+      <point x="1119" y="0" type="line"/>
+      <point x="954" y="473" type="line"/>
+      <point x="361" y="473" type="line"/>
       <point x="183" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="667" y="1489" type="line"/>
+      <point x="651" y="1489" type="line"/>
     </contour>
     <contour>
-      <point x="1200" y="10" type="line"/>
+      <point x="1168" y="10" type="line"/>
     </contour>
     <contour>
-      <point x="667" y="1489" type="line" smooth="yes"/>
+      <point x="651" y="1489" type="line"/>
     </contour>
     <contour>
-      <point x="1200" y="10" type="line" smooth="yes"/>
+      <point x="1168" y="10" type="line"/>
     </contour>
     <contour>
-      <point x="667" y="1489" type="move" name="top"/>
+      <point x="651" y="1489" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="1200" y="10" type="move" name="ogonek"/>
+      <point x="1184" y="10" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="651" y="1489" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1171" y="10" type="move" name="ogonek"/>
     </contour>
   </outline>
 </glyph>
