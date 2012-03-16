@@ -1,0 +1,46 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="110221_1144_developer_" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="new_axis_1" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="48.0" />
+<data name="previewtext" value="Monotonal Linkscape Bohemian Landowner&apos;s" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="2.73964081777" />
+<!-- axis definitions -->
+<axis maximum="1" minimum="-1" name="new_axis_1" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="n-Regular/src/Oxygen.ufo">
+<location>
+</location>
+<!-- color for n-Regular/src/Oxygen.ufo -->
+<color a="1.000000" b="1.000000" g="0.000000" r="0.000000" />
+</master>
+<master filename="n-Bold/src/Oxygen-Bold.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="1" />
+</location>
+<!-- color for n-Bold/src/Oxygen-Bold.ufo -->
+<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="Oxygen" sequence="" stylename="--0_xx0_31">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="0.3065" />
+</location>
+</instance>
+<instance familyname="Oxygen" sequence="" stylename="--0_xx0_68">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="0.6844" />
+</location>
+</instance>
+</designspace>

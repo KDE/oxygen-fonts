@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043C" format="1">
+  <advance width="1317"/>
+  <unicode hex="043C"/>
+  <outline>
+    <contour>
+      <point x="711" y="324" type="line"/>
+      <point x="605" y="324" type="line"/>
+      <point x="364" y="668" type="line"/>
+      <point x="364" y="0" type="line"/>
+      <point x="101" y="0" type="line"/>
+      <point x="101" y="1063" type="line"/>
+      <point x="362" y="1063" type="line"/>
+      <point x="659" y="628" type="line"/>
+      <point x="957" y="1063" type="line"/>
+      <point x="1216" y="1063" type="line"/>
+      <point x="1216" y="0" type="line"/>
+      <point x="958" y="0" type="line"/>
+      <point x="958" y="669" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>1216.0</real>
+                  <key>y</key>
+                  <real>1063.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>1216.0</real>
+                  <key>y</key>
+                  <real>0.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>933.0</real>
+                  <key>y</key>
+                  <real>0.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>933.0</real>
+                  <key>y</key>
+                  <real>1063.0</real>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni043C</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1317</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onehalf" format="1">
+  <advance width="1597"/>
+  <unicode hex="00bd"/>
+  <outline>
+    <component base="uni00B9" yOffset="-42"/>
+    <component base="uni00B2" xOffset="803" yOffset="-641"/>
+    <contour>
+      <point x="1188" y="1495" type="line" smooth="no"/>
+      <point x="1322" y="1495" type="line" smooth="no"/>
+      <point x="259" y="0" type="line" smooth="no"/>
+      <point x="110" y="0" type="line" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>onehalf</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1591</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>
