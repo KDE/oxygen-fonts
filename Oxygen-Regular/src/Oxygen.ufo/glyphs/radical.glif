@@ -14,8 +14,24 @@
       <point x="328" y="889" type="line"/>
       <point x="569" y="230" type="line"/>
       <point x="628" y="44" type="line"/>
-      <point x="762.97" y="602.699"/>
-      <point x="898.637" y="1160.7"/>
+      <point x="763" y="602"/>
+      <point x="899" y="1160"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>1035</integer>
+	    <key>width</key>
+	    <integer>113</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

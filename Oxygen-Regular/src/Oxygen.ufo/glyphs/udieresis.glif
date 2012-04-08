@@ -1,38 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="udieresis" format="1">
-  <advance width="1099"/>
+  <advance width="1100"/>
   <unicode hex="00FC"/>
   <outline>
+    <component base="dieresis" xOffset="160"/>
     <component base="u"/>
-    <component base="dieresis" xOffset="159.5"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>udieresis</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1099</integer>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-25</integer>
+	    <key>width</key>	    <integer>138</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1078</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1254</integer>
+	    <key>width</key>	    <integer>212</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>105</integer>
+	    <key>width</key>
+	    <integer>168</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>278</integer>
+	    <key>width</key>
+	    <integer>154</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>668</integer>
+	    <key>width</key>
+	    <integer>155</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>826</integer>
+	    <key>width</key>
+	    <integer>168</integer>
+	  </dict>
+	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>udieresis</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1099</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

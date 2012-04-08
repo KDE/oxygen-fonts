@@ -3,36 +3,57 @@
   <advance width="886"/>
   <unicode hex="017C"/>
   <outline>
+    <component base="dotaccentcmb" xOffset="240" yOffset="-71"/>
     <component base="z"/>
-    <component base="dotaccentcmb" xOffset="240.5" yOffset="-71"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>zdotaccent</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>886</integer>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>136</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>964</integer>
+	    <key>width</key>	    <integer>134</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1226</integer>
+	    <key>width</key>	    <integer>264</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>316</integer>
+	    <key>width</key>
+	    <integer>266</integer>
+	  </dict>
+	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>zdotaccent</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>886</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

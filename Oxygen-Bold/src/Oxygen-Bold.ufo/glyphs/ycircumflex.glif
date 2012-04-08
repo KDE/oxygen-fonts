@@ -3,36 +3,48 @@
   <advance width="1079"/>
   <unicode hex="0177"/>
   <outline>
-    <component base="circumflex" xOffset="145.5" yOffset="72"/>
+    <component base="circumflex" xOffset="146" yOffset="72"/>
     <component base="y"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ycircumflex</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1079</integer>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-410</integer>
+	    <key>width</key>	    <integer>204</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1043</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1205</integer>
+	    <key>width</key>	    <integer>382</integer>
+	  </dict>
+	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>ycircumflex</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1079</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -3,15 +3,39 @@
   <advance width="1189"/>
   <unicode hex="03BF"/>
   <outline>
-    <contour>
-      <point x="595" y="1098" type="line"/>
-    </contour>
-    <contour>
-      <point x="595" y="1098" type="line" smooth="yes"/>
-    </contour>
     <component base="o"/>
-    <contour>
-      <point x="595" y="1098" type="move" name="top"/>
-    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-25</integer>
+	    <key>width</key>	    <integer>138</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>986</integer>
+	    <key>width</key>	    <integer>138</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>70</integer>
+	    <key>width</key>
+	    <integer>173</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>921</integer>
+	    <key>width</key>
+	    <integer>174</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -3,41 +3,72 @@
   <advance width="1268"/>
   <unicode hex="0123"/>
   <outline>
+    <component base="g"/>
     <contour>
       <point x="793" y="1749" type="line"/>
       <point x="683" y="1250" type="line"/>
       <point x="488" y="1250" type="line"/>
       <point x="653" y="1749" type="line"/>
     </contour>
-    <component base="g"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>gcedilla</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1268</integer>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-502</integer>
+	    <key>width</key>	    <integer>151</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1</integer>
+	    <key>width</key>	    <integer>142</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>982</integer>
+	    <key>width</key>	    <integer>142</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1078</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>70</integer>
+	    <key>width</key>
+	    <integer>172</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>889</integer>
+	    <key>width</key>
+	    <integer>163</integer>
+	  </dict>
+	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>gcedilla</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1268</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

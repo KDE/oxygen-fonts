@@ -1,38 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gbreve" format="1">
-  <advance width="1250"/>
+  <advance width="1235"/>
   <unicode hex="011F"/>
   <outline>
-    <component base="breve" xOffset="270" yOffset="-1"/>
+    <component base="breve" xOffset="264" yOffset="-1"/>
     <component base="g"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>gbreve</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1250</integer>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-488</integer>
+	    <key>width</key>	    <integer>219</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>206</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>895</integer>
+	    <key>width</key>	    <integer>208</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1043</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1205</integer>
+	    <key>width</key>	    <integer>168</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1434</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>62</integer>
+	    <key>width</key>
+	    <integer>272</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>302</integer>
+	    <key>width</key>
+	    <integer>184</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>718</integer>
+	    <key>width</key>
+	    <integer>184</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>860</integer>
+	    <key>width</key>
+	    <integer>283</integer>
+	  </dict>
+	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>gbreve</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1250</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -3,36 +3,69 @@
   <advance width="991"/>
   <unicode hex="00FF"/>
   <outline>
-    <component base="dieresis" xOffset="105.5"/>
+    <component base="dieresis" xOffset="106"/>
     <component base="y"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ydieresis</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>991</integer>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-502</integer>
+	    <key>width</key>	    <integer>151</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1078</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1254</integer>
+	    <key>width</key>	    <integer>212</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>224</integer>
+	    <key>width</key>
+	    <integer>154</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>614</integer>
+	    <key>width</key>
+	    <integer>155</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>816</integer>
+	    <key>width</key>
+	    <integer>177</integer>
+	  </dict>
+	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>ydieresis</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>991</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -12,17 +12,28 @@
       <point x="508" y="1251" type="line"/>
       <point x="295" y="1251" type="line"/>
     </contour>
-    <contour>
-      <point x="401.5" y="1098" type="line"/>
-    </contour>
-    <contour>
-      <point x="401.5" y="1098" type="line"/>
-    </contour>
-    <contour>
-      <point x="401.5" y="1098" type="line" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="401.5" y="1098" type="move" name="_top"/>
-    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1251</integer>
+	    <key>width</key>	    <integer>76</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>108</integer>
+	    <key>width</key>
+	    <integer>587</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

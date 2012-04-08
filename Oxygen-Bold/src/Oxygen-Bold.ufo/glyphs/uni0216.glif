@@ -3,7 +3,56 @@
   <advance width="1390"/>
   <unicode hex="0216"/>
   <outline>
-    <component base="uni0311" xOffset="318" yOffset="394"/>
     <component base="U"/>
+    <component base="uni0311" xOffset="318" yOffset="394"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-20</integer>
+	    <key>width</key>	    <integer>228</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1425</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1681</integer>
+	    <key>width</key>	    <integer>168</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>107</integer>
+	    <key>width</key>
+	    <integer>298</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>356</integer>
+	    <key>width</key>
+	    <integer>184</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>772</integer>
+	    <key>width</key>
+	    <integer>184</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>985</integer>
+	    <key>width</key>
+	    <integer>298</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

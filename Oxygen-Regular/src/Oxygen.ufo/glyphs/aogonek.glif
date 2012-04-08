@@ -8,31 +8,82 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>aogonek</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1028</integer>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-419</integer>
+	    <key>width</key>	    <integer>116</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-387</integer>
+	    <key>width</key>	    <integer>117</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-25</integer>
+	    <key>width</key>	    <integer>132</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>525</integer>
+	    <key>width</key>	    <integer>118</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>983</integer>
+	    <key>width</key>	    <integer>141</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>95</integer>
+	    <key>width</key>
+	    <integer>168</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>575</integer>
+	    <key>width</key>
+	    <integer>125</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>766</integer>
+	    <key>width</key>
+	    <integer>167</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>796</integer>
+	    <key>width</key>
+	    <integer>137</integer>
+	  </dict>
+	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>aogonek</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1028</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

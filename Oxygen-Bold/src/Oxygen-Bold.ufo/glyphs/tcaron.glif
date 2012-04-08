@@ -8,31 +8,58 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>tcaron</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>773</integer>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-13</integer>
+	    <key>width</key>	    <integer>215</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>892</integer>
+	    <key>width</key>	    <integer>171</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>921</integer>
+	    <key>width</key>	    <integer>530</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>156</integer>
+	    <key>width</key>
+	    <integer>283</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>863</integer>
+	    <key>width</key>
+	    <integer>355</integer>
+	  </dict>
+	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>tcaron</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>773</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

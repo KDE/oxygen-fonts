@@ -1,38 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecircumflex" format="1">
-  <advance width="1110"/>
+  <advance width="1109"/>
   <unicode hex="00EA"/>
   <outline>
+    <component base="circumflex" xOffset="166"/>
     <component base="e"/>
-    <component base="circumflex" xOffset="167"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ecircumflex</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1110</integer>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-20</integer>
+	    <key>width</key>	    <integer>204</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>475</integer>
+	    <key>width</key>	    <integer>152</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>895</integer>
+	    <key>width</key>	    <integer>208</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1133</integer>
+	    <key>width</key>	    <integer>382</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>62</integer>
+	    <key>width</key>
+	    <integer>279</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>798</integer>
+	    <key>width</key>
+	    <integer>257</integer>
+	  </dict>
+	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>ecircumflex</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1110</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

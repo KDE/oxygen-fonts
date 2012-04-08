@@ -3,36 +3,83 @@
   <advance width="1070"/>
   <unicode hex="0103"/>
   <outline>
-    <component base="breve" xOffset="211" yOffset="19"/>
     <component base="a"/>
+    <component base="breve" xOffset="211" yOffset="19"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>abreve</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1070</integer>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-18</integer>
+	    <key>width</key>	    <integer>180</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>899</integer>
+	    <key>width</key>	    <integer>204</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1225</integer>
+	    <key>width</key>	    <integer>168</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1454</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>67</integer>
+	    <key>width</key>
+	    <integer>254</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>249</integer>
+	    <key>width</key>
+	    <integer>184</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>665</integer>
+	    <key>width</key>
+	    <integer>184</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>685</integer>
+	    <key>width</key>
+	    <integer>283</integer>
+	  </dict>
+	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>abreve</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1070</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

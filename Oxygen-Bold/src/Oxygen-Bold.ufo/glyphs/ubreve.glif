@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ubreve" format="1">
-  <advance width="1154"/>
+  <advance width="1126"/>
   <unicode hex="016D"/>
   <outline>
     <component base="breve" xOffset="239" yOffset="-1"/>
@@ -8,31 +8,74 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ubreve</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1154</integer>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-20</integer>
+	    <key>width</key>	    <integer>206</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1043</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1205</integer>
+	    <key>width</key>	    <integer>168</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1434</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>89</integer>
+	    <key>width</key>
+	    <integer>283</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>277</integer>
+	    <key>width</key>
+	    <integer>184</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>693</integer>
+	    <key>width</key>
+	    <integer>184</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>754</integer>
+	    <key>width</key>
+	    <integer>283</integer>
+	  </dict>
+	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>ubreve</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1154</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

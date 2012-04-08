@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Otilde" format="1">
+  <advance width="1595"/>
+  <unicode hex="00D5"/>
+  <outline>
+    <component base="O"/>
+    <component base="tilde" xOffset="420" yOffset="400"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-20</integer>
+	    <key>width</key>	    <integer>231</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1243</integer>
+	    <key>width</key>	    <integer>235</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1609</integer>
+	    <key>width</key>	    <integer>165</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1697</integer>
+	    <key>width</key>	    <integer>158</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>72</integer>
+	    <key>width</key>
+	    <integer>302</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>442</integer>
+	    <key>width</key>
+	    <integer>156</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>979</integer>
+	    <key>width</key>
+	    <integer>159</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1226</integer>
+	    <key>width</key>
+	    <integer>297</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

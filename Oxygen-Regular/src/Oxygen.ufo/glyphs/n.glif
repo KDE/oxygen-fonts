@@ -26,58 +26,67 @@
       <point x="356" y="1052"/>
       <point x="509" y="1124"/>
     </contour>
-    <contour>
-      <point x="554" y="1098" type="line"/>
-    </contour>
-    <contour>
-      <point x="554" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="554" y="1098" type="line"/>
-    </contour>
-    <contour>
-      <point x="554" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="554" y="1098" type="line" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="554" y="0" type="line" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="554" y="1098" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="554" y="0" type="move" name="bottom"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>n</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1112</integer>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>980</integer>
+	    <key>width</key>	    <integer>144</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1078</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>111</integer>
+	    <key>width</key>
+	    <integer>144</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>114</integer>
+	    <key>width</key>
+	    <integer>168</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>839</integer>
+	    <key>width</key>
+	    <integer>168</integer>
+	  </dict>
+	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>n</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1112</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

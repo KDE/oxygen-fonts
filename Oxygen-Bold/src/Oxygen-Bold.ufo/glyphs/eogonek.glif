@@ -1,38 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eogonek" format="1">
-  <advance width="1110"/>
+  <advance width="1109"/>
   <unicode hex="0119"/>
   <outline>
-    <component base="ogonek" xOffset="320" yOffset="-35"/>
     <component base="e"/>
+    <component base="ogonek" xOffset="319" yOffset="-35"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>eogonek</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1110</integer>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-418</integer>
+	    <key>width</key>	    <integer>148</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-20</integer>
+	    <key>width</key>	    <integer>204</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>475</integer>
+	    <key>width</key>	    <integer>152</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>895</integer>
+	    <key>width</key>	    <integer>208</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>62</integer>
+	    <key>width</key>
+	    <integer>279</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>428</integer>
+	    <key>width</key>
+	    <integer>191</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>798</integer>
+	    <key>width</key>
+	    <integer>257</integer>
+	  </dict>
+	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>eogonek</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1110</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

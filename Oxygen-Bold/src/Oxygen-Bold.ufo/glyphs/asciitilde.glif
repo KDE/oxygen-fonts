@@ -4,7 +4,7 @@
   <unicode hex="007E"/>
   <outline>
     <contour>
-      <point x="1057" y="710" type="line" smooth="yes"/>
+      <point x="1057" y="710" type="line"/>
       <point x="1060" y="720"/>
       <point x="1062" y="732"/>
       <point x="1064" y="742" type="curve"/>
@@ -35,7 +35,25 @@
       <point x="924" y="579" type="curve" smooth="yes"/>
       <point x="996" y="579"/>
       <point x="1039" y="646"/>
-      <point x="1056" y="710" type="curve" smooth="yes"/>
+      <point x="1056" y="710" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>385</integer>
+	    <key>width</key>	    <integer>194</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>525</integer>
+	    <key>width</key>	    <integer>194</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

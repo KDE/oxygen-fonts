@@ -1,38 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uring" format="1">
-  <advance width="1154"/>
+  <advance width="1126"/>
   <unicode hex="016F"/>
   <outline>
-    <component base="ring" xOffset="250.5" yOffset="80"/>
+    <component base="ring" xOffset="250" yOffset="80"/>
     <component base="u"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uring</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1154</integer>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-20</integer>
+	    <key>width</key>	    <integer>206</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1043</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1205</integer>
+	    <key>width</key>	    <integer>99</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1526</integer>
+	    <key>width</key>	    <integer>95</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>89</integer>
+	    <key>width</key>
+	    <integer>283</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>351</integer>
+	    <key>width</key>
+	    <integer>119</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>683</integer>
+	    <key>width</key>
+	    <integer>119</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>754</integer>
+	    <key>width</key>
+	    <integer>283</integer>
+	  </dict>
+	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>uring</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1154</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>
