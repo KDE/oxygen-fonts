@@ -1,66 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="multiply" format="1">
-  <advance width="1134.0"/>
+  <advance width="993"/>
   <unicode hex="00D7"/>
   <outline>
     <contour>
-      <point x="238.0" y="159" type="line"/>
-      <point x="145.0" y="257" type="line"/>
-      <point x="472.333" y="580.41" type="line"/>
-      <point x="145.0" y="906" type="line"/>
-      <point x="238.0" y="999" type="line"/>
-      <point x="567.0" y="673.942" type="line"/>
-      <point x="896.0" y="999" type="line"/>
-      <point x="989.0" y="906" type="line"/>
-      <point x="661.667" y="580.41" type="line"/>
-      <point x="989.0" y="257" type="line"/>
-      <point x="896.0" y="159" type="line"/>
-      <point x="567.0" y="486.248" type="line"/>
+      <point x="860" y="915" type="line"/>
+      <point x="595" y="598" type="line"/>
+      <point x="860" y="278" type="line"/>
+      <point x="767" y="166" type="line"/>
+      <point x="488" y="486" type="line"/>
+      <point x="206" y="166" type="line"/>
+      <point x="115" y="276" type="line"/>
+      <point x="381" y="598" type="line"/>
+      <point x="115" y="917" type="line"/>
+      <point x="206" y="1027" type="line"/>
+      <point x="488" y="707" type="line"/>
+      <point x="767" y="1027" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>anchors</key>
-      <array>
-      </array>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>multiply</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>1134.0</real>
-        </dict>
-      </dict>
-      <key>components</key>
-      <array>
-      </array>
-      <key>contours</key>
-      <array>
-      </array>
-      <key>name</key>
-      <string>multiply</string>
-      <key>unicodes</key>
-      <array>
-      </array>
-      <key>width</key>
-      <integer>993</integer>
-    </dict>
-  </lib>
 </glyph>
