@@ -3,38 +3,7 @@
   <advance width="1077"/>
   <unicode hex="00CB"/>
   <outline>
-    <contour>
-      <point x="681" y="1617" type="line"/>
-      <point x="711" y="1829" type="line"/>
-      <point x="563" y="1829" type="line"/>
-      <point x="534" y="1617" type="line"/>
-    </contour>
-    <contour>
-      <point x="1050" y="1617" type="line"/>
-      <point x="1079" y="1829" type="line"/>
-      <point x="931" y="1829" type="line"/>
-      <point x="901" y="1617" type="line"/>
-    </contour>
-    <contour>
-      <point x="1044" y="840" type="line"/>
-      <point x="420" y="840" type="line"/>
-      <point x="492" y="1360" type="line"/>
-      <point x="1142" y="1360" type="line"/>
-      <point x="1175" y="1492" type="line"/>
-      <point x="350" y="1492" type="line"/>
-      <point x="142" y="0" type="line"/>
-      <point x="980" y="0" type="line"/>
-      <point x="1013" y="144" type="line"/>
-      <point x="322" y="144" type="line"/>
-      <point x="399" y="697" type="line"/>
-      <point x="1024" y="697" type="line"/>
-    </contour>
+    <component base="dieresis" xOffset="244" yOffset="363"/>
+    <component base="E"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

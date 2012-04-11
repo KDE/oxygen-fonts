@@ -5,25 +5,21 @@
   <outline>
     <contour>
       <point x="160" y="1043" type="line"/>
-      <point x="294" y="0" type="line"/>
-      <point x="439" y="0" type="line"/>
-      <point x="825" y="882" type="line"/>
-      <point x="950" y="0" type="line"/>
-      <point x="1092" y="0" type="line"/>
-      <point x="1521" y="1043" type="line"/>
-      <point x="1377" y="1043" type="line"/>
-      <point x="1057" y="216" type="line"/>
-      <point x="934" y="1043" type="line"/>
-      <point x="766" y="1043" type="line"/>
-      <point x="402" y="212" type="line"/>
       <point x="309" y="1043" type="line"/>
+      <point x="402" y="212" type="line"/>
+      <point x="766" y="1043" type="line"/>
+      <point x="934" y="1043" type="line"/>
+      <point x="1057" y="216" type="line"/>
+      <point x="1377" y="1043" type="line"/>
+      <point x="1521" y="1043" type="line"/>
+      <point x="1092" y="0" type="line"/>
+      <point x="950" y="0" type="line"/>
+      <point x="825" y="882" type="line"/>
+      <point x="439" y="0" type="line"/>
+      <point x="294" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="694" y="1043" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

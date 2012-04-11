@@ -14,28 +14,10 @@
 	<string>Oxygen</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
+	<key>note</key>
+	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2012/04/09 21:25:39</string>
-	<key>openTypeHeadFlags</key>
-	<array>
-		<integer>0</integer>
-		<integer>1</integer>
-		<integer>3</integer>
-	</array>
-	<key>openTypeHeadLowestRecPPEM</key>
-	<integer>8</integer>
-	<key>openTypeHheaAscender</key>
-	<integer>2519</integer>
-	<key>openTypeHheaCaretOffset</key>
-	<integer>0</integer>
-	<key>openTypeHheaCaretSlopeRise</key>
-	<integer>1</integer>
-	<key>openTypeHheaCaretSlopeRun</key>
-	<integer>0</integer>
-	<key>openTypeHheaDescender</key>
-	<integer>-672</integer>
-	<key>openTypeHheaLineGap</key>
-	<integer>0</integer>
+	<string>2012/04/11 08:12:10</string>
 	<key>openTypeNameCompatibleFullName</key>
 	<string>Oxygen</string>
 	<key>openTypeNameDescription</key>
@@ -48,6 +30,10 @@
 	<string>vernon adams</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string>newtypography.co.uk</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Oxygen</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
 	<key>openTypeNameUniqueID</key>
 	<string>vernonadams: Oxygen: 2011</string>
 	<key>openTypeNameVersion</key>
@@ -58,6 +44,11 @@
 		<integer>1</integer>
 		<integer>2</integer>
 		<integer>32</integer>
+	</array>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
 	</array>
 	<key>openTypeOS2Panose</key>
 	<array>
@@ -71,9 +62,6 @@
 		<integer>9</integer>
 		<integer>0</integer>
 		<integer>4</integer>
-	</array>
-	<key>openTypeOS2Selection</key>
-	<array>
 	</array>
 	<key>openTypeOS2StrikeoutPosition</key>
 	<integer>530</integer>
@@ -97,6 +85,22 @@
 	<integer>1433</integer>
 	<key>openTypeOS2Type</key>
 	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>2519</integer>
@@ -135,43 +139,21 @@
 		<integer>1489</integer>
 		<integer>1525</integer>
 	</array>
-	<key>postscriptDefaultWidthX</key>
-	<integer>416</integer>
-	<key>postscriptFamilyBlues</key>
-	<array>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
-	<array>
-	</array>
 	<key>postscriptFontName</key>
 	<string>Oxygen</string>
-	<key>postscriptForceBold</key>
-	<false/>
 	<key>postscriptFullName</key>
 	<string>Oxygen</string>
-	<key>postscriptIsFixedPitch</key>
-	<false/>
-	<key>postscriptNominalWidthX</key>
-	<integer>1039</integer>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-502</integer>
 		<integer>-415</integer>
 	</array>
-	<key>postscriptStemSnapH</key>
-	<array>
-	</array>
-	<key>postscriptStemSnapV</key>
-	<array>
-	</array>
 	<key>postscriptUnderlinePosition</key>
-	<integer>-256</integer>
+	<integer>-205</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>102</integer>
 	<key>postscriptWeightName</key>
 	<string>Regular</string>
-	<key>styleMapFamilyName</key>
-	<string>Oxygen</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
@@ -183,7 +165,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>1043</integer>
 </dict>

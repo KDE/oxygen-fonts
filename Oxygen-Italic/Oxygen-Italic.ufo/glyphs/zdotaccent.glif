@@ -3,38 +3,7 @@
   <advance width="757"/>
   <unicode hex="017C"/>
   <outline>
-    <contour>
-      <point x="443" y="1283" type="curve" smooth="yes"/>
-      <point x="443" y="1224"/>
-      <point x="478" y="1171"/>
-      <point x="553" y="1171" type="curve" smooth="yes"/>
-      <point x="643" y="1171"/>
-      <point x="700" y="1244"/>
-      <point x="700" y="1324" type="curve" smooth="yes"/>
-      <point x="700" y="1382"/>
-      <point x="666" y="1435"/>
-      <point x="590" y="1435" type="curve" smooth="yes"/>
-      <point x="501" y="1435"/>
-      <point x="443" y="1363"/>
-    </contour>
-    <contour>
-      <point x="97" y="132" type="line"/>
-      <point x="656" y="916" type="line"/>
-      <point x="202" y="916" type="line"/>
-      <point x="220" y="1043" type="line"/>
-      <point x="838" y="1043" type="line"/>
-      <point x="820" y="916" type="line"/>
-      <point x="256" y="129" type="line"/>
-      <point x="726" y="129" type="line"/>
-      <point x="708" y="0" type="line"/>
-      <point x="78" y="0" type="line"/>
-    </contour>
+    <component base="dotaccentcmb" xOffset="170" yOffset="-126"/>
+    <component base="z"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
