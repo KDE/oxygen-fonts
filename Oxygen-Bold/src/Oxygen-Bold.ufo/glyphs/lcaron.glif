@@ -3,59 +3,36 @@
   <advance width="678"/>
   <unicode hex="013E"/>
   <outline>
-    <component base="comma" xOffset="758" yOffset="1274"/>
-    <component base="l"/>
+    <contour>
+      <point x="118" y="456" type="line" smooth="yes"/>
+      <point x="118" y="145"/>
+      <point x="184" y="-13"/>
+      <point x="513" y="-13" type="curve" smooth="yes"/>
+      <point x="568" y="-13"/>
+      <point x="672" y="1"/>
+      <point x="672" y="1" type="curve"/>
+      <point x="656" y="208" type="line"/>
+      <point x="656" y="208"/>
+      <point x="574" y="202"/>
+      <point x="567" y="202" type="curve" smooth="yes"/>
+      <point x="411" y="202"/>
+      <point x="401" y="259"/>
+      <point x="401" y="440" type="curve" smooth="yes"/>
+      <point x="401" y="1516" type="line"/>
+      <point x="118" y="1496" type="line"/>
+    </contour>
+    <contour>
+      <point x="1149" y="1498" type="line"/>
+      <point x="909" y="1498" type="line"/>
+      <point x="794" y="968" type="line"/>
+      <point x="976" y="968" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-13</integer>
-	    <key>width</key>	    <integer>215</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>968</integer>
-	    <key>width</key>	    <integer>530</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>118</integer>
-	    <key>width</key>
-	    <integer>283</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>794</integer>
-	    <key>width</key>
-	    <integer>355</integer>
-	  </dict>
-	</array>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>back</key>
-    <key>name</key>
-      <string>lcaron</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>656</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
     </dict>
   </lib>
 </glyph>

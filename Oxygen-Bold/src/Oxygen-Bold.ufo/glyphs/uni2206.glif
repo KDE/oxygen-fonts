@@ -5,56 +5,45 @@
   <outline>
     <contour>
       <point x="586" y="1271" type="curve" smooth="yes"/>
-      <point x="576" y="1271"/>
-      <point x="571" y="1264"/>
-      <point x="571" y="1253" type="curve" smooth="yes"/>
-      <point x="571" y="1226"/>
-      <point x="595" y="1175"/>
-      <point x="614" y="1119" type="curve"/>
-      <point x="617" y="1120" type="line"/>
-      <point x="626" y="1149" type="line"/>
-      <point x="706" y="909" type="line" smooth="yes"/>
-      <point x="742" y="801"/>
-      <point x="786" y="687"/>
-      <point x="820" y="588" type="curve"/>
-      <point x="816" y="586" type="line"/>
-      <point x="902" y="332" type="line"/>
-      <point x="906" y="328"/>
-      <point x="910" y="325"/>
-      <point x="914" y="325" type="curve" smooth="yes"/>
-      <point x="918" y="325"/>
-      <point x="919" y="326"/>
-      <point x="919" y="331" type="curve" smooth="yes"/>
-      <point x="919" y="403"/>
-      <point x="616" y="1222"/>
-      <point x="600" y="1260" type="curve" smooth="yes"/>
-      <point x="599" y="1264"/>
       <point x="594" y="1271"/>
+      <point x="599" y="1264"/>
+      <point x="600" y="1260" type="curve"/>
+      <point x="616" y="1222"/>
+      <point x="919" y="403"/>
+      <point x="919" y="331" type="curve" smooth="yes"/>
+      <point x="919" y="326"/>
+      <point x="918" y="325"/>
+      <point x="914" y="325" type="curve" smooth="yes"/>
+      <point x="910" y="325"/>
+      <point x="906" y="328"/>
+      <point x="902" y="332" type="curve"/>
+      <point x="816" y="586" type="line"/>
+      <point x="820" y="588" type="line"/>
+      <point x="786" y="687"/>
+      <point x="742" y="801"/>
+      <point x="706" y="909" type="curve" smooth="yes"/>
+      <point x="626" y="1149" type="line"/>
+      <point x="617" y="1120" type="line"/>
+      <point x="614" y="1119" type="line"/>
+      <point x="595" y="1175"/>
+      <point x="571" y="1226"/>
+      <point x="571" y="1253" type="curve" smooth="yes"/>
+      <point x="571" y="1264"/>
+      <point x="576" y="1271"/>
     </contour>
     <contour>
       <point x="1247" y="117" type="line"/>
-      <point x="1247" y="-20" type="line"/>
-      <point x="14" y="-20" type="line"/>
-      <point x="14" y="116" type="line"/>
-      <point x="515" y="1459" type="line"/>
       <point x="748" y="1459" type="line"/>
+      <point x="515" y="1459" type="line"/>
+      <point x="14" y="116" type="line"/>
+      <point x="14" y="-20" type="line"/>
+      <point x="1247" y="-20" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-20</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1439</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
       </dict>
     </dict>
   </lib>

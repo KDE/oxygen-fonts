@@ -203,7 +203,6 @@ lookup kernHorizontalKerninglookup0 {
     pos @kc1_first_21 @kc1_second_10 -27;
     pos @kc1_first_21 @kc1_second_24 -29;
     pos @kc1_first_22 @kc1_second_13 -36;
-    pos @kc1_first_22 @kc1_second_19 -53;
     pos @kc1_first_22 @kc1_second_21 -38;
     pos @kc1_first_22 @kc1_second_22 -33;
     pos @kc1_first_22 @kc1_second_23 -61;
@@ -302,9 +301,12 @@ feature kern {
 	\uni0447 \uni0448 \uni044A \uni044C \uni044E \uni044F \uni0450 \uni0451 \uni0453 
 	\uni0455 \uni0456 \uni2206 \uogonek \uring \utilde \v \w \wcircumflex \x \y \yacute 
 	\ycircumflex \ydieresis \yen \z \zacute \zcaron \zdotaccent \zero ];
+@GDEF_Ligature = [];
+@GDEF_Mark = [];
+@GDEF_Component = [];
 
 table GDEF {
-  GlyphClassDef @GDEF_Simple,  ,  ,  ;
+  GlyphClassDef @GDEF_Simple @GDEF_Ligature @GDEF_Mark @GDEF_Component;
 
 } GDEF;
 

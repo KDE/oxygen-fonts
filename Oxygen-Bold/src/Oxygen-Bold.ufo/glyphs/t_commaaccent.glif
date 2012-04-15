@@ -1,45 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcommaaccent" format="1">
   <advance width="1090"/>
-  <unicode hex="021A"/>
   <outline>
-    <component base="T"/>
-    <component base="cedilla" xOffset="389" yOffset="-13"/>
+    <contour>
+      <point x="-27" y="1227" type="line"/>
+      <point x="395" y="1227" type="line"/>
+      <point x="395" y="0" type="line"/>
+      <point x="693" y="0" type="line"/>
+      <point x="693" y="1227" type="line"/>
+      <point x="1117" y="1227" type="line"/>
+      <point x="1117" y="1445" type="line"/>
+      <point x="-27" y="1445" type="line"/>
+    </contour>
+    <contour>
+      <point x="661" y="-352" type="line"/>
+      <point x="723" y="14" type="line"/>
+      <point x="560" y="14" type="line"/>
+      <point x="433" y="-352" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-352</integer>
-	    <key>width</key>	    <integer>366</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1227</integer>
-	    <key>width</key>	    <integer>218</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>395</integer>
-	    <key>width</key>
-	    <integer>298</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>433</integer>
-	    <key>width</key>
-	    <integer>290</integer>
-	  </dict>
-	</array>
       </dict>
     </dict>
   </lib>
