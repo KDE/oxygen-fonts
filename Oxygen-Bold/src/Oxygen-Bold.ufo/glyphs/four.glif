@@ -4,28 +4,52 @@
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="1177" y="309" type="line"/>
-      <point x="1190" y="525" type="line"/>
-      <point x="1016" y="525" type="line"/>
-      <point x="1016" y="1445" type="line"/>
-      <point x="637" y="1445" type="line"/>
-      <point x="83" y="496" type="line"/>
-      <point x="83" y="309" type="line"/>
-      <point x="718" y="309" type="line"/>
-      <point x="718" y="0" type="line"/>
-      <point x="1016" y="0" type="line"/>
-      <point x="1016" y="309" type="line"/>
+      <point x="719" y="1179" type="line"/>
+      <point x="362" y="524" type="line"/>
+      <point x="719" y="524" type="line"/>
     </contour>
     <contour>
-      <point x="719" y="1179" type="line"/>
-      <point x="719" y="524" type="line"/>
-      <point x="362" y="524" type="line"/>
+      <point x="1177" y="309" type="line"/>
+      <point x="1016" y="309" type="line"/>
+      <point x="1016" y="0" type="line"/>
+      <point x="718" y="0" type="line"/>
+      <point x="718" y="309" type="line"/>
+      <point x="83" y="309" type="line"/>
+      <point x="83" y="496" type="line"/>
+      <point x="637" y="1445" type="line"/>
+      <point x="1016" y="1445" type="line"/>
+      <point x="1016" y="525" type="line"/>
+      <point x="1190" y="525" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>309</integer>
+	    <key>width</key>	    <integer>215</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1425</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>719</integer>
+	    <key>width</key>
+	    <integer>297</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

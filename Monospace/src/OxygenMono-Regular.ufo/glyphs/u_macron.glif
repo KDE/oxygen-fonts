@@ -1,13 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Umacron" format="1">
   <advance width="1229"/>
-  <unicode hex="016a"/>
+  <unicode hex="016A"/>
   <outline>
     <component base="U"/>
     <component base="macron" xOffset="-186" yOffset="119"/>
   </outline>
   <lib>
     <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-25</integer>
+	    <key>width</key>	    <integer>155</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1471</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1618</integer>
+	    <key>width</key>	    <integer>140</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>129</integer>
+	    <key>width</key>
+	    <integer>187</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>912</integer>
+	    <key>width</key>
+	    <integer>187</integer>
+	  </dict>
+	</array>
+      </dict>
     <key>com.typemytype.robofont.layerData</key>
     <key>back</key>
     <key>name</key>

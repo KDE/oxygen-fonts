@@ -1,13 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01F2" format="1">
   <advance width="1229"/>
-  <unicode hex="01f2"/>
+  <unicode hex="01F2"/>
   <outline>
     <component base="D" xOffset="1229"/>
     <component base="z"/>
   </outline>
   <lib>
     <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>140</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>146</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>957</integer>
+	    <key>width</key>	    <integer>140</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1345</integer>
+	    <key>width</key>	    <integer>146</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>1385</integer>
+	    <key>width</key>
+	    <integer>187</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>2155</integer>
+	    <key>width</key>
+	    <integer>196</integer>
+	  </dict>
+	</array>
+      </dict>
     <key>com.typemytype.robofont.layerData</key>
     <key>back</key>
     <key>name</key>

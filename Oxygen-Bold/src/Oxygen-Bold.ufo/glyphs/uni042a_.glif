@@ -4,36 +4,66 @@
   <unicode hex="042A"/>
   <outline>
     <contour>
-      <point x="364" y="15" type="line"/>
-      <point x="912" y="15" type="line" smooth="yes"/>
-      <point x="1295" y="15"/>
-      <point x="1475" y="173"/>
-      <point x="1475" y="502" type="curve" smooth="yes"/>
-      <point x="1475" y="831"/>
-      <point x="1203" y="960"/>
-      <point x="901" y="960" type="curve" smooth="yes"/>
-      <point x="623" y="960" type="line"/>
-      <point x="623" y="1440" type="line"/>
-      <point x="45" y="1440" type="line"/>
-      <point x="45" y="1222" type="line"/>
-      <point x="364" y="1222" type="line"/>
+      <point x="1236" y="489" type="curve" smooth="yes"/>
+      <point x="1236" y="642"/>
+      <point x="1107" y="742"/>
+      <point x="920" y="742" type="curve" smooth="yes"/>
+      <point x="623" y="742" type="line"/>
+      <point x="623" y="232" type="line"/>
+      <point x="932" y="232" type="line" smooth="yes"/>
+      <point x="1132" y="232"/>
+      <point x="1236" y="333"/>
     </contour>
     <contour>
-      <point x="1236" y="489" type="curve" smooth="yes"/>
-      <point x="1236" y="333"/>
-      <point x="1132" y="232"/>
-      <point x="932" y="232" type="curve" smooth="yes"/>
-      <point x="623" y="232" type="line"/>
-      <point x="623" y="742" type="line"/>
-      <point x="920" y="742" type="line" smooth="yes"/>
-      <point x="1107" y="742"/>
-      <point x="1236" y="642"/>
+      <point x="364" y="15" type="line"/>
+      <point x="364" y="1222" type="line"/>
+      <point x="45" y="1222" type="line"/>
+      <point x="45" y="1440" type="line"/>
+      <point x="623" y="1440" type="line"/>
+      <point x="623" y="960" type="line"/>
+      <point x="901" y="960" type="line" smooth="yes"/>
+      <point x="1203" y="960"/>
+      <point x="1475" y="831"/>
+      <point x="1475" y="502" type="curve" smooth="yes"/>
+      <point x="1475" y="173"/>
+      <point x="1295" y="15"/>
+      <point x="912" y="15" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>15</integer>
+	    <key>width</key>	    <integer>217</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>742</integer>
+	    <key>width</key>	    <integer>218</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1222</integer>
+	    <key>width</key>	    <integer>218</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>364</integer>
+	    <key>width</key>
+	    <integer>259</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1236</integer>
+	    <key>width</key>
+	    <integer>239</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

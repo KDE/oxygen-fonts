@@ -4,23 +4,52 @@
   <unicode hex="0077"/>
   <outline>
     <contour>
-      <point x="424" y="0" type="line" smooth="no"/>
-      <point x="238" y="0" type="line" smooth="no"/>
-      <point x="24" y="1097" type="line" smooth="no"/>
-      <point x="207" y="1097" type="line" smooth="no"/>
-      <point x="338" y="250" type="line" smooth="no"/>
-      <point x="521" y="1097" type="line" smooth="no"/>
-      <point x="738" y="1097" type="line" smooth="no"/>
-      <point x="917" y="253" type="line" smooth="no"/>
-      <point x="1032" y="1097" type="line" smooth="no"/>
-      <point x="1204" y="1097" type="line" smooth="no"/>
-      <point x="1003" y="0" type="line" smooth="no"/>
-      <point x="811" y="0" type="line" smooth="no"/>
-      <point x="628" y="953" type="line" smooth="no"/>
+      <point x="424" y="0" type="line"/>
+      <point x="238" y="0" type="line"/>
+      <point x="24" y="1097" type="line"/>
+      <point x="207" y="1097" type="line"/>
+      <point x="338" y="250" type="line"/>
+      <point x="521" y="1097" type="line"/>
+      <point x="738" y="1097" type="line"/>
+      <point x="917" y="253" type="line"/>
+      <point x="1032" y="1097" type="line"/>
+      <point x="1204" y="1097" type="line"/>
+      <point x="1003" y="0" type="line"/>
+      <point x="811" y="0" type="line"/>
+      <point x="628" y="953" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1077</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>24</integer>
+	    <key>width</key>
+	    <integer>183</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1032</integer>
+	    <key>width</key>
+	    <integer>172</integer>
+	  </dict>
+	</array>
+      </dict>
     <key>com.typemytype.robofont.layerData</key>
     <key>back</key>
     <key>name</key>

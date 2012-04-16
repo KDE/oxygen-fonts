@@ -1,13 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oacute" format="1">
   <advance width="1229"/>
-  <unicode hex="00f3"/>
+  <unicode hex="00F3"/>
   <outline>
-    <component base="o"/>
     <component base="acute" xOffset="123" yOffset="-16"/>
+    <component base="o"/>
   </outline>
   <lib>
     <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-25</integer>
+	    <key>width</key>	    <integer>140</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>990</integer>
+	    <key>width</key>	    <integer>140</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1252</integer>
+	    <key>width</key>	    <integer>437</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>138</integer>
+	    <key>width</key>
+	    <integer>184</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>541</integer>
+	    <key>width</key>
+	    <integer>493</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>909</integer>
+	    <key>width</key>
+	    <integer>182</integer>
+	  </dict>
+	</array>
+      </dict>
     <key>com.typemytype.robofont.layerData</key>
     <key>back</key>
     <key>name</key>

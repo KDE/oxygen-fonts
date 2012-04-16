@@ -5,30 +5,108 @@
   <outline>
     <contour>
       <point x="649" y="609" type="line"/>
-      <point x="370" y="1063" type="line"/>
-      <point x="47" y="1063" type="line"/>
-      <point x="424" y="532" type="line"/>
-      <point x="27" y="0" type="line"/>
-      <point x="336" y="0" type="line"/>
-      <point x="649" y="453" type="line"/>
-      <point x="649" y="0" type="line"/>
-      <point x="912" y="0" type="line"/>
-      <point x="912" y="453" type="line"/>
-      <point x="1225" y="0" type="line"/>
-      <point x="1534" y="0" type="line"/>
-      <point x="1137" y="532" type="line"/>
-      <point x="1514" y="1063" type="line"/>
-      <point x="1191" y="1063" type="line"/>
-      <point x="912" y="609" type="line"/>
-      <point x="912" y="1063" type="line"/>
       <point x="649" y="1063" type="line"/>
+      <point x="912" y="1063" type="line"/>
+      <point x="912" y="609" type="line"/>
+      <point x="1191" y="1063" type="line"/>
+      <point x="1514" y="1063" type="line"/>
+      <point x="1137" y="532" type="line"/>
+      <point x="1534" y="0" type="line"/>
+      <point x="1225" y="0" type="line"/>
+      <point x="912" y="453" type="line"/>
+      <point x="912" y="0" type="line"/>
+      <point x="649" y="0" type="line"/>
+      <point x="649" y="453" type="line"/>
+      <point x="336" y="0" type="line"/>
+      <point x="27" y="0" type="line"/>
+      <point x="424" y="532" type="line"/>
+      <point x="47" y="1063" type="line"/>
+      <point x="370" y="1063" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1043</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>27</integer>
+	    <key>width</key>
+	    <integer>309</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>649</integer>
+	    <key>width</key>
+	    <integer>263</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1225</integer>
+	    <key>width</key>
+	    <integer>309</integer>
+	  </dict>
+	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>afii10072</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1557</integer>
+    <key>contours</key>
+      <array>
+      <key>points</key>
+      <array>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      </array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

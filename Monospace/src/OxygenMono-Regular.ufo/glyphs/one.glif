@@ -4,25 +4,52 @@
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="1075" y="0" type="line" smooth="no"/>
-      <point x="238" y="0" type="line" smooth="no"/>
-      <point x="238" y="146" type="line" smooth="no"/>
-      <point x="574" y="146" type="line" smooth="no"/>
-      <point x="574" y="1290" type="line" smooth="no"/>
+      <point x="1075" y="0" type="line"/>
+      <point x="238" y="0" type="line"/>
+      <point x="238" y="146" type="line"/>
+      <point x="574" y="146" type="line"/>
+      <point x="574" y="1290" type="line"/>
       <point x="471" y="1232"/>
       <point x="352" y="1150"/>
-      <point x="237" y="1106" type="curve" smooth="no"/>
-      <point x="237" y="1287" type="line" smooth="no"/>
+      <point x="237" y="1106" type="curve"/>
+      <point x="237" y="1287" type="line"/>
       <point x="368" y="1341"/>
       <point x="464" y="1415"/>
-      <point x="573" y="1492" type="curve" smooth="no"/>
-      <point x="761" y="1492" type="line" smooth="no"/>
-      <point x="761" y="146" type="line" smooth="no"/>
-      <point x="1075" y="146" type="line" smooth="no"/>
+      <point x="573" y="1492" type="curve"/>
+      <point x="761" y="1492" type="line"/>
+      <point x="761" y="146" type="line"/>
+      <point x="1075" y="146" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>146</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1106</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1472</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>574</integer>
+	    <key>width</key>
+	    <integer>187</integer>
+	  </dict>
+	</array>
+      </dict>
     <key>com.typemytype.robofont.layerData</key>
     <key>back</key>
     <key>name</key>

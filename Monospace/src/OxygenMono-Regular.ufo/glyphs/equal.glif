@@ -1,19 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="equal" format="1">
   <advance width="1229"/>
-  <unicode hex="003d"/>
+  <unicode hex="003D"/>
   <outline>
     <contour>
-      <point x="1195" y="457" type="line" smooth="no"/>
-      <point x="35" y="457" type="line" smooth="no"/>
-      <point x="35" y="605" type="line" smooth="no"/>
-      <point x="1195" y="605" type="line" smooth="no"/>
+      <point x="1195" y="457" type="line"/>
+      <point x="35" y="457" type="line"/>
+      <point x="35" y="605" type="line"/>
+      <point x="1195" y="605" type="line"/>
     </contour>
     <contour>
-      <point x="1194" y="898" type="line" smooth="no"/>
-      <point x="34" y="898" type="line" smooth="no"/>
-      <point x="34" y="1048" type="line" smooth="no"/>
-      <point x="1194" y="1048" type="line" smooth="no"/>
+      <point x="1194" y="898" type="line"/>
+      <point x="34" y="898" type="line"/>
+      <point x="34" y="1048" type="line"/>
+      <point x="1194" y="1048" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>457</integer>
+	    <key>width</key>	    <integer>148</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>898</integer>
+	    <key>width</key>	    <integer>150</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

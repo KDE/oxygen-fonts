@@ -1,13 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="periodcentered" format="1">
   <advance width="1229"/>
-  <unicode hex="00b7"/>
+  <unicode hex="00B7"/>
   <outline>
     <contour>
-      <point x="487" y="557" type="line" smooth="no"/>
-      <point x="487" y="785" type="line" smooth="no"/>
-      <point x="728" y="785" type="line" smooth="no"/>
-      <point x="728" y="557" type="line" smooth="no"/>
+      <point x="487" y="557" type="line"/>
+      <point x="487" y="785" type="line"/>
+      <point x="728" y="785" type="line"/>
+      <point x="728" y="557" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>557</integer>
+	    <key>width</key>	    <integer>228</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>487</integer>
+	    <key>width</key>
+	    <integer>241</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

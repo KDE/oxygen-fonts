@@ -4,22 +4,56 @@
   <unicode hex="0022"/>
   <outline>
     <contour>
-      <point x="402" y="937" type="line"/>
-      <point x="581" y="937" type="line"/>
-      <point x="581" y="1453" type="line"/>
-      <point x="369" y="1453" type="line"/>
+      <point x="99" y="937" type="line"/>
+      <point x="61" y="1453" type="line"/>
+      <point x="279" y="1453" type="line"/>
+      <point x="279" y="937" type="line"/>
     </contour>
     <contour>
-      <point x="99" y="937" type="line"/>
-      <point x="279" y="937" type="line"/>
-      <point x="279" y="1453" type="line"/>
-      <point x="61" y="1453" type="line"/>
+      <point x="402" y="937" type="line"/>
+      <point x="369" y="1453" type="line"/>
+      <point x="581" y="1453" type="line"/>
+      <point x="581" y="937" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>937</integer>
+	    <key>width</key>	    <integer>516</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>61</integer>
+	    <key>width</key>
+	    <integer>218</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>99</integer>
+	    <key>width</key>
+	    <integer>180</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>369</integer>
+	    <key>width</key>
+	    <integer>212</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>402</integer>
+	    <key>width</key>
+	    <integer>179</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

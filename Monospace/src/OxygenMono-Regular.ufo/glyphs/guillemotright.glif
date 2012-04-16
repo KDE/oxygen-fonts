@@ -1,23 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotright" format="1">
   <advance width="1229"/>
-  <unicode hex="00bb"/>
+  <unicode hex="00BB"/>
   <outline>
     <contour>
-      <point x="636" y="185" type="line" smooth="no"/>
-      <point x="926" y="589" type="line" smooth="no"/>
-      <point x="645" y="992" type="line" smooth="no"/>
-      <point x="817" y="992" type="line" smooth="no"/>
-      <point x="1116" y="589" type="line" smooth="no"/>
-      <point x="809" y="185" type="line" smooth="no"/>
+      <point x="636" y="185" type="line"/>
+      <point x="926" y="589" type="line"/>
+      <point x="645" y="992" type="line"/>
+      <point x="817" y="992" type="line"/>
+      <point x="1116" y="589" type="line"/>
+      <point x="809" y="185" type="line"/>
     </contour>
     <contour>
-      <point x="197" y="185" type="line" smooth="no"/>
-      <point x="489" y="589" type="line" smooth="no"/>
-      <point x="203" y="992" type="line" smooth="no"/>
-      <point x="380" y="992" type="line" smooth="no"/>
-      <point x="678" y="589" type="line" smooth="no"/>
-      <point x="373" y="185" type="line" smooth="no"/>
+      <point x="197" y="185" type="line"/>
+      <point x="489" y="589" type="line"/>
+      <point x="203" y="992" type="line"/>
+      <point x="380" y="992" type="line"/>
+      <point x="678" y="589" type="line"/>
+      <point x="373" y="185" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>197</integer>
+	    <key>width</key>
+	    <integer>176</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>636</integer>
+	    <key>width</key>
+	    <integer>173</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

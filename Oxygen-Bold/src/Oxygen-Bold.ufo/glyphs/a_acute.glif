@@ -3,32 +3,41 @@
   <advance width="1300"/>
   <unicode hex="00C1"/>
   <outline>
-    <contour>
-      <point x="1029" y="0" type="line"/>
-      <point x="1310" y="0" type="line"/>
-      <point x="796" y="1445" type="line"/>
-      <point x="516" y="1445" type="line"/>
-      <point x="-10" y="0" type="line"/>
-      <point x="285" y="0" type="line"/>
-      <point x="442" y="444" type="line"/>
-      <point x="870" y="444" type="line"/>
-    </contour>
-    <contour>
-      <point x="506" y="626" type="line"/>
-      <point x="658" y="1117" type="line"/>
-      <point x="800" y="626" type="line"/>
-    </contour>
-    <contour>
-      <point x="1092" y="1982" type="line"/>
-      <point x="778" y="1982" type="line"/>
-      <point x="612" y="1600" type="line"/>
-      <point x="781" y="1600" type="line"/>
-    </contour>
+    <component base="A"/>
+    <component base="acute" xOffset="400" yOffset="424"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>444</integer>
+	    <key>width</key>	    <integer>182</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1425</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1600</integer>
+	    <key>width</key>	    <integer>382</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>612</integer>
+	    <key>width</key>
+	    <integer>480</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

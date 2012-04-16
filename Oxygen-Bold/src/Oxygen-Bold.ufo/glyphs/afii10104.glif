@@ -3,30 +3,69 @@
   <advance width="587"/>
   <unicode hex="0457"/>
   <outline>
-    <contour>
-      <point x="610" y="1230" type="line"/>
-      <point x="610" y="1498" type="line"/>
-      <point x="401" y="1498" type="line"/>
-      <point x="401" y="1230" type="line"/>
-    </contour>
-    <contour>
-      <point x="185" y="1230" type="line"/>
-      <point x="185" y="1498" type="line"/>
-      <point x="-23" y="1498" type="line"/>
-      <point x="-23" y="1230" type="line"/>
-    </contour>
-    <contour>
-      <point x="410" y="1063" type="line"/>
-      <point x="127" y="1063" type="line"/>
-      <point x="127" y="0" type="line"/>
-      <point x="410" y="0" type="line"/>
-    </contour>
+    <component base="dieresis" xOffset="-86"/>
+    <component base="dotlessi"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1043</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1230</integer>
+	    <key>width</key>	    <integer>268</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>-23</integer>
+	    <key>width</key>
+	    <integer>208</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>127</integer>
+	    <key>width</key>
+	    <integer>283</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>401</integer>
+	    <key>width</key>
+	    <integer>209</integer>
+	  </dict>
+	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>afii10104</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>587</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

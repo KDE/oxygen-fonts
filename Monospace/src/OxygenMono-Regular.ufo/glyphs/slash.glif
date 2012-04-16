@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slash" format="1">
   <advance width="1229"/>
-  <unicode hex="002f"/>
+  <unicode hex="002F"/>
   <outline>
     <contour>
-      <point x="887" y="1585" type="line" smooth="no"/>
-      <point x="1084" y="1585" type="line" smooth="no"/>
-      <point x="375" y="-224" type="line" smooth="no"/>
-      <point x="184" y="-224" type="line" smooth="no"/>
+      <point x="887" y="1585" type="line"/>
+      <point x="1084" y="1585" type="line"/>
+      <point x="375" y="-224" type="line"/>
+      <point x="184" y="-224" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1565</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+      </dict>
     <key>com.typemytype.robofont.layerData</key>
     <key>back</key>
     <key>name</key>

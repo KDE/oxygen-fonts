@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="1">
+  <advance width="1229"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="404" y="684" type="line"/>
+      <point x="404" y="146" type="line"/>
+      <point x="1108" y="146" type="line"/>
+      <point x="1093" y="0" type="line"/>
+      <point x="217" y="0" type="line"/>
+      <point x="217" y="1491" type="line"/>
+      <point x="1075" y="1491" type="line"/>
+      <point x="1059" y="1345" type="line"/>
+      <point x="404" y="1345" type="line"/>
+      <point x="404" y="843" type="line"/>
+      <point x="1026" y="843" type="line"/>
+      <point x="1026" y="684" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>146</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>684</integer>
+	    <key>width</key>	    <integer>159</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1345</integer>
+	    <key>width</key>	    <integer>146</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>217</integer>
+	    <key>width</key>
+	    <integer>187</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>E</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1229</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

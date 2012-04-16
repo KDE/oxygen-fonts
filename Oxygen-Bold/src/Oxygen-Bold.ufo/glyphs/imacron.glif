@@ -3,24 +3,63 @@
   <advance width="587"/>
   <unicode hex="012B"/>
   <outline>
-    <contour>
-      <point x="410" y="1063" type="line"/>
-      <point x="127" y="1063" type="line"/>
-      <point x="127" y="0" type="line"/>
-      <point x="410" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="671" y="1393" type="line"/>
-      <point x="-8" y="1393" type="line"/>
-      <point x="-8" y="1230" type="line"/>
-      <point x="671" y="1230" type="line"/>
-    </contour>
+    <component base="dotlessi"/>
+    <component base="uni00AF" xOffset="-106" yOffset="-105"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1043</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1230</integer>
+	    <key>width</key>	    <integer>163</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>-8</integer>
+	    <key>width</key>
+	    <integer>679</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>127</integer>
+	    <key>width</key>
+	    <integer>283</integer>
+	  </dict>
+	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>imacron</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>587</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

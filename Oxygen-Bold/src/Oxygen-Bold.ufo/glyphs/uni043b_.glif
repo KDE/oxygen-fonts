@@ -4,28 +4,100 @@
   <unicode hex="043B"/>
   <outline>
     <contour>
-      <point x="446" y="361" type="curve" smooth="yes"/>
-      <point x="446" y="845" type="line"/>
-      <point x="842" y="845" type="line"/>
-      <point x="842" y="0" type="line"/>
-      <point x="1125" y="0" type="line"/>
-      <point x="1125" y="1063" type="line"/>
-      <point x="163" y="1063" type="line"/>
-      <point x="163" y="401" type="line" smooth="yes"/>
-      <point x="163" y="234"/>
-      <point x="142" y="204"/>
-      <point x="-9" y="187" type="curve" smooth="yes"/>
-      <point x="-36" y="183" type="line"/>
-      <point x="-36" y="-29" type="line"/>
-      <point x="246" y="-29"/>
+      <point x="446" y="361" type="line" smooth="yes"/>
       <point x="446" y="81"/>
+      <point x="246" y="-29"/>
+      <point x="-36" y="-29" type="curve"/>
+      <point x="-36" y="183" type="line"/>
+      <point x="-9" y="187" type="line"/>
+      <point x="142" y="204"/>
+      <point x="163" y="234"/>
+      <point x="163" y="401" type="curve" smooth="yes"/>
+      <point x="163" y="1063" type="line"/>
+      <point x="1125" y="1063" type="line"/>
+      <point x="1125" y="0" type="line"/>
+      <point x="842" y="0" type="line"/>
+      <point x="842" y="845" type="line"/>
+      <point x="446" y="845" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>845</integer>
+	    <key>width</key>	    <integer>218</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>163</integer>
+	    <key>width</key>
+	    <integer>283</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>842</integer>
+	    <key>width</key>
+	    <integer>283</integer>
+	  </dict>
+	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>uni043B</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1283</integer>
+    <key>contours</key>
+      <array>
+      <key>points</key>
+      <array>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      </array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

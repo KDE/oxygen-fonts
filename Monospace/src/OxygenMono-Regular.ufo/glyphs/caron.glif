@@ -1,16 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron" format="1">
   <advance width="1229"/>
-  <unicode hex="02c7"/>
+  <unicode hex="02C7"/>
   <outline>
     <contour>
-      <point x="444" y="1614" type="line" smooth="no"/>
-      <point x="632" y="1379" type="line" smooth="no"/>
-      <point x="822" y="1614" type="line" smooth="no"/>
-      <point x="993" y="1614" type="line" smooth="no"/>
-      <point x="720" y="1266" type="line" smooth="no"/>
-      <point x="555" y="1266" type="line" smooth="no"/>
-      <point x="283" y="1614" type="line" smooth="no"/>
+      <point x="444" y="1614" type="line"/>
+      <point x="632" y="1379" type="line"/>
+      <point x="822" y="1614" type="line"/>
+      <point x="993" y="1614" type="line"/>
+      <point x="720" y="1266" type="line"/>
+      <point x="555" y="1266" type="line"/>
+      <point x="283" y="1614" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1266</integer>
+	    <key>width</key>	    <integer>348</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>283</integer>
+	    <key>width</key>
+	    <integer>161</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>822</integer>
+	    <key>width</key>
+	    <integer>171</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

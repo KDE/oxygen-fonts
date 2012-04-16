@@ -52,12 +52,9 @@
 	\uni0217 \uni021A \uni021B \uni0237 \uni0307 \uni030F \uni0311 \uni0326 \uni2074 
 	\uni2206 \uniF6C3 \uniFB01 \uniFB02 \uring \v \w \x \y \yacute \ydieresis \yen \z 
 	\zacute \zcaron \zdotaccent \zero ];
-@GDEF_Ligature = [];
-@GDEF_Mark = [];
-@GDEF_Component = [];
 
 table GDEF {
-  GlyphClassDef @GDEF_Simple @GDEF_Ligature @GDEF_Mark @GDEF_Component;
+  GlyphClassDef @GDEF_Simple,  ,  ,  ;
 
 } GDEF;
 

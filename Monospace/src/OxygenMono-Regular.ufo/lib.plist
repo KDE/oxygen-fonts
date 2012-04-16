@@ -6,8 +6,6 @@
       <integer>0</integer>
     <key>com.typemytype.robofont.compileSettings.decompose</key>
       <integer>0</integer>
-    <key>com.typemytype.robofont.segmentType</key>
-      <string>curve</string>
     <key>com.typemytype.robofont.foreground.layerStrokeColor</key>
       <array>
               </array>
@@ -24,6 +22,8 @@
       <array>
         <string>back</string>
       </array>
+    <key>com.typemytype.robofont.segmentType</key>
+      <string>curve</string>
     <key>com.typemytype.robofont.compileSettings.generateFormat</key>
       <integer>1</integer>
     <key>org.robofab.glyphOrder</key>

@@ -301,12 +301,9 @@ feature kern {
 	\uni0447 \uni0448 \uni044A \uni044C \uni044E \uni044F \uni0450 \uni0451 \uni0453 
 	\uni0455 \uni0456 \uni2206 \uogonek \uring \utilde \v \w \wcircumflex \x \y \yacute 
 	\ycircumflex \ydieresis \yen \z \zacute \zcaron \zdotaccent \zero ];
-@GDEF_Ligature = [];
-@GDEF_Mark = [];
-@GDEF_Component = [];
 
 table GDEF {
-  GlyphClassDef @GDEF_Simple @GDEF_Ligature @GDEF_Mark @GDEF_Component;
+  GlyphClassDef @GDEF_Simple,  ,  ,  ;
 
 } GDEF;
 
