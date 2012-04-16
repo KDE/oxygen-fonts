@@ -4,69 +4,63 @@
   <unicode hex="0023"/>
   <outline>
     <contour>
-      <point x="1155" y="997" type="line"/>
-      <point x="971" y="997" type="line"/>
-      <point x="886" y="573" type="line"/>
-      <point x="1073" y="573" type="line"/>
-      <point x="1058" y="437" type="line"/>
-      <point x="863" y="437" type="line"/>
-      <point x="772" y="-25" type="line"/>
-      <point x="610" y="-25" type="line"/>
-      <point x="698" y="437" type="line"/>
-      <point x="483" y="437" type="line"/>
-      <point x="393" y="-25" type="line"/>
-      <point x="230" y="-25" type="line"/>
-      <point x="324" y="437" type="line"/>
-      <point x="108" y="437" type="line"/>
-      <point x="121" y="573" type="line"/>
-      <point x="350" y="573" type="line"/>
-      <point x="430" y="996" type="line"/>
-      <point x="205" y="996" type="line"/>
-      <point x="219" y="1130" type="line"/>
-      <point x="455" y="1130" type="line"/>
-      <point x="541" y="1568" type="line"/>
-      <point x="704" y="1568" type="line"/>
-      <point x="619" y="1130" type="line"/>
-      <point x="837" y="1130" type="line"/>
-      <point x="921" y="1568" type="line"/>
-      <point x="1083" y="1568" type="line"/>
-      <point x="997" y="1130" type="line"/>
-      <point x="1172" y="1130" type="line"/>
+      <point x="592" y="997" type="line" smooth="no"/>
+      <point x="509" y="573" type="line" smooth="no"/>
+      <point x="727" y="573" type="line" smooth="no"/>
+      <point x="811" y="997" type="line" smooth="no"/>
     </contour>
     <contour>
-      <point x="592" y="997" type="line"/>
-      <point x="509" y="573" type="line"/>
-      <point x="727" y="573" type="line"/>
-      <point x="811" y="997" type="line"/>
+      <point x="1155" y="997" type="line" smooth="no"/>
+      <point x="971" y="997" type="line" smooth="no"/>
+      <point x="886" y="573" type="line" smooth="no"/>
+      <point x="1073" y="573" type="line" smooth="no"/>
+      <point x="1058" y="437" type="line" smooth="no"/>
+      <point x="863" y="437" type="line" smooth="no"/>
+      <point x="772" y="-25" type="line" smooth="no"/>
+      <point x="610" y="-25" type="line" smooth="no"/>
+      <point x="698" y="437" type="line" smooth="no"/>
+      <point x="483" y="437" type="line" smooth="no"/>
+      <point x="393" y="-25" type="line" smooth="no"/>
+      <point x="230" y="-25" type="line" smooth="no"/>
+      <point x="324" y="437" type="line" smooth="no"/>
+      <point x="108" y="437" type="line" smooth="no"/>
+      <point x="121" y="573" type="line" smooth="no"/>
+      <point x="350" y="573" type="line" smooth="no"/>
+      <point x="430" y="996" type="line" smooth="no"/>
+      <point x="205" y="996" type="line" smooth="no"/>
+      <point x="219" y="1130" type="line" smooth="no"/>
+      <point x="455" y="1130" type="line" smooth="no"/>
+      <point x="541" y="1568" type="line" smooth="no"/>
+      <point x="704" y="1568" type="line" smooth="no"/>
+      <point x="619" y="1130" type="line" smooth="no"/>
+      <point x="837" y="1130" type="line" smooth="no"/>
+      <point x="921" y="1568" type="line" smooth="no"/>
+      <point x="1083" y="1568" type="line" smooth="no"/>
+      <point x="997" y="1130" type="line" smooth="no"/>
+      <point x="1172" y="1130" type="line" smooth="no"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>numbersign</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1229</integer>
-        </dict>
-      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>numbersign</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1229</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,48 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclam" format="1">
-  <advance width="1230"/>
+  <advance width="1229"/>
   <unicode hex="0021"/>
   <outline>
     <contour>
-      <point x="584" y="489" type="line"/>
-      <point x="495" y="1492" type="line"/>
-      <point x="735" y="1492" type="line"/>
-      <point x="646" y="489" type="line"/>
+      <point x="735" y="0" type="line" smooth="no"/>
+      <point x="495" y="0" type="line" smooth="no"/>
+      <point x="495" y="276" type="line" smooth="no"/>
+      <point x="735" y="276" type="line" smooth="no"/>
     </contour>
     <contour>
-      <point x="735" y="0" type="line"/>
-      <point x="495" y="0" type="line"/>
-      <point x="495" y="276" type="line"/>
-      <point x="735" y="276" type="line"/>
+      <point x="584" y="489" type="line" smooth="no"/>
+      <point x="495" y="1492" type="line" smooth="no"/>
+      <point x="735" y="1492" type="line" smooth="no"/>
+      <point x="646" y="489" type="line" smooth="no"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>exclam</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1230</integer>
-        </dict>
-      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>exclam</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1230</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

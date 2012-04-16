@@ -1,51 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="1">
   <advance width="1229"/>
-  <unicode hex="007A"/>
+  <unicode hex="007a"/>
   <outline>
     <contour>
-      <point x="223" y="1097" type="line"/>
-      <point x="955" y="1097" type="line"/>
-      <point x="955" y="959" type="line"/>
-      <point x="402" y="140.167" type="line"/>
-      <point x="992" y="138" type="line"/>
-      <point x="992" y="0" type="line"/>
-      <point x="203" y="0" type="line"/>
-      <point x="203" y="142" type="line"/>
-      <point x="746" y="957" type="line"/>
-      <point x="223" y="957" type="line"/>
-    </contour>
-    <contour>
-      <point x="615" y="1097" type="move" name="top"/>
+      <point x="223" y="1097" type="line" smooth="no"/>
+      <point x="955" y="1097" type="line" smooth="no"/>
+      <point x="955" y="959" type="line" smooth="no"/>
+      <point x="402" y="140" type="line" smooth="no"/>
+      <point x="992" y="138" type="line" smooth="no"/>
+      <point x="992" y="0" type="line" smooth="no"/>
+      <point x="203" y="0" type="line" smooth="no"/>
+      <point x="203" y="142" type="line" smooth="no"/>
+      <point x="746" y="957" type="line" smooth="no"/>
+      <point x="223" y="957" type="line" smooth="no"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>z</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1229</integer>
-        </dict>
-      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>z</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1229</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

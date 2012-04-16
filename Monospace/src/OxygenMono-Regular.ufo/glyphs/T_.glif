@@ -4,161 +4,100 @@
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="1129" y="1491" type="line"/>
-      <point x="1129" y="1345" type="line"/>
-      <point x="705" y="1345" type="line"/>
-      <point x="705" y="0" type="line"/>
-      <point x="518" y="0" type="line"/>
-      <point x="518" y="1345" type="line"/>
-      <point x="94" y="1345" type="line"/>
-      <point x="94" y="1491" type="line"/>
-    </contour>
-    <contour>
-      <point x="615" y="1491" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="615" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="615" y="746" type="move" name="center"/>
+      <point x="1129" y="1491" type="line" smooth="no"/>
+      <point x="1129" y="1345" type="line" smooth="no"/>
+      <point x="705" y="1345" type="line" smooth="no"/>
+      <point x="705" y="0" type="line" smooth="no"/>
+      <point x="518" y="0" type="line" smooth="no"/>
+      <point x="518" y="1345" type="line" smooth="no"/>
+      <point x="94" y="1345" type="line" smooth="no"/>
+      <point x="94" y="1491" type="line" smooth="no"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-            <dict>
-              <key>name</key>
-              <string>top</string>
-              <key>x</key>
-              <real>608.0</real>
-              <key>y</key>
-              <real>1351.0</real>
-            </dict>
-            <dict>
-              <key>name</key>
-              <string>center</string>
-              <key>x</key>
-              <real>608.0</real>
-              <key>y</key>
-              <real>2096.0</real>
-            </dict>
-            <dict>
-              <key>name</key>
-              <string>bottom</string>
-              <key>x</key>
-              <real>608.0</real>
-              <key>y</key>
-              <real>2842.0</real>
-            </dict>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>24.0</real>
-                  <key>y</key>
-                  <real>1351.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>24.0</real>
-                  <key>y</key>
-                  <real>1497.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>518.0</real>
-                  <key>y</key>
-                  <real>1497.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>518.0</real>
-                  <key>y</key>
-                  <real>2842.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>705.0</real>
-                  <key>y</key>
-                  <real>2842.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>705.0</real>
-                  <key>y</key>
-                  <real>1497.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>1159.0</real>
-                  <key>y</key>
-                  <real>1497.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>1159.0</real>
-                  <key>y</key>
-                  <real>1351.0</real>
-                </dict>
-              </array>
-            </dict>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>T</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1229</integer>
-        </dict>
-      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>T</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1229</integer>
+    <key>contours</key>
+      <array>
+      <key>points</key>
+      <array>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      </array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      <key>y</key>
+    <key>x</key>
+    <key>name</key>
+      <string>top</string>
+      <key>y</key>
+    <key>x</key>
+    <key>name</key>
+      <string>center</string>
+      <key>y</key>
+    <key>x</key>
+    <key>name</key>
+      <string>bottom</string>
+      </array>
     </dict>
   </lib>
 </glyph>
