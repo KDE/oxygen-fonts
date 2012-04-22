@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10091" format="1">
+  <advance width="1579"/>
+  <unicode hex="0449"/>
+  <outline>
+    <contour>
+      <point x="1281" y="0" type="line"/>
+      <point x="101" y="0" type="line"/>
+      <point x="101" y="1063" type="line"/>
+      <point x="364" y="1063" type="line"/>
+      <point x="364" y="215" type="line"/>
+      <point x="627" y="215" type="line"/>
+      <point x="627" y="1063" type="line"/>
+      <point x="890" y="1063" type="line"/>
+      <point x="890" y="215" type="line"/>
+      <point x="1154" y="215" type="line"/>
+      <point x="1154" y="1063" type="line"/>
+      <point x="1412" y="1063" type="line"/>
+      <point x="1412" y="96" type="line"/>
+      <point x="1542" y="96" type="line"/>
+      <point x="1542" y="-362" type="line"/>
+      <point x="1303" y="-362" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>215</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1043</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>101</integer>
+	    <key>width</key>
+	    <integer>263</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>627</integer>
+	    <key>width</key>
+	    <integer>263</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1154</integer>
+	    <key>width</key>
+	    <integer>258</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1303</integer>
+	    <key>width</key>
+	    <integer>239</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>afii10091</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1579</integer>
+    <key>contours</key>
+      <array>
+      <key>points</key>
+      <array>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>y</key>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+      <key>y</key>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+      <key>segmentType</key>
+      <string>curve</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      </array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

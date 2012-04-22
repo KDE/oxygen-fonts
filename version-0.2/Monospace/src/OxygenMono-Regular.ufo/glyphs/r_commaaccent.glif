@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcommaaccent" format="1">
+  <advance width="1229"/>
+  <unicode hex="0156"/>
+  <outline>
+    <component base="R"/>
+    <contour>
+      <point x="848.5" y="-122" type="line"/>
+      <point x="667.5" y="-624" type="line"/>
+      <point x="522.5" y="-624" type="line"/>
+      <point x="640.5" y="-122" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-625</integer>
+	    <key>width</key>	    <integer>502</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>662</integer>
+	    <key>width</key>	    <integer>162</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1345</integer>
+	    <key>width</key>	    <integer>146</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>798</integer>
+	    <key>width</key>
+	    <integer>326</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>920</integer>
+	    <key>width</key>
+	    <integer>195</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>Rcommaaccent</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1229</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>
