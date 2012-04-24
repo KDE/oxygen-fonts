@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhorn" format="1">
+  <advance width="1390"/>
+  <unicode hex="01AF"/>
+  <outline>
+    <component base="U"/>
+    <component base="uni031B" xOffset="1205" yOffset="1467"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-20</integer>
+	    <key>width</key>	    <integer>226</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1079</integer>
+	    <key>width</key>	    <integer>183</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1432</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>107</integer>
+	    <key>width</key>
+	    <integer>298</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>985</integer>
+	    <key>width</key>
+	    <integer>298</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1468</integer>
+	    <key>width</key>
+	    <integer>161</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
