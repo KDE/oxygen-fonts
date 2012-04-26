@@ -39,7 +39,7 @@
 	<key>openTypeNameVersion</key>
 	<string>Version 0.2</string>
 	<key>openTypeNameUniqueID</key>
-	<string>newtypography : Oxygen Mono</string>
+	<string>Oxygen Mono Regular</string>
 	<key>openTypeNameDescription</key>
 	<string>Copyright (c) 2011-12 by vernon adams. All rights reserved.</string>
 	<key>openTypeNamePreferedFamilyName</key>
@@ -54,12 +54,12 @@
 		<integer>0</integer>
 		<integer>5</integer>
 		<integer>9</integer>
-		<integer>3</integer>
 		<integer>0</integer>
 		<integer>0</integer>
-		<integer>9</integer>
 		<integer>0</integer>
-		<integer>4</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
 	</array>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
@@ -121,12 +121,33 @@
 	<integer>119</integer>
 	<key>openTypeOS2StrikeoutPosition</key>
 	<integer>658</integer>
+	<key>openTypeOS2UnicodeRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>5</integer>
+		<integer>31</integer>
+		<integer>33</integer>
+		<integer>35</integer>
+		<integer>38</integer>
+		<integer>45</integer>
+	</array>
+	<key>openTypeOS2CodePageRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>4</integer>
+		<integer>7</integer>
+		<integer>29</integer>
+	</array>
 	<key>postscriptFontName</key>
 	<string>OxygenMono-Regular</string>
 	<key>postscriptFullName</key>
 	<string>Oxygen Mono</string>
 	<key>postscriptWeightName</key>
-	<string>Regular</string>
+	<string>Book</string>
 	<key>postscriptUnderlineThickness</key>
 	<integer>119</integer>
 	<key>postscriptUnderlinePosition</key>
