@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecaron" format="1">
-  <advance width="1109"/>
+  <advance width="1124"/>
   <unicode hex="011B"/>
   <outline>
-    <component base="caron" xOffset="192.5" yOffset="31"/>
+    <component base="caron" xOffset="163" yOffset="66"/>
     <component base="e"/>
   </outline>
   <lib>
@@ -17,15 +17,15 @@
 	    <key>width</key>	    <integer>193</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>475</integer>
+	    <key>position</key>	    <integer>494</integer>
 	    <key>width</key>	    <integer>152</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>892</integer>
+	    <key>position</key>	    <integer>927</integer>
 	    <key>width</key>	    <integer>190</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1205</integer>
+	    <key>position</key>	    <integer>1240</integer>
 	    <key>width</key>	    <integer>341</integer>
 	  </dict>
 	</array>
@@ -39,12 +39,31 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>798</integer>
+	    <integer>813</integer>
 	    <key>width</key>
 	    <integer>257</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>ecaron</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1110</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

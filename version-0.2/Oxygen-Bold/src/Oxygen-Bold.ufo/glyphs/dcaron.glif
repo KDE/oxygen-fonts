@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="1">
-  <advance width="1237"/>
+  <advance width="1254"/>
   <unicode hex="010F"/>
   <outline>
-    <component base="afii57929" xOffset="1258" yOffset="63"/>
+    <component base="afii57929" xOffset="1273" yOffset="63"/>
     <component base="d"/>
   </outline>
   <lib>
@@ -21,7 +21,7 @@
 	    <key>width</key>	    <integer>21</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>892</integer>
+	    <key>position</key>	    <integer>927</integer>
 	    <key>width</key>	    <integer>190</integer>
 	  </dict>
 	  <dict>
@@ -39,18 +39,37 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>853</integer>
+	    <integer>870</integer>
 	    <key>width</key>
 	    <integer>283</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1356</integer>
+	    <integer>1374</integer>
 	    <key>width</key>
 	    <integer>150</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>dcaron</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1240</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

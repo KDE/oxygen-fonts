@@ -4,7 +4,7 @@
   <unicode hex="0209"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="uni030F" xOffset="-320" yOffset="29"/>
+    <component base="uni030F" xOffset="-339" yOffset="64"/>
   </outline>
   <lib>
     <dict>
@@ -17,11 +17,11 @@
 	    <key>width</key>	    <integer>21</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1043</integer>
+	    <key>position</key>	    <integer>1078</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1205</integer>
+	    <key>position</key>	    <integer>1240</integer>
 	    <key>width</key>	    <integer>340</integer>
 	  </dict>
 	</array>
@@ -35,6 +35,25 @@
 	  </dict>
 	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>uni0209</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>587</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

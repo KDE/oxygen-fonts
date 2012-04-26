@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zcaron" format="1">
-  <advance width="970"/>
+  <advance width="997"/>
   <unicode hex="017E"/>
   <outline>
-    <component base="caron" xOffset="94"/>
+    <component base="caron" xOffset="112" yOffset="66"/>
     <component base="z"/>
   </outline>
   <lib>
@@ -17,11 +17,11 @@
 	    <key>width</key>	    <integer>189</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>883</integer>
+	    <key>position</key>	    <integer>918</integer>
 	    <key>width</key>	    <integer>180</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1174</integer>
+	    <key>position</key>	    <integer>1240</integer>
 	    <key>width</key>	    <integer>341</integer>
 	  </dict>
 	</array>

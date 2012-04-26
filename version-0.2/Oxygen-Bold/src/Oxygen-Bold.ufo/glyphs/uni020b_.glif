@@ -4,7 +4,7 @@
   <unicode hex="020B"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="uni0311" xOffset="-70" yOffset="-1"/>
+    <component base="uni0311" xOffset="-75" yOffset="34"/>
   </outline>
   <lib>
     <dict>
@@ -17,11 +17,11 @@
 	    <key>width</key>	    <integer>21</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1043</integer>
+	    <key>position</key>	    <integer>1078</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1286</integer>
+	    <key>position</key>	    <integer>1321</integer>
 	    <key>width</key>	    <integer>168</integer>
 	  </dict>
 	</array>
@@ -29,7 +29,7 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>-32</integer>
+	    <integer>-36</integer>
 	    <key>width</key>
 	    <integer>184</integer>
 	  </dict>
@@ -41,12 +41,31 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>384</integer>
+	    <integer>388</integer>
 	    <key>width</key>
 	    <integer>184</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>uni020B</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>587</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

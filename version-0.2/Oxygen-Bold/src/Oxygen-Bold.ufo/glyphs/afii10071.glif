@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10071" format="1">
-  <advance width="1109"/>
+  <advance width="1124"/>
   <unicode hex="0451"/>
   <outline>
     <component base="afii10070"/>
-    <component base="dieresis" xOffset="203.5" yOffset="-25"/>
+    <component base="dieresis" xOffset="181" yOffset="10"/>
   </outline>
   <lib>
     <dict>
@@ -17,15 +17,15 @@
 	    <key>width</key>	    <integer>193</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>475</integer>
+	    <key>position</key>	    <integer>494</integer>
 	    <key>width</key>	    <integer>152</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>892</integer>
+	    <key>position</key>	    <integer>927</integer>
 	    <key>width</key>	    <integer>190</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1205</integer>
+	    <key>position</key>	    <integer>1240</integer>
 	    <key>width</key>	    <integer>268</integer>
 	  </dict>
 	</array>
@@ -39,24 +39,43 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>266</integer>
+	    <integer>246</integer>
 	    <key>width</key>
 	    <integer>208</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>690</integer>
+	    <integer>677</integer>
 	    <key>width</key>
 	    <integer>209</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>798</integer>
+	    <integer>813</integer>
 	    <key>width</key>
 	    <integer>257</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>uni0451</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1177</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

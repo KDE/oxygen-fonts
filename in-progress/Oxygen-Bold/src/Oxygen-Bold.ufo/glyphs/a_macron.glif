@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Amacron" format="1">
-  <advance width="1300"/>
+  <advance width="1343"/>
   <unicode hex="0100"/>
   <outline>
     <component base="A"/>
-    <component base="macron" xOffset="283.5" yOffset="342"/>
+    <component base="macron" xOffset="299" yOffset="342"/>
   </outline>
   <lib>
     <dict>
@@ -33,7 +33,7 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>354</integer>
+	    <integer>370</integer>
 	    <key>width</key>
 	    <integer>603</integer>
 	  </dict>

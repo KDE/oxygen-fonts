@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Edotaccent" format="1">
-  <advance width="1129"/>
+  <advance width="1151"/>
   <unicode hex="0116"/>
   <outline>
     <component base="E"/>
-    <component base="dotaccent" xOffset="316.5" yOffset="368"/>
+    <component base="uni0307" xOffset="347" yOffset="404"/>
   </outline>
   <lib>
     <dict>
@@ -33,13 +33,13 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>121</integer>
+	    <integer>125</integer>
 	    <key>width</key>
 	    <integer>298</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>486</integer>
+	    <integer>516</integer>
 	    <key>width</key>
 	    <integer>212</integer>
 	  </dict>

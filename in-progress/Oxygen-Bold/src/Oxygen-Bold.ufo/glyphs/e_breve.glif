@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ebreve" format="1">
-  <advance width="1129"/>
+  <advance width="1151"/>
   <unicode hex="0114"/>
   <outline>
     <component base="E"/>
-    <component base="breve" xOffset="253.5" yOffset="394"/>
+    <component base="breve" xOffset="278" yOffset="394"/>
   </outline>
   <lib>
     <dict>
@@ -37,24 +37,43 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>121</integer>
+	    <integer>125</integer>
 	    <key>width</key>
 	    <integer>298</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>292</integer>
+	    <integer>317</integer>
 	    <key>width</key>
 	    <integer>184</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>708</integer>
+	    <integer>741</integer>
 	    <key>width</key>
 	    <integer>184</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>Ebreve</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1129</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

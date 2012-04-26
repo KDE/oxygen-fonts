@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eogonek" format="1">
-  <advance width="1109"/>
+  <advance width="1124"/>
   <unicode hex="0119"/>
   <outline>
     <component base="e"/>
-    <component base="ogonek" xOffset="376.5" yOffset="-13.9667"/>
+    <component base="ogonek" xOffset="210" yOffset="-49"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,7 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>-397</integer>
+	    <key>position</key>	    <integer>-432</integer>
 	    <key>width</key>	    <integer>148</integer>
 	  </dict>
 	  <dict>
@@ -21,11 +21,11 @@
 	    <key>width</key>	    <integer>193</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>475</integer>
+	    <key>position</key>	    <integer>494</integer>
 	    <key>width</key>	    <integer>152</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>892</integer>
+	    <key>position</key>	    <integer>927</integer>
 	    <key>width</key>	    <integer>190</integer>
 	  </dict>
 	</array>
@@ -39,18 +39,37 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>486</integer>
+	    <integer>323</integer>
 	    <key>width</key>
 	    <integer>191</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>798</integer>
+	    <integer>813</integer>
 	    <key>width</key>
 	    <integer>257</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>eogonek</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1110</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

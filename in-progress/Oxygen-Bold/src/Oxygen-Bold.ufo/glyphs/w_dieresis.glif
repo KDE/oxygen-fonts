@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Wdieresis" format="1">
-  <advance width="2080"/>
+  <advance width="2149"/>
   <unicode hex="1E84"/>
   <outline>
     <component base="W"/>
-    <component base="dieresis" xOffset="660.5" yOffset="370"/>
+    <component base="dieresis" xOffset="689" yOffset="370"/>
   </outline>
   <lib>
     <dict>
@@ -29,15 +29,27 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>724</integer>
+	    <integer>-14</integer>
+	    <key>width</key>
+	    <integer>296</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>754</integer>
 	    <key>width</key>
 	    <integer>208</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>1148</integer>
+	    <integer>1185</integer>
 	    <key>width</key>
 	    <integer>209</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1868</integer>
+	    <key>width</key>
+	    <integer>295</integer>
 	  </dict>
 	</array>
       </dict>

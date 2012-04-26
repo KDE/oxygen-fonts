@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uhungarumlaut" format="1">
-  <advance width="1390"/>
+  <advance width="1409"/>
   <unicode hex="0170"/>
   <outline>
     <component base="U"/>
-    <component base="hungarumlaut" xOffset="309.5" yOffset="480"/>
+    <component base="hungarumlaut" xOffset="310" yOffset="480"/>
   </outline>
   <lib>
     <dict>
@@ -29,18 +29,37 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>107</integer>
+	    <integer>111</integer>
 	    <key>width</key>
 	    <integer>298</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>985</integer>
+	    <integer>1008</integer>
 	    <key>width</key>
 	    <integer>298</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>Uhungarumlaut</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1390</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

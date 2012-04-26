@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kappa" format="1">
-  <advance width="1105"/>
+  <advance width="1131"/>
   <unicode hex="03BA"/>
   <outline>
     <component base="kgreenlandic"/>
@@ -16,7 +16,7 @@
 	    <key>width</key>	    <integer>21</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1043</integer>
+	    <key>position</key>	    <integer>1078</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	</array>
@@ -24,9 +24,21 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>101</integer>
+	    <integer>104</integer>
 	    <key>width</key>
 	    <integer>283</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>799</integer>
+	    <key>width</key>
+	    <integer>349</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>840</integer>
+	    <key>width</key>
+	    <integer>357</integer>
 	  </dict>
 	</array>
       </dict>

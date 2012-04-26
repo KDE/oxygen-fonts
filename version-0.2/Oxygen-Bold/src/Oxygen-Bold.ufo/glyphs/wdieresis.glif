@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wdieresis" format="1">
-  <advance width="1691"/>
+  <advance width="1746"/>
   <unicode hex="1E85"/>
   <outline>
-    <component base="dieresis" xOffset="466" yOffset="-25"/>
+    <component base="dieresis" xOffset="487.5" yOffset="10"/>
     <component base="w"/>
   </outline>
   <lib>
@@ -17,11 +17,11 @@
 	    <key>width</key>	    <integer>21</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1043</integer>
+	    <key>position</key>	    <integer>1078</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1205</integer>
+	    <key>position</key>	    <integer>1240</integer>
 	    <key>width</key>	    <integer>268</integer>
 	  </dict>
 	</array>
@@ -29,15 +29,27 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>529</integer>
+	    <integer>2</integer>
+	    <key>width</key>
+	    <integer>292</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>552</integer>
 	    <key>width</key>
 	    <integer>208</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>953</integer>
+	    <integer>984</integer>
 	    <key>width</key>
 	    <integer>209</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1454</integer>
+	    <key>width</key>
+	    <integer>290</integer>
 	  </dict>
 	</array>
       </dict>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="utilde" format="1">
-  <advance width="1126"/>
+  <advance width="1138"/>
   <unicode hex="0169"/>
   <outline>
-    <component base="tilde" xOffset="193" yOffset="-4"/>
+    <component base="tilde" xOffset="191.5" yOffset="31"/>
     <component base="u"/>
   </outline>
   <lib>
@@ -17,15 +17,15 @@
 	    <key>width</key>	    <integer>191</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1043</integer>
+	    <key>position</key>	    <integer>1078</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1205</integer>
+	    <key>position</key>	    <integer>1240</integer>
 	    <key>width</key>	    <integer>165</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1293</integer>
+	    <key>position</key>	    <integer>1328</integer>
 	    <key>width</key>	    <integer>158</integer>
 	  </dict>
 	</array>
@@ -33,30 +33,49 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>89</integer>
+	    <integer>88</integer>
 	    <key>width</key>
 	    <integer>283</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>215</integer>
+	    <integer>214</integer>
 	    <key>width</key>
 	    <integer>156</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>752</integer>
+	    <integer>764</integer>
 	    <key>width</key>
 	    <integer>159</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>754</integer>
+	    <integer>766</integer>
 	    <key>width</key>
 	    <integer>283</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>utilde</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1154</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="obreve" format="1">
-  <advance width="1174"/>
+  <advance width="1190"/>
   <unicode hex="014F"/>
   <outline>
-    <component base="breve" xOffset="249" yOffset="-1"/>
+    <component base="breve" xOffset="251.5" yOffset="34"/>
     <component base="o"/>
   </outline>
   <lib>
@@ -17,15 +17,15 @@
 	    <key>width</key>	    <integer>191</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>892</integer>
+	    <key>position</key>	    <integer>927</integer>
 	    <key>width</key>	    <integer>191</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1205</integer>
+	    <key>position</key>	    <integer>1240</integer>
 	    <key>width</key>	    <integer>168</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1434</integer>
+	    <key>position</key>	    <integer>1469</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	</array>
@@ -39,24 +39,43 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>287</integer>
+	    <integer>290</integer>
 	    <key>width</key>
 	    <integer>184</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>703</integer>
+	    <integer>714</integer>
 	    <key>width</key>
 	    <integer>184</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>840</integer>
+	    <integer>856</integer>
 	    <key>width</key>
 	    <integer>272</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>obreve</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1176</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

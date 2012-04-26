@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rcaron" format="1">
-  <advance width="692"/>
+  <advance width="702"/>
   <unicode hex="0159"/>
   <outline>
-    <component base="caron" xOffset="8.5" yOffset="31"/>
+    <component base="caron" xOffset="1" yOffset="66"/>
     <component base="r"/>
   </outline>
   <lib>
@@ -17,11 +17,11 @@
 	    <key>width</key>	    <integer>21</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>848</integer>
+	    <key>position</key>	    <integer>883</integer>
 	    <key>width</key>	    <integer>215</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1205</integer>
+	    <key>position</key>	    <integer>1240</integer>
 	    <key>width</key>	    <integer>341</integer>
 	  </dict>
 	</array>
@@ -35,6 +35,25 @@
 	  </dict>
 	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>rcaron</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>669</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

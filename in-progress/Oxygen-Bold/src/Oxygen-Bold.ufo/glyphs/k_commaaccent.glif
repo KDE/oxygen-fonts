@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kcommaaccent" format="1">
-  <advance width="1307"/>
+  <advance width="1337"/>
   <unicode hex="0136"/>
   <outline>
     <component base="K"/>
-    <component base="commaaccent" xOffset="452" yOffset="8"/>
+    <component base="commaaccent" xOffset="471" yOffset="8"/>
   </outline>
   <lib>
     <dict>
@@ -25,9 +25,21 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>121</integer>
+	    <integer>125</integer>
 	    <key>width</key>
 	    <integer>298</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>945</integer>
+	    <key>width</key>
+	    <integer>365</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1015</integer>
+	    <key>width</key>
+	    <integer>356</integer>
 	  </dict>
 	</array>
       </dict>

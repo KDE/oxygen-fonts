@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Emacron" format="1">
-  <advance width="1129"/>
+  <advance width="1151"/>
   <unicode hex="0112"/>
   <outline>
     <component base="E"/>
-    <component base="macron" xOffset="219" yOffset="342"/>
+    <component base="macron" xOffset="249" yOffset="342"/>
   </outline>
   <lib>
     <dict>
@@ -33,13 +33,13 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>121</integer>
+	    <integer>125</integer>
 	    <key>width</key>
 	    <integer>298</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>290</integer>
+	    <integer>320</integer>
 	    <key>width</key>
 	    <integer>603</integer>
 	  </dict>

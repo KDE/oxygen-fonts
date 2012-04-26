@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni021B" format="1">
-  <advance width="773"/>
+  <advance width="788"/>
   <unicode hex="021B"/>
   <outline>
-    <component base="commaaccent" xOffset="312" yOffset="-5"/>
+    <component base="commaaccent" xOffset="114" yOffset="-5"/>
     <component base="t"/>
   </outline>
   <lib>
@@ -17,7 +17,7 @@
 	    <key>width</key>	    <integer>184</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>892</integer>
+	    <key>position</key>	    <integer>927</integer>
 	    <key>width</key>	    <integer>171</integer>
 	  </dict>
 	</array>
@@ -25,12 +25,31 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>194</integer>
+	    <integer>200</integer>
 	    <key>width</key>
 	    <integer>283</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>uni021B</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>773</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

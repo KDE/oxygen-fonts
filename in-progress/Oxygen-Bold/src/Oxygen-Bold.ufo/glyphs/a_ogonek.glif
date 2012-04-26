@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aogonek" format="1">
-  <advance width="1300"/>
+  <advance width="1343"/>
   <unicode hex="0104"/>
   <outline>
     <component base="A"/>
-    <component base="ogonek" xOffset="783" yOffset="-7.96667"/>
+    <component base="ogonek" xOffset="834" yOffset="-29"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,7 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>-391</integer>
+	    <key>position</key>	    <integer>-412</integer>
 	    <key>width</key>	    <integer>148</integer>
 	  </dict>
 	  <dict>
@@ -33,7 +33,7 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>892</integer>
+	    <integer>947</integer>
 	    <key>width</key>
 	    <integer>191</integer>
 	  </dict>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gdotaccent" format="1">
-  <advance width="1235"/>
+  <advance width="1252"/>
   <unicode hex="0121"/>
   <outline>
-    <component base="dotaccent" xOffset="265" yOffset="-27"/>
     <component base="g"/>
+    <component base="uni0307" xOffset="336" yOffset="44"/>
   </outline>
   <lib>
     <dict>
@@ -21,15 +21,15 @@
 	    <key>width</key>	    <integer>189</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>893</integer>
+	    <key>position</key>	    <integer>928</integer>
 	    <key>width</key>	    <integer>189</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1043</integer>
+	    <key>position</key>	    <integer>1078</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1205</integer>
+	    <key>position</key>	    <integer>1240</integer>
 	    <key>width</key>	    <integer>223</integer>
 	  </dict>
 	</array>
@@ -43,18 +43,37 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>434</integer>
+	    <integer>505</integer>
 	    <key>width</key>
 	    <integer>212</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>860</integer>
+	    <integer>877</integer>
 	    <key>width</key>
 	    <integer>283</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>gdotaccent</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1250</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lslash" format="1">
-  <advance width="1005"/>
+  <advance width="1029"/>
   <unicode hex="0141"/>
   <outline>
     <contour>
-      <point x="-26" y="491" type="line"/>
-      <point x="-26" y="688" type="line"/>
-      <point x="121" y="779.923" type="line"/>
-      <point x="121" y="1452" type="line"/>
-      <point x="419" y="1452" type="line"/>
-      <point x="419" y="957.871" type="line"/>
-      <point x="724" y="1140" type="line"/>
-      <point x="724" y="944" type="line"/>
-      <point x="419" y="761.436" type="line"/>
-      <point x="419" y="218" type="line"/>
-      <point x="1007" y="218" type="line"/>
-      <point x="991" y="0" type="line"/>
-      <point x="121" y="0" type="line"/>
-      <point x="121" y="583.062" type="line"/>
+      <point x="-27" y="491" type="line"/>
+      <point x="-27" y="688" type="line"/>
+      <point x="125" y="780" type="line"/>
+      <point x="125" y="1452" type="line"/>
+      <point x="423" y="1452" type="line"/>
+      <point x="423" y="958" type="line"/>
+      <point x="738" y="1140" type="line"/>
+      <point x="738" y="944" type="line"/>
+      <point x="423" y="761" type="line"/>
+      <point x="423" y="218" type="line"/>
+      <point x="1030" y="218" type="line"/>
+      <point x="1014" y="0" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="125" y="583" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,6 +31,10 @@
 	    <key>width</key>	    <integer>218</integer>
 	  </dict>
 	  <dict>
+	    <key>position</key>	    <integer>944</integer>
+	    <key>width</key>	    <integer>196</integer>
+	  </dict>
+	  <dict>
 	    <key>position</key>	    <integer>1432</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
@@ -39,7 +43,7 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>121</integer>
+	    <integer>125</integer>
 	    <key>width</key>
 	    <integer>298</integer>
 	  </dict>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zdotaccent" format="1">
-  <advance width="1212"/>
+  <advance width="1249"/>
   <unicode hex="017B"/>
   <outline>
     <component base="Z"/>
-    <component base="dotaccent" xOffset="360.5" yOffset="368"/>
+    <component base="uni0307" xOffset="364" yOffset="404"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>530</integer>
+	    <integer>533</integer>
 	    <key>width</key>
 	    <integer>212</integer>
 	  </dict>

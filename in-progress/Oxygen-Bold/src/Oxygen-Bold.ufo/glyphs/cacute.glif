@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cacute" format="1">
-  <advance width="957"/>
+  <advance width="976"/>
   <unicode hex="0107"/>
   <outline>
-    <component base="acute" xOffset="194" yOffset="49"/>
+    <component base="acute" xOffset="204" yOffset="64"/>
     <component base="c"/>
   </outline>
   <lib>
@@ -17,11 +17,11 @@
 	    <key>width</key>	    <integer>191</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>892</integer>
+	    <key>position</key>	    <integer>927</integer>
 	    <key>width</key>	    <integer>190</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1225</integer>
+	    <key>position</key>	    <integer>1240</integer>
 	    <key>width</key>	    <integer>382</integer>
 	  </dict>
 	</array>
@@ -35,12 +35,31 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>406</integer>
+	    <integer>416</integer>
 	    <key>width</key>
 	    <integer>480</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>cacute</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>945</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

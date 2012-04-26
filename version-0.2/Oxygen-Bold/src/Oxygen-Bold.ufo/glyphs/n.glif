@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="n" format="1">
-  <advance width="1197"/>
+  <advance width="1211"/>
   <unicode hex="006E"/>
   <outline>
     <contour>
-      <point x="738" y="1083" type="curve" smooth="yes"/>
-      <point x="996.5" y="1083"/>
-      <point x="1105" y="909"/>
-      <point x="1105" y="647" type="curve" smooth="yes"/>
-      <point x="1105" y="0" type="line"/>
-      <point x="822" y="0" type="line"/>
-      <point x="822" y="620" type="line" smooth="yes"/>
-      <point x="822" y="768"/>
-      <point x="813" y="892"/>
-      <point x="646" y="892" type="curve" smooth="yes"/>
-      <point x="541" y="892"/>
-      <point x="430" y="809"/>
-      <point x="384" y="724" type="curve"/>
+      <point x="746" y="1118" type="curve" smooth="yes"/>
+      <point x="1010" y="1118"/>
+      <point x="1120" y="938"/>
+      <point x="1120" y="668" type="curve" smooth="yes"/>
+      <point x="1120" y="0" type="line"/>
+      <point x="837" y="0" type="line"/>
+      <point x="837" y="644" type="line" smooth="yes"/>
+      <point x="837" y="798"/>
+      <point x="827" y="927"/>
+      <point x="655" y="927" type="curve" smooth="yes"/>
+      <point x="547" y="927"/>
+      <point x="432" y="840"/>
+      <point x="384" y="752" type="curve"/>
       <point x="384" y="0" type="line"/>
       <point x="101" y="0" type="line"/>
-      <point x="101" y="1063" type="line"/>
-      <point x="337" y="1063" type="line"/>
-      <point x="360" y="922" type="line"/>
-      <point x="444" y="1021"/>
-      <point x="577.972" y="1083"/>
+      <point x="101" y="1098" type="line"/>
+      <point x="337" y="1098" type="line"/>
+      <point x="360" y="957" type="line"/>
+      <point x="446" y="1056"/>
+      <point x="583" y="1118"/>
     </contour>
   </outline>
   <lib>
@@ -37,11 +37,11 @@
 	    <key>width</key>	    <integer>21</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>892</integer>
+	    <key>position</key>	    <integer>927</integer>
 	    <key>width</key>	    <integer>191</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1043</integer>
+	    <key>position</key>	    <integer>1078</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	</array>
@@ -55,12 +55,66 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>822</integer>
+	    <integer>837</integer>
 	    <key>width</key>
 	    <integer>283</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>n</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1197</integer>
+    <key>contours</key>
+      <array>
+      <key>points</key>
+      <array>
+      <key>segmentType</key>
+      <string>curve</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>y</key>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+      <key>y</key>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+      </array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

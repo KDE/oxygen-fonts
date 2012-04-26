@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresis" format="1">
-  <advance width="766"/>
+  <advance width="773"/>
   <unicode hex="00A8"/>
   <outline>
     <contour>
-      <point x="696" y="1230" type="line"/>
-      <point x="487" y="1230" type="line"/>
-      <point x="487" y="1498" type="line"/>
-      <point x="696" y="1498" type="line"/>
+      <point x="705" y="1230" type="line"/>
+      <point x="496" y="1230" type="line"/>
+      <point x="496" y="1498" type="line"/>
+      <point x="705" y="1498" type="line"/>
     </contour>
     <contour>
-      <point x="271" y="1230" type="line"/>
-      <point x="63" y="1230" type="line"/>
-      <point x="63" y="1498" type="line"/>
-      <point x="271" y="1498" type="line"/>
+      <point x="273" y="1230" type="line"/>
+      <point x="65" y="1230" type="line"/>
+      <point x="65" y="1498" type="line"/>
+      <point x="273" y="1498" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,13 +31,13 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>63</integer>
+	    <integer>65</integer>
 	    <key>width</key>
 	    <integer>208</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>487</integer>
+	    <integer>496</integer>
 	    <key>width</key>
 	    <integer>209</integer>
 	  </dict>

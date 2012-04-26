@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Abreve" format="1">
-  <advance width="1300"/>
+  <advance width="1343"/>
   <unicode hex="0102"/>
   <outline>
     <component base="A"/>
-    <component base="breve" xOffset="318" yOffset="394"/>
+    <component base="breve" xOffset="328" yOffset="394"/>
   </outline>
   <lib>
     <dict>
@@ -37,18 +37,37 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>356</integer>
+	    <integer>367</integer>
 	    <key>width</key>
 	    <integer>184</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>772</integer>
+	    <integer>791</integer>
 	    <key>width</key>
 	    <integer>184</integer>
 	  </dict>
 	</array>
       </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>Abreve</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1300</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>
