@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash" format="1">
+  <advance width="630"/>
+  <unicode hex="0142"/>
+  <outline>
+    <contour>
+      <point x="518" y="1048" type="line"/>
+      <point x="518" y="886" type="line"/>
+      <point x="350" y="767" type="line"/>
+      <point x="350" y="434" type="line" smooth="yes"/>
+      <point x="350" y="215"/>
+      <point x="356" y="147"/>
+      <point x="505" y="147" type="curve" smooth="yes"/>
+      <point x="525" y="147"/>
+      <point x="595" y="153"/>
+      <point x="627" y="155" type="curve"/>
+      <point x="643" y="-5" type="line"/>
+      <point x="610" y="-8"/>
+      <point x="502" y="-18"/>
+      <point x="470" y="-18" type="curve" smooth="yes"/>
+      <point x="181" y="-18"/>
+      <point x="143" y="119"/>
+      <point x="143" y="464" type="curve" smooth="yes"/>
+      <point x="143" y="627" type="line"/>
+      <point x="31" y="549" type="line"/>
+      <point x="31" y="711" type="line"/>
+      <point x="143" y="789" type="line"/>
+      <point x="143" y="1492" type="line"/>
+      <point x="350" y="1512" type="line"/>
+      <point x="350" y="930" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="1">
+  <advance width="1557"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="1398" y="0" type="line"/>
+      <point x="1106" y="0" type="line"/>
+      <point x="446" y="1030" type="line"/>
+      <point x="397" y="1093" type="line"/>
+      <point x="398" y="1061"/>
+      <point x="406" y="768"/>
+      <point x="406" y="738" type="curve"/>
+      <point x="406" y="0" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="159" y="1465" type="line"/>
+      <point x="447" y="1465" type="line"/>
+      <point x="1110" y="439" type="line"/>
+      <point x="1158" y="376" type="line"/>
+      <point x="1158" y="376"/>
+      <point x="1151" y="711"/>
+      <point x="1151" y="724" type="curve"/>
+      <point x="1151" y="1465" type="line"/>
+      <point x="1398" y="1465" type="line"/>
+    </contour>
+    <contour>
+      <point x="778" y="1453" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="778" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot" format="1">
+  <advance width="528"/>
+  <unicode hex="0140"/>
+  <outline>
+    <contour>
+      <point x="840" y="772" type="line"/>
+      <point x="840" y="610" type="line"/>
+      <point x="706" y="610" type="line"/>
+      <point x="706" y="772" type="line"/>
+    </contour>
+    <component base="l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

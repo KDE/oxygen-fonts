@@ -1,0 +1,41 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="110221_1144_developer_" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="oxygen" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="100.0" />
+<data name="previewtext" value="Mountain Highway Adherance" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="0.392699081699" />
+<!-- axis definitions -->
+<axis maximum="1" minimum="-1" name="oxygen" shortname="ox" />
+
+<!-- master definitions -->
+<master filename="Oxygen.ufo">
+<location>
+<dimension name="oxygen" xvalue="0" />
+</location>
+<!-- color for Oxygen.ufo -->
+<color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
+</master>
+<master filename="Oxygen-Bold.ufo">
+<location>
+<dimension name="oxygen" xvalue="1" />
+</location>
+<!-- color for Oxygen-Bold.ufo -->
+<color a="1.000000" b="0.500000" g="0.500000" r="0.500000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="Oxygen" sequence="" stylename="--0_ox-0_31">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="oxygen" xvalue="-0.3433" yvalue="-0.4979" />
+</location>
+</instance>
+</designspace>
