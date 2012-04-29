@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccedilla" format="1">
-  <advance width="952"/>
+  <advance width="956"/>
   <unicode hex="00E7"/>
   <outline>
+    <component base="cedilla" xOffset="215" yOffset="-20.967"/>
     <component base="c"/>
-    <component base="cedilla" xOffset="332" yOffset="-23"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

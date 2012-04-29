@@ -5,9 +5,7 @@
   <outline>
     <contour>
       <point x="779" y="1243" type="line"/>
-      <point x="779" y="1243"/>
-      <point x="872" y="1231"/>
-      <point x="871" y="1231" type="curve"/>
+      <point x="871" y="1231" type="line"/>
       <point x="755" y="931" type="line"/>
       <point x="1032" y="931" type="line"/>
       <point x="1039" y="823" type="line"/>
@@ -28,11 +26,4 @@
       <point x="636" y="930" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

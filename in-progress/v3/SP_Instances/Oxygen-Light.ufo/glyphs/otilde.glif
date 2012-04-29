@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="otilde" format="1">
-  <advance width="1191"/>
+  <advance width="1190"/>
   <unicode hex="00F5"/>
   <outline>
+    <component base="tilde" xOffset="151.500" yOffset="-114"/>
     <component base="o"/>
-    <component base="tilde" xOffset="128" yOffset="-75"/>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

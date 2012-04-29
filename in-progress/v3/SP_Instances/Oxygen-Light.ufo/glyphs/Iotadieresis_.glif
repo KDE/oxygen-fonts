@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iotadieresis" format="1">
-  <advance width="512"/>
+  <advance width="514"/>
   <unicode hex="03AA"/>
   <outline>
-    <component base="dieresis" xOffset="-152" yOffset="401"/>
     <component base="Iota"/>
+    <component base="dieresis" xOffset="-152" yOffset="401"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

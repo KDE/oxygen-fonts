@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcommaaccent" format="1">
-  <advance width="1459"/>
+  <advance width="1458"/>
   <unicode hex="0122"/>
   <outline>
+    <component base="commaaccentcomb" xOffset="449.5" yOffset="25"/>
     <component base="G"/>
-    <component base="commaaccentcomb" xOffset="437" yOffset="11"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Gcommaaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1458</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

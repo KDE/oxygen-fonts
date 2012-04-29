@@ -3,16 +3,9 @@
   <advance width="445"/>
   <unicode hex="0456"/>
   <outline>
-    <contour>
-      <point x="222" y="1097" type="move" name="top"/>
-    </contour>
     <component base="i"/>
+    <contour>
+      <point x="223" y="1096" type="move" name="top"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

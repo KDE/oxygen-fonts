@@ -5,19 +5,33 @@
 	<key>ascender</key>
 	<integer>1514</integer>
 	<key>capHeight</key>
-	<integer>1491</integer>
+	<integer>1488</integer>
+	<key>copyright</key>
+	<string>2012 vernon adams</string>
 	<key>descender</key>
 	<integer>-410</integer>
 	<key>familyName</key>
-	<string>Oxygen</string>
+	<string>Oxygen Light Light</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
+	<key>note</key>
+	<string></string>
+	<key>openTypeHeadCreated</key>
+	<string>2012/04/29 18:27:07</string>
 	<key>openTypeHheaAscender</key>
-	<integer>-653</integer>
+	<integer>1901</integer>
 	<key>openTypeHheaDescender</key>
-	<integer>166</integer>
+	<integer>-483</integer>
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
+	<key>openTypeNameDesigner</key>
+	<string>vernon adams</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Oxygen Light</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Light</string>
+	<key>openTypeNameVersion</key>
+	<string>Version </string>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
 		<integer>0</integer>
@@ -32,7 +46,7 @@
 		<integer>0</integer>
 		<integer>0</integer>
 		<integer>0</integer>
-		<integer>-3</integer>
+		<integer>0</integer>
 		<integer>0</integer>
 		<integer>4</integer>
 	</array>
@@ -51,13 +65,34 @@
 	<key>openTypeOS2SuperscriptXOffset</key>
 	<integer>0</integer>
 	<key>openTypeOS2SuperscriptXSize</key>
-	<integer>0</integer>
+	<real>0.0</real>
 	<key>openTypeOS2SuperscriptYOffset</key>
 	<integer>0</integer>
 	<key>openTypeOS2SuperscriptYSize</key>
 	<integer>0</integer>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string>newt</string>
 	<key>openTypeOS2WeightClass</key>
-	<integer>297</integer>
+	<integer>300</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
@@ -72,19 +107,21 @@
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-28</integer>
+		<integer>-30</integer>
 		<integer>0</integer>
-		<integer>1097</integer>
-		<integer>1123</integer>
-		<integer>1491</integer>
-		<integer>1540</integer>
+		<integer>1096</integer>
+		<integer>1128</integer>
+		<integer>1488</integer>
+		<integer>1548</integer>
 	</array>
+	<key>postscriptFontName</key>
+	<string>Oxygen-Light</string>
 	<key>postscriptFullName</key>
-	<string>Oxygen --0_ox-0_31</string>
+	<string>Oxygen Light</string>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>-507</integer>
-		<integer>-124</integer>
+		<integer>-550</integer>
+		<integer>-201</integer>
 	</array>
 	<key>postscriptStemSnapH</key>
 	<array>
@@ -107,11 +144,17 @@
 	</array>
 	<key>postscriptWeightName</key>
 	<string>Light</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
 	<key>styleName</key>
-	<string>--0_ox-0_31</string>
+	<string>Light</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>3</integer>
 	<key>xHeight</key>
-	<integer>1097</integer>
+	<integer>1096</integer>
 </dict>
 </plist>

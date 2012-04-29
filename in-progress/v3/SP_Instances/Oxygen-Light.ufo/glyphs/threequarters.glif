@@ -4,6 +4,32 @@
   <unicode hex="00BE"/>
   <outline>
     <contour>
+      <point x="1066" y="385" type="line"/>
+      <point x="1329" y="385" type="line"/>
+      <point x="1329" y="755"/>
+      <point x="1329" y="673"/>
+      <point x="1333" y="758" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1226" y="1597" type="line"/>
+      <point x="1346" y="1597" type="line"/>
+      <point x="457" y="0" type="line"/>
+      <point x="355" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1416" y="66" type="line"/>
+      <point x="1332" y="66" type="line"/>
+      <point x="1332" y="281" type="line"/>
+      <point x="945" y="281" type="line"/>
+      <point x="945" y="350" type="line"/>
+      <point x="1321" y="912" type="line"/>
+      <point x="1417" y="912" type="line"/>
+      <point x="1417" y="385" type="line"/>
+      <point x="1504" y="385" type="line"/>
+      <point x="1515" y="281" type="line"/>
+      <point x="1416" y="281" type="line"/>
+    </contour>
+    <contour>
       <point x="177" y="1385" type="curve"/>
       <point x="133" y="1485" type="line"/>
       <point x="181" y="1555"/>
@@ -46,38 +72,5 @@
       <point x="275" y="1487"/>
       <point x="232" y="1449"/>
     </contour>
-    <contour>
-      <point x="1416" y="66" type="line"/>
-      <point x="1332" y="66" type="line"/>
-      <point x="1332" y="281" type="line"/>
-      <point x="945" y="281" type="line"/>
-      <point x="945" y="350" type="line"/>
-      <point x="1321" y="912" type="line"/>
-      <point x="1417" y="912" type="line"/>
-      <point x="1417" y="385" type="line"/>
-      <point x="1504" y="385" type="line"/>
-      <point x="1515" y="281" type="line"/>
-      <point x="1416" y="281" type="line"/>
-    </contour>
-    <contour>
-      <point x="1226" y="1597" type="line"/>
-      <point x="1346" y="1597" type="line"/>
-      <point x="457" y="0" type="line"/>
-      <point x="355" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="1066" y="385" type="line"/>
-      <point x="1329" y="385" type="line"/>
-      <point x="1329" y="755"/>
-      <point x="1329" y="673"/>
-      <point x="1333" y="758" type="curve"/>
-    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

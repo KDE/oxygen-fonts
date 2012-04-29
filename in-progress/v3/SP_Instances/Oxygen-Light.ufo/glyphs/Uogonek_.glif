@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uogonek" format="1">
-  <advance width="1424"/>
+  <advance width="1425"/>
   <unicode hex="0172"/>
   <outline>
-    <component base="ogonek" xOffset="301" yOffset="-2"/>
+    <component base="ogonek" xOffset="329.500" yOffset="5.100"/>
     <component base="U"/>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

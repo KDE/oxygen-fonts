@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rcaron" format="1">
-  <advance width="722"/>
+  <advance width="715"/>
   <unicode hex="0159"/>
   <outline>
-    <component base="caron" xOffset="-49" yOffset="-33"/>
+    <component base="caron" xOffset="15.500" yOffset="-71"/>
     <component base="r"/>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

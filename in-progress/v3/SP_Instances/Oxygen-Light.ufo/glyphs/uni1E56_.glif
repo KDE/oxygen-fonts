@@ -1,18 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E56" format="1">
-  <advance width="1138"/>
+  <advance width="1167"/>
   <unicode hex="1E56"/>
   <outline>
-    <component base="uni0307" xOffset="444" yOffset="331"/>
     <component base="P"/>
+    <component base="uni0307" xOffset="444" yOffset="333"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni1E56</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1167</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

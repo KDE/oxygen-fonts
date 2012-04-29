@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii10028" format="1">
-  <advance width="1206"/>
+  <advance width="1208"/>
   <unicode hex="041A"/>
   <outline>
-    <contour>
-      <point x="603" y="1491" type="move" name="top"/>
-    </contour>
     <component base="K"/>
+    <contour>
+      <point x="603" y="1488" type="move" name="top"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

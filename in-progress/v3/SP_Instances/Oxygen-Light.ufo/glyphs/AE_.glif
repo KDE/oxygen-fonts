@@ -4,40 +4,30 @@
   <unicode hex="00C6"/>
   <outline>
     <contour>
-      <point x="107" y="0" type="line"/>
-      <point x="221" y="0" type="line"/>
-      <point x="477" y="461" type="line"/>
-      <point x="1190" y="461" type="line"/>
-      <point x="1221" y="0" type="line"/>
-      <point x="1991" y="0" type="line"/>
-      <point x="1985" y="133" type="line"/>
-      <point x="1333" y="133" type="line"/>
-      <point x="1290" y="770" type="line"/>
-      <point x="1938" y="770" type="line"/>
-      <point x="1938" y="903" type="line"/>
-      <point x="1270" y="903" type="line"/>
-      <point x="1228" y="1491" type="line"/>
-      <point x="1978" y="1491" type="line"/>
-      <point x="1971" y="1626" type="line"/>
-      <point x="1056" y="1626" type="line"/>
-    </contour>
-    <contour>
       <point x="557" y="600" type="line"/>
-      <point x="1099" y="1525" type="line"/>
       <point x="1165" y="600" type="line"/>
+      <point x="1099" y="1525" type="line"/>
     </contour>
     <contour>
-      <point x="1062" y="1491" type="move" name="top"/>
+      <point x="107" y="0" type="line"/>
+      <point x="1056" y="1626" type="line"/>
+      <point x="1971" y="1626" type="line"/>
+      <point x="1978" y="1491" type="line"/>
+      <point x="1228" y="1491" type="line"/>
+      <point x="1270" y="903" type="line"/>
+      <point x="1938" y="903" type="line"/>
+      <point x="1938" y="770" type="line"/>
+      <point x="1290" y="770" type="line"/>
+      <point x="1333" y="133" type="line"/>
+      <point x="1985" y="133" type="line"/>
+      <point x="1991" y="0" type="line"/>
+      <point x="1221" y="0" type="line"/>
+      <point x="1190" y="461" type="line"/>
+      <point x="477" y="461" type="line"/>
+      <point x="221" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1063" y="1488" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

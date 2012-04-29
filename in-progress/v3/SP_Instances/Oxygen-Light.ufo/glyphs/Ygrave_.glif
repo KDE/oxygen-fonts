@@ -3,13 +3,35 @@
   <advance width="1166"/>
   <unicode hex="1EF2"/>
   <outline>
+    <component base="grave" xOffset="251" yOffset="394"/>
     <component base="Y"/>
-    <component base="grave" xOffset="124" yOffset="386"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ygrave</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1166</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

@@ -3,13 +3,35 @@
   <advance width="671"/>
   <unicode hex="021B"/>
   <outline>
+    <component base="commaaccentcomb" xOffset="65" yOffset="25"/>
     <component base="t"/>
-    <component base="commaaccentcomb" xOffset="62" yOffset="12"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni021B</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>671</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

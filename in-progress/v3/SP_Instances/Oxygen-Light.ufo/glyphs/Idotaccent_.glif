@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idotaccent" format="1">
-  <advance width="512"/>
+  <advance width="514"/>
   <unicode hex="0130"/>
   <outline>
+    <component base="uni0307" xOffset="63.500" yOffset="269"/>
     <component base="I"/>
-    <component base="uni0307" xOffset="45" yOffset="331"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

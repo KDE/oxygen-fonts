@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0208" format="1">
-  <advance width="512"/>
+  <advance width="514"/>
   <unicode hex="0208"/>
   <outline>
+    <component base="dblgravecmb" xOffset="-154.500" yOffset="319"/>
     <component base="I"/>
-    <component base="dblgravecmb" xOffset="-291" yOffset="375"/>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

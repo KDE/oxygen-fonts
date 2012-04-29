@@ -3,16 +3,35 @@
   <advance width="944"/>
   <unicode hex="015B"/>
   <outline>
-    <component base="acute" xOffset="324" yOffset="-31"/>
+    <component base="acute" xOffset="186" yOffset="-69"/>
     <component base="s"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>sacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>944</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

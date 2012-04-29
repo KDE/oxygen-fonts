@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccaron" format="1">
-  <advance width="1285"/>
+  <advance width="1286"/>
   <unicode hex="010C"/>
   <outline>
-    <component base="caron" xOffset="466" yOffset="385"/>
+    <component base="caron" xOffset="278.5" yOffset="330"/>
     <component base="C"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ccaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1286</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

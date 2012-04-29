@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohorn" format="1">
-  <advance width="1191"/>
+  <advance width="1190"/>
   <unicode hex="01A1"/>
   <outline>
+    <component base="horncmb" xOffset="1013" yOffset="615"/>
     <component base="o"/>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
