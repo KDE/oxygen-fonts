@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="1">
+  <advance width="1649"/>
+  <unicode hex="00be"/>
+  <outline>
+    <component base="uni00B3" xOffset="4"/>
+    <component base="uni2074" xOffset="907" yOffset="-609"/>
+    <contour>
+      <point x="1342" y="1495" type="line" smooth="no"/>
+      <point x="1476" y="1495" type="line" smooth="no"/>
+      <point x="413" y="0" type="line" smooth="no"/>
+      <point x="264" y="0" type="line" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>threequarters</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1630</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>
