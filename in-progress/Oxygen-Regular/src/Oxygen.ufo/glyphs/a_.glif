@@ -18,27 +18,11 @@
       <point x="899" y="611" type="line"/>
       <point x="671" y="1324" type="line"/>
     </contour>
+    <contour>
+      <point x="655" y="1496" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1178" y="10" type="move" name="ogonek"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>473</integer>
-	    <key>width</key>	    <integer>138</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1476</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

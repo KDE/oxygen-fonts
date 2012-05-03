@@ -45,38 +45,11 @@
       <point x="185" y="44"/>
       <point x="94" y="100" type="curve"/>
     </contour>
+    <contour>
+      <point x="614" y="1496" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="614" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-23</integer>
-	    <key>width</key>	    <integer>153</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1372</integer>
-	    <key>width</key>	    <integer>153</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>96</integer>
-	    <key>width</key>
-	    <integer>180</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>966</integer>
-	    <key>width</key>
-	    <integer>179</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

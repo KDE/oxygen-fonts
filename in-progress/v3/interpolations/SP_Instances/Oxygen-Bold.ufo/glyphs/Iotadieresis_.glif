@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotadieresis" format="1">
+  <advance width="571"/>
+  <unicode hex="03AA"/>
+  <outline>
+    <component base="dieresis" xOffset="-125" yOffset="384"/>
+    <component base="Iota"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

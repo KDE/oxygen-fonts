@@ -1,0 +1,36 @@
+
+# GPOS 
+
+
+lookup kernHorizontalKerninginLatinloo {
+  lookupflag 0;
+    pos \B \period 3;
+    pos \B \comma 10;
+    pos \F \period -130;
+    pos \F \comma -170;
+    pos \L \quoteright -160;
+    pos \L \quotedblright -210;
+    pos \b \v 23;
+    pos \b \comma 21;
+    pos \b \b -21;
+    pos \c \c -16;
+    pos \d \d -21;
+    pos \e \o -16;
+    pos \f \f -31;
+    pos \f \comma -81;
+    pos \g \g -19;
+    pos \k \o -28;
+    pos \l \w 23;
+    pos \l \f 21;
+    pos \quoteright \d 17;
+    pos \v \comma 38;
+    pos \w \period 31;
+    pos \w \comma 45;
+} kernHorizontalKerninginLatinloo;
+
+feature kern {
+
+  script latn;
+     language dflt ;
+      lookup kernHorizontalKerninginLatinloo;
+} kern;

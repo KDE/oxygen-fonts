@@ -50,42 +50,11 @@
       <point x="870" y="130"/>
       <point x="743" y="-25"/>
     </contour>
+    <contour>
+      <point x="478" y="1098" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="478" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-25</integer>
-	    <key>width</key>	    <integer>139</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>502</integer>
-	    <key>width</key>	    <integer>131</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>986</integer>
-	    <key>width</key>	    <integer>138</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>672</integer>
-	    <key>width</key>
-	    <integer>163</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>706</integer>
-	    <key>width</key>
-	    <integer>164</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

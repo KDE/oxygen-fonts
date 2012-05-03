@@ -27,38 +27,8 @@
       <point x="244" y="1387"/>
       <point x="225" y="1346"/>
     </contour>
+    <contour>
+      <point x="426.5" y="1098" type="move" name="_top"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>1291</integer>
-	    <key>width</key>	    <integer>125</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1388</integer>
-	    <key>width</key>	    <integer>122</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>115</integer>
-	    <key>width</key>
-	    <integer>107</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>629</integer>
-	    <key>width</key>
-	    <integer>109</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

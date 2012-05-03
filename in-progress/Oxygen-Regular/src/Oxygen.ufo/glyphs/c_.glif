@@ -31,32 +31,11 @@
       <point x="99" y="1187"/>
       <point x="353" y="1525"/>
     </contour>
+    <contour>
+      <point x="645" y="1496" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="645" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-23</integer>
-	    <key>width</key>	    <integer>152</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1373</integer>
-	    <key>width</key>	    <integer>152</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>99</integer>
-	    <key>width</key>
-	    <integer>189</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

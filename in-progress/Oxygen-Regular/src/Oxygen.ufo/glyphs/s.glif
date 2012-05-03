@@ -48,38 +48,11 @@
       <point x="854" y="481"/>
       <point x="854" y="299" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="465" y="1098" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="465" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-25</integer>
-	    <key>width</key>	    <integer>139</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>991</integer>
-	    <key>width</key>	    <integer>133</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>100</integer>
-	    <key>width</key>
-	    <integer>169</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>697</integer>
-	    <key>width</key>
-	    <integer>157</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

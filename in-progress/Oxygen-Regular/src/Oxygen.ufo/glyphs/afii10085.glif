@@ -20,23 +20,8 @@
       <point x="44" y="1098" type="line"/>
       <point x="229" y="1098" type="line"/>
     </contour>
+    <contour>
+      <point x="548" y="1098" type="move" name="top"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-410</integer>
-	    <key>width</key>	    <integer>165</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1078</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilondieresis" format="1">
+  <advance width="1180"/>
+  <unicode hex="03AB"/>
+  <outline>
+    <component base="dieresis" xOffset="227" yOffset="397"/>
+    <component base="Upsilon"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
