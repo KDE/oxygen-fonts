@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="equal" format="1">
   <advance width="1228"/>
+<<<<<<< HEAD
+  <unicode hex="003d"/>
+  <outline>
+    <contour>
+      <point x="131" y="799" type="line" smooth="no"/>
+      <point x="131" y="943" type="line" smooth="no"/>
+      <point x="1097" y="943" type="line" smooth="no"/>
+      <point x="1097" y="799" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="132" y="377" type="line" smooth="no"/>
+      <point x="132" y="519" type="line" smooth="no"/>
+      <point x="1097" y="519" type="line" smooth="no"/>
+      <point x="1097" y="377" type="line" smooth="no"/>
+=======
   <unicode hex="003D"/>
   <outline>
     <contour>
@@ -14,6 +29,7 @@
       <point x="131" y="943" type="line"/>
       <point x="1097" y="943" type="line"/>
       <point x="1097" y="799" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
     </contour>
   </outline>
   <lib>

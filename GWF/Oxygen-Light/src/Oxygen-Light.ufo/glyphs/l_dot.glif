@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ldot" format="1">
   <advance width="998"/>
+<<<<<<< HEAD
+  <unicode hex="013f"/>
+  <outline>
+    <component base="middot" xOffset="347" yOffset="97"/>
+    <component base="L"/>
+=======
   <unicode hex="013F"/>
   <outline>
     <component base="L"/>
     <component base="middot" xOffset="347" yOffset="97"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
   </outline>
 </glyph>

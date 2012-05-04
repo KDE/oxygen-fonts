@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni020D" format="1">
   <advance width="1190"/>
+<<<<<<< HEAD
+  <unicode hex="020d"/>
+  <outline>
+    <component base="uni030F" xOffset="73" yOffset="-82"/>
+    <component base="o"/>
+=======
   <unicode hex="020D"/>
   <outline>
     <component base="o"/>
     <component base="uni030F" xOffset="73" yOffset="-82"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
   </outline>
 </glyph>

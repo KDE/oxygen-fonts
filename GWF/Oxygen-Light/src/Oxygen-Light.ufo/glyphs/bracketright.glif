@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketright" format="1">
   <advance width="688"/>
+<<<<<<< HEAD
+  <unicode hex="005d"/>
+  <outline>
+    <contour>
+      <point x="93" y="-264" type="line" smooth="no"/>
+      <point x="93" y="-164" type="line" smooth="no"/>
+      <point x="405" y="-164" type="line" smooth="no"/>
+      <point x="405" y="1414" type="line" smooth="no"/>
+      <point x="93" y="1414" type="line" smooth="no"/>
+      <point x="93" y="1514" type="line" smooth="no"/>
+      <point x="541" y="1514" type="line" smooth="no"/>
+      <point x="541" y="-264" type="line" smooth="no"/>
+=======
   <unicode hex="005D"/>
   <outline>
     <contour>
@@ -12,6 +25,7 @@
       <point x="93" y="1514" type="line"/>
       <point x="541" y="1514" type="line"/>
       <point x="541" y="-264" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
     </contour>
   </outline>
 </glyph>

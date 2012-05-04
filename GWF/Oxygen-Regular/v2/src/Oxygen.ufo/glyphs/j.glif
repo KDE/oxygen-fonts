@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j" format="1">
   <advance width="445"/>
+<<<<<<< HEAD
+  <unicode hex="006a"/>
+  <outline>
+    <contour>
+      <point x="162" y="1298" type="line" smooth="no"/>
+      <point x="162" y="1496" type="line" smooth="no"/>
+      <point x="330" y="1496" type="line" smooth="no"/>
+      <point x="330" y="1298" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="-55" y="-502" type="line" smooth="no"/>
+      <point x="-77" y="-351" type="line" smooth="no"/>
+      <point x="-25" y="-351" type="line" smooth="yes"/>
+      <point x="157" y="-351"/>
+      <point x="162" y="-286"/>
+      <point x="162" y="-121" type="curve" smooth="yes"/>
+      <point x="162" y="1097" type="line" smooth="no"/>
+      <point x="330" y="1097" type="line" smooth="no"/>
+=======
   <unicode hex="006A"/>
   <outline>
     <contour>
       <point x="330" y="1097" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
       <point x="330" y="-139" type="line" smooth="yes"/>
       <point x="330" y="-407"/>
       <point x="270" y="-502"/>
       <point x="-3" y="-502" type="curve" smooth="yes"/>
+<<<<<<< HEAD
+=======
       <point x="-55" y="-502" type="line"/>
       <point x="-77" y="-351" type="line"/>
       <point x="-25" y="-351" type="line" smooth="yes"/>
@@ -22,6 +44,7 @@
       <point x="330" y="1298" type="line"/>
       <point x="162" y="1298" type="line"/>
       <point x="162" y="1496" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
     </contour>
   </outline>
   <lib>

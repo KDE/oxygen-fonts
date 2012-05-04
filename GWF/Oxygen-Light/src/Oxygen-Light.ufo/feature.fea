@@ -4,6 +4,10 @@
 
 lookup ligaStandardLigatureslookup0 {
   lookupflag 0;
+<<<<<<< HEAD
+    sub \f \j  by \fj;
+=======
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
     sub \f \i  by \uniFB01;
     sub \f \l  by \uniFB02;
     sub \f \f  by \ff;
@@ -244,7 +248,11 @@ feature kern {
 	\colon \comma \commaaccentcomb \copyright \currency \d \dagger \daggerdbl 
 	\dcaron \dcroat \degree \dieresis \divide \dollar \dotaccent \dotlessi \e \eacute 
 	\ebreve \ecaron \ecircumflex \edieresis \edotaccent \egrave \eight \emacron 
+<<<<<<< HEAD
+	\eogonek \equal \eth \exclam \exclamdown \f \five \florin \four \fraction \g 
+=======
 	\eogonek \equal \eth \exclam \exclamdown \f \five \fj \florin \four \fraction \g 
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
 	\gbreve \gcircumflex \gcommaaccent \gdotaccent \germandbls \grave \greater 
 	\greaterequal \guillemotleft \guillemotright \guilsinglleft \guilsinglright 
 	\h \hbar \hcircumflex \hungarumlaut \hyphen \i \iacute \ibreve \icircumflex 
@@ -268,10 +276,19 @@ feature kern {
 	\uni021A \uni021B \uni0237 \uni0307 \uni030F \uni0311 \uni0326 \uni2074 \uogonek 
 	\uring \utilde \v \w \x \y \yacute \ydieresis \yen \z \zacute \zcaron \zdotaccent 
 	\zero ];
+<<<<<<< HEAD
+@GDEF_Ligature = [\fj \uniFB01 \uniFB02 \ff ];
+@GDEF_Mark = [];
+@GDEF_Component = [];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple @GDEF_Ligature @GDEF_Mark @GDEF_Component;
+=======
 @GDEF_Ligature = [\uniFB01 \uniFB02 \ff ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, @GDEF_Ligature,  ,  ;
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
 
 } GDEF;
 

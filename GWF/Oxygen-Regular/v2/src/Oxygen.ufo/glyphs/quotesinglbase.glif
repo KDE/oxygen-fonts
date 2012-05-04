@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesinglbase" format="1">
   <advance width="504"/>
+<<<<<<< HEAD
+  <unicode hex="201a"/>
+  <outline>
+    <contour>
+      <point x="126" y="-256" type="line" smooth="no"/>
+      <point x="218" y="216" type="line" smooth="no"/>
+      <point x="379" y="216" type="line" smooth="no"/>
+      <point x="245" y="-256" type="line" smooth="no"/>
+=======
   <unicode hex="201A"/>
   <outline>
     <contour>
@@ -8,6 +17,7 @@
       <point x="218" y="216" type="line"/>
       <point x="379" y="216" type="line"/>
       <point x="245" y="-256" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
     </contour>
   </outline>
   <lib>

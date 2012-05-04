@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01C5" format="1">
+  <advance width="2491"/>
+  <unicode hex="01c5"/>
+  <outline>
+    <component base="zcaron" xOffset="1514"/>
+    <component base="D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>191</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>217</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>917</integer>
+	    <key>width</key>	    <integer>182</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1228</integer>
+	    <key>width</key>	    <integer>353</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1247</integer>
+	    <key>width</key>	    <integer>218</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>159</integer>
+	    <key>width</key>
+	    <integer>271</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1137</integer>
+	    <key>width</key>
+	    <integer>278</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1642</integer>
+	    <key>width</key>
+	    <integer>198</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

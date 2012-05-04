@@ -4,17 +4,36 @@
   <unicode hex="0072"/>
   <outline>
     <contour>
+<<<<<<< HEAD
+      <point x="149" y="0" type="line" smooth="no"/>
+      <point x="149" y="0"/>
+      <point x="148" y="1010"/>
+      <point x="148" y="1097" type="curve" smooth="no"/>
+      <point x="287" y="1097" type="line" smooth="no"/>
+      <point x="303" y="900" type="line" smooth="no"/>
+      <point x="376" y="1020"/>
+      <point x="499" y="1107"/>
+      <point x="635" y="1107" type="curve" smooth="yes"/>
+      <point x="665" y="1107"/>
+      <point x="692" y="1105"/>
+      <point x="717" y="1101" type="curve" smooth="no"/>
+      <point x="711" y="947" type="line" smooth="no"/>
+=======
       <point x="635" y="1107" type="curve" smooth="yes"/>
       <point x="665" y="1107"/>
       <point x="692" y="1105"/>
       <point x="717" y="1101" type="curve"/>
       <point x="711" y="947" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
       <point x="682" y="952"/>
       <point x="655" y="955"/>
       <point x="631" y="955" type="curve" smooth="yes"/>
       <point x="440" y="955"/>
       <point x="316" y="804"/>
       <point x="316" y="616" type="curve" smooth="yes"/>
+<<<<<<< HEAD
+      <point x="316" y="0" type="line" smooth="no"/>
+=======
       <point x="316" y="0" type="line"/>
       <point x="149" y="0" type="line"/>
       <point x="149" y="0"/>
@@ -24,6 +43,7 @@
       <point x="303" y="900" type="line"/>
       <point x="376" y="1020"/>
       <point x="499" y="1107"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
     </contour>
   </outline>
   <lib>

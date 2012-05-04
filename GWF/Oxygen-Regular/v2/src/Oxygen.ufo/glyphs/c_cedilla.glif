@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccedilla" format="1">
   <advance width="1290"/>
+<<<<<<< HEAD
+  <unicode hex="00c7"/>
+=======
   <unicode hex="00C7"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
   <outline>
     <component base="C"/>
     <component base="cedilla" xOffset="408" yOffset="-24"/>

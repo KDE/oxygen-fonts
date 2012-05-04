@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="1">
   <advance width="1522"/>
+<<<<<<< HEAD
+  <unicode hex="00d0"/>
+  <outline>
+    <contour>
+      <point x="147" y="0" type="line" smooth="no"/>
+      <point x="147" y="697" type="line" smooth="no"/>
+      <point x="29" y="697" type="line" smooth="no"/>
+      <point x="29" y="832" type="line" smooth="no"/>
+      <point x="147" y="832" type="line" smooth="no"/>
+      <point x="147" y="1496" type="line" smooth="no"/>
+=======
   <unicode hex="00D0"/>
   <outline>
     <contour>
@@ -10,6 +21,7 @@
       <point x="29" y="832" type="line"/>
       <point x="147" y="832" type="line"/>
       <point x="147" y="1496" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
       <point x="519" y="1496" type="line" smooth="yes"/>
       <point x="1036" y="1496"/>
       <point x="1412" y="1315"/>
@@ -19,7 +31,11 @@
       <point x="621" y="0" type="curve" smooth="yes"/>
     </contour>
     <contour>
+<<<<<<< HEAD
+      <point x="324" y="155" type="line" smooth="no"/>
+=======
       <point x="324" y="155" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
       <point x="639" y="155" type="line" smooth="yes"/>
       <point x="1005" y="155"/>
       <point x="1223" y="347"/>
@@ -27,11 +43,19 @@
       <point x="1223" y="1205"/>
       <point x="949" y="1341"/>
       <point x="540" y="1341" type="curve" smooth="yes"/>
+<<<<<<< HEAD
+      <point x="324" y="1341" type="line" smooth="no"/>
+      <point x="324" y="832" type="line" smooth="no"/>
+      <point x="566" y="832" type="line" smooth="no"/>
+      <point x="566" y="697" type="line" smooth="no"/>
+      <point x="324" y="697" type="line" smooth="no"/>
+=======
       <point x="324" y="1341" type="line"/>
       <point x="324" y="832" type="line"/>
       <point x="566" y="832" type="line"/>
       <point x="566" y="697" type="line"/>
       <point x="324" y="697" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
     </contour>
   </outline>
   <lib>

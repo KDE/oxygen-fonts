@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring" format="1">
   <advance width="1276"/>
+<<<<<<< HEAD
+  <unicode hex="00c5"/>
+  <outline>
+    <component base="ring" xOffset="326" yOffset="185.327"/>
+    <component base="A"/>
+=======
   <unicode hex="00C5"/>
   <outline>
     <component base="A"/>
     <component base="ring" xOffset="326" yOffset="185.327"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
   </outline>
   <lib>
     <dict>

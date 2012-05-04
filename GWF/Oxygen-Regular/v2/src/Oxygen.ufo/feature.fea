@@ -1,4 +1,6 @@
 
+<<<<<<< HEAD
+=======
 # GSUB 
 
 
@@ -25,6 +27,7 @@ feature liga {
       lookup liga;
 } liga;
 
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
 # GPOS 
 
 
@@ -42,6 +45,36 @@ lookup kernHorizontalKerninginLatinloo {
     pos \f \comma -60;
     pos \g \g -14;
     pos \k \o -21;
+<<<<<<< HEAD
+} kernHorizontalKerninginLatinloo;
+
+lookup pos_pair_kernlatn_0 {
+  lookupflag 0;
+    pos \F \period -140;
+    pos \F \comma -180;
+    pos \L \quoteright -150;
+    pos \L \quotedblright -200;
+    pos \b \b -19;
+    pos \c \c -12;
+    pos \d \d -17;
+    pos \e \o -12;
+    pos \f \f -50;
+    pos \f \comma -60;
+    pos \g \g -14;
+    pos \k \o -21;
+} pos_pair_kernlatn_0;
+
+feature kern {
+
+  script latn;
+     language dflt ;
+      lookup kernHorizontalKerninginLatinloo;
+      lookup pos_pair_kernlatn_0;
+} kern;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+table GDEF {
+=======
   subtable;
     @kc2_first_1 = [\A \Aacute \Abreve \Acircumflex \Adieresis \Agrave \Amacron \Aogonek \Aring 
 	\Atilde \uni0202 ];
@@ -271,5 +304,6 @@ feature kern {
 table GDEF {
   GlyphClassDef @GDEF_Simple, @GDEF_Ligature,  ,  ;
 
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
 } GDEF;
 

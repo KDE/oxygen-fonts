@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblleft" format="1">
   <advance width="818"/>
+<<<<<<< HEAD
+  <unicode hex="201c"/>
+  <outline>
+    <contour>
+      <point x="438" y="1102" type="line" smooth="no"/>
+      <point x="573" y="1574" type="line" smooth="no"/>
+      <point x="690" y="1574" type="line" smooth="no"/>
+      <point x="600" y="1102" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="129" y="1102" type="line" smooth="no"/>
+      <point x="263" y="1574" type="line" smooth="no"/>
+      <point x="383" y="1574" type="line" smooth="no"/>
+      <point x="289" y="1102" type="line" smooth="no"/>
+=======
   <unicode hex="201C"/>
   <outline>
     <contour>
@@ -14,6 +29,7 @@
       <point x="263" y="1574" type="line"/>
       <point x="383" y="1574" type="line"/>
       <point x="289" y="1102" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
     </contour>
   </outline>
   <lib>

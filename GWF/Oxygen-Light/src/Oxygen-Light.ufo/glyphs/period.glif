@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period" format="1">
   <advance width="517"/>
+<<<<<<< HEAD
+  <unicode hex="002e"/>
+=======
   <unicode hex="002E"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
   <outline>
     <contour>
       <point x="290" y="-8" type="curve" smooth="yes"/>
@@ -18,4 +22,12 @@
       <point x="369" y="-8"/>
     </contour>
   </outline>
+<<<<<<< HEAD
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+=======
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
 </glyph>

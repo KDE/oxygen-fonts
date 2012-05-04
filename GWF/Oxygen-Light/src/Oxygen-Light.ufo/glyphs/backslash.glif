@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="backslash" format="1">
   <advance width="816"/>
+<<<<<<< HEAD
+  <unicode hex="005c"/>
+  <outline>
+    <contour>
+      <point x="652" y="-11" type="line" smooth="no"/>
+      <point x="62" y="1514" type="line" smooth="no"/>
+      <point x="184" y="1514" type="line" smooth="no"/>
+      <point x="774" y="-11" type="line" smooth="no"/>
+=======
   <unicode hex="005C"/>
   <outline>
     <contour>
@@ -8,6 +17,7 @@
       <point x="62" y="1514" type="line"/>
       <point x="184" y="1514" type="line"/>
       <point x="774" y="-11" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
     </contour>
   </outline>
 </glyph>

@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plusminus" format="1">
   <advance width="1202"/>
+<<<<<<< HEAD
+  <unicode hex="00b1"/>
+  <outline>
+    <contour>
+      <point x="118" y="0" type="line" smooth="no"/>
+      <point x="118" y="143" type="line" smooth="no"/>
+      <point x="1088" y="143" type="line" smooth="no"/>
+      <point x="1088" y="0" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="533" y="233" type="line" smooth="no"/>
+      <point x="533" y="647" type="line" smooth="no"/>
+      <point x="118" y="647" type="line" smooth="no"/>
+      <point x="118" y="790" type="line" smooth="no"/>
+      <point x="532" y="790" type="line" smooth="no"/>
+      <point x="532" y="1206" type="line" smooth="no"/>
+      <point x="668" y="1206" type="line" smooth="no"/>
+      <point x="668" y="790" type="line" smooth="no"/>
+      <point x="1086" y="790" type="line" smooth="no"/>
+      <point x="1086" y="647" type="line" smooth="no"/>
+      <point x="670" y="647" type="line" smooth="no"/>
+      <point x="670" y="233" type="line" smooth="no"/>
+=======
   <unicode hex="00B1"/>
   <outline>
     <contour>
@@ -22,6 +45,7 @@
       <point x="532" y="790" type="line"/>
       <point x="532" y="1206" type="line"/>
       <point x="668" y="1206" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
     </contour>
   </outline>
   <lib>

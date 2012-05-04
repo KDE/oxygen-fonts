@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="underscore" format="1">
   <advance width="1053"/>
+<<<<<<< HEAD
+  <unicode hex="005f"/>
+  <outline>
+    <contour>
+      <point x="73" y="-108" type="line" smooth="no"/>
+      <point x="73" y="0" type="line" smooth="no"/>
+      <point x="978" y="0" type="line" smooth="no"/>
+      <point x="978" y="-108" type="line" smooth="no"/>
+=======
   <unicode hex="005F"/>
   <outline>
     <contour>
@@ -8,6 +17,7 @@
       <point x="73" y="0" type="line"/>
       <point x="978" y="0" type="line"/>
       <point x="978" y="-108" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
     </contour>
   </outline>
 </glyph>

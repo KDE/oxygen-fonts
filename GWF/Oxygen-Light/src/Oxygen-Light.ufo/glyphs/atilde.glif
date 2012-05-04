@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="atilde" format="1">
   <advance width="1077"/>
+<<<<<<< HEAD
+  <unicode hex="00e3"/>
+  <outline>
+    <component base="tilde" xOffset="77.5" yOffset="-118"/>
+    <component base="a"/>
+=======
   <unicode hex="00E3"/>
   <outline>
     <component base="a"/>
     <component base="tilde" xOffset="77.5" yOffset="-118"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
   </outline>
 </glyph>

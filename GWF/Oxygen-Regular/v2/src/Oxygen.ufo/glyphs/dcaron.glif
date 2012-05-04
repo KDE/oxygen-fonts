@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="1">
   <advance width="1211"/>
+<<<<<<< HEAD
+  <unicode hex="010f"/>
+  <outline>
+    <component base="d"/>
+    <contour>
+      <point x="1217" y="1061" type="line" smooth="no"/>
+      <point x="1310" y="1533" type="line" smooth="no"/>
+      <point x="1467" y="1533" type="line" smooth="no"/>
+      <point x="1333" y="1061" type="line" smooth="no"/>
+=======
   <unicode hex="010F"/>
   <outline>
     <component base="d"/>
@@ -9,6 +19,7 @@
       <point x="1310" y="1533" type="line"/>
       <point x="1467" y="1533" type="line"/>
       <point x="1333" y="1061" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
     </contour>
   </outline>
   <lib>

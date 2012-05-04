@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hyphen" format="1">
   <advance width="670"/>
+<<<<<<< HEAD
+  <unicode hex="002d"/>
+  <outline>
+    <contour>
+      <point x="93" y="531" type="line" smooth="no"/>
+      <point x="93" y="641" type="line" smooth="no"/>
+      <point x="577" y="641" type="line" smooth="no"/>
+      <point x="577" y="531" type="line" smooth="no"/>
+=======
   <unicode hex="002D"/>
   <outline>
     <contour>
@@ -8,6 +17,7 @@
       <point x="93" y="641" type="line"/>
       <point x="577" y="641" type="line"/>
       <point x="577" y="531" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
     </contour>
   </outline>
 </glyph>

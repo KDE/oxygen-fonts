@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="germandbls" format="1">
   <advance width="1205"/>
+<<<<<<< HEAD
+  <unicode hex="00df"/>
+  <outline>
+    <contour>
+      <point x="123" y="0" type="line" smooth="no"/>
+=======
   <unicode hex="00DF"/>
   <outline>
     <contour>
       <point x="123" y="0" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
       <point x="123" y="1060" type="line" smooth="yes"/>
       <point x="123" y="1360"/>
       <point x="253" y="1548"/>
@@ -14,22 +21,35 @@
       <point x="956" y="1205" type="curve" smooth="yes"/>
       <point x="956" y="1008"/>
       <point x="814" y="970"/>
+<<<<<<< HEAD
+      <point x="650" y="864" type="curve" smooth="no"/>
+=======
       <point x="650" y="864" type="curve"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
       <point x="842" y="707"/>
       <point x="1150" y="614"/>
       <point x="1150" y="351" type="curve" smooth="yes"/>
       <point x="1150" y="86"/>
       <point x="991" y="0"/>
       <point x="783" y="0" type="curve" smooth="yes"/>
+<<<<<<< HEAD
+      <point x="416" y="0" type="line" smooth="no"/>
+      <point x="428" y="108" type="line" smooth="no"/>
+=======
       <point x="416" y="0" type="line"/>
       <point x="428" y="108" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
       <point x="807" y="108" type="line" smooth="yes"/>
       <point x="948" y="108"/>
       <point x="1026" y="214"/>
       <point x="1026" y="347" type="curve" smooth="yes"/>
       <point x="1026" y="520"/>
       <point x="720" y="668"/>
+<<<<<<< HEAD
+      <point x="595" y="755" type="curve" smooth="no"/>
+=======
       <point x="595" y="755" type="curve"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
       <point x="545" y="792"/>
       <point x="512" y="807"/>
       <point x="512" y="846" type="curve" smooth="yes"/>
@@ -45,7 +65,11 @@
       <point x="331" y="1449"/>
       <point x="251" y="1284"/>
       <point x="251" y="1082" type="curve" smooth="yes"/>
+<<<<<<< HEAD
+      <point x="251" y="0" type="line" smooth="no"/>
+=======
       <point x="251" y="0" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
     </contour>
   </outline>
 </glyph>

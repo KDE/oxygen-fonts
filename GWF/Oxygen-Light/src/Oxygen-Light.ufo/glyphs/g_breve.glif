@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gbreve" format="1">
   <advance width="1469"/>
+<<<<<<< HEAD
+  <unicode hex="011e"/>
+  <outline>
+    <component base="breve" xOffset="332" yOffset="260"/>
+    <component base="G"/>
+=======
   <unicode hex="011E"/>
   <outline>
     <component base="G"/>
     <component base="breve" xOffset="332" yOffset="260"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
   </outline>
 </glyph>

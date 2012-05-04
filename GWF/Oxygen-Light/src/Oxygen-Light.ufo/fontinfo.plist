@@ -26,6 +26,12 @@
 	<string>2012/04/03 12:39:20</string>
 	<key>openTypeNameDesigner</key>
 	<string>vernon adams</string>
+<<<<<<< HEAD
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameVersion</key>
+	<string>webfont 0.2.2</string>
+=======
 	<key>openTypeNameVersion</key>
 	<string>Version </string>
 	<key>openTypeOS2Panose</key>
@@ -41,6 +47,7 @@
 		<integer>0</integer>
 		<integer>4</integer>
 	</array>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WeightClass</key>
@@ -72,9 +79,15 @@
 		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
+<<<<<<< HEAD
+	<integer>1901</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-483</integer>
+=======
 	<integer>1638</integer>
 	<key>openTypeOS2TypoDescender</key>
 	<integer>410</integer>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2WinAscent</key>
@@ -111,6 +124,8 @@
 	<integer>0</integer>
 	<key>postscriptUnderlinePosition</key>
 	<integer>0</integer>
+<<<<<<< HEAD
+=======
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>-30</integer>
@@ -150,5 +165,6 @@
 	<integer>7</integer>
 	<key>postscriptBlueScale</key>
 	<real>0.039625000208616257</real>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
     </dict>
 </plist>

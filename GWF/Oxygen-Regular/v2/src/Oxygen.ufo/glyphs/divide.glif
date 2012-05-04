@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divide" format="1">
   <advance width="1211"/>
+<<<<<<< HEAD
+  <unicode hex="00f7"/>
+  <outline>
+    <contour>
+      <point x="491" y="939" type="line" smooth="no"/>
+      <point x="491" y="1166" type="line" smooth="no"/>
+      <point x="716" y="1166" type="line" smooth="no"/>
+      <point x="716" y="939" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="97" y="523" type="line" smooth="no"/>
+      <point x="97" y="672" type="line" smooth="no"/>
+      <point x="1098" y="672" type="line" smooth="no"/>
+      <point x="1098" y="523" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="491" y="22" type="line" smooth="no"/>
+      <point x="491" y="249" type="line" smooth="no"/>
+      <point x="682" y="249" type="line" smooth="no"/>
+      <point x="682" y="22" type="line" smooth="no"/>
+=======
   <unicode hex="00F7"/>
   <outline>
     <contour>
@@ -20,6 +41,7 @@
       <point x="682" y="22" type="line"/>
       <point x="491" y="22" type="line"/>
       <point x="491" y="249" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
     </contour>
   </outline>
   <lib>

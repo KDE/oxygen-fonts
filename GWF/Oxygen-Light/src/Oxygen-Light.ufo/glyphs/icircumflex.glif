@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="icircumflex" format="1">
   <advance width="376"/>
+<<<<<<< HEAD
+  <unicode hex="00ee"/>
+=======
   <unicode hex="00EE"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
   <outline>
     <component base="circumflex" xOffset="-201" yOffset="-92"/>
     <component base="dotlessi"/>
   </outline>
+<<<<<<< HEAD
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+=======
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
 </glyph>

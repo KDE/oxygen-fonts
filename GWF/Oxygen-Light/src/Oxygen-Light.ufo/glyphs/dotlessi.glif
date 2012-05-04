@@ -4,10 +4,24 @@
   <unicode hex="0131"/>
   <outline>
     <contour>
+<<<<<<< HEAD
+      <point x="138" y="0" type="line" smooth="no"/>
+      <point x="138" y="1096" type="line" smooth="no"/>
+      <point x="263" y="1096" type="line" smooth="no"/>
+      <point x="263" y="0" type="line" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+=======
       <point x="138" y="0" type="line"/>
       <point x="138" y="1096" type="line"/>
       <point x="263" y="1096" type="line"/>
       <point x="263" y="0" type="line"/>
     </contour>
   </outline>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
 </glyph>

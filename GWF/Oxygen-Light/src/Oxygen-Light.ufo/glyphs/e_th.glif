@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="1">
   <advance width="1498"/>
+<<<<<<< HEAD
+  <unicode hex="00d0"/>
+  <unicode hex="0110"/>
+  <outline>
+    <contour>
+      <point x="310" y="107" type="line" smooth="no"/>
+=======
   <unicode hex="00D0"/>
   <unicode hex="0110"/>
   <outline>
     <contour>
       <point x="310" y="107" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
       <point x="602" y="107" type="line" smooth="yes"/>
       <point x="1011" y="107"/>
       <point x="1237" y="315"/>
@@ -13,6 +21,21 @@
       <point x="1237" y="1204"/>
       <point x="983" y="1382"/>
       <point x="573" y="1382" type="curve" smooth="yes"/>
+<<<<<<< HEAD
+      <point x="310" y="1382" type="line" smooth="no"/>
+      <point x="310" y="833" type="line" smooth="no"/>
+      <point x="552" y="833" type="line" smooth="no"/>
+      <point x="552" y="737" type="line" smooth="no"/>
+      <point x="310" y="737" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="182" y="0" type="line" smooth="no"/>
+      <point x="182" y="737" type="line" smooth="no"/>
+      <point x="40" y="737" type="line" smooth="no"/>
+      <point x="40" y="833" type="line" smooth="no"/>
+      <point x="182" y="833" type="line" smooth="no"/>
+      <point x="182" y="1488" type="line" smooth="no"/>
+=======
       <point x="310" y="1382" type="line"/>
       <point x="310" y="833" type="line"/>
       <point x="552" y="833" type="line"/>
@@ -26,6 +49,7 @@
       <point x="40" y="833" type="line"/>
       <point x="182" y="833" type="line"/>
       <point x="182" y="1488" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
       <point x="585" y="1488" type="line" smooth="yes"/>
       <point x="1060" y="1488"/>
       <point x="1380" y="1268"/>

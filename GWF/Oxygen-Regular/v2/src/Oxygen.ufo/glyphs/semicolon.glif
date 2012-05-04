@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon" format="1">
   <advance width="518"/>
+<<<<<<< HEAD
+  <unicode hex="003b"/>
+  <outline>
+    <contour>
+      <point x="174" y="893" type="line" smooth="no"/>
+      <point x="174" y="1124" type="line" smooth="no"/>
+      <point x="380" y="1124" type="line" smooth="no"/>
+      <point x="380" y="893" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="138" y="-310" type="line" smooth="no"/>
+      <point x="194" y="197" type="line" smooth="no"/>
+      <point x="376" y="197" type="line" smooth="no"/>
+      <point x="251" y="-310" type="line" smooth="no"/>
+=======
   <unicode hex="003B"/>
   <outline>
     <contour>
@@ -14,6 +29,7 @@
       <point x="251" y="-310" type="line"/>
       <point x="138" y="-310" type="line"/>
       <point x="194" y="197" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
     </contour>
   </outline>
   <lib>

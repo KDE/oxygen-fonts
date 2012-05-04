@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greater" format="1">
   <advance width="1176"/>
+<<<<<<< HEAD
+  <unicode hex="003e"/>
+  <outline>
+    <contour>
+      <point x="115" y="152" type="line" smooth="no"/>
+      <point x="115" y="311" type="line" smooth="no"/>
+      <point x="889" y="658" type="line" smooth="no"/>
+      <point x="117" y="1044" type="line" smooth="no"/>
+      <point x="117" y="1200" type="line" smooth="no"/>
+      <point x="1075" y="701" type="line" smooth="no"/>
+      <point x="1075" y="604" type="line" smooth="no"/>
+=======
   <unicode hex="003E"/>
   <outline>
     <contour>
@@ -11,6 +23,7 @@
       <point x="1075" y="701" type="line"/>
       <point x="1075" y="604" type="line"/>
       <point x="115" y="152" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
     </contour>
   </outline>
 </glyph>

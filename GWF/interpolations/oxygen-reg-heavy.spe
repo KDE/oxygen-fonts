@@ -1,0 +1,52 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="110221_1144_developer_" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="oxygen-reg-heavy" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="100.0" />
+<data name="previewtext" value="Pontano Chase Manhattan" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="2.68434230589" />
+<!-- axis definitions -->
+<axis maximum="1" minimum="-1" name="oxygen-reg-heavy" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="Oxygen.ufo">
+<location>
+</location>
+<!-- color for Oxygen.ufo -->
+<color a="1.000000" b="1.000000" g="0.000000" r="0.500000" />
+</master>
+<master filename="Oxygen-Heavy.ufo">
+<location>
+<dimension name="oxygen-reg-heavy" xvalue="1" />
+</location>
+<!-- color for Oxygen-Heavy.ufo -->
+<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="Oxygen" sequence="" stylename="Bold">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="oxygen-reg-heavy" xvalue="0.7500" />
+</location>
+</instance>
+<instance familyname="Oxygen" sequence="" stylename="Heavy">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="oxygen-reg-heavy" xvalue="1.2500" />
+</location>
+</instance>
+<instance familyname="Oxygen" sequence="" stylename="Medium">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="oxygen-reg-heavy" xvalue="0.4037" />
+</location>
+</instance>
+</designspace>

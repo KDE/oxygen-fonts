@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcaron" format="1">
   <advance width="1021"/>
+<<<<<<< HEAD
+  <unicode hex="013d"/>
+  <outline>
+    <component base="L"/>
+    <contour>
+      <point x="709" y="1053" type="line" smooth="no"/>
+      <point x="802" y="1525" type="line" smooth="no"/>
+      <point x="959" y="1525" type="line" smooth="no"/>
+      <point x="825" y="1053" type="line" smooth="no"/>
+=======
   <unicode hex="013D"/>
   <outline>
     <component base="L"/>
@@ -9,6 +19,7 @@
       <point x="802" y="1525" type="line"/>
       <point x="959" y="1525" type="line"/>
       <point x="825" y="1053" type="line"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
     </contour>
   </outline>
   <lib>

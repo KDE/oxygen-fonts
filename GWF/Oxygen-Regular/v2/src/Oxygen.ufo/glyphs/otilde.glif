@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="otilde" format="1">
   <advance width="1201"/>
+<<<<<<< HEAD
+  <unicode hex="00f5"/>
+=======
   <unicode hex="00F5"/>
+>>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
   <outline>
     <component base="o"/>
     <component base="tilde" xOffset="156" yOffset="-45"/>
