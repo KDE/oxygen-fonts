@@ -7,7 +7,7 @@
 	<key>capHeight</key>
 	<integer>1452</integer>
 	<key>descender</key>
-	<integer>-410</integer>
+	<integer>-500</integer>
 	<key>familyName</key>
 	<string>Oxygen</string>
 	<key>italicAngle</key>
@@ -67,7 +67,7 @@
 	<key>postscriptBlueFuzz</key>
 	<integer>2</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.039625000050062649</real>
+	<real>0.03962500005006265</real>
 	<key>postscriptBlueShift</key>
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
@@ -78,6 +78,12 @@
 		<integer>1127</integer>
 		<integer>1452</integer>
 		<integer>1491</integer>
+	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
 	</array>
 	<key>postscriptFullName</key>
 	<string>Oxygen --0_xx0_76</string>
@@ -112,9 +118,13 @@
 	<key>postscriptWeightName</key>
 	<string>Bold</string>
 	<key>styleName</key>
-	<string>--0_xx0_76</string>
+	<string>Heavy</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>0</integer>
+	<key>versionMinor</key>
+	<integer>3</integer>
 	<key>xHeight</key>
 	<integer>1098</integer>
 </dict>
