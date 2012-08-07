@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omicron" format="1">
+  <advance width="1071"/>
+  <unicode hex="03BF"/>
+  <outline>
+    <contour>
+      <point x="549" y="844" type="curve" smooth="yes"/>
+      <point x="700" y="844"/>
+      <point x="774" y="730"/>
+      <point x="774" y="512" type="curve" smooth="yes"/>
+      <point x="774" y="296"/>
+      <point x="700" y="178"/>
+      <point x="550" y="178" type="curve" smooth="yes"/>
+      <point x="399" y="178"/>
+      <point x="324" y="296"/>
+      <point x="324" y="511" type="curve" smooth="yes"/>
+      <point x="324" y="729"/>
+      <point x="400" y="844"/>
+    </contour>
+    <contour>
+      <point x="545" y="-18" type="curve" smooth="yes"/>
+      <point x="853" y="-18"/>
+      <point x="1027" y="195"/>
+      <point x="1027" y="512" type="curve" smooth="yes"/>
+      <point x="1027" y="825"/>
+      <point x="851" y="1041"/>
+      <point x="554" y="1041" type="curve" smooth="yes"/>
+      <point x="246" y="1041"/>
+      <point x="72" y="833"/>
+      <point x="72" y="512" type="curve" smooth="yes"/>
+      <point x="72" y="200"/>
+      <point x="250" y="-18"/>
+    </contour>
+    <contour>
+      <point x="536" y="1016" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="536" y="1016" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

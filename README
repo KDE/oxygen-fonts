@@ -6,7 +6,7 @@ The basic concept for Oxygen Font was to design a clear, legible, sans serif, th
 Oxygen is to be constructed closely with the gridfitting aspects of the Freetype engine. The oxygen fonts will also be autohinted with Werner Lemberg's "ttfautohint" library to further the compatibility with the Freetype engine. The aim of this approach is to produce a family of freetype-specific desktop fonts whose appearance will stay uniform under different screen render settings, unlike more traditionally designed 'screen fonts' that have tended to be designed for best legibility on the Windows GDI render engine.
 
 *License*
-The Oxygen Fonts are released under the SIL Open Font License (OFL) version 1.1 and the Gnu General Public License (with font exception). 
+The Oxygen Fonts are released under the SIL Open Font License (OFL) version 1.1 and the Gnu General Public License (with font exception) (GPL+FE). 
 
 
 *Testing*
