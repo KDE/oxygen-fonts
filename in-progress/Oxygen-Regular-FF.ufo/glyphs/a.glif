@@ -29,18 +29,18 @@
       <point x="921" y="0" type="line"/>
       <point x="921" y="661" type="line" smooth="yes"/>
       <point x="921" y="927"/>
-      <point x="791" y="1019"/>
-      <point x="547" y="1019" type="curve" smooth="yes"/>
-      <point x="418" y="1019"/>
-      <point x="267" y="984"/>
-      <point x="181" y="936" type="curve"/>
-      <point x="188" y="917"/>
-      <point x="220" y="832"/>
-      <point x="228" y="813" type="curve"/>
-      <point x="322" y="859"/>
-      <point x="455" y="886"/>
-      <point x="551" y="886" type="curve" smooth="yes"/>
-      <point x="694" y="886"/>
+      <point x="773" y="1019"/>
+      <point x="529" y="1019" type="curve" smooth="yes"/>
+      <point x="400" y="1019"/>
+      <point x="245" y="983"/>
+      <point x="159" y="935" type="curve"/>
+      <point x="166" y="916"/>
+      <point x="198" y="831"/>
+      <point x="206" y="812" type="curve"/>
+      <point x="300" y="858"/>
+      <point x="437" y="886"/>
+      <point x="533" y="886" type="curve" smooth="yes"/>
+      <point x="676" y="886"/>
       <point x="746" y="823"/>
       <point x="746" y="685" type="curve" smooth="yes"/>
       <point x="746" y="597" type="line"/>
@@ -60,4 +60,11 @@
       <point x="948" y="10" type="move" name="ogonek"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

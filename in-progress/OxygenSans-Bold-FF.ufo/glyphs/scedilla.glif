@@ -3,7 +3,36 @@
   <advance width="853"/>
   <unicode hex="015F"/>
   <outline>
-    <component base="cedilla" xOffset="206.500" yOffset="-65.100"/>
+    <component base="cedilla" xOffset="206.5" yOffset="-65.1"/>
     <component base="s"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>scedilla</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>853</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

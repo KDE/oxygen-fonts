@@ -1,24 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="1">
-  <advance width="1674"/>
+  <advance width="1632"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="1236" y="1342" type="line"/>
-      <point x="1525" y="1342" type="line"/>
-      <point x="1525" y="0" type="line"/>
-      <point x="1245" y="0" type="line"/>
-      <point x="1245" y="500" type="line"/>
-      <point x="1251" y="810" type="line"/>
-      <point x="940" y="109" type="line"/>
-      <point x="720" y="109" type="line"/>
-      <point x="423" y="816" type="line"/>
-      <point x="429" y="497" type="line"/>
-      <point x="429" y="0" type="line"/>
-      <point x="149" y="0" type="line"/>
-      <point x="149" y="1342" type="line"/>
-      <point x="443" y="1342" type="line"/>
-      <point x="837" y="432" type="line"/>
+      <point x="1207" y="1336" type="line"/>
+      <point x="1488" y="1336" type="line"/>
+      <point x="1488" y="0" type="line"/>
+      <point x="1222" y="0" type="line"/>
+      <point x="1222" y="487" type="line"/>
+      <point x="1237" y="880" type="line"/>
+      <point x="912" y="136" type="line"/>
+      <point x="711" y="136" type="line"/>
+      <point x="395" y="886" type="line"/>
+      <point x="410" y="484" type="line"/>
+      <point x="410" y="0" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="144" y="1336" type="line"/>
+      <point x="430" y="1336" type="line"/>
+      <point x="816" y="421" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>M</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1632</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

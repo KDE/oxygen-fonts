@@ -11,13 +11,14 @@
 <data name="previewTypeSize" value="200.0" />
 <data name="previewtext" value="Heno Dapom" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="0.392699081699" />
+<data name="projectionAngle" value="2.73964081777" />
 <!-- axis definitions -->
 <axis maximum="1" minimum="-1" name="new_axis_1" shortname="xx" />
 
 <!-- master definitions -->
 <master filename="Oxygen-Regular-FF.ufo">
 <location>
+<dimension name="new_axis_1" xvalue="0" />
 </location>
 <!-- color for Oxygen-Regular-FF.ufo -->
 <color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
