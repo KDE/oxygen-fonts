@@ -8,10 +8,10 @@
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="200.0" />
-<data name="previewtext" value="Heno Dapom" />
+<data name="previewTypeSize" value="100.0" />
+<data name="previewtext" value="Honda Dellon nosgonanopon" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.73964081777" />
+<data name="projectionAngle" value="2.68564524638" />
 <!-- axis definitions -->
 <axis maximum="1" minimum="-1" name="new_axis_1" shortname="xx" />
 
@@ -29,6 +29,13 @@
 </location>
 <!-- color for OxygenSans-Bold-FF.ufo -->
 <color a="1.000000" b="0.500000" g="0.500000" r="0.500000" />
+</master>
+<master filename="SP_Instances/OxygenSans-Thin.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="-1" />
+</location>
+<!-- color for SP_Instances/OxygenSans-Thin.ufo -->
+<color a="1.000000" b="0.000000" g="0.000000" r="0.500000" />
 </master>
 
 <!-- instance definitions -->

@@ -4,51 +4,22 @@
   <unicode hex="0057"/>
   <outline>
     <contour>
-      <point x="526" y="376" type="line"/>
-      <point x="295" y="1336" type="line"/>
-      <point x="13" y="1336" type="line"/>
-      <point x="379" y="0" type="line"/>
-      <point x="649" y="0" type="line"/>
-      <point x="935" y="963" type="line"/>
-      <point x="1200" y="0" type="line"/>
-      <point x="1472" y="0" type="line"/>
-      <point x="1855" y="1336" type="line"/>
-      <point x="1574" y="1336" type="line"/>
-      <point x="1330" y="373" type="line"/>
-      <point x="1064" y="1330" type="line"/>
       <point x="805" y="1330" type="line"/>
+      <point x="1064" y="1330" type="line"/>
+      <point x="1330" y="373" type="line"/>
+      <point x="1574" y="1336" type="line"/>
+      <point x="1855" y="1336" type="line"/>
+      <point x="1472" y="0" type="line"/>
+      <point x="1200" y="0" type="line"/>
+      <point x="935" y="963" type="line"/>
+      <point x="649" y="0" type="line"/>
+      <point x="379" y="0" type="line"/>
+      <point x="13" y="1336" type="line"/>
+      <point x="295" y="1336" type="line"/>
+      <point x="526" y="376" type="line"/>
     </contour>
     <contour>
       <point x="934" y="1342" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>W</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1868</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
