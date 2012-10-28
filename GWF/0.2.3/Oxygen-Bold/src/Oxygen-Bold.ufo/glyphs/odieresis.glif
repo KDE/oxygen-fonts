@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odieresis" format="1">
+  <advance width="1222"/>
+  <unicode hex="00f6"/>
+  <outline>
+    <component base="dieresis" xOffset="224.5" yOffset="12"/>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-21</integer>
+	    <key>width</key>	    <integer>199</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>928</integer>
+	    <key>width</key>	    <integer>198</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1228</integer>
+	    <key>width</key>	    <integer>254</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>81</integer>
+	    <key>width</key>
+	    <integer>261</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>302</integer>
+	    <key>width</key>
+	    <integer>195</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>724</integer>
+	    <key>width</key>
+	    <integer>196</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>879</integer>
+	    <key>width</key>
+	    <integer>262</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

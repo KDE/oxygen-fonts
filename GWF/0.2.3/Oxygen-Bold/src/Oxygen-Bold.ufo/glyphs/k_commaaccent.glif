@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kcommaaccent" format="1">
+  <advance width="1348"/>
+  <unicode hex="0136"/>
+  <outline>
+    <component base="commaaccentcomb" xOffset="473" yOffset="28"/>
+    <component base="K"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1445</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>157</integer>
+	    <key>width</key>
+	    <integer>272</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>981</integer>
+	    <key>width</key>
+	    <integer>321</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1019</integer>
+	    <key>width</key>
+	    <integer>318</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

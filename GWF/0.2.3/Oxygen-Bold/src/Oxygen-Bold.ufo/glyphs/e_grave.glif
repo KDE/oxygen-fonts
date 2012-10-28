@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave" format="1">
+  <advance width="1152"/>
+  <unicode hex="00c8"/>
+  <outline>
+    <component base="grave" xOffset="203" yOffset="413"/>
+    <component base="E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>216</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>657</integer>
+	    <key>width</key>	    <integer>215</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1250</integer>
+	    <key>width</key>	    <integer>215</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1588</integer>
+	    <key>width</key>	    <integer>383</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>158</integer>
+	    <key>width</key>
+	    <integer>271</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>195</integer>
+	    <key>width</key>
+	    <integer>494</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

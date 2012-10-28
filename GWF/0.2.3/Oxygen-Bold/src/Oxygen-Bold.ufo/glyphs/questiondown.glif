@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown" format="1">
+  <advance width="887"/>
+  <unicode hex="00bf"/>
+  <outline>
+    <component base="question" xScale="-1" yScale="-1" xOffset="864" yOffset="1199"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-291</integer>
+	    <key>width</key>	    <integer>187</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>910</integer>
+	    <key>width</key>	    <integer>307</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>49</integer>
+	    <key>width</key>
+	    <integer>209</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>336</integer>
+	    <key>width</key>
+	    <integer>307</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

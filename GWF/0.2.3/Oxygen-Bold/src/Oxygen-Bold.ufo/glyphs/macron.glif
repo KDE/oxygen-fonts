@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="1">
+  <advance width="912"/>
+  <unicode hex="00af"/>
+  <outline>
+    <contour>
+      <point x="118" y="1377" type="line" smooth="no"/>
+      <point x="118" y="1530" type="line" smooth="no"/>
+      <point x="804" y="1530" type="line" smooth="no"/>
+      <point x="804" y="1377" type="line" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1377</integer>
+	    <key>width</key>	    <integer>153</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
