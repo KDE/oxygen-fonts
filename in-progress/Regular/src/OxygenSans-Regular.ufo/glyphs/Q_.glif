@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="1">
+  <advance width="1517"/>
+  <unicode hex="0051"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="1255" y="-318" type="curve"/>
+      <point x="1152" y="-421" type="line"/>
+      <point x="1116" y="-386"/>
+      <point x="929" y="-164"/>
+      <point x="851" y="-7" type="curve"/>
+      <point x="1001" y="23" type="line"/>
+      <point x="1022" y="-11"/>
+      <point x="1145" y="-211"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-18</integer>
+	    <key>width</key>	    <integer>138</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1275</integer>
+	    <key>width</key>	    <integer>138</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>103</integer>
+	    <key>width</key>
+	    <integer>179</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1231</integer>
+	    <key>width</key>
+	    <integer>179</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

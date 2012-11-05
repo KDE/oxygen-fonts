@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10074" format="1">
+  <advance width="1066"/>
+  <unicode hex="0438"/>
+  <outline>
+    <contour>
+      <point x="283" y="238" type="line"/>
+      <point x="784" y="905" type="line"/>
+      <point x="784" y="999" type="line"/>
+      <point x="937" y="999" type="line"/>
+      <point x="937" y="0" type="line"/>
+      <point x="784" y="0" type="line"/>
+      <point x="784" y="679" type="line"/>
+      <point x="274" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="999" type="line"/>
+      <point x="283" y="999" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>979</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>130</integer>
+	    <key>width</key>
+	    <integer>153</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>784</integer>
+	    <key>width</key>
+	    <integer>153</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

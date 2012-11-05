@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sigma" format="1">
+  <advance width="1074"/>
+  <unicode hex="03A3"/>
+  <outline>
+    <contour>
+      <point x="311" y="1207" type="line"/>
+      <point x="311" y="766" type="line"/>
+      <point x="894" y="766" type="line"/>
+      <point x="894" y="629" type="line"/>
+      <point x="311" y="629" type="line"/>
+      <point x="311" y="139" type="line"/>
+      <point x="952" y="139" type="line"/>
+      <point x="945" y="0" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="136" y="1346" type="line"/>
+      <point x="952" y="1346" type="line"/>
+      <point x="945" y="1207" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>139</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>629</integer>
+	    <key>width</key>	    <integer>137</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1207</integer>
+	    <key>width</key>	    <integer>139</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>136</integer>
+	    <key>width</key>
+	    <integer>175</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
