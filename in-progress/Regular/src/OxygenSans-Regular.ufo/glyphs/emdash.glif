@@ -5,22 +5,15 @@
   <outline>
     <contour>
       <point x="104" y="480" type="line"/>
-      <point x="104" y="614" type="line"/>
-      <point x="2067" y="614" type="line"/>
       <point x="2067" y="480" type="line"/>
+      <point x="2067" y="614" type="line"/>
+      <point x="104" y="614" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>480</integer>
-	    <key>width</key>	    <integer>134</integer>
-	  </dict>
-	</array>
       </dict>
     </dict>
   </lib>

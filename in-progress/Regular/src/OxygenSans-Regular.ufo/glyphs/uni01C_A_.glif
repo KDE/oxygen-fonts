@@ -3,53 +3,37 @@
   <advance width="2121"/>
   <unicode hex="01CA"/>
   <outline>
-    <component base="J" xOffset="1473"/>
-    <component base="N"/>
+    <contour>
+      <point x="1566" y="-192" type="line"/>
+      <point x="1925" y="-192"/>
+      <point x="1972" y="-61"/>
+      <point x="1972" y="219" type="curve" smooth="yes"/>
+      <point x="1972" y="1408" type="line"/>
+      <point x="1794" y="1408" type="line"/>
+      <point x="1794" y="186" type="line" smooth="yes"/>
+      <point x="1794" y="51"/>
+      <point x="1790" y="-45"/>
+      <point x="1552" y="-45" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1156" y="208" type="line"/>
+      <point x="357" y="1390" type="line"/>
+      <point x="178" y="1390" type="line"/>
+      <point x="178" y="0" type="line"/>
+      <point x="334" y="0" type="line"/>
+      <point x="334" y="830" type="line"/>
+      <point x="329" y="1181" type="line"/>
+      <point x="1124" y="0" type="line"/>
+      <point x="1307" y="0" type="line"/>
+      <point x="1307" y="1390" type="line"/>
+      <point x="1151" y="1390" type="line"/>
+      <point x="1151" y="555" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-192</integer>
-	    <key>width</key>	    <integer>147</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1370</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1388</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>178</integer>
-	    <key>width</key>
-	    <integer>156</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1151</integer>
-	    <key>width</key>
-	    <integer>156</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1794</integer>
-	    <key>width</key>
-	    <integer>178</integer>
-	  </dict>
-	</array>
       </dict>
     </dict>
   </lib>

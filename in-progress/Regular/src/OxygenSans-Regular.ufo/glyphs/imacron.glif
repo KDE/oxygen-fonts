@@ -3,43 +3,23 @@
   <advance width="413"/>
   <unicode hex="012B"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="macron" xOffset="-278" yOffset="-170"/>
+    <contour>
+      <point x="-97" y="1182" type="line"/>
+      <point x="511" y="1182" type="line"/>
+      <point x="511" y="1309" type="line"/>
+      <point x="-97" y="1309" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="0" type="line"/>
+      <point x="284" y="0" type="line"/>
+      <point x="284" y="999" type="line"/>
+      <point x="130" y="999" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>979</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1182</integer>
-	    <key>width</key>	    <integer>127</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>-97</integer>
-	    <key>width</key>
-	    <integer>608</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>130</integer>
-	    <key>width</key>
-	    <integer>154</integer>
-	  </dict>
-	</array>
       </dict>
     </dict>
   </lib>

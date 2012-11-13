@@ -5,37 +5,21 @@
   <outline>
     <contour>
       <point x="369" y="1003" type="line"/>
-      <point x="451" y="1432" type="line"/>
-      <point x="600" y="1432" type="line"/>
       <point x="475" y="1003" type="line"/>
+      <point x="600" y="1432" type="line"/>
+      <point x="451" y="1432" type="line"/>
     </contour>
     <contour>
       <point x="107" y="1003" type="line"/>
-      <point x="192" y="1432" type="line"/>
-      <point x="337" y="1432" type="line"/>
       <point x="214" y="1003" type="line"/>
+      <point x="337" y="1432" type="line"/>
+      <point x="192" y="1432" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>1003</integer>
-	    <key>width</key>	    <integer>429</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>107</integer>
-	    <key>width</key>
-	    <integer>493</integer>
-	  </dict>
-	</array>
       </dict>
     </dict>
   </lib>

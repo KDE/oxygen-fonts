@@ -3,55 +3,31 @@
   <advance width="1181"/>
   <unicode hex="0176"/>
   <outline>
-    <component base="Y"/>
-    <component base="circumflex" xOffset="225.5" yOffset="438"/>
+    <contour>
+      <point x="323.5" y="1576" type="line"/>
+      <point x="442.5" y="1576" type="line"/>
+      <point x="589.5" y="1824" type="line"/>
+      <point x="736.5" y="1576" type="line"/>
+      <point x="857.5" y="1576" type="line"/>
+      <point x="687.5" y="1929" type="line"/>
+      <point x="493.5" y="1929" type="line"/>
+    </contour>
+    <contour>
+      <point x="604.0" y="723" type="line"/>
+      <point x="190.0" y="1390" type="line"/>
+      <point x="12.0" y="1390" type="line"/>
+      <point x="516.0" y="573" type="line"/>
+      <point x="516.0" y="0" type="line"/>
+      <point x="694.0" y="0" type="line"/>
+      <point x="694.0" y="577" type="line"/>
+      <point x="1169.0" y="1390" type="line"/>
+      <point x="991.0" y="1390" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1370</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1824</integer>
-	    <key>width</key>	    <integer>105</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>12</integer>
-	    <key>width</key>
-	    <integer>178</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>324</integer>
-	    <key>width</key>
-	    <integer>534</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>516</integer>
-	    <key>width</key>
-	    <integer>178</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>991</integer>
-	    <key>width</key>
-	    <integer>178</integer>
-	  </dict>
-	</array>
       </dict>
     </dict>
   </lib>

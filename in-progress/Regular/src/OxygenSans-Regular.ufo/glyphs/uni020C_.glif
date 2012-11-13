@@ -3,49 +3,51 @@
   <advance width="1513"/>
   <unicode hex="020C"/>
   <outline>
-    <component base="O"/>
-    <component base="uni030F" xOffset="285" yOffset="430"/>
+    <contour>
+      <point x="832" y="1576" type="line"/>
+      <point x="925" y="1576" type="line"/>
+      <point x="745" y="1881" type="line"/>
+      <point x="607" y="1881" type="line"/>
+    </contour>
+    <contour>
+      <point x="588" y="1576" type="line"/>
+      <point x="681" y="1576" type="line"/>
+      <point x="497" y="1881" type="line"/>
+      <point x="361" y="1881" type="line"/>
+    </contour>
+    <contour>
+      <point x="757" y="120" type="curve" smooth="yes"/>
+      <point x="433" y="120"/>
+      <point x="282" y="379"/>
+      <point x="282" y="697" type="curve" smooth="yes"/>
+      <point x="282" y="1028"/>
+      <point x="441" y="1275"/>
+      <point x="758" y="1275" type="curve" smooth="yes"/>
+      <point x="1075" y="1275"/>
+      <point x="1231" y="1027"/>
+      <point x="1231" y="697" type="curve" smooth="yes"/>
+      <point x="1231" y="379"/>
+      <point x="1081" y="120"/>
+    </contour>
+    <contour>
+      <point x="1410" y="697" type="curve" smooth="yes"/>
+      <point x="1410" y="1122"/>
+      <point x="1167" y="1413"/>
+      <point x="758" y="1413" type="curve" smooth="yes"/>
+      <point x="342" y="1413"/>
+      <point x="103" y="1125"/>
+      <point x="103" y="698" type="curve" smooth="yes"/>
+      <point x="103" y="281"/>
+      <point x="334" y="-18"/>
+      <point x="757" y="-18" type="curve" smooth="yes"/>
+      <point x="1175" y="-18"/>
+      <point x="1410" y="287"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-18</integer>
-	    <key>width</key>	    <integer>138</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1275</integer>
-	    <key>width</key>	    <integer>138</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1576</integer>
-	    <key>width</key>	    <integer>305</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>103</integer>
-	    <key>width</key>
-	    <integer>179</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>361</integer>
-	    <key>width</key>
-	    <integer>564</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1231</integer>
-	    <key>width</key>
-	    <integer>179</integer>
-	  </dict>
-	</array>
       </dict>
     </dict>
   </lib>

@@ -5,39 +5,23 @@
   <outline>
     <contour>
       <point x="368" y="1046" type="line"/>
-      <point x="368" y="1421" type="line"/>
-      <point x="486" y="1421" type="line"/>
-      <point x="486" y="1046" type="line"/>
-      <point x="765" y="1046" type="line"/>
-      <point x="765" y="953" type="line"/>
-      <point x="486" y="953" type="line"/>
-      <point x="486" y="110" type="line"/>
-      <point x="368" y="110" type="line"/>
-      <point x="368" y="953" type="line"/>
-      <point x="96" y="953" type="line"/>
       <point x="96" y="1046" type="line"/>
+      <point x="96" y="953" type="line"/>
+      <point x="368" y="953" type="line"/>
+      <point x="368" y="110" type="line"/>
+      <point x="486" y="110" type="line"/>
+      <point x="486" y="953" type="line"/>
+      <point x="765" y="953" type="line"/>
+      <point x="765" y="1046" type="line"/>
+      <point x="486" y="1046" type="line"/>
+      <point x="486" y="1421" type="line"/>
+      <point x="368" y="1421" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>953</integer>
-	    <key>width</key>	    <integer>93</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>368</integer>
-	    <key>width</key>
-	    <integer>118</integer>
-	  </dict>
-	</array>
       </dict>
     </dict>
   </lib>

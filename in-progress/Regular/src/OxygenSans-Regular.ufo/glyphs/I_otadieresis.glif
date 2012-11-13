@@ -3,49 +3,29 @@
   <advance width="446"/>
   <unicode hex="03AA"/>
   <outline>
-    <component base="Iota"/>
-    <component base="dieresis" xOffset="-131.5" yOffset="435"/>
+    <contour>
+      <point x="330.5" y="1576" type="line"/>
+      <point x="471.5" y="1576" type="line"/>
+      <point x="471.5" y="1769" type="line"/>
+      <point x="330.5" y="1769" type="line"/>
+    </contour>
+    <contour>
+      <point x="-24.5" y="1576" type="line"/>
+      <point x="116.5" y="1576" type="line"/>
+      <point x="116.5" y="1769" type="line"/>
+      <point x="-24.5" y="1769" type="line"/>
+    </contour>
+    <contour>
+      <point x="136.0" y="0" type="line"/>
+      <point x="311.0" y="0" type="line"/>
+      <point x="311.0" y="1346" type="line"/>
+      <point x="136.0" y="1346" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1326</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1576</integer>
-	    <key>width</key>	    <integer>193</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>-24</integer>
-	    <key>width</key>
-	    <integer>141</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>136</integer>
-	    <key>width</key>
-	    <integer>175</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>330</integer>
-	    <key>width</key>
-	    <integer>141</integer>
-	  </dict>
-	</array>
       </dict>
     </dict>
   </lib>

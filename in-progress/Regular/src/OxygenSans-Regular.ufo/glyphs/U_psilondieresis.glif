@@ -3,49 +3,34 @@
   <advance width="1248"/>
   <unicode hex="03AB"/>
   <outline>
-    <component base="Upsilon"/>
-    <component base="dieresis" xOffset="268.5" yOffset="435"/>
+    <contour>
+      <point x="730.5" y="1576" type="line"/>
+      <point x="871.5" y="1576" type="line"/>
+      <point x="871.5" y="1769" type="line"/>
+      <point x="730.5" y="1769" type="line"/>
+    </contour>
+    <contour>
+      <point x="375.5" y="1576" type="line"/>
+      <point x="516.5" y="1576" type="line"/>
+      <point x="516.5" y="1769" type="line"/>
+      <point x="375.5" y="1769" type="line"/>
+    </contour>
+    <contour>
+      <point x="623.0" y="683" type="line"/>
+      <point x="245.0" y="1346" type="line"/>
+      <point x="70.0" y="1346" type="line"/>
+      <point x="536.0" y="533" type="line"/>
+      <point x="536.0" y="0" type="line"/>
+      <point x="711.0" y="0" type="line"/>
+      <point x="711.0" y="537" type="line"/>
+      <point x="1177.0" y="1346" type="line"/>
+      <point x="1002.0" y="1346" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1326</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1576</integer>
-	    <key>width</key>	    <integer>193</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>376</integer>
-	    <key>width</key>
-	    <integer>141</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>536</integer>
-	    <key>width</key>
-	    <integer>175</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>730</integer>
-	    <key>width</key>
-	    <integer>141</integer>
-	  </dict>
-	</array>
       </dict>
     </dict>
   </lib>

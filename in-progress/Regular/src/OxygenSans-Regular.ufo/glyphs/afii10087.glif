@@ -3,45 +3,39 @@
   <advance width="1021"/>
   <unicode hex="0445"/>
   <outline>
-    <component base="x"/>
-    <component base="x"/>
+    <contour>
+      <point x="509" y="623" type="line"/>
+      <point x="242" y="998" type="line"/>
+      <point x="58" y="998" type="line"/>
+      <point x="410" y="508" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="228" y="0" type="line"/>
+      <point x="509" y="396" type="line"/>
+      <point x="791" y="0" type="line"/>
+      <point x="977" y="0" type="line"/>
+      <point x="607" y="506" type="line"/>
+      <point x="968" y="998" type="line"/>
+      <point x="776" y="998" type="line"/>
+    </contour>
+    <contour>
+      <point x="509" y="623" type="line"/>
+      <point x="242" y="998" type="line"/>
+      <point x="58" y="998" type="line"/>
+      <point x="410" y="508" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="228" y="0" type="line"/>
+      <point x="509" y="396" type="line"/>
+      <point x="791" y="0" type="line"/>
+      <point x="977" y="0" type="line"/>
+      <point x="607" y="506" type="line"/>
+      <point x="968" y="998" type="line"/>
+      <point x="776" y="998" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>978</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>44</integer>
-	    <key>width</key>
-	    <integer>184</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>776</integer>
-	    <key>width</key>
-	    <integer>192</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>791</integer>
-	    <key>width</key>
-	    <integer>186</integer>
-	  </dict>
-	</array>
       </dict>
     </dict>
   </lib>

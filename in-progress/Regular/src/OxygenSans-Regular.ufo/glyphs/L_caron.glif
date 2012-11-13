@@ -3,43 +3,25 @@
   <advance width="979"/>
   <unicode hex="013D"/>
   <outline>
-    <component base="L"/>
-    <component base="afii57929" xOffset="1068.5" yOffset="-19"/>
+    <contour>
+      <point x="1189.5" y="984" type="line"/>
+      <point x="1295.5" y="984" type="line"/>
+      <point x="1417.5" y="1413" type="line"/>
+      <point x="1274.5" y="1413" type="line"/>
+    </contour>
+    <contour>
+      <point x="945.0" y="140" type="line"/>
+      <point x="357.0" y="140" type="line"/>
+      <point x="357.0" y="1390" type="line"/>
+      <point x="178.0" y="1390" type="line"/>
+      <point x="178.0" y="0" type="line"/>
+      <point x="938.0" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>140</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>984</integer>
-	    <key>width</key>	    <integer>429</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1370</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>178</integer>
-	    <key>width</key>
-	    <integer>179</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1190</integer>
-	    <key>width</key>
-	    <integer>228</integer>
-	  </dict>
-	</array>
       </dict>
     </dict>
   </lib>

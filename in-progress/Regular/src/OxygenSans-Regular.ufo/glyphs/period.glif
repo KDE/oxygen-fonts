@@ -5,39 +5,23 @@
   <outline>
     <contour>
       <point x="239" y="-11" type="curve" smooth="yes"/>
-      <point x="159" y="-11"/>
-      <point x="118" y="49"/>
-      <point x="118" y="109" type="curve" smooth="yes"/>
-      <point x="118" y="169"/>
-      <point x="158" y="229"/>
-      <point x="239" y="229" type="curve" smooth="yes"/>
-      <point x="320" y="229"/>
-      <point x="360" y="169"/>
-      <point x="360" y="109" type="curve" smooth="yes"/>
-      <point x="360" y="49"/>
       <point x="320" y="-11"/>
+      <point x="360" y="49"/>
+      <point x="360" y="109" type="curve" smooth="yes"/>
+      <point x="360" y="169"/>
+      <point x="320" y="229"/>
+      <point x="239" y="229" type="curve" smooth="yes"/>
+      <point x="158" y="229"/>
+      <point x="118" y="169"/>
+      <point x="118" y="109" type="curve" smooth="yes"/>
+      <point x="118" y="49"/>
+      <point x="159" y="-11"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-11</integer>
-	    <key>width</key>	    <integer>240</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>118</integer>
-	    <key>width</key>
-	    <integer>242</integer>
-	  </dict>
-	</array>
       </dict>
     </dict>
   </lib>

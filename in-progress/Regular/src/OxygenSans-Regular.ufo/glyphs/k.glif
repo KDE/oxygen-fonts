@@ -1,63 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="1">
-  <advance width="1046"/>
+  <advance width="1091"/>
   <unicode hex="006B"/>
   <outline>
     <contour>
-      <point x="154" y="1395" type="line"/>
-      <point x="329" y="1409" type="line"/>
-      <point x="329" y="512" type="line"/>
-      <point x="796" y="998" type="line"/>
-      <point x="1011" y="998" type="line"/>
-      <point x="565" y="532" type="line"/>
-      <point x="1018" y="0" type="line"/>
-      <point x="822" y="0" type="line"/>
-      <point x="440" y="446" type="line"/>
-      <point x="329" y="350" type="line"/>
-      <point x="329" y="0" type="line"/>
-      <point x="154" y="0" type="line"/>
+      <point x="185" y="1395" type="line"/>
+      <point x="185" y="0" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="360" y="363" type="line"/>
+      <point x="471" y="459" type="line"/>
+      <point x="853" y="0" type="line"/>
+      <point x="1049" y="0" type="line"/>
+      <point x="596" y="535" type="line"/>
+      <point x="1042" y="998" type="line"/>
+      <point x="827" y="998" type="line"/>
+      <point x="360" y="515" type="line"/>
+      <point x="360" y="1409" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>978</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1389</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>154</integer>
-	    <key>width</key>
-	    <integer>175</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>796</integer>
-	    <key>width</key>
-	    <integer>215</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>822</integer>
-	    <key>width</key>
-	    <integer>196</integer>
-	  </dict>
-	</array>
       </dict>
     </dict>
   </lib>

@@ -3,59 +3,31 @@
   <advance width="1046"/>
   <unicode hex="0137"/>
   <outline>
-    <component base="k"/>
-    <component base="uni0326" xOffset="410.5" yOffset="-5"/>
+    <contour>
+      <point x="467.5" y="-617" type="line"/>
+      <point x="574.5" y="-617" type="line"/>
+      <point x="704.5" y="-163" type="line"/>
+      <point x="553.5" y="-163" type="line"/>
+    </contour>
+    <contour>
+      <point x="154.0" y="1395" type="line"/>
+      <point x="154.0" y="0" type="line"/>
+      <point x="329.0" y="0" type="line"/>
+      <point x="329.0" y="350" type="line"/>
+      <point x="440.0" y="446" type="line"/>
+      <point x="822.0" y="0" type="line"/>
+      <point x="1018.0" y="0" type="line"/>
+      <point x="565.0" y="532" type="line"/>
+      <point x="1011.0" y="998" type="line"/>
+      <point x="796.0" y="998" type="line"/>
+      <point x="329.0" y="512" type="line"/>
+      <point x="329.0" y="1409" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-617</integer>
-	    <key>width</key>	    <integer>454</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>978</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1389</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>154</integer>
-	    <key>width</key>
-	    <integer>175</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>468</integer>
-	    <key>width</key>
-	    <integer>237</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>796</integer>
-	    <key>width</key>
-	    <integer>215</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>822</integer>
-	    <key>width</key>
-	    <integer>196</integer>
-	  </dict>
-	</array>
       </dict>
     </dict>
   </lib>

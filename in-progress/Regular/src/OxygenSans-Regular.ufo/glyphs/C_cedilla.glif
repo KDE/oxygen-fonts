@@ -3,43 +3,45 @@
   <advance width="1252"/>
   <unicode hex="00C7"/>
   <outline>
-    <component base="C"/>
-    <component base="cedilla" xOffset="508" yOffset="-20.0667"/>
+    <contour>
+      <point x="612" y="-393.06640625" type="line"/>
+      <point x="752" y="-393.06640625" type="line"/>
+      <point x="792" y="-5.06640625" type="line"/>
+      <point x="714" y="-5.06640625" type="line"/>
+    </contour>
+    <contour>
+      <point x="743" y="-18.0" type="curve" smooth="yes"/>
+      <point x="914" y="-18.0"/>
+      <point x="1066" y="28.0"/>
+      <point x="1131" y="68.0" type="curve"/>
+      <point x="1105" y="196.0" type="line"/>
+      <point x="1006" y="149.0"/>
+      <point x="896" y="120.0"/>
+      <point x="779" y="120.0" type="curve" smooth="yes"/>
+      <point x="441" y="120.0"/>
+      <point x="275" y="401.0"/>
+      <point x="275" y="719.0" type="curve" smooth="yes"/>
+      <point x="275" y="1038.0"/>
+      <point x="446" y="1275.0"/>
+      <point x="763" y="1275.0" type="curve" smooth="yes"/>
+      <point x="885" y="1275.0"/>
+      <point x="1006" y="1243.0"/>
+      <point x="1097" y="1189.0" type="curve"/>
+      <point x="1151" y="1313.0" type="line"/>
+      <point x="1050" y="1377.0"/>
+      <point x="923" y="1413.0"/>
+      <point x="761" y="1413.0" type="curve" smooth="yes"/>
+      <point x="349" y="1413.0"/>
+      <point x="103" y="1130.0"/>
+      <point x="103" y="725.0" type="curve" smooth="yes"/>
+      <point x="103" y="310.0"/>
+      <point x="349" y="-12.0"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-393</integer>
-	    <key>width</key>	    <integer>388</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>-18</integer>
-	    <key>width</key>	    <integer>138</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1275</integer>
-	    <key>width</key>	    <integer>138</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>103</integer>
-	    <key>width</key>
-	    <integer>172</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>612</integer>
-	    <key>width</key>
-	    <integer>180</integer>
-	  </dict>
-	</array>
       </dict>
     </dict>
   </lib>

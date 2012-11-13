@@ -3,57 +3,44 @@
   <advance width="1283"/>
   <unicode hex="01DE"/>
   <outline>
-    <component base="Adieresis"/>
-    <component base="macron" xOffset="156.5" yOffset="580"/>
+    <contour>
+      <point x="337.5" y="1932" type="line"/>
+      <point x="945.5" y="1932" type="line"/>
+      <point x="945.5" y="2059" type="line"/>
+      <point x="337.5" y="2059" type="line"/>
+    </contour>
+    <contour>
+      <point x="748.5" y="1576" type="line"/>
+      <point x="889.5" y="1576" type="line"/>
+      <point x="889.5" y="1769" type="line"/>
+      <point x="748.5" y="1769" type="line"/>
+    </contour>
+    <contour>
+      <point x="393.5" y="1576" type="line"/>
+      <point x="534.5" y="1576" type="line"/>
+      <point x="534.5" y="1769" type="line"/>
+      <point x="393.5" y="1769" type="line"/>
+    </contour>
+    <contour>
+      <point x="37.0" y="0" type="line"/>
+      <point x="215.0" y="0" type="line"/>
+      <point x="375.0" y="430" type="line"/>
+      <point x="919.0" y="430" type="line"/>
+      <point x="1078.0" y="0" type="line"/>
+      <point x="1246.0" y="0" type="line"/>
+      <point x="743.0" y="1390" type="line"/>
+      <point x="541.0" y="1390" type="line"/>
+    </contour>
+    <contour>
+      <point x="426.0" y="561" type="line"/>
+      <point x="641.0" y="1223" type="line"/>
+      <point x="870.0" y="561" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>430</integer>
-	    <key>width</key>	    <integer>131</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1370</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1576</integer>
-	    <key>width</key>	    <integer>193</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1932</integer>
-	    <key>width</key>	    <integer>127</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>338</integer>
-	    <key>width</key>
-	    <integer>608</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>394</integer>
-	    <key>width</key>
-	    <integer>141</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>748</integer>
-	    <key>width</key>
-	    <integer>141</integer>
-	  </dict>
-	</array>
       </dict>
     </dict>
   </lib>
