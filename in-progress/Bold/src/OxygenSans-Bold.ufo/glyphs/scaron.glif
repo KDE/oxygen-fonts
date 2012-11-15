@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scaron" format="1">
-  <advance width="987"/>
+  <advance width="903"/>
   <unicode hex="0161"/>
   <outline>
     <component base="caron" xOffset="107" yOffset="128"/>
+    <component base="caron" xOffset="106" yOffset="128"/>
+    <component base="caron" xOffset="105" yOffset="128"/>
+    <component base="caron" xOffset="104" yOffset="128"/>
+    <component base="caron" xOffset="103" yOffset="128"/>
+    <component base="caron" xOffset="102" yOffset="128"/>
+    <component base="caron" xOffset="101" yOffset="128"/>
+    <component base="caron" xOffset="100" yOffset="128"/>
+    <component base="caron" xOffset="99" yOffset="128"/>
+    <component base="caron" xOffset="98" yOffset="128"/>
+    <component base="caron" xOffset="97" yOffset="128"/>
+    <component base="caron" xOffset="96" yOffset="128"/>
+    <component base="caron" xOffset="95" yOffset="128"/>
+    <component base="s"/>
+    <component base="s"/>
+    <component base="s"/>
+    <component base="s"/>
+    <component base="s"/>
+    <component base="s"/>
+    <component base="s"/>
+    <component base="s"/>
+    <component base="s"/>
+    <component base="s"/>
+    <component base="s"/>
+    <component base="s"/>
     <component base="s"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

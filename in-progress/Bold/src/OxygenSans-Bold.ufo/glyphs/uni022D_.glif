@@ -4,6 +4,15 @@
   <unicode hex="022D"/>
   <outline>
     <component base="macron" xOffset="130.5" yOffset="370"/>
+    <component base="macron" xOffset="130.5" yOffset="370"/>
+    <component base="otilde"/>
     <component base="otilde"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

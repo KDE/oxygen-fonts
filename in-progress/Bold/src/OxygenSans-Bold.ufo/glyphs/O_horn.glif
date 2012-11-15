@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ohorn" format="1">
-  <advance width="1534"/>
+  <advance width="1520"/>
   <unicode hex="01A0"/>
   <outline>
     <component base="O"/>
-    <component base="horncmb" xOffset="1376" yOffset="875"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="uni031B" xOffset="1380.5" yOffset="875"/>
+    <component base="uni031B" xOffset="1379.5" yOffset="875"/>
+    <component base="uni031B" xOffset="1385.5" yOffset="875"/>
+    <component base="uni031B" xOffset="1376" yOffset="875"/>
+    <component base="uni031B" xOffset="1384.5" yOffset="875"/>
+    <component base="uni031B" xOffset="1378.5" yOffset="875"/>
+    <component base="uni031B" xOffset="1383.5" yOffset="875"/>
+    <component base="uni031B" xOffset="1375.5" yOffset="875"/>
+    <component base="uni031B" xOffset="1382.5" yOffset="875"/>
+    <component base="uni031B" xOffset="1377.5" yOffset="875"/>
+    <component base="uni031B" xOffset="1381.5" yOffset="875"/>
+    <component base="uni031B" xOffset="1374.5" yOffset="875"/>
+    <component base="uni031B" xOffset="1376.5" yOffset="875"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

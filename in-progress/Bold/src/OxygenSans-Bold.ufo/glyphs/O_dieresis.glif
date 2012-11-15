@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Odieresis" format="1">
-  <advance width="1534"/>
+  <advance width="1520"/>
   <unicode hex="00D6"/>
   <outline>
     <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="dieresis" xOffset="425.5" yOffset="326"/>
+    <component base="dieresis" xOffset="424.5" yOffset="326"/>
+    <component base="dieresis" xOffset="430.5" yOffset="326"/>
     <component base="dieresis" xOffset="421" yOffset="326"/>
+    <component base="dieresis" xOffset="429.5" yOffset="326"/>
+    <component base="dieresis" xOffset="423.5" yOffset="326"/>
+    <component base="dieresis" xOffset="428.5" yOffset="326"/>
+    <component base="dieresis" xOffset="420.5" yOffset="326"/>
+    <component base="dieresis" xOffset="427.5" yOffset="326"/>
+    <component base="dieresis" xOffset="422.5" yOffset="326"/>
+    <component base="dieresis" xOffset="426.5" yOffset="326"/>
+    <component base="dieresis" xOffset="419.5" yOffset="326"/>
+    <component base="dieresis" xOffset="421.5" yOffset="326"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

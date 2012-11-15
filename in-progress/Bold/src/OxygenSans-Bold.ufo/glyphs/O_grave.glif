@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ograve" format="1">
-  <advance width="1534"/>
+  <advance width="1520"/>
   <unicode hex="00D2"/>
   <outline>
     <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="grave" xOffset="555" yOffset="326"/>
+    <component base="grave" xOffset="554" yOffset="326"/>
+    <component base="grave" xOffset="560" yOffset="326"/>
     <component base="grave" xOffset="550.5" yOffset="326"/>
+    <component base="grave" xOffset="559" yOffset="326"/>
+    <component base="grave" xOffset="553" yOffset="326"/>
+    <component base="grave" xOffset="558" yOffset="326"/>
+    <component base="grave" xOffset="550" yOffset="326"/>
+    <component base="grave" xOffset="557" yOffset="326"/>
+    <component base="grave" xOffset="552" yOffset="326"/>
+    <component base="grave" xOffset="556" yOffset="326"/>
+    <component base="grave" xOffset="549" yOffset="326"/>
+    <component base="grave" xOffset="551" yOffset="326"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

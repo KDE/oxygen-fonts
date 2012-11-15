@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="comma" format="1">
-  <advance width="443"/>
+  <advance width="528"/>
   <unicode hex="002C"/>
   <outline>
     <contour>
-      <point x="226" y="-233" type="line"/>
-      <point x="49" y="-233" type="line"/>
-      <point x="137" y="245" type="line"/>
-      <point x="374" y="245" type="line"/>
-      <point x="369" y="190" type="line"/>
+      <point x="310" y="-233" type="line"/>
+      <point x="133" y="-233" type="line"/>
+      <point x="221" y="245" type="line"/>
+      <point x="458" y="245" type="line"/>
+      <point x="453" y="190" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

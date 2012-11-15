@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zcaron" format="1">
-  <advance width="1109"/>
+  <advance width="1098"/>
   <unicode hex="017D"/>
   <outline>
     <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="caron" xOffset="181" yOffset="326"/>
+    <component base="caron" xOffset="180" yOffset="326"/>
+    <component base="caron" xOffset="186" yOffset="326"/>
     <component base="caron" xOffset="188" yOffset="326"/>
+    <component base="caron" xOffset="185" yOffset="326"/>
+    <component base="caron" xOffset="179" yOffset="326"/>
+    <component base="caron" xOffset="184" yOffset="326"/>
+    <component base="caron" xOffset="176" yOffset="326"/>
+    <component base="caron" xOffset="183" yOffset="326"/>
+    <component base="caron" xOffset="178" yOffset="326"/>
+    <component base="caron" xOffset="182" yOffset="326"/>
+    <component base="caron" xOffset="187" yOffset="326"/>
+    <component base="caron" xOffset="177" yOffset="326"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecaron" format="1">
-  <advance width="1113"/>
+  <advance width="1030"/>
   <unicode hex="011B"/>
   <outline>
     <component base="caron" xOffset="188.5" yOffset="128"/>
+    <component base="caron" xOffset="165.5" yOffset="128"/>
+    <component base="caron" xOffset="176.5" yOffset="128"/>
+    <component base="caron" xOffset="155.5" yOffset="128"/>
+    <component base="caron" xOffset="186.5" yOffset="128"/>
+    <component base="caron" xOffset="155.5" yOffset="128"/>
+    <component base="caron" xOffset="166.5" yOffset="128"/>
+    <component base="caron" xOffset="187.5" yOffset="128"/>
+    <component base="e"/>
+    <component base="e"/>
+    <component base="e"/>
+    <component base="e"/>
+    <component base="e"/>
+    <component base="e"/>
+    <component base="e"/>
     <component base="e"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

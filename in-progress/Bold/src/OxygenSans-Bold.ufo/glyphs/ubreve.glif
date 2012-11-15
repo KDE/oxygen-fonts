@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ubreve" format="1">
-  <advance width="1146"/>
+  <advance width="1134"/>
   <unicode hex="016D"/>
   <outline>
     <component base="breve" xOffset="232" yOffset="102"/>
+    <component base="breve" xOffset="231" yOffset="102"/>
+    <component base="breve" xOffset="230" yOffset="102"/>
+    <component base="breve" xOffset="229" yOffset="102"/>
+    <component base="breve" xOffset="228" yOffset="102"/>
+    <component base="breve" xOffset="227" yOffset="102"/>
+    <component base="breve" xOffset="227" yOffset="102"/>
+    <component base="u"/>
+    <component base="u"/>
+    <component base="u"/>
+    <component base="u"/>
+    <component base="u"/>
+    <component base="u"/>
     <component base="u"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

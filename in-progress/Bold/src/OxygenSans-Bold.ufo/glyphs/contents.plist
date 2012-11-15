@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
+<dict>
 	<key>.notdef</key>
 	<string>_notdef.glif</string>
 	<key>A</key>
@@ -252,6 +252,8 @@
 	<string>T_au.glif</string>
 	<key>Tcaron</key>
 	<string>T_caron.glif</string>
+	<key>Tcommaaccent</key>
+	<string>T_commaaccent.glif</string>
 	<key>Theta</key>
 	<string>T_heta.glif</string>
 	<key>Thorn</key>
@@ -688,8 +690,6 @@
 	<string>hbar.glif</string>
 	<key>hcircumflex</key>
 	<string>hcircumflex.glif</string>
-	<key>horncmb</key>
-	<string>horncmb.glif</string>
 	<key>hungarumlaut</key>
 	<string>hungarumlaut.glif</string>
 	<key>hyphen</key>
@@ -732,6 +732,8 @@
 	<string>kappa.glif</string>
 	<key>kcommaaccent</key>
 	<string>kcommaaccent.glif</string>
+	<key>kgreenlandic</key>
+	<string>kgreenlandic.glif</string>
 	<key>l</key>
 	<string>l.glif</string>
 	<key>lacute</key>
@@ -914,8 +916,12 @@
 	<string>tau.glif</string>
 	<key>tcaron</key>
 	<string>tcaron.glif</string>
+	<key>tcommaaccent</key>
+	<string>tcommaaccent.glif</string>
 	<key>theta</key>
 	<string>theta.glif</string>
+	<key>thorn</key>
+	<string>thorn.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
 	<key>threequarters</key>
@@ -1140,6 +1146,8 @@
 	<string>uni030F_.glif</string>
 	<key>uni0311</key>
 	<string>uni0311.glif</string>
+	<key>uni031B</key>
+	<string>uni031B_.glif</string>
 	<key>uni0326</key>
 	<string>uni0326.glif</string>
 	<key>uni0400</key>
@@ -1246,13 +1254,5 @@
 	<string>zero.glif</string>
 	<key>zeta</key>
 	<string>zeta.glif</string>
-	<key>Tcommaaccent</key>
-	<string>T_commaaccent.glif</string>
-	<key>kgreenlandic</key>
-	<string>kgreenlandic.glif</string>
-	<key>thorn</key>
-	<string>thorn.glif</string>
-	<key>tcommaaccent</key>
-	<string>tcommaaccent.glif</string>
-    </dict>
+</dict>
 </plist>

@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Acircumflex" format="1">
-  <advance width="1359"/>
+  <advance width="1273"/>
   <unicode hex="00C2"/>
   <outline>
     <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="circumflex" xOffset="278.5" yOffset="326"/>
+    <component base="circumflex" xOffset="277.5" yOffset="326"/>
+    <component base="circumflex" xOffset="283.5" yOffset="326"/>
     <component base="circumflex" xOffset="312.5" yOffset="326"/>
+    <component base="circumflex" xOffset="282.5" yOffset="326"/>
+    <component base="circumflex" xOffset="276.5" yOffset="326"/>
+    <component base="circumflex" xOffset="281.5" yOffset="326"/>
+    <component base="circumflex" xOffset="273.5" yOffset="326"/>
+    <component base="circumflex" xOffset="280.5" yOffset="326"/>
+    <component base="circumflex" xOffset="275.5" yOffset="326"/>
+    <component base="circumflex" xOffset="279.5" yOffset="326"/>
+    <component base="circumflex" xOffset="284.5" yOffset="326"/>
+    <component base="circumflex" xOffset="274.5" yOffset="326"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

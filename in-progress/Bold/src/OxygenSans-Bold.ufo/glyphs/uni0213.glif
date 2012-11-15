@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0213" format="1">
-  <advance width="736"/>
+  <advance width="733"/>
   <unicode hex="0213"/>
   <outline>
     <component base="r"/>
+    <component base="r"/>
+    <component base="r"/>
+    <component base="r"/>
+    <component base="r"/>
     <component base="uni0311" xOffset="112.5" yOffset="92"/>
+    <component base="uni0311" xOffset="109.5" yOffset="92"/>
+    <component base="uni0311" xOffset="110.5" yOffset="92"/>
+    <component base="uni0311" xOffset="111.5" yOffset="92"/>
+    <component base="uni0311" xOffset="109.5" yOffset="92"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

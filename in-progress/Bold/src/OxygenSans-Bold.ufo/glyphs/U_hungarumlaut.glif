@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uhungarumlaut" format="1">
-  <advance width="1380"/>
+  <advance width="1358"/>
   <unicode hex="0170"/>
   <outline>
     <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="hungarumlaut" xOffset="190" yOffset="326"/>
+    <component base="hungarumlaut" xOffset="189" yOffset="326"/>
+    <component base="hungarumlaut" xOffset="195" yOffset="326"/>
     <component base="hungarumlaut" xOffset="197" yOffset="326"/>
+    <component base="hungarumlaut" xOffset="194" yOffset="326"/>
+    <component base="hungarumlaut" xOffset="188" yOffset="326"/>
+    <component base="hungarumlaut" xOffset="193" yOffset="326"/>
+    <component base="hungarumlaut" xOffset="186" yOffset="326"/>
+    <component base="hungarumlaut" xOffset="192" yOffset="326"/>
+    <component base="hungarumlaut" xOffset="187" yOffset="326"/>
+    <component base="hungarumlaut" xOffset="191" yOffset="326"/>
+    <component base="hungarumlaut" xOffset="196" yOffset="326"/>
+    <component base="hungarumlaut" xOffset="186" yOffset="326"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

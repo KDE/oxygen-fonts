@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Cdotaccent" format="1">
-  <advance width="1222"/>
+  <advance width="1176"/>
   <unicode hex="010A"/>
   <outline>
     <component base="C"/>
+    <component base="C"/>
+    <component base="C"/>
+    <component base="C"/>
+    <component base="C"/>
     <component base="uni0307" xOffset="384" yOffset="326"/>
+    <component base="uni0307" xOffset="354" yOffset="326"/>
+    <component base="uni0307" xOffset="364" yOffset="326"/>
+    <component base="uni0307" xOffset="374" yOffset="326"/>
+    <component base="uni0307" xOffset="354" yOffset="326"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

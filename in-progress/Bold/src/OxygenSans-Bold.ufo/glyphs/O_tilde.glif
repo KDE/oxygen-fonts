@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Otilde" format="1">
-  <advance width="1534"/>
+  <advance width="1520"/>
   <unicode hex="00D5"/>
   <outline>
     <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="O"/>
+    <component base="tilde" xOffset="422.5" yOffset="326"/>
+    <component base="tilde" xOffset="421.5" yOffset="326"/>
+    <component base="tilde" xOffset="427.5" yOffset="326"/>
     <component base="tilde" xOffset="418" yOffset="326"/>
+    <component base="tilde" xOffset="426.5" yOffset="326"/>
+    <component base="tilde" xOffset="420.5" yOffset="326"/>
+    <component base="tilde" xOffset="425.5" yOffset="326"/>
+    <component base="tilde" xOffset="417.5" yOffset="326"/>
+    <component base="tilde" xOffset="424.5" yOffset="326"/>
+    <component base="tilde" xOffset="419.5" yOffset="326"/>
+    <component base="tilde" xOffset="423.5" yOffset="326"/>
+    <component base="tilde" xOffset="416.5" yOffset="326"/>
+    <component base="tilde" xOffset="418.5" yOffset="326"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

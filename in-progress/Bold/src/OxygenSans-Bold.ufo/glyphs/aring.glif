@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aring" format="1">
-  <advance width="1072"/>
+  <advance width="1075"/>
   <unicode hex="00E5"/>
   <outline>
     <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="ring" xOffset="244"/>
+    <component base="ring" xOffset="245"/>
+    <component base="ring" xOffset="249"/>
     <component base="ring" xOffset="251"/>
+    <component base="ring" xOffset="248"/>
+    <component base="ring" xOffset="244"/>
+    <component base="ring" xOffset="247"/>
+    <component base="ring" xOffset="243"/>
+    <component base="ring" xOffset="246"/>
+    <component base="ring" xOffset="245"/>
+    <component base="ring" xOffset="245"/>
+    <component base="ring" xOffset="250"/>
+    <component base="ring" xOffset="244"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aacute" format="1">
-  <advance width="1359"/>
+  <advance width="1273"/>
   <unicode hex="00C1"/>
   <outline>
     <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="A"/>
+    <component base="acute" xOffset="254" yOffset="326"/>
+    <component base="acute" xOffset="253" yOffset="326"/>
+    <component base="acute" xOffset="259" yOffset="326"/>
     <component base="acute" xOffset="288" yOffset="326"/>
+    <component base="acute" xOffset="258" yOffset="326"/>
+    <component base="acute" xOffset="252" yOffset="326"/>
+    <component base="acute" xOffset="257" yOffset="326"/>
+    <component base="acute" xOffset="249" yOffset="326"/>
+    <component base="acute" xOffset="256" yOffset="326"/>
+    <component base="acute" xOffset="251" yOffset="326"/>
+    <component base="acute" xOffset="255" yOffset="326"/>
+    <component base="acute" xOffset="260" yOffset="326"/>
+    <component base="acute" xOffset="250" yOffset="326"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

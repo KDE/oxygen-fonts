@@ -3,7 +3,16 @@
   <advance width="1112"/>
   <unicode hex="01A1"/>
   <outline>
-    <component base="horncmb" xOffset="994.5" yOffset="557"/>
     <component base="o"/>
+    <component base="o"/>
+    <component base="uni031B" xOffset="994.5" yOffset="557"/>
+    <component base="uni031B" xOffset="994.5" yOffset="557"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

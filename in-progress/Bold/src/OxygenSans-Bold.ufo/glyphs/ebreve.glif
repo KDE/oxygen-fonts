@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ebreve" format="1">
-  <advance width="1113"/>
+  <advance width="1030"/>
   <unicode hex="0115"/>
   <outline>
     <component base="breve" xOffset="237.5" yOffset="102"/>
+    <component base="breve" xOffset="214.5" yOffset="102"/>
+    <component base="breve" xOffset="225.5" yOffset="102"/>
+    <component base="breve" xOffset="204.5" yOffset="102"/>
+    <component base="breve" xOffset="235.5" yOffset="102"/>
+    <component base="breve" xOffset="204.5" yOffset="102"/>
+    <component base="breve" xOffset="215.5" yOffset="102"/>
+    <component base="breve" xOffset="236.5" yOffset="102"/>
+    <component base="e"/>
+    <component base="e"/>
+    <component base="e"/>
+    <component base="e"/>
+    <component base="e"/>
+    <component base="e"/>
+    <component base="e"/>
     <component base="e"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

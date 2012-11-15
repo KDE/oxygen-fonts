@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uring" format="1">
-  <advance width="1146"/>
+  <advance width="1134"/>
   <unicode hex="016F"/>
   <outline>
     <component base="ring" xOffset="252" yOffset="165"/>
+    <component base="ring" xOffset="251" yOffset="165"/>
+    <component base="ring" xOffset="250" yOffset="165"/>
+    <component base="ring" xOffset="249" yOffset="165"/>
+    <component base="ring" xOffset="248" yOffset="165"/>
+    <component base="ring" xOffset="247" yOffset="165"/>
+    <component base="ring" xOffset="247" yOffset="165"/>
+    <component base="u"/>
+    <component base="u"/>
+    <component base="u"/>
+    <component base="u"/>
+    <component base="u"/>
+    <component base="u"/>
     <component base="u"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

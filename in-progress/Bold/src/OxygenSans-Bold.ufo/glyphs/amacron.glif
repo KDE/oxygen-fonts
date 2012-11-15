@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="amacron" format="1">
-  <advance width="1072"/>
+  <advance width="1075"/>
   <unicode hex="0101"/>
   <outline>
     <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="macron" xOffset="127.5"/>
+    <component base="macron" xOffset="128.5"/>
+    <component base="macron" xOffset="132.5"/>
     <component base="macron" xOffset="134.5"/>
+    <component base="macron" xOffset="131.5"/>
+    <component base="macron" xOffset="127.5"/>
+    <component base="macron" xOffset="130.5"/>
+    <component base="macron" xOffset="126.5"/>
+    <component base="macron" xOffset="129.5"/>
+    <component base="macron" xOffset="128.5"/>
+    <component base="macron" xOffset="128.5"/>
+    <component base="macron" xOffset="133.5"/>
+    <component base="macron" xOffset="127.5"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

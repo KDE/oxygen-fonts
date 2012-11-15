@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="atilde" format="1">
-  <advance width="1072"/>
+  <advance width="1075"/>
   <unicode hex="00E3"/>
   <outline>
     <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="a"/>
+    <component base="tilde" xOffset="190.5"/>
+    <component base="tilde" xOffset="191.5"/>
+    <component base="tilde" xOffset="195.5"/>
     <component base="tilde" xOffset="197.5"/>
+    <component base="tilde" xOffset="194.5"/>
+    <component base="tilde" xOffset="190.5"/>
+    <component base="tilde" xOffset="193.5"/>
+    <component base="tilde" xOffset="189.5"/>
+    <component base="tilde" xOffset="192.5"/>
+    <component base="tilde" xOffset="191.5"/>
+    <component base="tilde" xOffset="191.5"/>
+    <component base="tilde" xOffset="196.5"/>
+    <component base="tilde" xOffset="190.5"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

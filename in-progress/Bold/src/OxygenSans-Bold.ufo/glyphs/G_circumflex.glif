@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcircumflex" format="1">
-  <advance width="1347"/>
+  <advance width="1309"/>
   <unicode hex="011C"/>
   <outline>
     <component base="G"/>
+    <component base="G"/>
+    <component base="G"/>
+    <component base="G"/>
+    <component base="G"/>
+    <component base="G"/>
+    <component base="G"/>
+    <component base="G"/>
+    <component base="circumflex" xOffset="307.5" yOffset="326"/>
+    <component base="circumflex" xOffset="319.5" yOffset="326"/>
+    <component base="circumflex" xOffset="318.5" yOffset="326"/>
+    <component base="circumflex" xOffset="317.5" yOffset="326"/>
+    <component base="circumflex" xOffset="320.5" yOffset="326"/>
+    <component base="circumflex" xOffset="297.5" yOffset="326"/>
+    <component base="circumflex" xOffset="297.5" yOffset="326"/>
     <component base="circumflex" xOffset="321.5" yOffset="326"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

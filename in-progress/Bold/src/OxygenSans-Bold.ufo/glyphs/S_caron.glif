@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scaron" format="1">
-  <advance width="1141"/>
+  <advance width="1118"/>
   <unicode hex="0160"/>
   <outline>
     <component base="S"/>
+    <component base="S"/>
+    <component base="S"/>
+    <component base="S"/>
+    <component base="S"/>
+    <component base="S"/>
+    <component base="S"/>
+    <component base="S"/>
+    <component base="S"/>
+    <component base="S"/>
+    <component base="S"/>
+    <component base="S"/>
+    <component base="S"/>
+    <component base="caron" xOffset="196" yOffset="326"/>
+    <component base="caron" xOffset="195" yOffset="326"/>
+    <component base="caron" xOffset="201" yOffset="326"/>
     <component base="caron" xOffset="203" yOffset="326"/>
+    <component base="caron" xOffset="200" yOffset="326"/>
+    <component base="caron" xOffset="194" yOffset="326"/>
+    <component base="caron" xOffset="199" yOffset="326"/>
+    <component base="caron" xOffset="191" yOffset="326"/>
+    <component base="caron" xOffset="198" yOffset="326"/>
+    <component base="caron" xOffset="193" yOffset="326"/>
+    <component base="caron" xOffset="197" yOffset="326"/>
+    <component base="caron" xOffset="202" yOffset="326"/>
+    <component base="caron" xOffset="192" yOffset="326"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

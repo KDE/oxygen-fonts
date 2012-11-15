@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="edieresis" format="1">
-  <advance width="1113"/>
+  <advance width="1030"/>
   <unicode hex="00EB"/>
   <outline>
     <component base="dieresis" xOffset="207" yOffset="85"/>
+    <component base="dieresis" xOffset="184" yOffset="85"/>
+    <component base="dieresis" xOffset="195" yOffset="85"/>
+    <component base="dieresis" xOffset="174" yOffset="85"/>
+    <component base="dieresis" xOffset="205" yOffset="85"/>
+    <component base="dieresis" xOffset="174" yOffset="85"/>
+    <component base="dieresis" xOffset="185" yOffset="85"/>
+    <component base="dieresis" xOffset="206" yOffset="85"/>
+    <component base="e"/>
+    <component base="e"/>
+    <component base="e"/>
+    <component base="e"/>
+    <component base="e"/>
+    <component base="e"/>
+    <component base="e"/>
     <component base="e"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

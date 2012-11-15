@@ -1,9 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idieresis" format="1">
-  <advance width="626"/>
+  <advance width="576"/>
   <unicode hex="00CF"/>
   <outline>
     <component base="I"/>
+    <component base="I"/>
+    <component base="I"/>
+    <component base="I"/>
+    <component base="I"/>
+    <component base="I"/>
+    <component base="I"/>
+    <component base="I"/>
+    <component base="I"/>
+    <component base="dieresis" xOffset="-39.5" yOffset="320"/>
+    <component base="dieresis" xOffset="-49.5" yOffset="320"/>
+    <component base="dieresis" xOffset="-36.5" yOffset="320"/>
+    <component base="dieresis" xOffset="-35.5" yOffset="320"/>
+    <component base="dieresis" xOffset="-37.5" yOffset="320"/>
+    <component base="dieresis" xOffset="-59.5" yOffset="320"/>
+    <component base="dieresis" xOffset="-38.5" yOffset="320"/>
     <component base="dieresis" xOffset="-34.5" yOffset="320"/>
+    <component base="dieresis" xOffset="-59.5" yOffset="320"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

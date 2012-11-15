@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uogonek" format="1">
-  <advance width="1380"/>
+  <advance width="1358"/>
   <unicode hex="0172"/>
   <outline>
     <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="U"/>
+    <component base="ogonek" xOffset="763"/>
+    <component base="ogonek" xOffset="762"/>
+    <component base="ogonek" xOffset="768"/>
     <component base="ogonek" xOffset="770"/>
+    <component base="ogonek" xOffset="767"/>
+    <component base="ogonek" xOffset="761"/>
+    <component base="ogonek" xOffset="766"/>
+    <component base="ogonek" xOffset="759"/>
+    <component base="ogonek" xOffset="765"/>
+    <component base="ogonek" xOffset="760"/>
+    <component base="ogonek" xOffset="764"/>
+    <component base="ogonek" xOffset="769"/>
+    <component base="ogonek" xOffset="759"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

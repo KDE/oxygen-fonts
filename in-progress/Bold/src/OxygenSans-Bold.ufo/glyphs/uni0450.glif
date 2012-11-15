@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0450" format="1">
-  <advance width="1113"/>
+  <advance width="1030"/>
   <unicode hex="0450"/>
   <outline>
     <component base="afii10070"/>
+    <component base="afii10070"/>
+    <component base="afii10070"/>
+    <component base="afii10070"/>
+    <component base="afii10070"/>
+    <component base="afii10070"/>
+    <component base="afii10070"/>
+    <component base="afii10070"/>
+    <component base="grave" xOffset="307"/>
+    <component base="grave" xOffset="328"/>
+    <component base="grave" xOffset="318"/>
+    <component base="grave" xOffset="308"/>
+    <component base="grave" xOffset="329"/>
+    <component base="grave" xOffset="297"/>
+    <component base="grave" xOffset="297"/>
     <component base="grave" xOffset="330"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zdotaccent" format="1">
-  <advance width="1109"/>
+  <advance width="1098"/>
   <unicode hex="017B"/>
   <outline>
     <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="Z"/>
+    <component base="uni0307" xOffset="313" yOffset="326"/>
+    <component base="uni0307" xOffset="312" yOffset="326"/>
+    <component base="uni0307" xOffset="318" yOffset="326"/>
     <component base="uni0307" xOffset="320" yOffset="326"/>
+    <component base="uni0307" xOffset="317" yOffset="326"/>
+    <component base="uni0307" xOffset="311" yOffset="326"/>
+    <component base="uni0307" xOffset="316" yOffset="326"/>
+    <component base="uni0307" xOffset="308" yOffset="326"/>
+    <component base="uni0307" xOffset="315" yOffset="326"/>
+    <component base="uni0307" xOffset="310" yOffset="326"/>
+    <component base="uni0307" xOffset="314" yOffset="326"/>
+    <component base="uni0307" xOffset="319" yOffset="326"/>
+    <component base="uni0307" xOffset="309" yOffset="326"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
