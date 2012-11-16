@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccedilla" format="1">
+  <advance width="1306"/>
+  <unicode hex="00C7"/>
+  <outline>
+    <contour>
+      <point x="520" y="-393.694335938" type="line"/>
+      <point x="622" y="-5.6943359375" type="line"/>
+      <point x="700" y="-5.6943359375" type="line"/>
+      <point x="660" y="-393.694335938" type="line"/>
+    </contour>
+    <contour>
+      <point x="777" y="-18.0" type="curve" smooth="yes"/>
+      <point x="361" y="-2.0"/>
+      <point x="137" y="310.0"/>
+      <point x="137" y="725.0" type="curve" smooth="yes"/>
+      <point x="137" y="1130.0"/>
+      <point x="383" y="1413.0"/>
+      <point x="795" y="1413.0" type="curve" smooth="yes"/>
+      <point x="957" y="1413.0"/>
+      <point x="1084" y="1377.0"/>
+      <point x="1185" y="1313.0" type="curve"/>
+      <point x="1131" y="1189.0" type="line"/>
+      <point x="1040" y="1243.0"/>
+      <point x="919" y="1275.0"/>
+      <point x="797" y="1275.0" type="curve" smooth="yes"/>
+      <point x="480" y="1275.0"/>
+      <point x="309" y="1038.0"/>
+      <point x="309" y="719.0" type="curve" smooth="yes"/>
+      <point x="309" y="401.0"/>
+      <point x="448" y="129.0"/>
+      <point x="813" y="120.0" type="curve" smooth="yes"/>
+      <point x="930" y="117.0"/>
+      <point x="1040" y="149.0"/>
+      <point x="1139" y="196.0" type="curve"/>
+      <point x="1165" y="68.0" type="line"/>
+      <point x="1100" y="28.0"/>
+      <point x="948" y="-25.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
