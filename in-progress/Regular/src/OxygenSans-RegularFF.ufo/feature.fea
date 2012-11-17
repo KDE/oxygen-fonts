@@ -1,0 +1,89 @@
+
+@GDEF_Simple = [\A \AE \AEacute \Aacute \Abreve \Acircumflex \Adieresis \Agrave 
+	\Alpha \Alphatonos \Amacron \Aogonek \Aring \Aringacute \Atilde \B \Beta \C 
+	\Cacute \Ccaron \Ccedilla \Ccircumflex \Cdotaccent \Chi \D \Dcaron \Dcroat \Delta 
+	\E \Eacute \Ebreve \Ecaron \Ecircumflex \Edieresis \Edotaccent \Egrave \Emacron 
+	\Eng \Eogonek \Epsilon \Epsilontonos \Eta \Etatonos \Eth \Euro \F \G \Gamma \Gbreve 
+	\Gcaron \Gcircumflex \Gcommaaccent \Gdotaccent \H \Hbar \Hcircumflex \I \IJ 
+	\Iacute \Ibreve \Icircumflex \Idieresis \Idotaccent \Igrave \Imacron \Iogonek 
+	\Iota \Iotadieresis \Iotatonos \Itilde \J \Jcircumflex \K \Kappa \Kcommaaccent \L 
+	\Lacute \Lambda \Lcaron \Lcommaaccent \Ldot \Lslash \M \Mu \N \Nacute \Ncaron 
+	\Ncommaaccent \Ntilde \Nu \O \OE \Oacute \Obreve \Ocircumflex \Odieresis \Ograve 
+	\Ohorn \Ohungarumlaut \Omacron \Omega \Omegatonos \Omicron \Omicrontonos 
+	\Oslash \Oslashacute \Otilde \P \Phi \Pi \Psi \Q \R \Racute \Rcaron \Rcommaaccent 
+	\Rho \S \Sacute \Scaron \Scedilla \Scircumflex \Scommaaccent \Sigma \T \Tau \Tbar 
+	\Tcaron \Tcommaaccent \Theta \Thorn \U \Uacute \Ubreve \Ucircumflex \Udieresis 
+	\Ugrave \Uhorn \Uhungarumlaut \Umacron \Uogonek \Upsilon \Upsilondieresis 
+	\Upsilontonos \Uring \Utilde \V \W \Wacute \Wcircumflex \Wdieresis \Wgrave \X \Xi 
+	\Y \Yacute \Ycircumflex \Ydieresis \Ygrave \Z \Zacute \Zcaron \Zdotaccent \Zeta \a 
+	\aacute \abreve \acircumflex \acute \adieresis \ae \aeacute \afii10017 
+	\afii10018 \afii10019 \afii10020 \afii10021 \afii10022 \afii10023 \afii10024 
+	\afii10025 \afii10026 \afii10027 \afii10028 \afii10029 \afii10030 \afii10031 
+	\afii10032 \afii10033 \afii10034 \afii10035 \afii10036 \afii10037 \afii10038 
+	\afii10039 \afii10040 \afii10041 \afii10042 \afii10043 \afii10044 \afii10045 
+	\afii10046 \afii10047 \afii10048 \afii10049 \afii10051 \afii10052 \afii10053 
+	\afii10054 \afii10055 \afii10056 \afii10057 \afii10058 \afii10059 \afii10060 
+	\afii10061 \afii10062 \afii10065 \afii10065.copy_1 \afii10066 \afii10067 
+	\afii10068 \afii10069 \afii10069.copy_1 \afii10070 \afii10070.copy_1 
+	\afii10071 \afii10072 \afii10073 \afii10074 \afii10075 \afii10076 \afii10077 
+	\afii10077.copy_1 \afii10078 \afii10078.copy_1 \afii10079 \afii10079.copy_1 
+	\afii10080 \afii10080.copy_1 \afii10081 \afii10082 \afii10083 \afii10084 
+	\afii10085 \afii10086 \afii10087 \afii10088 \afii10089 \afii10090 \afii10091 
+	\afii10092 \afii10093 \afii10094 \afii10094.copy_1 \afii10095 \afii10096 
+	\afii10097 \afii10099 \afii10100 \afii10101 \afii10102 \afii10103 \afii10104 
+	\afii10105 \afii10106 \afii10107 \afii10108 \afii10108.copy_1 \afii10109 
+	\afii10110 \afii10145 \afii10193 \afii57929 \afii61352 \agrave \alpha 
+	\alphatonos \amacron \ampersand \aogonek \approxequal \aring \aringacute 
+	\asciicircum \asciitilde \asterisk \at \atilde \b \backslash \bar \beta 
+	\braceleft \braceright \bracketleft \bracketright \breve \brokenbar \bullet \c 
+	\cacute \caron \ccaron \ccedilla \ccircumflex \cdotaccent \cedilla \cent \chi 
+	\circumflex \colon \comma \copyright \currency \d \dagger \daggerdbl \dcaron 
+	\dcroat \degree \delta \dieresis \dieresistonos \divide \dollar \dotaccent 
+	\dotlessi \e \eacute \ebreve \ecaron \ecircumflex \edieresis \edotaccent \egrave 
+	\eight \ellipsis \emacron \emdash \endash \eng \eogonek \epsilon \epsilontonos 
+	\equal \eta \etatonos \eth \exclam \exclamdown \f \five \florin \four \fraction \g 
+	\gamma \gbreve \gcaron \gcircumflex \gcommaaccent \gdotaccent \germandbls 
+	\glyph1 \glyph667 \glyph668 \glyph669 \glyph670 \glyph671 \glyph672 \glyph673 
+	\glyph674 \glyph675 \glyph676 \grave \greater \greaterequal \guillemotleft 
+	\guillemotright \guilsinglleft \guilsinglright \h \hbar \hcircumflex 
+	\hungarumlaut \hyphen \i \iacute \ibreve \icircumflex \idieresis \igrave \ij 
+	\imacron \infinity \integral \iogonek \iota \iotadieresis \iotadieresistonos 
+	\iotatonos \itilde \j \jcircumflex \k \kappa \kcommaaccent \kgreenlandic \l 
+	\lacute \lambda \lcaron \lcommaaccent \ldot \less \lessequal \logicalnot 
+	\lozenge \lslash \m \macron \middot \minus \mu \multiply \n \nacute \napostrophe 
+	\ncaron \ncommaaccent \nine \notequal \ntilde \nu \numbersign \o \oacute \obreve 
+	\ocircumflex \odieresis \oe \ogonek \ograve \ohorn \ohungarumlaut \omacron 
+	\omega \omegatonos \omicron \omicrontonos \one \onehalf \onequarter 
+	\ordfeminine \ordmasculine \oslash \oslashacute \otilde \p \paragraph 
+	\parenleft \parenright \partialdiff \percent \period \periodcentered 
+	\perthousand \phi \pi \plus \plusminus \product \psi \q \question \questiondown 
+	\quotedbl \quotedblbase \quotedblleft \quotedblright \quoteleft \quoteright 
+	\quotesinglbase \quotesingle \r \racute \radical \rcaron \rcommaaccent 
+	\registered \rho \ring \s \sacute \scaron \scedilla \scircumflex \scommaaccent 
+	\section \semicolon \seven \sigma \sigma1 \six \slash \space \sterling \summation 
+	\t \tau \tbar \tcaron \tcommaaccent \theta \thorn \three \threequarters \tilde 
+	\tonos \trademark \two \u \uacute \ubreve \ucircumflex \udieresis \ugrave \uhorn 
+	\uhungarumlaut \umacron \underscore \uni000D \uni00A0 \uni00AD \uni00B2 
+	\uni00B3 \uni00B9 \uni018F \uni01C4 \uni01C5 \uni01C6 \uni01C7 \uni01C8 \uni01C9 
+	\uni01CA \uni01CB \uni01CC \uni01CD \uni01CE \uni01CF \uni01D0 \uni01D1 \uni01D2 
+	\uni01D3 \uni01D4 \uni01D5 \uni01D6 \uni01D7 \uni01D8 \uni01D9 \uni01DA \uni01DB 
+	\uni01DC \uni01DE \uni01DF \uni01E0 \uni01E1 \uni01E2 \uni01E3 \uni01E8 \uni01E9 
+	\uni01EA \uni01EB \uni01EC \uni01ED \uni01F0 \uni01F1 \uni01F2 \uni01F3 \uni01F4 
+	\uni01F5 \uni01F8 \uni01F9 \uni0200 \uni0201 \uni0202 \uni0203 \uni0204 \uni0205 
+	\uni0206 \uni0207 \uni0208 \uni0209 \uni020A \uni020B \uni020C \uni020D \uni020E 
+	\uni020F \uni0210 \uni0211 \uni0212 \uni0213 \uni0214 \uni0215 \uni0216 \uni0217 
+	\uni021A \uni021B \uni021E \uni021F \uni0226 \uni0227 \uni0228 \uni0229 \uni022A 
+	\uni022B \uni022C \uni022D \uni022E \uni022F \uni0230 \uni0231 \uni0232 \uni0233 
+	\uni0237 \uni0259 \uni0307 \uni030F \uni0311 \uni031B \uni0326 \uni0400 \uni040D 
+	\uni0450 \uni045D \uni1E02 \uni1E03 \uni1E0A \uni1E0B \uni1E1E \uni1E1F \uni1E40 
+	\uni1E41 \uni1E56 \uni1E57 \uni1E60 \uni1E61 \uni1E6A \uni1E6B \uni1EBC \uni1EBD 
+	\uni1EF8 \uni1EF9 \uni2074 \uni2206 \uniFB01 \uniFB02 \uogonek \upsilon 
+	\upsilondieresis \upsilondieresistonos \upsilontonos \uring \utilde \v \w 
+	\wacute \wcircumflex \wdieresis \wgrave \x \xi \y \yacute \ycircumflex \ydieresis 
+	\yen \ygrave \z \zacute \zcaron \zdotaccent \zero \zeta ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple,  ,  ,  ;
+
+} GDEF;
+
