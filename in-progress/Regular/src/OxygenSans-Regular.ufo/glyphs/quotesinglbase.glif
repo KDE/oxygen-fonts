@@ -1,19 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesinglbase" format="1">
-  <advance width="431"/>
+  <advance width="517.0"/>
   <unicode hex="201A"/>
   <outline>
-    <contour>
-      <point x="92" y="-233" type="line"/>
-      <point x="176" y="197" type="line"/>
-      <point x="322" y="197" type="line"/>
-      <point x="200" y="-233" type="line"/>
-    </contour>
+    <component base="quoteleft" xScale="-1.0" xyScale="1.11022302463e-16" yxScale="-1.11022302463e-16" yScale="-1.0" xOffset="540" yOffset="1207"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quoteright</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>517.0000000000001</real>
+        </dict>
       </dict>
     </dict>
   </lib>

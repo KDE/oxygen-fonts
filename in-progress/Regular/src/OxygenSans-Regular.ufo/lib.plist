@@ -9,7 +9,7 @@
 			<key>maxp</key>
 			<dict>
 				<key>numGlyphs</key>
-				<integer>676</integer>
+				<integer>687</integer>
 				<key>tableTag</key>
 				<string>maxp</string>
 				<key>tableVersion</key>
@@ -17,6 +17,34 @@
 			</dict>
 		</dict>
 	</dict>
+	<key>com.typemytype.robofont.b.layerStrokeColor</key>
+	<array>
+		<real>1.0</real>
+		<real>0.75</real>
+		<real>0.0</real>
+		<real>0.7</real>
+	</array>
+	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.autohint</key>
+	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.decompose</key>
+	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
+	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.path</key>
+	<string>/Users/vern/oxygen-fonts/in-progress/Regular/src/OxygenSans-Regular.otf</string>
+	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
+	<array>
+		<real>0.5</real>
+		<real>0.0</real>
+		<real>0.5</real>
+		<real>0.7</real>
+	</array>
 	<key>com.typemytype.robofont.guides</key>
 	<array>
 		<dict>
@@ -29,16 +57,105 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>548</integer>
+			<integer>469</integer>
 			<key>y</key>
-			<integer>-425</integer>
+			<integer>887</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>581</integer>
+			<key>y</key>
+			<integer>1019</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>641</integer>
+			<key>y</key>
+			<integer>-20</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>534</integer>
+			<key>y</key>
+			<integer>112</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>829</integer>
+			<key>y</key>
+			<integer>1413</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>885</integer>
+			<key>y</key>
+			<integer>1275</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>642</integer>
+			<key>y</key>
+			<integer>118</integer>
 		</dict>
 	</array>
+	<key>com.typemytype.robofont.italicSlantOffset</key>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
+		<string>b</string>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
+	<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.sort</key>
 	<array>
 		<dict>
@@ -719,12 +836,299 @@
 				<string>afii10080.copy_1</string>
 				<string>afii10094.copy_1</string>
 				<string>afii10108.copy_1</string>
+				<string>glyph1</string>
+				<string>glyph667</string>
+				<string>glyph668</string>
+				<string>glyph669</string>
+				<string>glyph670</string>
+				<string>glyph671</string>
+				<string>glyph672</string>
+				<string>glyph673</string>
+				<string>glyph674</string>
+				<string>glyph675</string>
+				<string>glyph676</string>
 				<string>middot</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
 		</dict>
 	</array>
+	<key>com.typesupply.MetricsMachine4.groupColors</key>
+	<dict>
+		<key>@MMK_L_A_Left</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_B_Left</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_H_Left</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_O_Left</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_P_Left</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_R_Left</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_S_Left</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_T_Left</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_U_Left</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_V_Left</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_W_Left</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_X_Left</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_Y_Left</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_k_Left</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_n_Left</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_o_Left</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_r_Left</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_s_left</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_t_Left</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_v_Left</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_w_Left</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_y_Left</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_A_Right</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_H_Right</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_O_Right</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_S_Right</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_T_Right</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_U_Right</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_V_Right</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_W_Right</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_Y_Right</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_a_Right</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_g_Right</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_n_Right</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_o_Right</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_u_Left</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_v_Left</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_w_Left</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_y_Left</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+	</dict>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>.notdef</string>
@@ -1402,6 +1806,17 @@
 		<string>afii10080.copy_1</string>
 		<string>afii10094.copy_1</string>
 		<string>afii10108.copy_1</string>
+		<string>glyph1</string>
+		<string>glyph667</string>
+		<string>glyph668</string>
+		<string>glyph669</string>
+		<string>glyph670</string>
+		<string>glyph671</string>
+		<string>glyph672</string>
+		<string>glyph673</string>
+		<string>glyph674</string>
+		<string>glyph675</string>
+		<string>glyph676</string>
 		<string>middot</string>
 	</array>
 </dict>
