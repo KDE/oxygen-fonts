@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="y" format="1">
-  <advance width="1141"/>
+  <advance width="1120"/>
   <unicode hex="0079"/>
   <outline>
     <contour>
-      <point x="262" y="-419" type="line"/>
-      <point x="458" y="60" type="line"/>
-      <point x="53" y="1016" type="line"/>
-      <point x="328" y="1016" type="line"/>
-      <point x="590" y="334" type="line"/>
-      <point x="878" y="1016" type="line"/>
-      <point x="1141" y="1016" type="line"/>
-      <point x="527" y="-419" type="line"/>
+      <point x="323" y="-345" type="line"/>
+      <point x="467" y="28" type="line"/>
+      <point x="81" y="1016" type="line"/>
+      <point x="346" y="1016" type="line"/>
+      <point x="587" y="297" type="line"/>
+      <point x="801" y="1016" type="line"/>
+      <point x="1067" y="1016" type="line"/>
+      <point x="558" y="-376" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,6 +28,91 @@
           </array>
           <key>contours</key>
           <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>406.0</real>
+                  <key>y</key>
+                  <real>-68.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>446.0</real>
+                  <key>y</key>
+                  <real>28.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>60.0</real>
+                  <key>y</key>
+                  <real>1016.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>325.0</real>
+                  <key>y</key>
+                  <real>1016.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>566.0</real>
+                  <key>y</key>
+                  <real>297.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>780.0</real>
+                  <key>y</key>
+                  <real>1016.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>1046.0</real>
+                  <key>y</key>
+                  <real>1016.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>641.0</real>
+                  <key>y</key>
+                  <real>-99.0</real>
+                </dict>
+              </array>
+            </dict>
           </array>
           <key>lib</key>
           <dict>
@@ -38,7 +123,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1141</integer>
+          <integer>1120</integer>
         </dict>
       </dict>
     </dict>
