@@ -4,29 +4,11 @@
   <unicode hex="0154"/>
   <outline>
     <contour>
-      <point x="704" y="1576" type="line"/>
-      <point x="808" y="1576" type="line"/>
-      <point x="1104" y="1929" type="line"/>
-      <point x="874" y="1929" type="line"/>
-    </contour>
-    <contour>
-      <point x="752" y="799" type="curve" smooth="yes"/>
-      <point x="393" y="799" type="line"/>
-      <point x="393" y="1252" type="line"/>
-      <point x="744" y="1252" type="line" smooth="yes"/>
-      <point x="987" y="1252"/>
-      <point x="1057" y="1180"/>
-      <point x="1057" y="1038" type="curve" smooth="yes"/>
-      <point x="1057" y="878"/>
-      <point x="997" y="799"/>
-    </contour>
-    <contour>
+      <point x="214" y="1390" type="line"/>
       <point x="214" y="0" type="line"/>
       <point x="393" y="0" type="line"/>
       <point x="393" y="661" type="line"/>
-      <point x="393" y="661"/>
-      <point x="651" y="659"/>
-      <point x="668" y="659" type="curve" smooth="yes"/>
+      <point x="668" y="659" type="line" smooth="yes"/>
       <point x="700" y="659"/>
       <point x="802" y="662"/>
       <point x="829" y="664" type="curve"/>
@@ -45,36 +27,23 @@
       <point x="1234" y="1323"/>
       <point x="1047" y="1390"/>
       <point x="717" y="1390" type="curve" smooth="yes"/>
-      <point x="214" y="1390" type="line"/>
+    </contour>
+    <contour>
+      <point x="987" y="1252"/>
+      <point x="1057" y="1180"/>
+      <point x="1057" y="1038" type="curve" smooth="yes"/>
+      <point x="1057" y="878"/>
+      <point x="997" y="799"/>
+      <point x="752" y="799" type="curve" smooth="yes"/>
+      <point x="393" y="799" type="line"/>
+      <point x="393" y="1252" type="line"/>
+      <point x="744" y="1252" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="874" y="1929" type="line"/>
+      <point x="704" y="1576" type="line"/>
+      <point x="808" y="1576" type="line"/>
+      <point x="1104" y="1929" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Racute</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1416</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

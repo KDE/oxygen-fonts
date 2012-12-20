@@ -4,53 +4,24 @@
   <unicode hex="0137"/>
   <outline>
     <contour>
-      <point x="498.5" y="-617" type="line"/>
-      <point x="605.5" y="-617" type="line"/>
-      <point x="735.5" y="-163" type="line"/>
-      <point x="584.5" y="-163" type="line"/>
+      <point x="185" y="1395" type="line"/>
+      <point x="185" y="0" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="360" y="363" type="line"/>
+      <point x="471" y="459" type="line"/>
+      <point x="853" y="0" type="line"/>
+      <point x="1049" y="0" type="line"/>
+      <point x="596" y="535" type="line"/>
+      <point x="1042" y="998" type="line"/>
+      <point x="827" y="998" type="line"/>
+      <point x="360" y="515" type="line"/>
+      <point x="360" y="1409" type="line"/>
     </contour>
     <contour>
-      <point x="185.0" y="1395" type="line"/>
-      <point x="185.0" y="0" type="line"/>
-      <point x="360.0" y="0" type="line"/>
-      <point x="360.0" y="363" type="line"/>
-      <point x="471.0" y="459" type="line"/>
-      <point x="853.0" y="0" type="line"/>
-      <point x="1049.0" y="0" type="line"/>
-      <point x="596.0" y="535" type="line"/>
-      <point x="1042.0" y="998" type="line"/>
-      <point x="827.0" y="998" type="line"/>
-      <point x="360.0" y="515" type="line"/>
-      <point x="360.0" y="1409" type="line"/>
+      <point x="585" y="-163" type="line"/>
+      <point x="499" y="-617" type="line"/>
+      <point x="606" y="-617" type="line"/>
+      <point x="736" y="-163" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>kcommaaccent</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1091</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

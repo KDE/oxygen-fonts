@@ -4,23 +4,6 @@
   <unicode hex="016D"/>
   <outline>
     <contour>
-      <point x="813" y="1404" type="curve"/>
-      <point x="707" y="1404" type="line"/>
-      <point x="707" y="1317"/>
-      <point x="649" y="1276"/>
-      <point x="583" y="1276" type="curve" smooth="yes"/>
-      <point x="517" y="1276"/>
-      <point x="462" y="1317"/>
-      <point x="462" y="1404" type="curve"/>
-      <point x="356" y="1404" type="line"/>
-      <point x="356" y="1247"/>
-      <point x="471" y="1182"/>
-      <point x="583" y="1182" type="curve" smooth="yes"/>
-      <point x="696" y="1182"/>
-      <point x="813" y="1247"/>
-    </contour>
-    <contour>
-      <point x="1004" y="998" type="line"/>
       <point x="829" y="998" type="line"/>
       <point x="829" y="452" type="line" smooth="yes"/>
       <point x="829" y="247"/>
@@ -40,35 +23,23 @@
       <point x="837" y="143" type="curve"/>
       <point x="856" y="0" type="line"/>
       <point x="1004" y="0" type="line"/>
+      <point x="1004" y="998" type="line"/>
+    </contour>
+    <contour>
+      <point x="707" y="1404" type="line"/>
+      <point x="707" y="1317"/>
+      <point x="649" y="1276"/>
+      <point x="583" y="1276" type="curve" smooth="yes"/>
+      <point x="517" y="1276"/>
+      <point x="462" y="1317"/>
+      <point x="462" y="1404" type="curve"/>
+      <point x="356" y="1404" type="line"/>
+      <point x="356" y="1247"/>
+      <point x="471" y="1182"/>
+      <point x="583" y="1182" type="curve" smooth="yes"/>
+      <point x="696" y="1182"/>
+      <point x="813" y="1247"/>
+      <point x="813" y="1404" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ubreve</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1189</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

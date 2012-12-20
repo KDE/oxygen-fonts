@@ -4,21 +4,6 @@
   <unicode hex="00CB"/>
   <outline>
     <contour>
-      <point x="388" y="1576" type="line"/>
-      <point x="529" y="1576" type="line"/>
-      <point x="529" y="1769" type="line"/>
-      <point x="388" y="1769" type="line"/>
-    </contour>
-    <contour>
-      <point x="743" y="1576" type="line"/>
-      <point x="884" y="1576" type="line"/>
-      <point x="884" y="1769" type="line"/>
-      <point x="743" y="1769" type="line"/>
-    </contour>
-    <contour>
-      <point x="392" y="1251" type="line"/>
-      <point x="1030" y="1251" type="line"/>
-      <point x="1037" y="1390" type="line"/>
       <point x="214" y="1390" type="line"/>
       <point x="214" y="0" type="line"/>
       <point x="1050" y="0" type="line"/>
@@ -28,35 +13,21 @@
       <point x="982" y="653" type="line"/>
       <point x="982" y="790" type="line"/>
       <point x="392" y="790" type="line"/>
+      <point x="392" y="1251" type="line"/>
+      <point x="1030" y="1251" type="line"/>
+      <point x="1037" y="1390" type="line"/>
+    </contour>
+    <contour>
+      <point x="388" y="1769" type="line"/>
+      <point x="388" y="1576" type="line"/>
+      <point x="529" y="1576" type="line"/>
+      <point x="529" y="1769" type="line"/>
+    </contour>
+    <contour>
+      <point x="743" y="1769" type="line"/>
+      <point x="743" y="1576" type="line"/>
+      <point x="884" y="1576" type="line"/>
+      <point x="884" y="1769" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Edieresis</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1192</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

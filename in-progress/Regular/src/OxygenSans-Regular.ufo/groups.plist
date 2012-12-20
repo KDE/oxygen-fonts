@@ -35,8 +35,8 @@
 	<key>@MMK_L_O_Left</key>
 	<array>
 		<string>D</string>
-		<string>Dcaron</string>
 		<string>Eth</string>
+		<string>Dcaron</string>
 		<string>O</string>
 		<string>Oacute</string>
 		<string>Obreve</string>
@@ -172,7 +172,6 @@
 	<array>
 		<string>t</string>
 		<string>tcaron</string>
-		<string>tcommaaccent</string>
 		<string>uni021B</string>
 		<string>uni1E6B</string>
 	</array>
@@ -240,11 +239,11 @@
 		<string>Ncommaaccent</string>
 		<string>Ntilde</string>
 		<string>P</string>
+		<string>Thorn</string>
 		<string>R</string>
 		<string>Racute</string>
 		<string>Rcaron</string>
 		<string>Rcommaaccent</string>
-		<string>Thorn</string>
 		<string>uni01F1</string>
 		<string>uni0204</string>
 		<string>uni0206</string>
@@ -265,7 +264,6 @@
 		<string>Gcommaaccent</string>
 		<string>Gdotaccent</string>
 		<string>O</string>
-		<string>OE</string>
 		<string>Oacute</string>
 		<string>Obreve</string>
 		<string>Ocircumflex</string>
@@ -275,6 +273,7 @@
 		<string>Omacron</string>
 		<string>Oslash</string>
 		<string>Otilde</string>
+		<string>OE</string>
 		<string>Q</string>
 		<string>uni01F4</string>
 		<string>uni020C</string>
@@ -331,12 +330,12 @@
 		<string>abreve</string>
 		<string>acircumflex</string>
 		<string>adieresis</string>
-		<string>ae</string>
 		<string>agrave</string>
 		<string>amacron</string>
 		<string>aogonek</string>
 		<string>aring</string>
 		<string>atilde</string>
+		<string>ae</string>
 		<string>uni0201</string>
 		<string>uni0203</string>
 	</array>
@@ -368,6 +367,7 @@
 		<string>ccircumflex</string>
 		<string>cdotaccent</string>
 		<string>d</string>
+		<string>eth</string>
 		<string>dcaron</string>
 		<string>e</string>
 		<string>eacute</string>
@@ -379,18 +379,17 @@
 		<string>egrave</string>
 		<string>emacron</string>
 		<string>eogonek</string>
-		<string>eth</string>
 		<string>o</string>
 		<string>oacute</string>
 		<string>obreve</string>
 		<string>ocircumflex</string>
 		<string>odieresis</string>
-		<string>oe</string>
 		<string>ograve</string>
 		<string>ohungarumlaut</string>
 		<string>omacron</string>
 		<string>oslash</string>
 		<string>otilde</string>
+		<string>oe</string>
 		<string>q</string>
 		<string>uni0205</string>
 		<string>uni0207</string>

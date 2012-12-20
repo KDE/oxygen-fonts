@@ -4,39 +4,13 @@
   <unicode hex="0307"/>
   <outline>
     <contour>
+      <point x="97" y="1361" type="line"/>
       <point x="97" y="1181" type="line"/>
       <point x="250" y="1181" type="line"/>
       <point x="250" y="1361" type="line"/>
-      <point x="97" y="1361" type="line"/>
+    </contour>
+    <contour>
+      <point x="174" y="0" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni0307</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>349</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

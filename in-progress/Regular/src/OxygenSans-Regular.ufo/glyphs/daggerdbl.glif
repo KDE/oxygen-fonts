@@ -4,6 +4,11 @@
   <unicode hex="2021"/>
   <outline>
     <contour>
+      <point x="401" y="1421" type="line"/>
+      <point x="401" y="1091" type="line"/>
+      <point x="127" y="1091" type="line"/>
+      <point x="127" y="964" type="line"/>
+      <point x="401" y="964" type="line"/>
       <point x="401" y="550" type="line"/>
       <point x="123" y="550" type="line"/>
       <point x="123" y="425" type="line"/>
@@ -19,40 +24,6 @@
       <point x="799" y="1091" type="line"/>
       <point x="520" y="1091" type="line"/>
       <point x="520" y="1421" type="line"/>
-      <point x="401" y="1421" type="line"/>
-      <point x="401" y="1091" type="line"/>
-      <point x="127" y="1091" type="line"/>
-      <point x="127" y="964" type="line"/>
-      <point x="401" y="964" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>daggerdbl</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>921</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

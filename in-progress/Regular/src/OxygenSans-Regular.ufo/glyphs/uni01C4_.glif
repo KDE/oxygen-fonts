@@ -4,13 +4,26 @@
   <unicode hex="01C4"/>
   <outline>
     <contour>
-      <point x="2051" y="1576" type="line"/>
-      <point x="2245" y="1576" type="line"/>
-      <point x="2415" y="1929" type="line"/>
-      <point x="2294" y="1929" type="line"/>
-      <point x="2147" y="1646" type="line"/>
-      <point x="2000" y="1929" type="line"/>
-      <point x="1881" y="1929" type="line"/>
+      <point x="214" y="1390" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="622" y="0" type="line" smooth="yes"/>
+      <point x="1070" y="0"/>
+      <point x="1343" y="253"/>
+      <point x="1343" y="698" type="curve" smooth="yes"/>
+      <point x="1343" y="1166"/>
+      <point x="1044" y="1390"/>
+      <point x="594" y="1390" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="955" y="1252"/>
+      <point x="1165" y="1082"/>
+      <point x="1165" y="694" type="curve" smooth="yes"/>
+      <point x="1165" y="340"/>
+      <point x="975" y="137"/>
+      <point x="617" y="137" type="curve" smooth="yes"/>
+      <point x="392" y="137" type="line"/>
+      <point x="392" y="1252" type="line"/>
+      <point x="590" y="1252" type="line" smooth="yes"/>
     </contour>
     <contour>
       <point x="1702" y="1390" type="line"/>
@@ -25,55 +38,13 @@
       <point x="2614" y="1390" type="line"/>
     </contour>
     <contour>
-      <point x="392" y="1252" type="line"/>
-      <point x="590" y="1252" type="line" smooth="yes"/>
-      <point x="955" y="1252"/>
-      <point x="1165" y="1082"/>
-      <point x="1165" y="694" type="curve" smooth="yes"/>
-      <point x="1165" y="340"/>
-      <point x="975" y="137"/>
-      <point x="617" y="137" type="curve" smooth="yes"/>
-      <point x="392" y="137" type="line"/>
-    </contour>
-    <contour>
-      <point x="214" y="0" type="line"/>
-      <point x="622" y="0" type="line" smooth="yes"/>
-      <point x="1070" y="0"/>
-      <point x="1343" y="253"/>
-      <point x="1343" y="698" type="curve" smooth="yes"/>
-      <point x="1343" y="1166"/>
-      <point x="1044" y="1390"/>
-      <point x="594" y="1390" type="curve" smooth="yes"/>
-      <point x="214" y="1390" type="line"/>
+      <point x="2294" y="1929" type="line"/>
+      <point x="2147" y="1646" type="line"/>
+      <point x="2000" y="1929" type="line"/>
+      <point x="1881" y="1929" type="line"/>
+      <point x="2051" y="1576" type="line"/>
+      <point x="2245" y="1576" type="line"/>
+      <point x="2415" y="1929" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni01C4</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>2754</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

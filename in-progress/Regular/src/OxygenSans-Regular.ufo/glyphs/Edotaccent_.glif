@@ -4,53 +4,24 @@
   <unicode hex="0116"/>
   <outline>
     <contour>
-      <point x="559.5" y="1576" type="line"/>
-      <point x="712.5" y="1576" type="line"/>
-      <point x="712.5" y="1756" type="line"/>
-      <point x="559.5" y="1756" type="line"/>
+      <point x="214" y="1390" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="1050" y="0" type="line"/>
+      <point x="1058" y="139" type="line"/>
+      <point x="392" y="139" type="line"/>
+      <point x="392" y="653" type="line"/>
+      <point x="982" y="653" type="line"/>
+      <point x="982" y="790" type="line"/>
+      <point x="392" y="790" type="line"/>
+      <point x="392" y="1251" type="line"/>
+      <point x="1030" y="1251" type="line"/>
+      <point x="1037" y="1390" type="line"/>
     </contour>
     <contour>
-      <point x="392.0" y="1251" type="line"/>
-      <point x="1030.0" y="1251" type="line"/>
-      <point x="1037.0" y="1390" type="line"/>
-      <point x="214.0" y="1390" type="line"/>
-      <point x="214.0" y="0" type="line"/>
-      <point x="1050.0" y="0" type="line"/>
-      <point x="1058.0" y="139" type="line"/>
-      <point x="392.0" y="139" type="line"/>
-      <point x="392.0" y="653" type="line"/>
-      <point x="982.0" y="653" type="line"/>
-      <point x="982.0" y="790" type="line"/>
-      <point x="392.0" y="790" type="line"/>
+      <point x="560" y="1756" type="line"/>
+      <point x="560" y="1576" type="line"/>
+      <point x="713" y="1576" type="line"/>
+      <point x="713" y="1756" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Edotaccent</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1192</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -4,47 +4,18 @@
   <unicode hex="013F"/>
   <outline>
     <contour>
-      <point x="521" y="616.5" type="line"/>
-      <point x="674" y="616.5" type="line"/>
-      <point x="674" y="796.5" type="line"/>
-      <point x="521" y="796.5" type="line"/>
+      <point x="214" y="1390" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="974" y="0" type="line"/>
+      <point x="981" y="140" type="line"/>
+      <point x="393" y="140" type="line"/>
+      <point x="393" y="1390" type="line"/>
     </contour>
     <contour>
-      <point x="981" y="140.0" type="line"/>
-      <point x="393" y="140.0" type="line"/>
-      <point x="393" y="1390.0" type="line"/>
-      <point x="214" y="1390.0" type="line"/>
-      <point x="214" y="0.0" type="line"/>
-      <point x="974" y="0.0" type="line"/>
+      <point x="521" y="797" type="line"/>
+      <point x="521" y="617" type="line"/>
+      <point x="674" y="617" type="line"/>
+      <point x="674" y="797" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Ldot</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1055</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

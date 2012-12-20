@@ -4,6 +4,9 @@
   <unicode hex="1E82"/>
   <outline>
     <contour>
+      <point x="1759" y="1390" type="line"/>
+      <point x="1423" y="221" type="line"/>
+      <point x="1093" y="1365" type="line"/>
       <point x="911" y="1365" type="line"/>
       <point x="573" y="222" type="line"/>
       <point x="244" y="1390" type="line"/>
@@ -14,44 +17,12 @@
       <point x="1336" y="0" type="line"/>
       <point x="1521" y="0" type="line"/>
       <point x="1936" y="1390" type="line"/>
-      <point x="1759" y="1390" type="line"/>
-      <point x="1423" y="221" type="line"/>
-      <point x="1093" y="1365" type="line"/>
     </contour>
     <contour>
+      <point x="1119" y="1929" type="line"/>
       <point x="949" y="1576" type="line"/>
       <point x="1053" y="1576" type="line"/>
       <point x="1349" y="1929" type="line"/>
-      <point x="1119" y="1929" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Wacute</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>2002</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

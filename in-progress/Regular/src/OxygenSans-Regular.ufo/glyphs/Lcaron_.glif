@@ -4,47 +4,18 @@
   <unicode hex="013D"/>
   <outline>
     <contour>
-      <point x="1225.5" y="984" type="line"/>
-      <point x="1331.5" y="984" type="line"/>
-      <point x="1453.5" y="1413" type="line"/>
-      <point x="1310.5" y="1413" type="line"/>
+      <point x="214" y="1390" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="974" y="0" type="line"/>
+      <point x="981" y="140" type="line"/>
+      <point x="393" y="140" type="line"/>
+      <point x="393" y="1390" type="line"/>
     </contour>
     <contour>
-      <point x="981.0" y="140" type="line"/>
-      <point x="393.0" y="140" type="line"/>
-      <point x="393.0" y="1390" type="line"/>
-      <point x="214.0" y="1390" type="line"/>
-      <point x="214.0" y="0" type="line"/>
-      <point x="974.0" y="0" type="line"/>
+      <point x="1311" y="1413" type="line"/>
+      <point x="1226" y="984" type="line"/>
+      <point x="1332" y="984" type="line"/>
+      <point x="1454" y="1413" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Lcaron</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1055</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

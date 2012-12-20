@@ -24,17 +24,11 @@
 	</array>
 	<key>openTypeHeadLowestRecPPEM</key>
 	<integer>8</integer>
-	<key>openTypeHheaAscender</key>
-	<integer>2035</integer>
 	<key>openTypeHheaCaretOffset</key>
-	<integer>0</integer>
+	<real>0.0</real>
 	<key>openTypeHheaCaretSlopeRise</key>
 	<integer>1</integer>
 	<key>openTypeHheaCaretSlopeRun</key>
-	<integer>0</integer>
-	<key>openTypeHheaDescender</key>
-	<integer>-672</integer>
-	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>openTypeNameDescription</key>
 	<string>Copyright (c) 2011-12 by vernon adams. All rights reserved.</string>
@@ -54,6 +48,10 @@ http://scripts.sil.org/OFL</string>
 	<string>vernon adams</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string>newtypography.co.uk</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>OxygenSans</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
 	<key>openTypeNameUniqueID</key>
 	<string>vernon adams : OxygenSans Regular : 5-11-2012</string>
 	<key>openTypeNameVersion</key>
@@ -99,7 +97,7 @@ http://scripts.sil.org/OFL</string>
 	<key>openTypeOS2SuperscriptXOffset</key>
 	<integer>0</integer>
 	<key>openTypeOS2SuperscriptXSize</key>
-	<integer>1331</integer>
+	<real>1331</real>
 	<key>openTypeOS2SuperscriptYOffset</key>
 	<integer>983</integer>
 	<key>openTypeOS2SuperscriptYSize</key>
@@ -107,12 +105,6 @@ http://scripts.sil.org/OFL</string>
 	<key>openTypeOS2Type</key>
 	<array>
 	</array>
-	<key>openTypeOS2TypoAscender</key>
-	<integer>2035</integer>
-	<key>openTypeOS2TypoDescender</key>
-	<integer>-672</integer>
-	<key>openTypeOS2TypoLineGap</key>
-	<integer>0</integer>
 	<key>openTypeOS2UnicodeRanges</key>
 	<array>
 		<integer>0</integer>
@@ -143,7 +135,7 @@ http://scripts.sil.org/OFL</string>
 	<key>openTypeOS2WinDescent</key>
 	<integer>672</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.00647059</real>
+	<real>0.0064999999999999997</real>
 	<key>postscriptBlueShift</key>
 	<integer>0</integer>
 	<key>postscriptBlueValues</key>
@@ -176,18 +168,8 @@ http://scripts.sil.org/OFL</string>
 		<integer>-433</integer>
 		<integer>-280</integer>
 	</array>
-	<key>postscriptStemSnapH</key>
-	<array>
-	</array>
-	<key>postscriptStemSnapV</key>
-	<array>
-	</array>
-	<key>postscriptUnderlinePosition</key>
-	<integer>-22</integer>
-	<key>postscriptUnderlineThickness</key>
-	<integer>0</integer>
 	<key>postscriptWeightName</key>
-	<string>Regular</string>
+	<string>Normal</string>
 	<key>styleMapFamilyName</key>
 	<string>OxygenSans</string>
 	<key>styleMapStyleName</key>

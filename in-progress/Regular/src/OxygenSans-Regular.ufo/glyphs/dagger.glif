@@ -4,6 +4,7 @@
   <unicode hex="2020"/>
   <outline>
     <contour>
+      <point x="368" y="1421" type="line"/>
       <point x="368" y="1046" type="line"/>
       <point x="96" y="1046" type="line"/>
       <point x="96" y="953" type="line"/>
@@ -15,36 +16,6 @@
       <point x="765" y="1046" type="line"/>
       <point x="486" y="1046" type="line"/>
       <point x="486" y="1421" type="line"/>
-      <point x="368" y="1421" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>dagger</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>866</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

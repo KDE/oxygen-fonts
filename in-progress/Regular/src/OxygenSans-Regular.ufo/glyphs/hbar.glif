@@ -4,9 +4,6 @@
   <unicode hex="0127"/>
   <outline>
     <contour>
-      <point x="509" y="1271" type="line"/>
-      <point x="324" y="1271" type="line"/>
-      <point x="324" y="1409" type="line"/>
       <point x="149" y="1395" type="line"/>
       <point x="149" y="1271" type="line"/>
       <point x="20" y="1271" type="line"/>
@@ -32,35 +29,9 @@
       <point x="324" y="864" type="curve"/>
       <point x="324" y="1166" type="line"/>
       <point x="509" y="1166" type="line"/>
+      <point x="509" y="1271" type="line"/>
+      <point x="324" y="1271" type="line"/>
+      <point x="324" y="1409" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>hbar</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1130</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
