@@ -3,39 +3,32 @@
 <!-- Superpolator Designspace Object -->
 
 <!-- info -->
-<version format="110221_1144_developer_" superpolator="1" />
+<version format="120823_1018_beta_" superpolator="1" />
 <!-- application data -->
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
 <data name="previewTypeSize" value="100.0" />
-<data name="previewtext" value="Honda Dellon nosgonanopon" />
+<data name="previewtext" value="Den Final Italia font" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.68561454657" />
+<data name="projectionAngle" value="2.68561525327" />
 <!-- axis definitions -->
-<axis maximum="1" minimum="-1" name="new_axis_1" shortname="xx" />
+<axis maximum="1" minimum="0" name="new_axis_1" shortname="xx" />
 
 <!-- master definitions -->
-<master filename="Oxygen-Regular-FF.ufo">
+<master filename="Bold/src/OxygenSans-Bold.ufo">
 <location>
 <dimension name="new_axis_1" xvalue="0" />
 </location>
-<!-- color for Oxygen-Regular-FF.ufo -->
-<color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
+<!-- color for Bold/src/OxygenSans-Bold.ufo -->
+<color a="1.000000" b="0.000000" g="1.000000" r="0.000000" />
 </master>
-<master filename="OxygenSans-Bold-FF.ufo">
+<master filename="Extra-Light/src/OxygenSans-Thin.ufo">
 <location>
 <dimension name="new_axis_1" xvalue="1" />
 </location>
-<!-- color for OxygenSans-Bold-FF.ufo -->
+<!-- color for Extra-Light/src/OxygenSans-Thin.ufo -->
 <color a="1.000000" b="0.500000" g="0.500000" r="0.500000" />
-</master>
-<master filename="SP_Instances/OxygenSans-Thin.ufo">
-<location>
-<dimension name="new_axis_1" xvalue="-1" />
-</location>
-<!-- color for SP_Instances/OxygenSans-Thin.ufo -->
-<color a="1.000000" b="0.000000" g="0.000000" r="0.500000" />
 </master>
 
 <!-- instance definitions -->
