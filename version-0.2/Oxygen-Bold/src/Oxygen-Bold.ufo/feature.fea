@@ -1,4 +1,7 @@
 
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
 # GPOS 
 
 
@@ -231,11 +234,11 @@ lookup kernHorizontalKerninglookup0 {
 
 feature kern {
 
-  script DFLT;
+ script DFLT;
      language dflt ;
       lookup kernHorizontalKerninglookup0;
 
-  script latn;
+ script latn;
      language dflt ;
       lookup kernHorizontalKerninglookup0;
 } kern;
@@ -317,7 +320,7 @@ feature kern {
 	\rho \chi \dcroat \Hbar \eng \Eng \Tbar \tbar \uni00AD \afii10105 ];
 
 table GDEF {
-  GlyphClassDef @GDEF_Simple,  ,  ,  ;
+  GlyphClassDef @GDEF_Simple, , , ;
 
 } GDEF;
 
