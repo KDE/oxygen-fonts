@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="1">
+  <advance width="550.929718665"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="239.815924837" y="406.528448457" type="line"/>
+      <point x="329.872821751" y="406.528448457" type="line"/>
+      <point x="383.367625446" y="1182.44583246" type="line"/>
+      <point x="383.367625446" y="1348.70213101" type="line"/>
+      <point x="180.277083771" y="1348.70213101" type="line"/>
+      <point x="180.277083771" y="1182.44583246" type="line"/>
+    </contour>
+    <contour>
+      <point x="280.21226118" y="-9.23057946672" type="curve" smooth="yes"/>
+      <point x="362.256298551" y="-9.23057946672"/>
+      <point x="412.191475961" y="54.6269158094"/>
+      <point x="412.191475961" y="123.067289523" type="curve" smooth="yes"/>
+      <point x="412.191475961" y="192.189009028"/>
+      <point x="362.256298551" y="255.727850094"/>
+      <point x="280.21226118" y="255.727850094" type="curve" smooth="yes"/>
+      <point x="198.442840647" y="255.727850094"/>
+      <point x="147.870354818" y="192.189009028"/>
+      <point x="147.870354818" y="123.067289523" type="curve" smooth="yes"/>
+      <point x="147.870354818" y="54.6269158094"/>
+      <point x="198.442840647" y="-9.23057946672"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="1">
+  <advance width="1191.40426202"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="143.440373714" y="7.39633634264" type="line"/>
+      <point x="329.849569599" y="7.39633634264" type="line"/>
+      <point x="329.849569599" y="314.823850514" type="line"/>
+      <point x="353.214728113" y="314.823850514"/>
+      <point x="646.823850514" y="310.637308419"/>
+      <point x="651.6917384" y="310.637308419" type="curve" smooth="yes"/>
+      <point x="951.40426202" y="310.637308419"/>
+      <point x="1119.28747638" y="466.746168381"/>
+      <point x="1119.28747638" y="720.0" type="curve" smooth="yes"/>
+      <point x="1119.28747638" y="1011.85749528"/>
+      <point x="914.6917384" y="1115.80306529"/>
+      <point x="601.209794247" y="1115.80306529" type="curve" smooth="yes"/>
+      <point x="329.849569599" y="1115.80306529" type="line"/>
+      <point x="329.849569599" y="1344.48194415" type="line"/>
+      <point x="143.440373714" y="1344.48194415" type="line"/>
+    </contour>
+    <contour>
+      <point x="330.21226118" y="475.365158514" type="line"/>
+      <point x="329.849569599" y="959.70213101" type="line"/>
+      <point x="619.253831619" y="959.70213101" type="line" smooth="yes"/>
+      <point x="843.075215201" y="959.70213101"/>
+      <point x="936.614056267" y="886.779813143"/>
+      <point x="936.614056267" y="717.98960739" type="curve" smooth="yes"/>
+      <point x="936.614056267" y="571.935177409"/>
+      <point x="852.129645182" y="475.365158514"/>
+      <point x="651.264224228" y="475.365158514" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

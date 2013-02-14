@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h" format="1">
+  <advance width="1138"/>
+  <unicode hex="0068"/>
+  <outline>
+    <contour>
+      <point x="128" y="0" type="line"/>
+      <point x="381" y="0" type="line"/>
+      <point x="381" y="491" type="line" smooth="yes"/>
+      <point x="381" y="699"/>
+      <point x="422" y="844"/>
+      <point x="611" y="844" type="curve" smooth="yes"/>
+      <point x="726" y="844"/>
+      <point x="764" y="775"/>
+      <point x="764" y="618" type="curve" smooth="yes"/>
+      <point x="764" y="0" type="line"/>
+      <point x="1020" y="0" type="line"/>
+      <point x="1020" y="641" type="line" smooth="yes"/>
+      <point x="1020" y="918"/>
+      <point x="881" y="1041"/>
+      <point x="667" y="1041" type="curve" smooth="yes"/>
+      <point x="523" y="1041"/>
+      <point x="394" y="966"/>
+      <point x="325" y="858" type="curve"/>
+      <point x="374" y="838" type="line"/>
+      <point x="384" y="1102" type="line"/>
+      <point x="384" y="1393" type="line"/>
+      <point x="128" y="1376" type="line"/>
+    </contour>
+    <contour>
+      <point x="555" y="0" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="555" y="0" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

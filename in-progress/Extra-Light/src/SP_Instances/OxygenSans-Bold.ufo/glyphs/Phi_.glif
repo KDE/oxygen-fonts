@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Phi" format="1">
+  <advance width="1509.47947722"/>
+  <unicode hex="03A6"/>
+  <outline>
+    <contour>
+      <point x="671.943103086" y="0.0" type="line"/>
+      <point x="838.976747848" y="0.0" type="line"/>
+      <point x="838.976747848" y="154.637308419" type="line"/>
+      <point x="1218.66848625" y="182.769420533"/>
+      <point x="1417.58041151" y="410.406728952"/>
+      <point x="1417.58041151" y="704.406728952" type="curve" smooth="yes"/>
+      <point x="1417.58041151" y="1004.45076632"/>
+      <point x="1205.58041151" y="1212.76942053"/>
+      <point x="838.976747848" y="1239.85749528" type="curve"/>
+      <point x="838.976747848" y="1365.22018686" type="line"/>
+      <point x="671.943103086" y="1365.22018686" type="line"/>
+      <point x="671.943103086" y="1239.85749528" type="line"/>
+      <point x="306.888673105" y="1211.76942053"/>
+      <point x="97.3834768003" y="1002.40672895"/>
+      <point x="97.3834768003" y="704.406728952" type="curve" smooth="yes"/>
+      <point x="97.3834768003" y="410.362691581"/>
+      <point x="296.658093638" y="184.406728952"/>
+      <point x="671.943103086" y="154.637308419" type="curve"/>
+    </contour>
+    <contour>
+      <point x="671.943103086" y="304.891140038" type="line"/>
+      <point x="396.790205753" y="333.29786899"/>
+      <point x="276.098467353" y="500.033644762"/>
+      <point x="276.098467353" y="704.406728952" type="curve" smooth="yes"/>
+      <point x="276.098467353" y="917.142504724"/>
+      <point x="409.152897334" y="1063.55962629"/>
+      <point x="671.943103086" y="1089.60366366" type="curve"/>
+    </contour>
+    <contour>
+      <point x="838.976747848" y="304.891140038" type="curve"/>
+      <point x="838.976747848" y="1089.60366366" type="line"/>
+      <point x="1107.12964518" y="1064.55962629"/>
+      <point x="1238.50272937" y="915.417121562"/>
+      <point x="1238.50272937" y="704.406728952" type="curve" smooth="yes"/>
+      <point x="1238.50272937" y="497.98960739"/>
+      <point x="1115.36022465" y="332.29786899"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

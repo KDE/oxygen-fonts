@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="1">
+  <advance width="1423.80605711"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="376.559626286" y="174.036111694" type="line"/>
+      <point x="376.559626286" y="613.261757296" type="line"/>
+      <point x="576.733308839" y="613.261757296" type="line"/>
+      <point x="576.733308839" y="764.033644762" type="line"/>
+      <point x="376.559626286" y="764.033644762" type="line"/>
+      <point x="376.559626286" y="1179.93024354" type="line"/>
+      <point x="538.17121562" y="1179.93024354" type="line" smooth="yes"/>
+      <point x="904.137570859" y="1179.93024354"/>
+      <point x="1124.82684233" y="1062.91985093"/>
+      <point x="1124.82684233" y="668.362691581" type="curve" smooth="yes"/>
+      <point x="1124.82684233" y="342.365158514"/>
+      <point x="941.344898173" y="174.036111694"/>
+      <point x="624.269682973" y="174.036111694" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="173.093533487" y="0.362691580936" type="line"/>
+      <point x="607.632374554" y="0.362691580936" type="line" smooth="yes"/>
+      <point x="1039.76448667" y="0.362691580936"/>
+      <point x="1336.11678564" y="224.264224228"/>
+      <point x="1336.11678564" y="670.230579467" type="curve" smooth="yes"/>
+      <point x="1336.11678564" y="1180.84463573"/>
+      <point x="994.523514592" y="1351.15289733"/>
+      <point x="519.577944573" y="1351.15289733" type="curve" smooth="yes"/>
+      <point x="173.093533487" y="1351.15289733" type="line"/>
+      <point x="173.093533487" y="762.264224228" type="line"/>
+      <point x="64.324112954" y="762.264224228" type="line"/>
+      <point x="64.324112954" y="611.492336763" type="line"/>
+      <point x="173.093533487" y="611.492336763" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

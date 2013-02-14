@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="839.32117363"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="399.657713101" y="728.86473861" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="164.25887046" y="1186.53115159" type="curve"/>
+      <point x="164.25887046" y="1186.53115159"/>
+      <point x="211.523488348" y="1214.43719819"/>
+      <point x="217.0" y="1214.43719819" type="curve" smooth="yes"/>
+      <point x="235.560885996" y="1275.79193785"/>
+      <point x="285.029734411" y="1253.79960109"/>
+      <point x="337.980841906" y="1255.27802855" type="curve" smooth="yes"/>
+      <point x="344.791019316" y="1255.27802855"/>
+      <point x="535.159169641" y="1254.07671111"/>
+      <point x="585.425703338" y="1254.07671111" type="curve"/>
+      <point x="627.560885996" y="1254.07671111"/>
+      <point x="635.013410666" y="1227.4650168"/>
+      <point x="635.013410666" y="1380.48225908" type="curve"/>
+      <point x="635.013410666" y="1380.48225908"/>
+      <point x="585.313510393" y="1358.57621247"/>
+      <point x="580.097785009" y="1358.3154262" type="curve"/>
+      <point x="568.317342011" y="1311.74496116"/>
+      <point x="536.068050598" y="1320.60594688"/>
+      <point x="469.03065295" y="1317.64909196" type="curve" smooth="yes"/>
+      <point x="447.436200924" y="1317.64909196"/>
+      <point x="316.640431451" y="1344.49375394"/>
+      <point x="237.544562251" y="1319.97984464" type="curve"/>
+      <point x="194.670165862" y="1319.97984464"/>
+      <point x="164.25887046" y="1307.02298971"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="1">
+  <advance width="1091.04506089"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="489.652923578" y="-44.6960686542" type="line"/>
+      <point x="581.605946882" y="-44.6960686542" type="line"/>
+      <point x="970.951107495" y="706.178327735" type="line"/>
+      <point x="589.127519421" y="1455.35665547" type="line"/>
+      <point x="495.174496116" y="1455.35665547" type="line"/>
+      <point x="106.872480579" y="703.699900273" type="line"/>
+    </contour>
+    <contour>
+      <point x="533.651007768" y="80.0335660298" type="curve"/>
+      <point x="420.25695465" y="283.255038841"/>
+      <point x="315.733466303" y="497.825503884"/>
+      <point x="203.600199454" y="705.699900273" type="curve"/>
+      <point x="317.255038841" y="912.835082931"/>
+      <point x="430.474595843" y="1120.70947932"/>
+      <point x="544.868648961" y="1325.40937959" type="curve"/>
+      <point x="653.305847155" y="1117.01341067"/>
+      <point x="764.046976695" y="910.356655469"/>
+      <point x="874.701816082" y="703.960686542" type="curve"/>
+      <point x="761.046976695" y="496.086290153"/>
+      <point x="646.827419693" y="286.733466303"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D" format="1">
+  <advance width="1454.76942053"/>
+  <unicode hex="0044"/>
+  <outline>
+    <contour>
+      <point x="722.714990552" y="429.864528658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="722.714990552" y="215.091591434" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="407.036111694" y="109.134579047" type="line"/>
+      <point x="407.036111694" y="1231.91985093" type="line"/>
+      <point x="345.409195885" y="1170.61158933" type="line"/>
+      <point x="581.769420533" y="1170.61158933" type="line" smooth="yes"/>
+      <point x="915.899065715" y="1170.61158933"/>
+      <point x="1103.3369725" y="1028.6452341"/>
+      <point x="1103.3369725" y="672.274616838" type="curve" smooth="yes"/>
+      <point x="1103.3369725" y="346.727850094"/>
+      <point x="932.502729372" y="175.21226118"/>
+      <point x="607.450766324" y="175.21226118" type="curve" smooth="yes"/>
+      <point x="346.090541675" y="175.21226118" type="line"/>
+    </contour>
+    <contour>
+      <point x="174.481944153" y="0.0" type="line"/>
+      <point x="603.966355238" y="0.0" type="line" smooth="yes"/>
+      <point x="1042.82385051" y="0.0"/>
+      <point x="1335.20979425" y="235.132112114"/>
+      <point x="1335.20979425" y="676.955962629" type="curve" smooth="yes"/>
+      <point x="1335.20979425" y="1138.28500945"/>
+      <point x="1021.68134579" y="1341.73577577"/>
+      <point x="579.054429981" y="1341.73577577" type="curve" smooth="yes"/>
+      <point x="174.481944153" y="1341.73577577" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

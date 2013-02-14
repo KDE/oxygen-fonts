@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U" format="1">
+  <advance width="1392.98960739"/>
+  <unicode hex="0055"/>
+  <outline>
+    <contour>
+      <point x="697.450766324" y="429.864528658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1256.05689691" y="10.0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="696.176149486" y="-18.0" type="curve" smooth="yes"/>
+      <point x="1049.54923368" y="-18.0"/>
+      <point x="1242.6165232" y="184.108859962"/>
+      <point x="1242.6165232" y="488.779813143" type="curve" smooth="yes"/>
+      <point x="1242.6165232" y="1341.73577577" type="line"/>
+      <point x="1010.06235566" y="1341.73577577" type="line"/>
+      <point x="1010.06235566" y="502.769420533" type="line" smooth="yes"/>
+      <point x="1010.06235566" y="281.958429561"/>
+      <point x="907.810990972" y="168.069756456"/>
+      <point x="696.176149486" y="168.069756456" type="curve" smooth="yes"/>
+      <point x="483.849569599" y="168.069756456"/>
+      <point x="382.927251732" y="281.59573798"/>
+      <point x="382.927251732" y="502.406728952" type="curve" smooth="yes"/>
+      <point x="382.927251732" y="1341.73577577" type="line"/>
+      <point x="150.373084191" y="1341.73577577" type="line"/>
+      <point x="150.373084191" y="490.417121562" type="line" smooth="yes"/>
+      <point x="150.373084191" y="183.70213101"/>
+      <point x="342.759027924" y="-18.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
