@@ -1,25 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0457" format="1">
-  <advance width="480"/>
+  <advance width="521"/>
   <unicode hex="0457"/>
   <outline>
-    <contour>
-      <point x="-52" y="1204" type="line"/>
-      <point x="142" y="1204" type="line"/>
-      <point x="142" y="1449" type="line"/>
-      <point x="-52" y="1449" type="line"/>
-    </contour>
-    <contour>
-      <point x="109" y="0" type="line"/>
-      <point x="356" y="0" type="line"/>
-      <point x="356" y="1016" type="line"/>
-      <point x="109" y="1016" type="line"/>
-    </contour>
-    <contour>
-      <point x="324" y="1204" type="line"/>
-      <point x="517" y="1204" type="line"/>
-      <point x="517" y="1449" type="line"/>
-      <point x="324" y="1449" type="line"/>
-    </contour>
+    <component base="dieresis" xOffset="-82.5" yOffset="44"/>
+    <component base="dotlessi"/>
   </outline>
 </glyph>

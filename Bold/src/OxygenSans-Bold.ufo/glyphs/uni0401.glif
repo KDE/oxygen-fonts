@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0401" format="1">
-  <advance width="1108"/>
+  <advance width="1174"/>
   <unicode hex="0401"/>
   <outline>
-    <contour>
-      <point x="310" y="1449" type="line"/>
-      <point x="504" y="1449" type="line"/>
-      <point x="504" y="1694" type="line"/>
-      <point x="310" y="1694" type="line"/>
-    </contour>
-    <contour>
-      <point x="686" y="1449" type="line"/>
-      <point x="879" y="1449" type="line"/>
-      <point x="879" y="1694" type="line"/>
-      <point x="686" y="1694" type="line"/>
-    </contour>
+    <component base="dieresis" xOffset="252" yOffset="360"/>
+    <component base="uni0415"/>
   </outline>
 </glyph>

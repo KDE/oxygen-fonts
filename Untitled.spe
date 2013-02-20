@@ -3,7 +3,7 @@
 <!-- Superpolator Designspace Object -->
 
 <!-- info -->
-<version format="110221_1144_developer_" superpolator="1" />
+<version format="120823_1018_beta_" superpolator="1" />
 <!-- application data -->
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
@@ -32,16 +32,4 @@
 </master>
 
 <!-- instance definitions -->
-<instance familyname="OxygenSans" sequence="" stylename="Regular">
-<location>
-<dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="0.2608" />
-</location>
-</instance>
-<instance familyname="OxygenSans" sequence="" stylename="Bold">
-<location>
-<dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="0.6813" />
-</location>
-</instance>
 </designspace>
