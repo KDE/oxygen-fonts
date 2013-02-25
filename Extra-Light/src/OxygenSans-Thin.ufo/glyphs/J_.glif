@@ -4,7 +4,7 @@
   <unicode hex="004A"/>
   <outline>
     <contour>
-      <point x="70" y="-131" type="line"/>
+      <point x="70" y="-131" type="line" smooth="yes"/>
       <point x="377" y="-131"/>
       <point x="452" y="0"/>
       <point x="452" y="268" type="curve" smooth="yes"/>
@@ -13,41 +13,9 @@
       <point x="338" y="238" type="line" smooth="yes"/>
       <point x="338" y="24"/>
       <point x="272" y="-37"/>
-      <point x="70" y="-37" type="curve"/>
+      <point x="70" y="-37" type="curve" smooth="yes"/>
       <point x="3" y="-37" type="line"/>
       <point x="3" y="-131" type="line"/>
     </contour>
-    <contour>
-      <point x="289" y="1349" type="move" name="top"/>
-    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>J</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>666</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

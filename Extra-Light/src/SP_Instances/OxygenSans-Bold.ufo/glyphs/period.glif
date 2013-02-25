@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period" format="1">
-  <advance width="512.036111694"/>
+  <advance width="514.199998617"/>
   <unicode hex="002E"/>
   <outline>
     <contour>
-      <point x="260.28747638" y="-4.32904681923" type="curve" smooth="yes"/>
-      <point x="342.012859542" y="-4.32904681923"/>
-      <point x="392.266691161" y="58.8471026664"/>
-      <point x="392.266691161" y="127.28747638" type="curve" smooth="yes"/>
-      <point x="392.266691161" y="196.409195885"/>
-      <point x="342.012859542" y="260.266691161"/>
-      <point x="260.28747638" y="260.266691161" type="curve" smooth="yes"/>
-      <point x="177.880747428" y="260.266691161"/>
-      <point x="127.264224228" y="196.409195885"/>
-      <point x="127.264224228" y="127.28747638" type="curve" smooth="yes"/>
-      <point x="127.264224228" y="58.4844110855"/>
-      <point x="178.880747428" y="-4.32904681923"/>
+      <point x="261.499999225" y="-3.90000027418" type="curve" smooth="yes"/>
+      <point x="343.299999177" y="-3.90000027418"/>
+      <point x="394.299998701" y="59.4999995828"/>
+      <point x="394.299998701" y="128.499999225" type="curve" smooth="yes"/>
+      <point x="394.299998701" y="198.199998856"/>
+      <point x="343.299999177" y="262.299998701"/>
+      <point x="261.499999225" y="262.299998701" type="curve" smooth="yes"/>
+      <point x="178.999999285" y="262.299998701"/>
+      <point x="127.599999785" y="198.199998856"/>
+      <point x="127.599999785" y="128.499999225" type="curve" smooth="yes"/>
+      <point x="127.599999785" y="59.0999996066"/>
+      <point x="179.999999285" y="-3.90000027418"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hyphen" format="1">
-  <advance width="634.78773882"/>
+  <advance width="632.400001526"/>
   <unicode hex="002D"/>
   <outline>
     <contour>
-      <point x="82.8109909721" y="430.217719924" type="line"/>
-      <point x="555.867887886" y="430.217719924" type="line"/>
-      <point x="555.867887886" y="595.484411085" type="line"/>
-      <point x="82.8109909721" y="595.484411085" type="line"/>
+      <point x="81.3000009656" y="428.800000906" type="line"/>
+      <point x="555.700000107" y="428.800000906" type="line"/>
+      <point x="555.700000107" y="596.099999607" type="line"/>
+      <point x="81.3000009656" y="596.099999607" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

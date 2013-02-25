@@ -1,52 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0452" format="1">
-  <advance width="1060.9925992"/>
+  <advance width="1247"/>
   <unicode hex="0452"/>
   <outline>
     <contour>
-      <point x="603.686804535" y="-255.186542095" type="line"/>
-      <point x="671.137570859" y="-255.186542095" type="line" smooth="yes"/>
-      <point x="941.137570859" y="-255.186542095"/>
-      <point x="962.862954021" y="-127.329046819"/>
-      <point x="962.862954021" y="149.264224228" type="curve" smooth="yes"/>
-      <point x="962.862954021" y="409.220186857" type="line" smooth="yes"/>
-      <point x="962.862954021" y="671.220186857"/>
-      <point x="858.225645602" y="817.626915809"/>
-      <point x="624.225645602" y="817.626915809" type="curve" smooth="yes"/>
-      <point x="493.17121562" y="817.626915809"/>
-      <point x="390.984673525" y="759.484411085"/>
-      <point x="313.47947722" y="664.474018476" type="curve"/>
-      <point x="313.47947722" y="996.549233676" type="line"/>
-      <point x="684.401795087" y="996.549233676" type="line"/>
-      <point x="684.401795087" y="1111.67095318" type="line"/>
-      <point x="313.47947722" y="1111.67095318" type="line"/>
-      <point x="313.47947722" y="1377.85749528" type="line"/>
-      <point x="153.039103506" y="1377.85749528" type="line"/>
-      <point x="153.039103506" y="1111.67095318" type="line"/>
-      <point x="68.7644866681" y="1111.67095318" type="line"/>
-      <point x="68.7644866681" y="997.230579467" type="line"/>
-      <point x="153.039103506" y="997.230579467" type="line"/>
-      <point x="153.039103506" y="0.0" type="line"/>
-      <point x="313.47947722" y="0.0" type="line"/>
-      <point x="313.47947722" y="451.406728952" type="line"/>
-      <point x="338.116785639" y="543.593271048"/>
-      <point x="460.215252992" y="668.142504724"/>
-      <point x="610.225645602" y="668.142504724" type="curve" smooth="yes"/>
-      <point x="774.19200084" y="668.142504724"/>
-      <point x="803.147963468" y="561.362691581"/>
-      <point x="803.147963468" y="337.450766324" type="curve" smooth="yes"/>
-      <point x="803.147963468" y="99.220186857" type="line" smooth="yes"/>
-      <point x="803.147963468" y="-93.3290468192"/>
-      <point x="787.598729792" y="-117.471551543"/>
-      <point x="634.862954021" y="-117.471551543" type="curve" smooth="yes"/>
-      <point x="592.324112954" y="-117.471551543" type="line"/>
+      <point x="742" y="-262" type="line"/>
+      <point x="732" y="-142" type="line"/>
+      <point x="765" y="-142" type="line" smooth="yes"/>
+      <point x="930" y="-142"/>
+      <point x="951" y="-109"/>
+      <point x="951" y="89" type="curve" smooth="yes"/>
+      <point x="951" y="332" type="line" smooth="yes"/>
+      <point x="951" y="560"/>
+      <point x="920" y="677"/>
+      <point x="739" y="677" type="curve" smooth="yes"/>
+      <point x="574" y="677"/>
+      <point x="441" y="547"/>
+      <point x="415" y="448" type="curve"/>
+      <point x="415" y="0" type="line"/>
+      <point x="275" y="0" type="line"/>
+      <point x="275" y="1002" type="line"/>
+      <point x="188" y="1002" type="line"/>
+      <point x="188" y="1096" type="line"/>
+      <point x="275" y="1096" type="line"/>
+      <point x="275" y="1369" type="line"/>
+      <point x="415" y="1369" type="line"/>
+      <point x="415" y="1096" type="line"/>
+      <point x="805" y="1096" type="line"/>
+      <point x="805" y="1002" type="line"/>
+      <point x="415" y="1002" type="line"/>
+      <point x="415" y="627" type="line"/>
+      <point x="500" y="737"/>
+      <point x="609" y="804"/>
+      <point x="753" y="804" type="curve" smooth="yes"/>
+      <point x="987" y="804"/>
+      <point x="1093" y="661"/>
+      <point x="1093" y="399" type="curve" smooth="yes"/>
+      <point x="1093" y="137" type="line" smooth="yes"/>
+      <point x="1093" y="-143"/>
+      <point x="1074" y="-262"/>
+      <point x="804" y="-262" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

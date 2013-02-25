@@ -1,25 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflex" format="1">
-  <advance width="742.093953391"/>
+  <advance width="730.399999499"/>
   <unicode hex="02C6"/>
   <outline>
     <contour>
-      <point x="364.869606865" y="728.86473861" type="move" name="_top"/>
-    </contour>
-    <contour>
-      <point x="117.488006509" y="1158.83891455" type="line"/>
-      <point x="218.652923578" y="1158.83891455" type="line"/>
-      <point x="367.305847155" y="1419.36815033" type="line"/>
-      <point x="510.521572538" y="1158.83891455" type="line"/>
-      <point x="612.251207222" y="1158.83891455" type="line"/>
-      <point x="462.0" y="1508.35857128" type="line"/>
-      <point x="268.956854923" y="1508.35857128" type="line"/>
+      <point x="101.199999303" y="1137.39999908" type="line"/>
+      <point x="217.399999946" y="1137.39999908" type="line"/>
+      <point x="364.799999893" y="1385.39999855" type="line"/>
+      <point x="510.800000012" y="1137.39999908" type="line"/>
+      <point x="628.400000691" y="1137.39999908" type="line"/>
+      <point x="459.00000003" y="1490.39999923" type="line"/>
+      <point x="280.399999857" y="1490.39999923" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>circumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>680</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

@@ -1,28 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlaut" format="1">
-  <advance width="797.852036532"/>
+  <advance width="801.899997413"/>
   <unicode hex="02DD"/>
   <outline>
     <contour>
-      <point x="431.181083351" y="314.193050598" type="move" name="_top"/>
+      <point x="116.399999738" y="1095.80000198" type="line"/>
+      <point x="232.099998653" y="1095.80000198" type="line"/>
+      <point x="501.799996853" y="1418.40000129" type="line"/>
+      <point x="309.399998188" y="1418.40000129" type="line"/>
     </contour>
     <contour>
-      <point x="119.176149486" y="1098.89659878" type="line"/>
-      <point x="233.178616418" y="1098.89659878" type="line"/>
-      <point x="500.061830779" y="1420.41465463" type="line"/>
-      <point x="322.497270628" y="1420.41465463" type="line"/>
-    </contour>
-    <contour>
-      <point x="359.080149066" y="1098.89659878" type="line"/>
-      <point x="472.675887046" y="1098.89659878" type="line"/>
-      <point x="743.504671426" y="1420.41465463" type="line"/>
-      <point x="565.80799916" y="1420.41465463" type="line"/>
+      <point x="367.899998844" y="1095.80000198" type="line"/>
+      <point x="483.099997818" y="1095.80000198" type="line"/>
+      <point x="773.899996459" y="1418.40000129" type="line"/>
+      <point x="576.399997711" y="1418.40000129" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>hungarumlaut</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>867</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

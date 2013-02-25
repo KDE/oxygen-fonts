@@ -3,7 +3,14 @@
   <advance width="1553"/>
   <unicode hex="022A"/>
   <outline>
-    <component base="macron" xOffset="184" yOffset="414"/>
     <component base="Odieresis"/>
+    <component base="macron" xOffset="247.5" yOffset="579"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

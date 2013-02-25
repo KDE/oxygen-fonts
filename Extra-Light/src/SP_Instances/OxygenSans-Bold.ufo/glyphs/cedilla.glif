@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cedilla" format="1">
-  <advance width="529.614056267"/>
+  <advance width="528.700000584"/>
   <unicode hex="00B8"/>
   <outline>
     <contour>
-      <point x="186.581644972" y="0.0" type="move" name="_bottom"/>
-    </contour>
-    <contour>
-      <point x="78.5027293722" y="-337.150430401" type="line"/>
-      <point x="248.945570019" y="-337.150430401" type="line"/>
-      <point x="294.979214781" y="36.1009342851" type="line"/>
-      <point x="186.536374134" y="36.1009342851" type="line"/>
+      <point x="76.6000012159" y="-334.800001502" type="line"/>
+      <point x="249.299999774" y="-334.800001502" type="line"/>
+      <point x="295.799999475" y="37.4999991059" type="line"/>
+      <point x="185.100000918" y="37.4999991059" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
     </dict>

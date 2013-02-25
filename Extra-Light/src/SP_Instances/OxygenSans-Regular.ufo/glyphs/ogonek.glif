@@ -1,40 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ogonek" format="1">
-  <advance width="545.395968927"/>
+  <advance width="537.599999666"/>
   <unicode hex="02DB"/>
   <outline>
     <contour>
-      <point x="411.776611379" y="10.0" type="move" name="_ogonek"/>
-    </contour>
-    <contour>
-      <point x="281.12943523" y="-390.266533697" type="curve" smooth="yes"/>
-      <point x="326.823588075" y="-390.266533697"/>
-      <point x="385.605946882" y="-376.744961159"/>
-      <point x="414.733466303" y="-363.137098467" type="curve"/>
-      <point x="414.733466303" y="-363.137098467"/>
-      <point x="416.604031073" y="-265.011494856"/>
-      <point x="417.082458535" y="-265.011494856" type="curve" smooth="yes"/>
-      <point x="360.729634684" y="-287.013410666"/>
-      <point x="339.429534957" y="-294.533067394"/>
-      <point x="291.125603611" y="-294.533067394" type="curve" smooth="yes"/>
-      <point x="254.604031073" y="-294.533067394"/>
-      <point x="206.427619148" y="-261.750708587"/>
-      <point x="206.427619148" y="-210.748792778" type="curve" smooth="yes"/>
-      <point x="206.427619148" y="-146.878228008"/>
-      <point x="286.476511652" y="-78.4429456225"/>
-      <point x="387.827419693" y="-5.18024354398" type="curve"/>
-      <point x="284.523488348" y="-9.13901427672" type="line"/>
-      <point x="192.825503884" y="-61.9664339702"/>
-      <point x="110.523488348" y="-138.444861432"/>
-      <point x="110.523488348" y="-231.876312198" type="curve" smooth="yes"/>
-      <point x="110.523488348" y="-334.048892505"/>
-      <point x="184.521572538" y="-390.266533697"/>
+      <point x="286.400000036" y="-365.19999975" type="curve" smooth="yes"/>
+      <point x="334.600000143" y="-365.19999975"/>
+      <point x="393.800000161" y="-351.399999738"/>
+      <point x="427.80000037" y="-336.399999678" type="curve"/>
+      <point x="427.80000037" y="-336.399999678"/>
+      <point x="428.000000298" y="-230.199999332"/>
+      <point x="428.200000286" y="-230.199999332" type="curve" smooth="yes"/>
+      <point x="410.200000346" y="-237.599999309"/>
+      <point x="363.800000221" y="-259.999999344"/>
+      <point x="314.800000191" y="-259.999999344" type="curve" smooth="yes"/>
+      <point x="266.657000291" y="-259.999999344"/>
+      <point x="243.973800259" y="-231.350399281"/>
+      <point x="243.973800259" y="-196.637599288" type="curve" smooth="yes"/>
+      <point x="243.973800259" y="-127.299999431"/>
+      <point x="318.516799836" y="-21.8712598423"/>
+      <point x="377.199999988" y="21.000000298" type="curve"/>
+      <point x="297.19999972" y="27.4000003934" type="line"/>
+      <point x="204.228599938" y="-11.0535396319"/>
+      <point x="106.521199886" y="-116.126799333"/>
+      <point x="106.521199886" y="-223.734999486" type="curve" smooth="yes"/>
+      <point x="106.521199886" y="-310.633599755"/>
+      <point x="171.172200147" y="-365.19999975"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>504</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

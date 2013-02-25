@@ -1,46 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="h" format="1">
-  <advance width="1135.04314508"/>
+  <advance width="1135.60000002"/>
   <unicode hex="0068"/>
   <outline>
     <contour>
-      <point x="552.043145077" y="728.86473861" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="552.043145077" y="365.171583036" type="move" name="center"/>
-    </contour>
-    <contour>
-      <point x="166.439114004" y="0.0" type="line"/>
-      <point x="316.688405417" y="0.0" type="line"/>
-      <point x="316.688405417" y="547.180243544" type="line" smooth="yes"/>
-      <point x="316.688405417" y="718.219557002"/>
-      <point x="376.907962419" y="898.701816082"/>
-      <point x="618.392137308" y="898.701816082" type="curve" smooth="yes"/>
-      <point x="772.570465043" y="898.701816082"/>
-      <point x="827.572380852" y="802.350908041"/>
-      <point x="827.572380852" y="609.12943523" type="curve" smooth="yes"/>
-      <point x="827.572380852" y="0.0" type="line"/>
-      <point x="978.604031073" y="0.0" type="line"/>
-      <point x="978.604031073" y="614.38830569" type="line" smooth="yes"/>
-      <point x="978.604031073" y="868.472680034"/>
-      <point x="863.25887046" y="1013.64909196"/>
-      <point x="644.823588075" y="1013.64909196" type="curve" smooth="yes"/>
-      <point x="471.994252572" y="1013.64909196"/>
-      <point x="335.602115263" y="931.25695465"/>
-      <point x="273.255038841" y="780.382558262" type="curve"/>
-      <point x="310.427619148" y="767.77469557" type="line"/>
-      <point x="317.470764224" y="1048.03739765" type="line"/>
-      <point x="317.470764224" y="1392.26078627" type="line"/>
-      <point x="166.439114004" y="1380.43528239" type="line"/>
+      <point x="159.19999969" y="0.0" type="line"/>
+      <point x="328.800000519" y="0.0" type="line"/>
+      <point x="328.800000519" y="536.599999547" type="line" smooth="yes"/>
+      <point x="328.800000519" y="714.599999845"/>
+      <point x="385.400000364" y="888.399999559"/>
+      <point x="616.99999994" y="888.399999559" type="curve" smooth="yes"/>
+      <point x="763.799999624" y="888.399999559"/>
+      <point x="815.599999487" y="797.199999779"/>
+      <point x="815.599999487" y="610.800000072" type="curve" smooth="yes"/>
+      <point x="815.599999487" y="0.0" type="line"/>
+      <point x="986.400000334" y="0.0" type="line"/>
+      <point x="986.400000334" y="619.400000215" type="line" smooth="yes"/>
+      <point x="986.400000334" y="877.800000399"/>
+      <point x="866.600000143" y="1018.80000022"/>
+      <point x="649.000000179" y="1018.80000022" type="curve" smooth="yes"/>
+      <point x="481.600000411" y="1018.80000022"/>
+      <point x="346.600000471" y="937.80000028"/>
+      <point x="283.000000417" y="795.000000626" type="curve"/>
+      <point x="322.400000513" y="781.000000566" type="line"/>
+      <point x="330.000000536" y="1058.20000044" type="line"/>
+      <point x="330.000000536" y="1382.39999986" type="line"/>
+      <point x="159.19999969" y="1369.99999982" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>918</integer>
+            <key>width</key>
+            <integer>86</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>180</integer>
+            <key>width</key>
+            <integer>114</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>850</integer>
+            <key>width</key>
+            <integer>114</integer>
+          </dict>
+        </array>
+      </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>h</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1138</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

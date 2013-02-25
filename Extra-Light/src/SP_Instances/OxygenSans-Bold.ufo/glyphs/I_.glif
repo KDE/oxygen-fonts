@@ -1,27 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="1">
-  <advance width="585.518055847"/>
+  <advance width="795.799998403"/>
   <unicode hex="0049"/>
   <outline>
     <contour>
-      <point x="294.121719505" y="431.457799706" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="525.992074323" y="10.0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="177.844635734" y="0.0" type="line"/>
-      <point x="410.398803275" y="0.0" type="line"/>
-      <point x="410.398803275" y="1341.73577577" type="line"/>
-      <point x="177.844635734" y="1341.73577577" type="line"/>
+      <point x="115.199999809" y="1352.60000002" type="line"/>
+      <point x="115.199999809" y="1212.00000119" type="line"/>
+      <point x="345.799999714" y="1212.00000119" type="line"/>
+      <point x="281.400000215" y="1264.70000094" type="line"/>
+      <point x="281.400000215" y="83.5999990702" type="line"/>
+      <point x="346.599999785" y="140.599998832" type="line"/>
+      <point x="115.199999809" y="140.599998832" type="line"/>
+      <point x="115.199999809" y="0.0" type="line"/>
+      <point x="680.599998593" y="0.0" type="line"/>
+      <point x="680.599998593" y="140.599998832" type="line"/>
+      <point x="445.299998701" y="140.599998832" type="line"/>
+      <point x="517.19999814" y="83.4999991059" type="line"/>
+      <point x="517.19999814" y="1266.20000088" type="line"/>
+      <point x="446.499998748" y="1212.00000119" type="line"/>
+      <point x="680.599998593" y="1212.00000119" type="line"/>
+      <point x="680.599998593" y="1352.60000002" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>80</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1274</integer>
+            <key>width</key>
+            <integer>80</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>104</integer>
+            <key>width</key>
+            <integer>494</integer>
+          </dict>
+        </array>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
     </dict>

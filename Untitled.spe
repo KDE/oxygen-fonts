@@ -8,8 +8,8 @@
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="100.0" />
-<data name="previewtext" value="Den Final Italia font" />
+<data name="previewTypeSize" value="48.0" />
+<data name="previewtext" value="@{}][Bå" />
 <data name="verticalPreviewAxis" value="None" />
 <data name="projectionAngle" value="2.68561525327" />
 <!-- axis definitions -->
@@ -32,4 +32,46 @@
 </master>
 
 <!-- instance definitions -->
+<instance familyname="OxygenSans" sequence="" stylename="Regular">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="0.4000" />
+</location>
+</instance>
+<instance familyname="OxygenSans" sequence="" stylename="Bold">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="0.7000" />
+</location>
+</instance>
+<instance familyname="OxygenSans" sequence="" stylename="Medium">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="0.5500" />
+</location>
+</instance>
+<instance familyname="OxygenSans" sequence="" stylename="Thin">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="0.1000" />
+</location>
+</instance>
+<instance familyname="OxygenSans" sequence="" stylename="Light">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="0.2000" />
+</location>
+</instance>
+<instance familyname="OxygenSans" sequence="" stylename="Book">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="0.3000" />
+</location>
+</instance>
+<instance familyname="OxygenSans" sequence="" stylename="Heavy">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="0.9000" />
+</location>
+</instance>
 </designspace>

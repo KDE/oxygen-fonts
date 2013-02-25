@@ -1,22 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccent" format="1">
-  <advance width="417.554167541"/>
+  <advance width="420.799997926"/>
   <unicode hex="02D9"/>
   <outline>
     <contour>
-      <point x="207.870354818" y="314.193050598" type="move" name="_top"/>
-    </contour>
-    <contour>
-      <point x="121.6165232" y="1156.40426202" type="line"/>
-      <point x="294.442840647" y="1156.40426202" type="line"/>
-      <point x="294.442840647" y="1352.19693471" type="line"/>
-      <point x="121.6165232" y="1352.19693471" type="line"/>
+      <point x="122.399999499" y="1154.80000103" type="line"/>
+      <point x="296.699998558" y="1154.80000103" type="line"/>
+      <point x="296.699998558" y="1351.60000038" type="line"/>
+      <point x="122.399999499" y="1351.60000038" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dotaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>473</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

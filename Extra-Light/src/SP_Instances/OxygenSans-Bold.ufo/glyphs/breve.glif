@@ -1,32 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="breve" format="1">
-  <advance width="657.689271468"/>
+  <advance width="655.600001335"/>
   <unicode hex="02D8"/>
   <outline>
     <contour>
-      <point x="332.295402058" y="314.193050598" type="move" name="_top"/>
-    </contour>
-    <contour>
-      <point x="330.976747848" y="1144.38100987" type="curve" smooth="yes"/>
-      <point x="461.670953181" y="1144.38100987"/>
-      <point x="578.670953181" y="1215.00792568"/>
-      <point x="578.670953181" y="1376.22811253" type="curve"/>
-      <point x="445.041570439" y="1376.22811253" type="line"/>
-      <point x="445.041570439" y="1301.52598152"/>
-      <point x="400.515588915" y="1268.60366366"/>
-      <point x="330.976747848" y="1268.60366366" type="curve" smooth="yes"/>
-      <point x="261.437906781" y="1268.60366366"/>
-      <point x="219.505196305" y="1301.52598152"/>
-      <point x="219.505196305" y="1376.22811253" type="curve"/>
-      <point x="85.9198509343" y="1376.22811253" type="line"/>
-      <point x="85.9198509343" y="1215.37061726"/>
-      <point x="201.282542515" y="1144.38100987"/>
+      <point x="330.10000056" y="1141.90000159" type="curve" smooth="yes"/>
+      <point x="462.099999726" y="1141.90000159"/>
+      <point x="579.099999726" y="1212.90000135"/>
+      <point x="579.099999726" y="1374.40000117" type="curve"/>
+      <point x="443.400001049" y="1374.40000117" type="line"/>
+      <point x="443.400001049" y="1300.50000066"/>
+      <point x="399.900000393" y="1268.10000032"/>
+      <point x="330.10000056" y="1268.10000032" type="curve" smooth="yes"/>
+      <point x="260.300000727" y="1268.10000032"/>
+      <point x="219.300000131" y="1300.50000066"/>
+      <point x="219.300000131" y="1374.40000117" type="curve"/>
+      <point x="83.7000014186" y="1374.40000117" type="line"/>
+      <point x="83.7000014186" y="1213.30000132"/>
+      <point x="199.100001395" y="1141.90000159"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>breve</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>622</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

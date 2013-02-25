@@ -1,26 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="1">
-  <advance width="393.511993491"/>
+  <advance width="426.200000942"/>
   <unicode hex="0131"/>
   <outline>
     <contour>
-      <point x="197.125603611" y="728.86473861" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="354.382558262" y="10.0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="136.350908041" y="0.0" type="line"/>
-      <point x="262.859069914" y="0.0" type="line"/>
-      <point x="262.859069914" y="995.302015536" type="line"/>
-      <point x="136.350908041" y="995.302015536" type="line"/>
+      <point x="142.399999946" y="0.0" type="line"/>
+      <point x="295.200000972" y="0.0" type="line"/>
+      <point x="295.200000972" y="999.200000167" type="line"/>
+      <point x="142.399999946" y="999.200000167" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -16,47 +16,12 @@
       <point x="558" y="1354" type="line"/>
     </contour>
     <contour>
-      <point x="352" y="508" type="line" smooth="yes"/>
+      <point x="352" y="508" type="line"/>
       <point x="631" y="1288" type="line"/>
       <point x="586" y="1290" type="line"/>
       <point x="875" y="508" type="line"/>
       <point x="908" y="544" type="line"/>
       <point x="323" y="544" type="line"/>
     </contour>
-    <contour>
-      <point x="1063" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="603" y="1339" type="move" name="top"/>
-    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>A</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1217</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

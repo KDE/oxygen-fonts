@@ -1,33 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Z" format="1">
-  <advance width="1176.65016796"/>
+  <advance width="1177.8999992"/>
   <unicode hex="005A"/>
   <outline>
     <contour>
-      <point x="608.31865421" y="429.864528658" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="142.813457905" y="0.0" type="line"/>
-      <point x="1059.78228008" y="0.0" type="line"/>
-      <point x="1063.28747638" y="175.21226118" type="line"/>
-      <point x="356.665494436" y="175.21226118" type="line"/>
-      <point x="387.929718665" y="104.639775352" type="line"/>
-      <point x="1055.24343901" y="1188.55715935" type="line"/>
-      <point x="1052.37555112" y="1341.73577577" type="line"/>
-      <point x="160.966355238" y="1341.73577577" type="line"/>
-      <point x="160.966355238" y="1170.61158933" type="line"/>
-      <point x="865.370617258" y="1170.61158933" type="line"/>
-      <point x="827.469084611" y="1239.08560781" type="line"/>
-      <point x="142.813457905" y="146.826317447" type="line"/>
+      <point x="142.999999881" y="0.0" type="line"/>
+      <point x="1061.19999909" y="0.0" type="line"/>
+      <point x="1064.49999923" y="177.599998474" type="line"/>
+      <point x="360.899997294" y="177.599998474" type="line"/>
+      <point x="392.499997079" y="106.299998939" type="line"/>
+      <point x="1056.39999926" y="1197.50000125" type="line"/>
+      <point x="1053.69999915" y="1352.60000002" type="line"/>
+      <point x="160.500000298" y="1352.60000002" type="line"/>
+      <point x="160.500000298" y="1179.20000148" type="line"/>
+      <point x="863.300001323" y="1179.20000148" type="line"/>
+      <point x="825.100001514" y="1248.70000082" type="line"/>
+      <point x="142.999999881" y="148.299999058" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Z</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1198</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

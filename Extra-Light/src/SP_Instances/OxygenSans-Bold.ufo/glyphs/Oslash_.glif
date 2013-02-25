@@ -1,66 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslash" format="1">
-  <advance width="1504.78527189"/>
+  <advance width="1553.0"/>
   <unicode hex="00D8"/>
   <outline>
     <contour>
-      <point x="752.733308839" y="429.864528658" type="move" name="top"/>
+      <point x="503.999999404" y="-221.999999762" type="line"/>
+      <point x="1184.9999994" y="1518.00000024" type="line"/>
+      <point x="1069.0" y="1562.0" type="line"/>
+      <point x="393.0" y="-183.0" type="line"/>
     </contour>
     <contour>
-      <point x="468.513121982" y="-171.033644762" type="line"/>
-      <point x="543.228112534" y="7.45076632375" type="line"/>
-      <point x="608.634841486" y="-11.2305794667"/>
-      <point x="678.997533067" y="-20.5492336763"/>
-      <point x="755.272149906" y="-20.5492336763" type="curve" smooth="yes"/>
-      <point x="1171.76448667" y="-20.5492336763"/>
-      <point x="1418.59080412" y="266.119252572"/>
-      <point x="1418.59080412" y="692.888673105" type="curve" smooth="yes"/>
-      <point x="1418.59080412" y="995.899065715"/>
-      <point x="1300.32657989" y="1217.86542095"/>
-      <point x="1096.22811253" y="1330.73330884" type="curve"/>
-      <point x="1173.36022465" y="1517.86542095" type="line"/>
-      <point x="1057.89906571" y="1560.59080412" type="line"/>
-      <point x="982.997533067" y="1379.37061726" type="line"/>
-      <point x="913.272149906" y="1400.73330884"/>
-      <point x="838.360224648" y="1411.73330884"/>
-      <point x="757.041570439" y="1411.73330884" type="curve" smooth="yes"/>
-      <point x="350.922317867" y="1411.73330884"/>
-      <point x="93.0415704388" y="1136.66848625"/>
-      <point x="93.0415704388" y="693.932710477" type="curve" smooth="yes"/>
-      <point x="93.0415704388" y="394.064822591"/>
-      <point x="215.437906781" y="161.637308419"/>
-      <point x="433.360224648" y="50.8134579047" type="curve"/>
-      <point x="358.733308839" y="-129.220186857" type="line"/>
+      <point x="827.0" y="1349.0" type="move"/>
     </contour>
-    <contour>
-      <point x="509.3834768" y="240.398803275" type="line"/>
-      <point x="372.847102666" y="328.727850094"/>
-      <point x="306.056896914" y="496.264224228"/>
-      <point x="306.056896914" y="698.888673105" type="curve" smooth="yes"/>
-      <point x="306.056896914" y="996.919850934"/>
-      <point x="454.945570019" y="1223.64276716"/>
-      <point x="756.360224648" y="1223.64276716" type="curve" smooth="yes"/>
-      <point x="813.09600042" y="1223.64276716"/>
-      <point x="865.282542515" y="1215.64276716"/>
-      <point x="909.655626706" y="1201.04949612" type="curve"/>
-    </contour>
-    <contour>
-      <point x="756.360224648" y="164.365158514" type="curve" smooth="yes"/>
-      <point x="704.899065715" y="164.365158514"/>
-      <point x="658.305794667" y="170.727850094"/>
-      <point x="617.888673105" y="183.002466933" type="curve"/>
-      <point x="1018.47947722" y="1137.97181398" type="line"/>
-      <point x="1145.19200084" y="1046.36815033"/>
-      <point x="1206.70758975" y="883.974280915"/>
-      <point x="1206.70758975" y="691.492336763" type="curve" smooth="yes"/>
-      <point x="1206.70758975" y="388.230579467"/>
-      <point x="1059.36815033" y="164.365158514"/>
-    </contour>
+    <component base="O"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Oslash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1553</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

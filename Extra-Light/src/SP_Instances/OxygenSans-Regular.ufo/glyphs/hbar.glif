@@ -1,44 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbar" format="1">
-  <advance width="1155.83891455"/>
+  <advance width="1134.39999908"/>
   <unicode hex="0127"/>
   <outline>
     <contour>
-      <point x="226.493753937" y="0.0" type="line"/>
-      <point x="352.001915809" y="0.0" type="line"/>
-      <point x="352.001915809" y="680.086290153" type="line"/>
-      <point x="371.825503884" y="776.913709847"/>
-      <point x="505.525404157" y="903.137098467"/>
-      <point x="673.96643397" y="903.137098467" type="curve" smooth="yes"/>
-      <point x="858.538814823" y="903.137098467"/>
-      <point x="889.234883477" y="790.480343271"/>
-      <point x="889.234883477" y="551.037397649" type="curve" smooth="yes"/>
-      <point x="889.234883477" y="0.0" type="line"/>
-      <point x="1014.74304535" y="0.0" type="line"/>
-      <point x="1014.74304535" y="601.694152845" type="line" smooth="yes"/>
-      <point x="1014.74304535" y="853.253123032"/>
-      <point x="935.489922318" y="1020.69415284"/>
-      <point x="722.313510393" y="1020.69415284" type="curve" smooth="yes"/>
-      <point x="562.092037581" y="1020.69415284"/>
-      <point x="438.872480579" y="959.735382112"/>
-      <point x="352.001915809" y="851.470764224" type="curve"/>
-      <point x="352.001915809" y="1167.13709847" type="line"/>
-      <point x="600.174496116" y="1167.13709847" type="line"/>
-      <point x="600.174496116" y="1263.78427462" type="line"/>
-      <point x="352.001915809" y="1263.78427462" type="line"/>
-      <point x="352.001915809" y="1370.73729792" type="line"/>
-      <point x="226.493753937" y="1352.73729792" type="line"/>
-      <point x="226.493753937" y="1263.78427462" type="line"/>
-      <point x="143.146677514" y="1263.78427462" type="line"/>
-      <point x="143.146677514" y="1167.13709847" type="line"/>
-      <point x="226.493753937" y="1167.13709847" type="line"/>
+      <point x="200.599998891" y="0.0" type="line"/>
+      <point x="348.799999863" y="0.0" type="line"/>
+      <point x="348.799999863" y="681.200000048" type="line"/>
+      <point x="372.800000042" y="775.799999952"/>
+      <point x="499.399999738" y="891.999999523"/>
+      <point x="657.399999291" y="891.999999523" type="curve" smooth="yes"/>
+      <point x="829.999998778" y="891.999999523"/>
+      <point x="859.999998748" y="786.999999851"/>
+      <point x="859.999998748" y="561.200000435" type="curve" smooth="yes"/>
+      <point x="859.999998748" y="0.0" type="line"/>
+      <point x="1008.19999972" y="0.0" type="line"/>
+      <point x="1008.19999972" y="604.200000107" type="line" smooth="yes"/>
+      <point x="1008.19999972" y="866.200000554"/>
+      <point x="915.999999166" y="1023.20000011"/>
+      <point x="706.999999344" y="1023.20000011" type="curve" smooth="yes"/>
+      <point x="553.599999636" y="1023.20000011"/>
+      <point x="433.999999791" y="966.000000268"/>
+      <point x="348.799999863" y="864.000000536" type="curve"/>
+      <point x="348.799999863" y="1155.99999952" type="line"/>
+      <point x="599.199999958" y="1155.99999952" type="line"/>
+      <point x="599.199999958" y="1260.99999988" type="line"/>
+      <point x="348.799999863" y="1260.99999988" type="line"/>
+      <point x="348.799999863" y="1373.80000013" type="line"/>
+      <point x="200.599998891" y="1355.80000013" type="line"/>
+      <point x="200.599998891" y="1260.99999988" type="line"/>
+      <point x="115.999998838" y="1260.99999988" type="line"/>
+      <point x="115.999998838" y="1155.99999952" type="line"/>
+      <point x="200.599998891" y="1155.99999952" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

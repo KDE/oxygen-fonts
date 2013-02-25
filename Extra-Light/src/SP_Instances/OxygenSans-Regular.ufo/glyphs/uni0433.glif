@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0433" format="1">
-  <advance width="904.02873714"/>
+  <advance width="855"/>
   <unicode hex="0433"/>
   <outline>
     <contour>
-      <point x="452.144761705" y="728.86473861" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="166.617441738" y="0.0" type="line"/>
-      <point x="320.476511652" y="0.0" type="line"/>
-      <point x="320.476511652" y="891.442945623" type="line"/>
-      <point x="824.587707327" y="891.442945623" type="line"/>
-      <point x="838.632768213" y="995.302015536" type="line"/>
-      <point x="166.617441738" y="995.302015536" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="180" y="986" type="line"/>
+      <point x="803" y="986" type="line"/>
+      <point x="803" y="898" type="line"/>
+      <point x="294" y="898" type="line"/>
+      <point x="294" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>180</integer>
+            <key>width</key>
+            <integer>623</integer>
+          </dict>
+        </array>
       </dict>
     </dict>
   </lib>

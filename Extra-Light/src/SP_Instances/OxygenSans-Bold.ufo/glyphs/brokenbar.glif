@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brokenbar" format="1">
-  <advance width="539.872296872"/>
+  <advance width="550.299993336"/>
   <unicode hex="00A6"/>
   <outline>
     <contour>
-      <point x="192.390877598" y="-350.70213101" type="line"/>
-      <point x="355.152372454" y="-350.70213101" type="line"/>
-      <point x="355.152372454" y="305.189009028" type="line"/>
-      <point x="192.390877598" y="305.189009028" type="line"/>
+      <point x="196.699997246" y="-349.900000513" type="line"/>
+      <point x="196.699997246" y="306.699999034" type="line"/>
+      <point x="361.699995816" y="306.699999034" type="line"/>
+      <point x="361.699995816" y="-349.900000513" type="line"/>
     </contour>
     <contour>
-      <point x="192.390877598" y="767.997533067" type="line"/>
-      <point x="355.152372454" y="767.997533067" type="line"/>
-      <point x="355.152372454" y="1422.25136469" type="line"/>
-      <point x="192.390877598" y="1422.25136469" type="line"/>
+      <point x="196.699997246" y="766.300001085" type="line"/>
+      <point x="196.699997246" y="1421.30000061" type="line"/>
+      <point x="361.699995816" y="1421.30000061" type="line"/>
+      <point x="361.699995816" y="766.300001085" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

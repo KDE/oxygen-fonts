@@ -1,45 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="n" format="1">
-  <advance width="1160.02325215"/>
+  <advance width="1160.89999944"/>
   <unicode hex="006E"/>
   <outline>
     <contour>
-      <point x="564.759027924" y="314.193050598" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="564.759027924" y="0.0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="144.570018896" y="0.0" type="line"/>
-      <point x="355.321121142" y="0.0" type="line"/>
-      <point x="355.321121142" y="522.448299391" type="line" smooth="yes"/>
-      <point x="355.321121142" y="720.471551543"/>
-      <point x="420.958429561" y="867.580411505"/>
-      <point x="636.670953181" y="867.580411505" type="curve" smooth="yes"/>
-      <point x="777.966355238" y="867.580411505"/>
-      <point x="814.339439429" y="775.339439429"/>
-      <point x="814.70213101" y="617.735775772" type="curve"/>
-      <point x="814.70213101" y="0.0" type="line"/>
-      <point x="1025.45323326" y="0.0" type="line"/>
-      <point x="1025.45323326" y="625.341906362" type="line" smooth="yes"/>
-      <point x="1025.45323326" y="885.264224228"/>
-      <point x="916.59573798" y="1029.20979425"/>
-      <point x="684.463625866" y="1029.20979425" type="curve" smooth="yes"/>
-      <point x="501.727850094" y="1029.20979425"/>
-      <point x="381.233046399" y="947.385943733"/>
-      <point x="304.067289523" y="823.474018476" type="curve"/>
-      <point x="350.331513752" y="823.474018476" type="line"/>
-      <point x="319.748635314" y="1006.44037371" type="line"/>
-      <point x="144.570018896" y="1006.44037371" type="line"/>
+      <point x="143.60000062" y="0.0" type="line"/>
+      <point x="356.999998927" y="0.0" type="line"/>
+      <point x="356.999998927" y="520.900000989" type="line" smooth="yes"/>
+      <point x="356.999998927" y="719.800000429"/>
+      <point x="422.599998951" y="866.200000882"/>
+      <point x="637.099999726" y="866.200000882" type="curve" smooth="yes"/>
+      <point x="777.500000298" y="866.200000882"/>
+      <point x="813.500000536" y="774.500000536"/>
+      <point x="813.900000513" y="617.400000215" type="curve"/>
+      <point x="813.900000513" y="0.0" type="line"/>
+      <point x="1027.29999882" y="0.0" type="line"/>
+      <point x="1027.29999882" y="626.199999452" type="line" smooth="yes"/>
+      <point x="1027.29999882" y="885.599999785"/>
+      <point x="918.199998975" y="1029.89999956"/>
+      <point x="685.899999082" y="1029.89999956" type="curve" smooth="yes"/>
+      <point x="503.499998868" y="1029.89999956"/>
+      <point x="382.799998999" y="948.299999416"/>
+      <point x="304.999999404" y="824.499999344" type="curve"/>
+      <point x="351.599999189" y="824.499999344" type="line"/>
+      <point x="320.699999392" y="1006.99999964" type="line"/>
+      <point x="143.60000062" y="1006.99999964" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>918</integer>
+            <key>width</key>
+            <integer>86</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>966</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>180</integer>
+            <key>width</key>
+            <integer>114</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>844</integer>
+            <key>width</key>
+            <integer>114</integer>
+          </dict>
+        </array>
       </dict>
     </dict>
   </lib>

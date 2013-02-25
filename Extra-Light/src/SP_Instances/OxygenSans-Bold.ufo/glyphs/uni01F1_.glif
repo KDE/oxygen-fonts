@@ -1,46 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01F1" format="1">
-  <advance width="2659.32112114"/>
+  <advance width="2632.79999912"/>
   <unicode hex="01F1"/>
   <outline>
-    <contour>
-      <point x="1582.99207432" y="0.0" type="line"/>
-      <point x="2506.9712891" y="0.0" type="line"/>
-      <point x="2509.83917699" y="174.89360697" type="line"/>
-      <point x="1867.27409196" y="174.89360697" type="line"/>
-      <point x="2501.1578312" y="1191.10639303" type="line"/>
-      <point x="2501.1578312" y="1340.14250472" type="line"/>
-      <point x="1597.32112114" y="1340.14250472" type="line"/>
-      <point x="1597.63977535" y="1169.01831829" type="line"/>
-      <point x="2231.89906571" y="1169.01831829" type="line"/>
-      <point x="1582.99207432" y="146.507663237" type="line"/>
-    </contour>
-    <contour>
-      <point x="407.149905522" y="173.300335923" type="line"/>
-      <point x="407.149905522" y="1170.29293512" type="line"/>
-      <point x="568.937644342" y="1170.29293512" type="line" smooth="yes"/>
-      <point x="904.979214781" y="1170.29293512"/>
-      <point x="1084.84463573" y="1026.73330884"/>
-      <point x="1084.84463573" y="670.362691581" type="curve" smooth="yes"/>
-      <point x="1084.84463573" y="344.815924837"/>
-      <point x="919.033644762" y="173.300335923"/>
-      <point x="594.937644342" y="173.300335923" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="182.562093219" y="0.0" type="line"/>
-      <point x="591.771887466" y="0.0" type="line" smooth="yes"/>
-      <point x="1032.541308" y="0.0"/>
-      <point x="1309.38841067" y="233.220186857"/>
-      <point x="1309.38841067" y="675.044037371" type="curve" smooth="yes"/>
-      <point x="1309.38841067" y="1136.37308419"/>
-      <point x="1011.39880328" y="1340.14250472"/>
-      <point x="566.859962209" y="1340.14250472" type="curve" smooth="yes"/>
-      <point x="182.562093219" y="1340.14250472" type="line"/>
-    </contour>
+    <component base="Z" xOffset="1454.89999992"/>
+    <component base="D"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
     </dict>

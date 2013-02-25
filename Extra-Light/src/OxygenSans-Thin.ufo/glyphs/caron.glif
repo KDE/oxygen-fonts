@@ -1,48 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron" format="1">
-  <advance width="765"/>
+  <advance width="764"/>
   <unicode hex="02C7"/>
   <outline>
     <contour>
-      <point x="336" y="1179" type="line"/>
-      <point x="386" y="1179" type="line"/>
-      <point x="574" y="1542" type="line"/>
-      <point x="516" y="1542" type="line"/>
-      <point x="363" y="1276" type="line"/>
-      <point x="212" y="1542" type="line"/>
-      <point x="154" y="1542" type="line"/>
-    </contour>
-    <contour>
-      <point x="364" y="986" type="move" name="_top"/>
+      <point x="273" y="1199" type="line"/>
+      <point x="440" y="1199" type="line"/>
+      <point x="582" y="1542" type="line"/>
+      <point x="509" y="1542" type="line"/>
+      <point x="358" y="1258" type="line"/>
+      <point x="220" y="1542" type="line"/>
+      <point x="148" y="1542" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>caron</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>765</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

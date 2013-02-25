@@ -1,25 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron" format="1">
-  <advance width="742.572380852"/>
+  <advance width="729.999999493"/>
   <unicode hex="02C7"/>
   <outline>
     <contour>
-      <point x="364.521572538" y="728.86473861" type="move" name="_top"/>
-    </contour>
-    <contour>
-      <point x="267.303931346" y="1152.13901428" type="line"/>
-      <point x="462.478427462" y="1152.13901428" type="line"/>
-      <point x="609.206146336" y="1508.35857128" type="line"/>
-      <point x="512.87056477" y="1508.35857128" type="line"/>
-      <point x="367.305847155" y="1200.60403107" type="line"/>
-      <point x="215.12943523" y="1508.35857128" type="line"/>
-      <point x="119.83699874" y="1508.35857128" type="line"/>
+      <point x="272.199999988" y="1149.79999927" type="line"/>
+      <point x="448.400000125" y="1149.79999927" type="line"/>
+      <point x="632.800000757" y="1490.39999923" type="line"/>
+      <point x="506.99999997" y="1490.39999923" type="line"/>
+      <point x="356.399999976" y="1251.5999999" type="line"/>
+      <point x="221.600000024" y="1490.39999923" type="line"/>
+      <point x="97.9999992549" y="1490.39999923" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>caron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>679</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

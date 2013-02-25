@@ -1,31 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="F" format="1">
-  <advance width="1078.68381272"/>
+  <advance width="1080.3999989"/>
   <unicode hex="0046"/>
   <outline>
     <contour>
-      <point x="174.481944153" y="0.0" type="line"/>
-      <point x="408.310728532" y="0.0" type="line"/>
-      <point x="408.310728532" y="657.735775772" type="line"/>
-      <point x="327.60613059" y="582.448299391" type="line"/>
-      <point x="967.134579047" y="582.448299391" type="line"/>
-      <point x="967.134579047" y="751.29786899" type="line"/>
-      <point x="322.968822171" y="751.29786899" type="line"/>
-      <point x="408.310728532" y="688.406728952" type="line"/>
-      <point x="408.310728532" y="1239.37061726" type="line"/>
-      <point x="319.562093219" y="1163.79813143" type="line"/>
-      <point x="1018.67342011" y="1163.79813143" type="line"/>
-      <point x="1029.71745748" y="1341.73577577" type="line"/>
-      <point x="174.481944153" y="1341.73577577" type="line"/>
+      <point x="173.400000691" y="0.0" type="line"/>
+      <point x="410.399998665" y="0.0" type="line"/>
+      <point x="410.399998665" y="668.600000024" type="line"/>
+      <point x="328.799999237" y="592.100000799" type="line"/>
+      <point x="968.999998808" y="592.100000799" type="line"/>
+      <point x="968.999998808" y="763.299999297" type="line"/>
+      <point x="324.199999213" y="763.299999297" type="line"/>
+      <point x="410.399998665" y="699.69999975" type="line"/>
+      <point x="410.399998665" y="1248.50000113" type="line"/>
+      <point x="320.699999273" y="1172.2000016" type="line"/>
+      <point x="1020.79999864" y="1172.2000016" type="line"/>
+      <point x="1031.89999861" y="1352.60000002" type="line"/>
+      <point x="173.400000691" y="1352.60000002" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>F</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1108</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

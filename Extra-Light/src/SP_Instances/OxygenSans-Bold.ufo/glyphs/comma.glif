@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="comma" format="1">
-  <advance width="497.090541675"/>
+  <advance width="498.899998844"/>
   <unicode hex="002C"/>
   <outline>
     <contour>
-      <point x="134.593271048" y="-243.515588915" type="curve"/>
-      <point x="266.344373294" y="-243.515588915" type="line"/>
-      <point x="292.792672685" y="-172.137045979"/>
-      <point x="384.80799916" y="113.522989712"/>
-      <point x="402.652634894" y="181.077682133" type="curve"/>
-      <point x="405.103401218" y="228.111326895" type="line"/>
-      <point x="199.968822171" y="228.111326895" type="line"/>
-      <point x="195.826317447" y="159.919326055"/>
-      <point x="143.196934705" y="-171.81839177"/>
+      <point x="134.50000006" y="-242.900000393" type="curve"/>
+      <point x="268.899998367" y="-242.900000393" type="line"/>
+      <point x="293.799999356" y="-175.699997723"/>
+      <point x="388.799997449" y="117.999997139"/>
+      <point x="405.599998116" y="181.599999666" type="curve"/>
+      <point x="408.199998021" y="229.099999368" type="line"/>
+      <point x="201.199999213" y="229.099999368" type="line"/>
+      <point x="197.299999058" y="164.899996817"/>
+      <point x="142.600000381" y="-175.399997711"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

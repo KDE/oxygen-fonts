@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="less" format="1">
-  <advance width="1122.74112954"/>
+  <advance width="1119.39999986"/>
   <unicode hex="003C"/>
   <outline>
     <contour>
-      <point x="975.652923578" y="124.647176149" type="line"/>
-      <point x="975.652923578" y="124.647176149"/>
-      <point x="976.131351039" y="252.898383372"/>
-      <point x="975.87056477" y="253.159169641" type="curve" smooth="yes"/>
-      <point x="242.029734411" y="586.731550493" type="line"/>
-      <point x="977.87056477" y="942.390221499" type="line"/>
-      <point x="977.87056477" y="1071.25120722" type="line"/>
-      <point x="104.131351039" y="622.772779761" type="line"/>
-      <point x="104.131351039" y="542.907962419" type="line"/>
+      <point x="974.399999946" y="133.000000358" type="line"/>
+      <point x="974.399999946" y="133.000000358"/>
+      <point x="974.599999934" y="277.400001049"/>
+      <point x="974.199999928" y="277.800001055" type="curve" smooth="yes"/>
+      <point x="265.000000983" y="599.400000542" type="line"/>
+      <point x="976.199999928" y="944.200000077" type="line"/>
+      <point x="976.199999928" y="1087.40000069" type="line"/>
+      <point x="102.599999934" y="639.200000703" type="line"/>
+      <point x="102.599999934" y="551.400000364" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

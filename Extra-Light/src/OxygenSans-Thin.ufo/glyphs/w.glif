@@ -5,7 +5,7 @@
   <outline>
     <contour>
       <point x="339" y="0" type="line"/>
-      <point x="449" y="0" type="line" smooth="yes"/>
+      <point x="449" y="0" type="line"/>
       <point x="740" y="949" type="line"/>
       <point x="715" y="949" type="line"/>
       <point x="1036" y="0" type="line"/>
@@ -20,9 +20,6 @@
       <point x="408" y="57" type="line"/>
       <point x="170" y="986" type="line"/>
       <point x="66" y="986" type="line"/>
-    </contour>
-    <contour>
-      <point x="724" y="986" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

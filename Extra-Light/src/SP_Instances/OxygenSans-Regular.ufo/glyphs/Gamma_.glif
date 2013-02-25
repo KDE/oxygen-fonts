@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gamma" format="1">
-  <advance width="1005"/>
+  <advance width="1130"/>
   <unicode hex="0393"/>
   <outline>
     <contour>
-      <point x="136" y="0" type="line"/>
-      <point x="298" y="0" type="line"/>
-      <point x="298" y="1220" type="line"/>
-      <point x="916" y="1220" type="line"/>
-      <point x="930" y="1361" type="line"/>
-      <point x="136" y="1361" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="214" y="1354" type="line"/>
+      <point x="1010" y="1353.4" type="line"/>
+      <point x="1006" y="1265.4" type="line"/>
+      <point x="289" y="1266" type="line"/>
+      <point x="328" y="1302" type="line"/>
+      <point x="328" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

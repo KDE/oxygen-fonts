@@ -1,31 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="1">
-  <advance width="1054.51774092"/>
+  <advance width="1061.20000029"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="519.735382112" y="997.199322906" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="519.735382112" y="0.0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="198.874396389" y="0.0" type="line"/>
-      <point x="989.907962419" y="0.0" type="line"/>
-      <point x="993.558970187" y="121.380642452" type="line"/>
-      <point x="294.558970187" y="121.380642452" type="line"/>
-      <point x="358.251207222" y="56.2099779551" type="line"/>
-      <point x="358.251207222" y="1349.30584716" type="line"/>
-      <point x="198.874396389" y="1349.30584716" type="line"/>
+      <point x="190.799999654" y="0.0" type="line"/>
+      <point x="998.400000364" y="0.0" type="line"/>
+      <point x="1004.00000045" y="139.200000763" type="line"/>
+      <point x="305.000000447" y="139.200000763" type="line"/>
+      <point x="374.400000691" y="68.6000005305" type="line"/>
+      <point x="374.400000691" y="1353.19999999" type="line"/>
+      <point x="190.799999654" y="1353.19999999" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>L</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1090</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

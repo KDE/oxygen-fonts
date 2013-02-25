@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="logicalnot" format="1">
-  <advance width="1127.52157254"/>
+  <advance width="1127.80000001"/>
   <unicode hex="00AC"/>
   <outline>
     <contour>
-      <point x="897.919457275" y="238.609778501" type="line"/>
-      <point x="1001.43145077" y="238.609778501" type="line"/>
-      <point x="1001.43145077" y="746.605946882" type="line"/>
-      <point x="103.868648961" y="746.605946882" type="line"/>
-      <point x="103.868648961" y="628.788106236" type="line"/>
-      <point x="897.919457275" y="628.788106236" type="line"/>
+      <point x="887.199999541" y="236.799999923" type="line"/>
+      <point x="1007.00000024" y="236.799999923" type="line"/>
+      <point x="1007.00000024" y="751.200000197" type="line"/>
+      <point x="105.400000066" y="751.200000197" type="line"/>
+      <point x="105.400000066" y="619.599999607" type="line"/>
+      <point x="887.199999541" y="619.599999607" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

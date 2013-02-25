@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave" format="1">
-  <advance width="625.889722864"/>
+  <advance width="592.199998558"/>
   <unicode hex="0060"/>
   <outline>
     <contour>
-      <point x="291.921373084" y="728.86473861" type="move" name="_top"/>
-    </contour>
-    <contour>
-      <point x="394.489922318" y="1151.22530443" type="line"/>
-      <point x="478.176411925" y="1151.22530443" type="line"/>
-      <point x="313.003831619" y="1501.8763122" type="line"/>
-      <point x="105.666334243" y="1501.8763122" type="line"/>
+      <point x="374.999999166" y="1137.99999943" type="line"/>
+      <point x="473.999999821" y="1137.99999943" type="line"/>
+      <point x="306.599999726" y="1490.59999952" type="line"/>
+      <point x="81.9999989867" y="1490.59999952" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

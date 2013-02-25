@@ -9,14 +9,37 @@
       <point x="1049" y="216" type="line"/>
       <point x="350" y="216" type="line"/>
       <point x="444" y="122" type="line"/>
-      <point x="444" y="1336" type="line"/>
-      <point x="156" y="1336" type="line"/>
-    </contour>
-    <contour>
-      <point x="553" y="0" type="move" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="553" y="0" type="move" smooth="yes"/>
+      <point x="444" y="1352" type="line"/>
+      <point x="156" y="1352" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>L</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1090</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

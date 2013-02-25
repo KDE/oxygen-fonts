@@ -7,29 +7,23 @@
 	<key>capHeight</key>
 	<integer>1354</integer>
 	<key>copyright</key>
-	<string>vernon adams © 2011-2012</string>
+	<string>vernon adams (c) 2011-2012</string>
 	<key>descender</key>
 	<integer>-442</integer>
 	<key>familyName</key>
 	<string>OxygenSans Thin</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
+	<key>note</key>
+	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2012/08/17 13:52:53</string>
-	<key>openTypeHheaAscender</key>
-	<integer>1600</integer>
-	<key>openTypeHheaDescender</key>
-	<integer>-448</integer>
-	<key>openTypeHheaLineGap</key>
-	<integer>0</integer>
+	<string>2013/02/15 21:53:27</string>
 	<key>openTypeNameDesigner</key>
 	<string>vernon adams</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>newtypography.co.uk</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>OxygenSans</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Thin</string>
+	<key>openTypeNameVersion</key>
+	<string>Version </string>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
 		<integer>0</integer>
@@ -50,11 +44,19 @@
 	<key>openTypeOS2SuperscriptXOffset</key>
 	<integer>0</integer>
 	<key>openTypeOS2SuperscriptXSize</key>
-	<real>-1002</real>
+	<integer>-1002</integer>
 	<key>openTypeOS2SuperscriptYOffset</key>
 	<integer>-539</integer>
 	<key>openTypeOS2SuperscriptYSize</key>
 	<integer>-925</integer>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>1638</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>410</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>PfEd</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>250</integer>
 	<key>openTypeOS2WidthClass</key>
@@ -66,6 +68,12 @@
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
 	<key>postscriptFontName</key>
 	<string>OxygenSans-Thin</string>
 	<key>postscriptFullName</key>
@@ -73,18 +81,22 @@
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>0</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>0</integer>
 	<key>postscriptWeightName</key>
 	<string>Thin</string>
-	<key>styleMapStyleName</key>
-	<string>regular</string>
 	<key>styleName</key>
-	<string>Extra-light</string>
+	<string>Thin</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
-	<key>versionMajor</key>
-	<integer>1</integer>
-	<key>versionMinor</key>
-	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>986</integer>
 </dict>

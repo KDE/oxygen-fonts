@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresis" format="1">
-  <advance width="690.790205753"/>
+  <advance width="690.100000441"/>
   <unicode hex="00A8"/>
   <outline>
     <contour>
-      <point x="351.801831829" y="314.193050598" type="move" name="_top"/>
+      <point x="86.1000009179" y="1129.80000043" type="line"/>
+      <point x="252.199999809" y="1129.80000043" type="line"/>
+      <point x="252.199999809" y="1348.9999994" type="line"/>
+      <point x="86.1000009179" y="1348.9999994" type="line"/>
     </contour>
     <contour>
-      <point x="87.5363741339" y="1130.47155154" type="line"/>
-      <point x="251.901532647" y="1130.47155154" type="line"/>
-      <point x="251.901532647" y="1348.06728952" type="line"/>
-      <point x="87.5363741339" y="1348.06728952" type="line"/>
-    </contour>
-    <contour>
-      <point x="451.746168381" y="1130.47155154" type="line"/>
-      <point x="615.748635314" y="1130.47155154" type="line"/>
-      <point x="615.748635314" y="1348.06728952" type="line"/>
-      <point x="451.746168381" y="1348.06728952" type="line"/>
+      <point x="451.000000477" y="1129.80000043" type="line"/>
+      <point x="616.699999392" y="1129.80000043" type="line"/>
+      <point x="616.699999392" y="1348.9999994" type="line"/>
+      <point x="451.000000477" y="1348.9999994" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
     </dict>

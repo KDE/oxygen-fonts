@@ -1,22 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macron" format="1">
-  <advance width="1014.63276821"/>
+  <advance width="974.399998277"/>
   <unicode hex="00AF"/>
   <outline>
     <contour>
-      <point x="506.271323221" y="728.86473861" type="move" name="_top"/>
-    </contour>
-    <contour>
-      <point x="130.395968927" y="1377.23296767" type="line"/>
-      <point x="882.146677514" y="1377.23296767" type="line"/>
-      <point x="882.146677514" y="1497.05463993" type="line"/>
-      <point x="130.395968927" y="1497.05463993" type="line"/>
+      <point x="200.599998891" y="1213.20000026" type="line"/>
+      <point x="764.999999732" y="1213.20000026" type="line"/>
+      <point x="764.999999732" y="1332.60000065" type="line"/>
+      <point x="200.599998891" y="1332.60000065" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>macron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>801</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

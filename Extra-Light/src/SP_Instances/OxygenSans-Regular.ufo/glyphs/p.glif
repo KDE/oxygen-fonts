@@ -1,52 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="p" format="1">
-  <advance width="1171.78427462"/>
+  <advance width="1168.99999988"/>
   <unicode hex="0070"/>
   <outline>
     <contour>
-      <point x="167.221472811" y="-438.307762965" type="line"/>
-      <point x="318.253123032" y="-429.003831619" type="line"/>
-      <point x="318.253123032" y="-63.7881062356" type="line" smooth="yes"/>
-      <point x="307.817840647" y="287.229136049" type="line"/>
-      <point x="270.64526034" y="258.793853664" type="line"/>
-      <point x="317.255038841" y="127.786190426"/>
-      <point x="436.38638988" y="-18.0"/>
-      <point x="641.694152845" y="-18.0" type="curve" smooth="yes"/>
-      <point x="907.607862692" y="-18.0"/>
-      <point x="1061.17258031" y="192.954939114"/>
-      <point x="1061.17258031" y="493.041229267" type="curve" smooth="yes"/>
-      <point x="1061.17258031" y="801.564717615"/>
-      <point x="918.086290153" y="1013.64909196"/>
-      <point x="641.25695465" y="1013.64909196" type="curve" smooth="yes"/>
-      <point x="469.643344531" y="1013.64909196"/>
-      <point x="340.992336763" y="911.296268108"/>
-      <point x="280.38638988" y="757.990420953" type="curve"/>
-      <point x="313.078626916" y="754.294352299" type="line"/>
-      <point x="292.123687802" y="993.823588075" type="line"/>
-      <point x="167.221472811" y="993.823588075" type="line"/>
+      <point x="160.399999708" y="-432.599999756" type="line"/>
+      <point x="331.200000554" y="-422.599999726" type="line"/>
+      <point x="331.200000554" y="-54.5999996066" type="line"/>
+      <point x="321.60000059" y="267.59999916" type="line"/>
+      <point x="282.200000495" y="239.999999195" type="line"/>
+      <point x="327.000000417" y="121.799999744"/>
+      <point x="444.600000352" y="-18.0"/>
+      <point x="644.200000107" y="-18.0" type="curve" smooth="yes"/>
+      <point x="909.00000006" y="-18.0"/>
+      <point x="1063.4000001" y="195.600000113"/>
+      <point x="1063.4000001" y="496.800000161" type="curve" smooth="yes"/>
+      <point x="1063.4000001" y="802.400000036"/>
+      <point x="919.200000048" y="1018.80000022"/>
+      <point x="647.80000028" y="1018.80000022" type="curve" smooth="yes"/>
+      <point x="484.400000632" y="1018.80000022"/>
+      <point x="353.800000548" y="924.800000578"/>
+      <point x="288.600000352" y="774.000000685" type="curve"/>
+      <point x="327.000000596" y="771.000000715" type="line"/>
+      <point x="303.400000483" y="998.000000179" type="line"/>
+      <point x="160.399999708" y="998.000000179" type="line"/>
     </contour>
     <contour>
-      <point x="618.827419693" y="96.9472758765" type="curve" smooth="yes"/>
-      <point x="427.51774092" y="96.9472758765"/>
-      <point x="315.513909301" y="251.127519421"/>
-      <point x="315.513909301" y="511.519656729" type="curve"/>
-      <point x="316.035481839" y="740.954939114"/>
-      <point x="409.341328994" y="898.701816082"/>
-      <point x="626.654839387" y="898.701816082" type="curve" smooth="yes"/>
-      <point x="831.272281125" y="898.701816082"/>
-      <point x="910.140930086" y="729.737297921"/>
-      <point x="910.140930086" y="495.041229267" type="curve" smooth="yes"/>
-      <point x="910.140930086" y="253.300099727"/>
-      <point x="820.227220239" y="96.9472758765"/>
+      <point x="616.599999905" y="112.400000662" type="curve" smooth="yes"/>
+      <point x="434.200000286" y="112.400000662"/>
+      <point x="328.60000056" y="256.000000209"/>
+      <point x="328.60000056" y="515.000000149" type="curve"/>
+      <point x="329.400000572" y="743.600000113"/>
+      <point x="420.200000465" y="888.399999559"/>
+      <point x="622.199999809" y="888.399999559" type="curve" smooth="yes"/>
+      <point x="812.199999183" y="888.399999559"/>
+      <point x="892.599999249" y="732.800000131"/>
+      <point x="892.599999249" y="498.800000161" type="curve" smooth="yes"/>
+      <point x="892.599999249" y="260.400000304"/>
+      <point x="803.799999297" y="112.400000662"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-18</integer>
+            <key>width</key>
+            <integer>86</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>918</integer>
+            <key>width</key>
+            <integer>86</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>180</integer>
+            <key>width</key>
+            <integer>114</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>180</integer>
+            <key>width</key>
+            <integer>91</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>943</integer>
+            <key>width</key>
+            <integer>114</integer>
+          </dict>
+        </array>
       </dict>
     </dict>
   </lib>

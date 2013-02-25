@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name=".notdef" format="1">
+  <advance width="1007.69999611"/>
+  <outline>
+    <contour>
+      <point x="200.799999237" y="-316.599980593" type="line"/>
+      <point x="806.999996901" y="-316.599980593" type="line"/>
+      <point x="806.999996901" y="1316.39998031" type="line"/>
+      <point x="200.799999237" y="1316.39998031" type="line"/>
+    </contour>
+    <contour>
+      <point x="100.399999619" y="-417.099980235" type="line"/>
+      <point x="100.399999619" y="1416.89997995" type="line"/>
+      <point x="907.399996519" y="1416.89997995" type="line"/>
+      <point x="907.399996519" y="-417.099980235" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>329</integer>
+            <key>width</key>
+            <integer>87</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>573</integer>
+            <key>width</key>
+            <integer>87</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>86</integer>
+            <key>width</key>
+            <integer>86</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>690</integer>
+            <key>width</key>
+            <integer>86</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,22 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute" format="1">
-  <advance width="563.305794667"/>
+  <advance width="562.000000834"/>
   <unicode hex="00B4"/>
   <outline>
     <contour>
-      <point x="348.21226118" y="314.193050598" type="move" name="_top"/>
-    </contour>
-    <contour>
-      <point x="136.870354818" y="1111.27214991" type="line"/>
-      <point x="264.235513332" y="1111.27214991" type="line"/>
-      <point x="559.554167541" y="1467.81099097" type="line"/>
-      <point x="302.28747638" y="1467.81099097" type="line"/>
+      <point x="138.399999022" y="1109.50000113" type="line"/>
+      <point x="267.499997914" y="1109.50000113" type="line"/>
+      <point x="556.799997687" y="1466.30000097" type="line"/>
+      <point x="303.499999225" y="1466.30000097" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>acute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>541</integer>
+        </dict>
       </dict>
     </dict>
   </lib>
