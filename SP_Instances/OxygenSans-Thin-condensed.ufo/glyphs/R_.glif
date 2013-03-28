@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="R" format="1">
+  <advance width="1313"/>
+  <unicode hex="0052"/>
+  <outline>
+    <contour>
+      <point x="194.4" y="0" type="line"/>
+      <point x="316.4" y="0" type="line"/>
+      <point x="316.4" y="765" type="line"/>
+      <point x="259.4" y="722" type="line"/>
+      <point x="827.6" y="722" type="line"/>
+      <point x="754.7" y="778" type="line"/>
+      <point x="867.2" y="505" type="line"/>
+      <point x="1058.9" y="0" type="line"/>
+      <point x="1182.9" y="0" type="line"/>
+      <point x="948.2" y="556" type="line"/>
+      <point x="856.4" y="805" type="line"/>
+      <point x="851.9" y="734" type="line"/>
+      <point x="1031" y="767"/>
+      <point x="1121.9" y="879"/>
+      <point x="1121.9" y="1094" type="curve" smooth="yes"/>
+      <point x="1121.9" y="1319"/>
+      <point x="1013" y="1449"/>
+      <point x="746.6" y="1449" type="curve" smooth="yes"/>
+      <point x="194.4" y="1449" type="line"/>
+    </contour>
+    <contour>
+      <point x="316.4" y="776" type="line"/>
+      <point x="316.4" y="1407" type="line"/>
+      <point x="257.4" y="1355" type="line"/>
+      <point x="744.8" y="1355" type="line" smooth="yes"/>
+      <point x="950.9" y="1355"/>
+      <point x="1010.3" y="1259"/>
+      <point x="1010.3" y="1092" type="curve" smooth="yes"/>
+      <point x="1010.3" y="892"/>
+      <point x="960.8" y="819"/>
+      <point x="709.7" y="819" type="curve" smooth="yes"/>
+      <point x="259.4" y="819" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>722</integer>
+	    <key>width</key>	    <integer>97</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1355</integer>
+	    <key>width</key>	    <integer>94</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>1010</integer>
+	    <key>width</key>
+	    <integer>112</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

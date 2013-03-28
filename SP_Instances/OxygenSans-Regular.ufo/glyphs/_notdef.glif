@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name=".notdef" format="1">
+  <advance width="962.2"/>
+  <outline>
+    <contour>
+      <point x="196.0" y="99.8" type="line"/>
+      <point x="787.2" y="99.8" type="line"/>
+      <point x="787.2" y="955.4" type="line"/>
+      <point x="196.0" y="955.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="98.0" y="1.2" type="line"/>
+      <point x="98.0" y="1054.0" type="line"/>
+      <point x="885.2" y="1054.0" type="line"/>
+      <point x="885.2" y="1.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>352</integer>
+            <key>width</key>
+            <integer>93</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>613</integer>
+            <key>width</key>
+            <integer>93</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>92</integer>
+            <key>width</key>
+            <integer>92</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>738</integer>
+            <key>width</key>
+            <integer>92</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -8,8 +8,8 @@
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="48.0" />
-<data name="previewtext" value="@{}][Bå" />
+<data name="previewTypeSize" value="64.0" />
+<data name="previewtext" value="Mokolaon Lomen&amp;tal Underzogue" />
 <data name="verticalPreviewAxis" value="None" />
 <data name="projectionAngle" value="2.68561525327" />
 <!-- axis definitions -->
@@ -53,7 +53,7 @@
 <instance familyname="OxygenSans" sequence="" stylename="Thin">
 <location>
 <dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="0.1000" />
+<dimension name="new_axis_1" xvalue="0" />
 </location>
 </instance>
 <instance familyname="OxygenSans" sequence="" stylename="Light">
@@ -72,6 +72,18 @@
 <location>
 <dimension name="None" xvalue="0" />
 <dimension name="new_axis_1" xvalue="0.9000" />
+</location>
+</instance>
+<instance familyname="OxygenSans" sequence="" stylename="Black">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="1.7122" />
+</location>
+</instance>
+<instance familyname="OxygenSans" sequence="" stylename="Skinny">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="-0.2000" />
 </location>
 </instance>
 </designspace>
