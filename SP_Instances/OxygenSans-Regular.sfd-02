@@ -17,7 +17,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1365019410
-ModificationTime: 1365042432
+ModificationTime: 1365042276
 PfmFamily: 0
 TTFWeight: 430
 TTFWidth: 5
@@ -54,7 +54,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 140 20 8
+WinInfo: 160 20 8
 BeginPrivate: 7
 BlueFuzz 1 0
 BlueScale 7 0.01585
@@ -78,7 +78,7 @@ Grid
  4096 1060 l 4
   Named: "xheight" 
 EndSplineSet
-BeginChars: 675 608
+BeginChars: 675 606
 
 StartChar: .notdef
 Encoding: 256 -1 0
@@ -14830,61 +14830,6 @@ SplineSet
  905 1293 1020 1247 1020 1059 c 0
  1020 871 903 823 717 823 c 2
  342 823 l 1
-EndSplineSet
-EndChar
-
-StartChar: uni0413
-Encoding: 179 1043 606
-Width: 1495
-VWidth: 0
-Flags: HW
-LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-Fore
-SplineSet
-201 0 m 1
- 395 0 l 1
- 395 1347 l 1
- 328 1293 l 1
- 1108 1293 l 5
- 1122 1436 l 5
- 201 1436 l 1
- 201 0 l 1
-EndSplineSet
-EndChar
-
-StartChar: uni0426
-Encoding: 198 1062 607
-Width: 1495
-VWidth: 0
-Flags: HW
-LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-Fore
-SplineSet
-201 0 m 1
- 395 0 l 1
- 395 1347 l 1
- 328 1293 l 1
- 1201 1293 l 1
- 1131 1347 l 1
- 1131 0 l 1
- 1325 0 l 1
- 1325 1436 l 1
- 201 1436 l 1
- 201 0 l 1
 EndSplineSet
 EndChar
 EndChars

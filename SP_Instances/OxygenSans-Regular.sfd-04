@@ -17,7 +17,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1365019410
-ModificationTime: 1365042432
+ModificationTime: 1365041394
 PfmFamily: 0
 TTFWeight: 430
 TTFWidth: 5
@@ -54,7 +54,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 140 20 8
+WinInfo: 0 20 8
 BeginPrivate: 7
 BlueFuzz 1 0
 BlueScale 7 0.01585
@@ -78,7 +78,7 @@ Grid
  4096 1060 l 4
   Named: "xheight" 
 EndSplineSet
-BeginChars: 675 608
+BeginChars: 675 605
 
 StartChar: .notdef
 Encoding: 256 -1 0
@@ -1495,7 +1495,7 @@ StartChar: J
 Encoding: 74 74 62
 Width: 782
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 UndoRedoHistory
 Layer: 0
@@ -14787,104 +14787,6 @@ SplineSet
  1341 504 1391 419 1391 320 c 0
  1391 221 1339 132 1198 132 c 2
  977 132 l 1
-EndSplineSet
-EndChar
-
-StartChar: uni0412
-Encoding: 178 1042 605
-Width: 1374
-VWidth: 0
-Flags: HW
-LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-Fore
-SplineSet
-202 0 m 1
- 751 0 l 2
- 1093 0 1263 155 1263 408 c 0
- 1263 627 1117 743 894 782 c 1
- 894 734 l 1
- 1132 797 1206 913 1206 1083 c 0
- 1206 1331 1030 1437 667 1437 c 2
- 202 1437 l 1
- 202 0 l 1
-344 147 m 1
- 396 93 l 1
- 396 741 l 1
- 343 688 l 1
- 672 688 l 2
- 942 688 1069 619 1069 415 c 0
- 1069 224 962 147 719 147 c 2
- 344 147 l 1
-342 823 m 1
- 396 778 l 1
- 396 1345 l 1
- 344 1293 l 1
- 661 1293 l 2
- 905 1293 1020 1247 1020 1059 c 0
- 1020 871 903 823 717 823 c 2
- 342 823 l 1
-EndSplineSet
-EndChar
-
-StartChar: uni0413
-Encoding: 179 1043 606
-Width: 1495
-VWidth: 0
-Flags: HW
-LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-Fore
-SplineSet
-201 0 m 1
- 395 0 l 1
- 395 1347 l 1
- 328 1293 l 1
- 1108 1293 l 5
- 1122 1436 l 5
- 201 1436 l 1
- 201 0 l 1
-EndSplineSet
-EndChar
-
-StartChar: uni0426
-Encoding: 198 1062 607
-Width: 1495
-VWidth: 0
-Flags: HW
-LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-Fore
-SplineSet
-201 0 m 1
- 395 0 l 1
- 395 1347 l 1
- 328 1293 l 1
- 1201 1293 l 1
- 1131 1347 l 1
- 1131 0 l 1
- 1325 0 l 1
- 1325 1436 l 1
- 201 1436 l 1
- 201 0 l 1
 EndSplineSet
 EndChar
 EndChars

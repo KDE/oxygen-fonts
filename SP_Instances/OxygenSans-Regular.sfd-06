@@ -17,7 +17,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1365019410
-ModificationTime: 1365042432
+ModificationTime: 1365041039
 PfmFamily: 0
 TTFWeight: 430
 TTFWidth: 5
@@ -54,7 +54,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 140 20 8
+WinInfo: 160 20 8
 BeginPrivate: 7
 BlueFuzz 1 0
 BlueScale 7 0.01585
@@ -78,7 +78,7 @@ Grid
  4096 1060 l 4
   Named: "xheight" 
 EndSplineSet
-BeginChars: 675 608
+BeginChars: 675 605
 
 StartChar: .notdef
 Encoding: 256 -1 0
@@ -1498,25 +1498,6 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-Back
-SplineSet
-31 -177 m 5
- 145 -177 l 6
- 455 -177 581 10 581 284 c 6
- 581 1437 l 5
- 386 1437 l 5
- 386 294 l 6
- 386 114 340 -21 114 -21 c 6
- 19 -21 l 5
- 31 -177 l 5
-EndSplineSet
-UndoRedoHistory
 Layer: 1
 Undoes
 EndUndoes
@@ -1525,15 +1506,15 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 SplineSet
-31 -177 m 1
- 145 -177 l 2
- 455 -177 580 10 580 284 c 6
- 580 1437 l 5
+138 -177 m 2
+ 451 -177 581 -6 581 299 c 2
+ 581 1437 l 1
  386 1437 l 1
- 386 294 l 2
- 386 114 340 -21 114 -21 c 2
- 19 -21 l 1
- 31 -177 l 1
+ 386 276 l 2
+ 386 95 320 -21 122 -21 c 2
+ 11 -21 l 1
+ 11 -177 l 1
+ 138 -177 l 2
 EndSplineSet
 EndChar
 
@@ -6105,15 +6086,15 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 SplineSet
-20 -353 m 5
- 79 -353 l 6
- 316 -353 396 -248 396 11 c 6
- 396 1060 l 5
- 215 1060 l 5
- 215 31 l 6
- 215 -149 209 -209 58 -209 c 6
- 8 -209 l 5
- 20 -353 l 5
+20 -353 m 1
+ 79 -353 l 2
+ 316 -353 396 -248 396 11 c 2
+ 396 1060 l 1
+ 215 1060 l 1
+ 215 31 l 2
+ 215 -149 209 -209 58 -209 c 2
+ 8 -209 l 1
+ 20 -353 l 1
 215 1262 m 1
  396 1262 l 1
  396 1437 l 1
@@ -11271,25 +11252,6 @@ VWidth: 0
 Flags: HW
 LayerCount: 2
 UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-Back
-SplineSet
--75 -35 m 5
- 39 -35 l 6
- 349 -35 474 152 474 426 c 6
- 474 720 l 5
- 280 720 l 5
- 280 436 l 6
- 280 256 234 121 8 121 c 6
- -87 121 l 5
- -75 -35 l 5
-EndSplineSet
-UndoRedoHistory
 Layer: 1
 Undoes
 EndUndoes
@@ -11298,16 +11260,9 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 SplineSet
--35 -35 m 1
- 39 -35 l 2
- 349 -35 474 152 474 426 c 2
- 474 720 l 1
- 280 720 l 1
- 280 436 l 2
- 280 256 234 121 8 121 c 2
- -47 121 l 1
- -35 -35 l 1
-474 434 m 2
+-23 -23 m 1
+ 60 -23 l 2
+ 373 -23 474 129 474 434 c 2
  474 1348 l 1
  409 1293 l 1
  1246 1293 l 1
@@ -11317,7 +11272,9 @@ SplineSet
  1370 1437 l 1
  280 1437 l 1
  280 411 l 2
- 474 434 l 2
+ 280 230 242 133 44 133 c 2
+ -23 133 l 1
+ -23 -23 l 1
 EndSplineSet
 EndChar
 
@@ -14756,7 +14713,7 @@ StartChar: uni0459
 Encoding: 249 1113 604
 Width: 1564
 VWidth: 0
-Flags: HW
+Flags: HWO
 HStem: 0 86 516 86
 VStem: 1447 103
 LayerCount: 2
@@ -14787,104 +14744,6 @@ SplineSet
  1341 504 1391 419 1391 320 c 0
  1391 221 1339 132 1198 132 c 2
  977 132 l 1
-EndSplineSet
-EndChar
-
-StartChar: uni0412
-Encoding: 178 1042 605
-Width: 1374
-VWidth: 0
-Flags: HW
-LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-Fore
-SplineSet
-202 0 m 1
- 751 0 l 2
- 1093 0 1263 155 1263 408 c 0
- 1263 627 1117 743 894 782 c 1
- 894 734 l 1
- 1132 797 1206 913 1206 1083 c 0
- 1206 1331 1030 1437 667 1437 c 2
- 202 1437 l 1
- 202 0 l 1
-344 147 m 1
- 396 93 l 1
- 396 741 l 1
- 343 688 l 1
- 672 688 l 2
- 942 688 1069 619 1069 415 c 0
- 1069 224 962 147 719 147 c 2
- 344 147 l 1
-342 823 m 1
- 396 778 l 1
- 396 1345 l 1
- 344 1293 l 1
- 661 1293 l 2
- 905 1293 1020 1247 1020 1059 c 0
- 1020 871 903 823 717 823 c 2
- 342 823 l 1
-EndSplineSet
-EndChar
-
-StartChar: uni0413
-Encoding: 179 1043 606
-Width: 1495
-VWidth: 0
-Flags: HW
-LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-Fore
-SplineSet
-201 0 m 1
- 395 0 l 1
- 395 1347 l 1
- 328 1293 l 1
- 1108 1293 l 5
- 1122 1436 l 5
- 201 1436 l 1
- 201 0 l 1
-EndSplineSet
-EndChar
-
-StartChar: uni0426
-Encoding: 198 1062 607
-Width: 1495
-VWidth: 0
-Flags: HW
-LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-Fore
-SplineSet
-201 0 m 1
- 395 0 l 1
- 395 1347 l 1
- 328 1293 l 1
- 1201 1293 l 1
- 1131 1347 l 1
- 1131 0 l 1
- 1325 0 l 1
- 1325 1436 l 1
- 201 1436 l 1
- 201 0 l 1
 EndSplineSet
 EndChar
 EndChars
