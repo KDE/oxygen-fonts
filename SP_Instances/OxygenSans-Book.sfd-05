@@ -3,44 +3,50 @@ FontName: OxygenSans-Book
 FullName: OxygenSans Book
 FamilyName: OxygenSans
 Weight: Normal
-Copyright: 
-Version: 
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
-Ascent: 1568
-Descent: 480
+Ascent: 1638
+Descent: 410
 UFOAscent: 1805
 UFODescent: -511
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
-FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
-OS2_UseTypoMetrics: 1
+OS2_UseTypoMetrics: 0
 CreationTime: 1363987686
-ModificationTime: 1366328827
-PfmFamily: 17
-TTFWeight: 400
+ModificationTime: 1366328511
+PfmFamily: 0
+TTFWeight: 385
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-OS2TypoAscent: 1568
+OS2TypoAscent: 1627
 OS2TypoAOffset: 0
-OS2TypoDescent: -480
+OS2TypoDescent: 153
 OS2TypoDOffset: 0
 OS2TypoLinegap: 0
-OS2WinAscent: 1568
+OS2WinAscent: 1600
 OS2WinAOffset: 0
-OS2WinDescent: 480
+OS2WinDescent: 448
 OS2WinDOffset: 0
-HheadAscent: 1568
-HheadAOffset: 0
-HheadDescent: -480
-HheadDOffset: 0
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2SubXSize: -1303
+OS2SubYSize: -1203
+OS2SubXOff: 0
+OS2SubYOff: -150
+OS2SupXSize: -1303
+OS2SupYSize: -1203
+OS2SupXOff: 0
+OS2SupYOff: -701
+OS2StrikeYSize: -49
+OS2StrikeYPos: -597
 OS2Vendor: 'PfEd'
-MarkAttachClasses: 1
 DEI: 91125
 Encoding: UnicodeBmp
 Compacted: 1
@@ -3691,72 +3697,33 @@ Encoding: 103 103 217
 Width: 1255
 VWidth: 0
 Flags: W
-HStem: -456.932 130.496<261.94 769.003> 14.2998 126.601<430.58 780.385> 952.9 126.8<440.366 785.91>
-VStem: 107.7 166.1<317.109 765.456> 929.1 163.4<-163.348 90.2002 291.698 489.6 579.1 797.862 915.164 1058.6>
+HStem: -426 101 0 93 982 92
+VStem: 128 122 977 125 977 36
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-Back
-SplineSet
-599.6 132.9 m 4xf0
- 357.3 132.9 273.8 349 273.8 532.4 c 4
- 273.8 732.4 361.1 952.9 604.4 952.9 c 4
- 844.3 952.9 930 791 930 579.1 c 6
- 930 489.6 l 6
- 929.4 301.9 837.8 132.9 599.6 132.9 c 4xf0
-519.9 -456.9 m 4
- 939.2 -456.9 1092.5 -215.4 1092.5 108.2 c 6
- 1092.5 1058.6 l 5
- 941.3 1058.6 l 5
- 925.8 837 l 5
- 960 840 l 5
- 907 986.9 783 1079.7 595 1079.7 c 4
- 260.5 1079.7 107.7 817.2 107.7 524 c 4
- 107.7 271.6 257.7 6.3 581.8 6.3 c 4
- 792.6 6.3 928.5 125 969.3 283.2 c 5
- 929.1 284.8 l 5
- 929.1 75.8 l 6
- 929.1 -184.9 818.4 -327.5 510.2 -327.5 c 4
- 452.7 -327.5 329.1 -319.1 278.7 -316.9 c 5
- 278.7 -446.3 l 5
- 349.5 -447.8 440.8 -456.9 519.9 -456.9 c 4
-EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
-599.599609375 140.900390625 m 0
- 357.29975463 140.900390625 273.799804688 341.966848698 273.799804688 536.400390625 c 0
- 273.799804688 742.421600494 361.099856263 952.9 604.4 952.9 c 0
+599.6 132.9 m 0xf0
+ 357.3 132.9 273.8 349 273.8 532.4 c 0
+ 273.8 732.4 361.1 952.9 604.4 952.9 c 0
  844.3 952.9 930 791 930 579.1 c 2
  930 489.6 l 2
- 929.399999291 306.10990558 837.799890994 140.900390625 599.599609375 140.900390625 c 0
-1092.5 90.2001953125 m 2
+ 929.4 301.9 837.8 132.9 599.6 132.9 c 0xf0
+519.9 -456.9 m 0
+ 939.2 -456.9 1092.5 -215.4 1092.5 108.2 c 2
  1092.5 1058.6 l 1
  941.3 1058.6 l 1
  925.8 837 l 1
  960 840 l 1
  907 986.9 783 1079.7 595 1079.7 c 0
- 260.500134069 1079.7 107.700195312 825.046319957 107.700195312 528 c 0
- 107.700195312 269.611877807 257.700071723 14.2998046875 581.799804688 14.2998046875 c 0
- 792.599910937 14.2998046875 928.499979435 129.570491519 969.3 283.2 c 1
+ 260.5 1079.7 107.7 817.2 107.7 524 c 0
+ 107.7 271.6 257.7 6.3 581.8 6.3 c 0
+ 792.6 6.3 928.5 125 969.3 283.2 c 1
  929.1 284.8 l 1
  929.1 75.8 l 2
- 929.1 -229.356031062 804.841691248 -326.436716788 531.796080566 -326.436716788 c 0
- 453.600218991 -326.436716788 363.743617185 -318.794206076 261.700195312 -305.900390625 c 5
- 252.700195312 -435.299804688 l 5
- 353.228864816 -449.693940535 444.087405751 -456.932290626 525.741291499 -456.932290626 c 0
- 923.150643047 -456.932290626 1092.5 -278.01783473 1092.5 90.2001953125 c 2
+ 929.1 -184.9 818.4 -327.5 510.2 -327.5 c 0
+ 452.7 -327.5 329.1 -319.1 278.7 -316.9 c 1
+ 278.7 -446.3 l 1
+ 349.5 -447.8 440.8 -456.9 519.9 -456.9 c 0
 EndSplineSet
 EndChar
 
@@ -3764,7 +3731,7 @@ StartChar: gbreve
 Encoding: 287 287 218
 Width: 1242
 VWidth: 0
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 168 728 N 1 0 0 1 211 -6.7 2
@@ -3775,7 +3742,7 @@ StartChar: gcaron
 Encoding: 487 487 219
 Width: 1242
 VWidth: 0
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 217 103 N 1 0 0 1 0 0 2
@@ -3786,7 +3753,7 @@ StartChar: gcircumflex
 Encoding: 285 285 220
 Width: 1242
 VWidth: 0
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 217 103 N 1 0 0 1 0 0 2
@@ -3797,7 +3764,7 @@ StartChar: gdotaccent
 Encoding: 289 289 221
 Width: 1242
 VWidth: 0
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 217 103 N 1 0 0 1 0 0 2
@@ -6293,11 +6260,11 @@ EndChar
 
 StartChar: u
 Encoding: 117 117 346
-Width: 1190
+Width: 1207
 VWidth: 0
-Flags: W
-HStem: -21 126<421.974 768.161>
-VStem: 162 166<206.292 1059> 862 166<206.056 1059>
+Flags: WO
+HStem: -21 126<423.874 774.262>
+VStem: 162 166<206.292 1059> 870 166<206.056 1059>
 LayerCount: 2
 UndoRedoHistory
 Layer: 0
@@ -6331,23 +6298,23 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 SplineSet
-595 -21 m 3
- 299.999096369 -21 162 108.841698519 162 412 c 2
+599 -21 m 3
+ 301.273914811 -21 162 108.841698519 162 412 c 2
  162 1059 l 1
  328 1059 l 1
  328 394 l 2
- 327.014760148 216 390.070110701 105 595 105 c 3
- 799.929889299 105 862.985239852 216 862 394 c 6
- 862 1059 l 5
- 1028 1059 l 5
- 1028 412 l 6
- 1028 108.2935578 890.67244029 -21 595 -21 c 3
+ 327 216 391 105 599 105 c 3
+ 807 105 871 216 870 394 c 2
+ 870 1059 l 1
+ 1036 1059 l 1
+ 1036 412 l 2
+ 1036 108.2935578 897.40382542 -21 599 -21 c 3
 EndSplineSet
 EndChar
 
 StartChar: uacute
 Encoding: 250 250 347
-Width: 1190
+Width: 1196
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -6358,7 +6325,7 @@ EndChar
 
 StartChar: ubreve
 Encoding: 365 365 348
-Width: 1190
+Width: 1196
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -6369,7 +6336,7 @@ EndChar
 
 StartChar: ucircumflex
 Encoding: 251 251 349
-Width: 1190
+Width: 1196
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -6380,7 +6347,7 @@ EndChar
 
 StartChar: udieresis
 Encoding: 252 252 350
-Width: 1190
+Width: 1196
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -6391,7 +6358,7 @@ EndChar
 
 StartChar: ugrave
 Encoding: 249 249 351
-Width: 1190
+Width: 1196
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -6402,7 +6369,7 @@ EndChar
 
 StartChar: uhorn
 Encoding: 432 432 352
-Width: 1190
+Width: 1196
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -6413,7 +6380,7 @@ EndChar
 
 StartChar: uhungarumlaut
 Encoding: 369 369 353
-Width: 1190
+Width: 1196
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -6424,7 +6391,7 @@ EndChar
 
 StartChar: umacron
 Encoding: 363 363 354
-Width: 1190
+Width: 1196
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -6744,7 +6711,7 @@ EndChar
 
 StartChar: uni01D4
 Encoding: 468 468 379
-Width: 1190
+Width: 1196
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -6765,7 +6732,7 @@ EndChar
 
 StartChar: uni01D6
 Encoding: 470 470 381
-Width: 1190
+Width: 1196
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -6786,7 +6753,7 @@ EndChar
 
 StartChar: uni01D8
 Encoding: 472 472 383
-Width: 1190
+Width: 1196
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -6808,7 +6775,7 @@ EndChar
 
 StartChar: uni01DA
 Encoding: 474 474 385
-Width: 1190
+Width: 1196
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -6830,7 +6797,7 @@ EndChar
 
 StartChar: uni01DC
 Encoding: 476 476 387
-Width: 1190
+Width: 1196
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -7005,7 +6972,7 @@ StartChar: uni01F5
 Encoding: 501 501 403
 Width: 1242
 VWidth: 0
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 217 103 N 1 0 0 1 0 0 2
@@ -7256,7 +7223,7 @@ EndChar
 
 StartChar: uni0215
 Encoding: 533 533 427
-Width: 1190
+Width: 1196
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -7277,7 +7244,7 @@ EndChar
 
 StartChar: uni0217
 Encoding: 535 535 429
-Width: 1190
+Width: 1196
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -9429,7 +9396,7 @@ EndChar
 
 StartChar: uogonek
 Encoding: 371 371 558
-Width: 1190
+Width: 1196
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -9440,7 +9407,7 @@ EndChar
 
 StartChar: uring
 Encoding: 367 367 559
-Width: 1190
+Width: 1196
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -9451,7 +9418,7 @@ EndChar
 
 StartChar: utilde
 Encoding: 361 361 560
-Width: 1190
+Width: 1196
 VWidth: 0
 Flags: HW
 LayerCount: 2
