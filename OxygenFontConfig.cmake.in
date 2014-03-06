@@ -1,1 +1,8 @@
 @PACKAGE_INIT@
+
+
+set_package_properties(OxygenFont PROPERTIES
+    DESCRIPTION "Oxygen Font, available from kde:oxygen-fonts repository"
+    URL "http://www.fontsquirrel.com/fonts/oxygen"
+    TYPE RUNTIME
+)
