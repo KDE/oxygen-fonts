@@ -41,9 +41,9 @@ if(NOT DEFINED OXYGEN_FONT_INSTALL_DIR)
 endif()
 
 set(fontFiles
-    version-0.4/mono-400/OxygenMono-Regular.ttf
-    version-0.4/Bold-700/Oxygen-Sans-Bold.ttf
-    version-0.4/Regular-400/Oxygen-Sans.ttf
+    oxygen-fonts/mono-400/OxygenMono-Regular.ttf
+    oxygen-fonts/Bold-700/Oxygen-Sans-Bold.ttf
+    oxygen-fonts/Regular-400/Oxygen-Sans.ttf
 )
 
 install(FILES ${fontFiles} DESTINATION ${OXYGEN_FONT_INSTALL_DIR})
