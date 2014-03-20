@@ -25,7 +25,7 @@ The Oxygen Fonts are released under either The SIL Open Font License
 (OFL) version 1.1 or the GNU General Public License version 3 with
 font exception (GPL+FE).
 
-Copyright 2011-2013 Vernon Adams vernnobile@gmail.com
+Copyright 2011-2013 Vernon Adams <vern@newtypography.co.uk>
 
 ## Testing
 
