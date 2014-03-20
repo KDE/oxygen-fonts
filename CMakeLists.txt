@@ -45,7 +45,7 @@ if(FONTFORGE_EXECUTABLE)
     message(STATUS "FontForge found: ${FONTFORGE_EXECUTABLE}")
 else()
     message(FATAL_ERROR "Could not find FontForge")
-endif(FONTFORGE_EXECUTABLE)
+endif()
 
 add_custom_target(regular ALL fontforge ${CMAKE_CURRENT_SOURCE_DIR}/generate-ttf.pe
                    ${CMAKE_CURRENT_SOURCE_DIR}/oxygen-fonts/Regular-400/src/Oxygen-Sans.sfd
