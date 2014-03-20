@@ -37,13 +37,33 @@ install(FILES
 feature_summary(WHAT ALL FATAL_ON_MISSING_REQUIRED_PACKAGES)
 
 if(NOT DEFINED OXYGEN_FONT_INSTALL_DIR)
-  set(OXYGEN_FONT_INSTALL_DIR  ${CMAKE_INSTALL_PREFIX}/${SHARE_INSTALL_PREFIX}/fonts/oxygen)
+  set(OXYGEN_FONT_INSTALL_DIR  ${CMAKE_INSTALL_PREFIX}/${SHARE_INSTALL_PREFIX}/fonts/truetype/oxygen)
 endif()
 
+find_program(FONTFORGE_EXECUTABLE NAMES fontforge)
+if(FONTFORGE_EXECUTABLE)
+    message(STATUS "FontForge found: ${FONTFORGE_EXECUTABLE}")
+else()
+    message(FATAL_ERROR "Could not find FontForge")
+endif(FONTFORGE_EXECUTABLE)
+
+add_custom_target(regular ALL fontforge ${CMAKE_CURRENT_SOURCE_DIR}/generate-ttf.pe
+                   ${CMAKE_CURRENT_SOURCE_DIR}/oxygen-fonts/Regular-400/src/Oxygen-Sans.sfd
+                   ${CMAKE_CURRENT_BINARY_DIR}/Oxygen-Sans.ttf
+                  )
+add_custom_target(bold ALL fontforge ${CMAKE_CURRENT_SOURCE_DIR}/generate-ttf.pe
+                   ${CMAKE_CURRENT_SOURCE_DIR}/oxygen-fonts/Bold-700/src/Oxygen-Sans-Bold.sfd
+                   ${CMAKE_CURRENT_BINARY_DIR}/Oxygen-Sans-Bold.ttf
+                  )
+add_custom_target(mono ALL fontforge ${CMAKE_CURRENT_SOURCE_DIR}/generate-ttf.pe
+                   ${CMAKE_CURRENT_SOURCE_DIR}/oxygen-fonts/mono-400/src/OxygenMono-Regular.sfd
+                   ${CMAKE_CURRENT_BINARY_DIR}/OxygenMono-Regular.ttf
+                  )
+
 set(fontFiles
-    oxygen-fonts/mono-400/OxygenMono-Regular.ttf
-    oxygen-fonts/Bold-700/Oxygen-Sans-Bold.ttf
-    oxygen-fonts/Regular-400/Oxygen-Sans.ttf
+    ${CMAKE_CURRENT_BINARY_DIR}/OxygenMono-Regular.ttf
+    ${CMAKE_CURRENT_BINARY_DIR}/Oxygen-Sans-Bold.ttf
+    ${CMAKE_CURRENT_BINARY_DIR}/Oxygen-Sans.ttf
 )
 
 install(FILES ${fontFiles} DESTINATION ${OXYGEN_FONT_INSTALL_DIR})
