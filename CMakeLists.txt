@@ -36,7 +36,9 @@ install(FILES
 
 feature_summary(WHAT ALL FATAL_ON_MISSING_REQUIRED_PACKAGES)
 
-set(OXYGEN_FONT_INSTALL_DIR  ${CMAKE_INSTALL_PREFIX}/${SHARE_INSTALL_PREFIX}/fonts/oxygen)
+if(NOT DEFINED OXYGEN_FONT_INSTALL_DIR)
+  set(OXYGEN_FONT_INSTALL_DIR  ${CMAKE_INSTALL_PREFIX}/${SHARE_INSTALL_PREFIX}/fonts/oxygen)
+endif()
 
 set(fontFiles
     version-0.4/mono-400/OxygenMono-Regular.ttf
