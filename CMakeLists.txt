@@ -44,7 +44,7 @@ find_program(FONTFORGE_EXECUTABLE NAMES fontforge)
 if(FONTFORGE_EXECUTABLE)
     message(STATUS "FontForge found: ${FONTFORGE_EXECUTABLE}")
 else()
-    message(FATAL_ERROR "Could not find FontForge")
+    message(FATAL_ERROR "Could not find FontForge executable")
 endif()
 
 add_custom_target(regular ALL fontforge ${CMAKE_CURRENT_SOURCE_DIR}/generate-ttf.pe
