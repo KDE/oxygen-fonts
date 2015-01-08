@@ -1,7 +1,6 @@
-
-cmake_minimum_required(VERSION 2.8.12)
-
 project(OxygenFont)
+set(PROJECT_VERSION "5.1.95")
+cmake_minimum_required(VERSION 2.8.12)
 
 find_package(ECM 1.2.0 REQUIRED NO_MODULE)
 
@@ -12,14 +11,12 @@ include(ECMPackageConfigHelpers)
 include(ECMSetupVersion)
 include(FeatureSummary)
 
-
 # create a Config.cmake and a ConfigVersion.cmake file and install them
 set(CMAKECONFIG_INSTALL_DIR "${CMAKECONFIG_INSTALL_PREFIX}/OxygenFont")
 
 include(ECMPackageConfigHelpers)
 
-
-ecm_setup_version(0.4 VARIABLE_PREFIX OXYGENFONT
+ecm_setup_version(${PROJECT_VERSION} VARIABLE_PREFIX OXYGENFONT
                   PACKAGE_VERSION_FILE "${CMAKE_CURRENT_BINARY_DIR}/OxygenFontConfigVersion.cmake"
 )
 
