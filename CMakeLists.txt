@@ -1,5 +1,5 @@
 project(OxygenFont)
-set(PROJECT_VERSION "5.2.95")
+set(PROJECT_VERSION "5.3.90")
 cmake_minimum_required(VERSION 2.8.12)
 
 find_package(ECM 1.2.0 REQUIRED NO_MODULE)
