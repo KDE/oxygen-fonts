@@ -64,3 +64,4 @@ set(fontFiles
 )
 
 install(FILES ${fontFiles} DESTINATION ${OXYGEN_FONT_INSTALL_DIR})
+install(FILES org.kde.oxygen-fonts.metainfo.xml DESTINATION ${CMAKE_INSTALL_METAINFODIR})

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component type="font">
+  <id>org.kde.oxygen-fonts</id>
+  <metadata_license>FSFAP</metadata_license>
+  <project_group>KDE</project_group>
+  <project_license>OFL-1.1 or GPL-3.0+</project_license>
+
+  <name>Oxygen Fonts</name>
+  <summary>A desktop/gui font family for integrated use with the KDE desktop</summary>
+
+  <description>
+    <p>
+      Oxygen is a font designed for a desktop/gui. It was built to be used with the KDE desktop.
+    </p>
+    <p>
+      The aim of this font project is to produce a family of freetype-specific desktop fonts whose
+      appearance will stay uniform under different screen render settings, unlike more
+      traditionally designed 'screen fonts' that have tended to be designed
+      for best legibility on the Windows GDI render engine.
+    </p>
+  </description>
+
+  <provides>
+    <font>Oxygen Sans Book</font>
+    <font>Oxygen Sans Bold</font>
+    <font>Oxygen Mono</font>
+  </provides>
+</component>
