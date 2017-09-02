@@ -31,18 +31,3 @@ Copyright 2011-2013 Vernon Adams <vern@newtypography.co.uk>
 
 'Real world' user testing is vital. If you want to help test the
 Oxygen Fonts please do so and send feedback.
-
-## BRIEF DESCRIPTION OF FILES & FOLDERS
-
-- 'in-progress' - warning! font file found here may be 'broken', have
-  errors etc. These are the work-in-progress files. The main
-  work-in-progress Oxygen Fonts are found in 'in-progress/Monospace',
-- 'in-progress/Oxygen-Bold', 'in-progress/Oxygen-Regular', and
-  'Oxygen-Italic'.
-
-- 'version-0.2' - second milestone release, Monospace, Regular and Bold only.
-- 'oxygen-fonts' - current release
-
-- 'Contributions' - important contributions such as Cyrillic characters.
-- 'GWF' - Google webfont versions of Oxygen Fonts (e.g. smaller character sets).
-- 'tools' - extra development files used for metrics, kerning, encoding.
